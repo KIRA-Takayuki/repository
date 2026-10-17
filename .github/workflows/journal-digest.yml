@@ -1,9 +1,5 @@
 name: 144-Journal Metadata Monitor
 on:
-  push:
-    branches: [master]
-    paths:
-      - '.github/workflows/journal-digest.yml'
   workflow_dispatch:
     inputs:
       dry_run:

@@ -6,12 +6,14 @@ import html
 import json
 import os
 import re
-import smtplib
 import sys
 import time
 import unicodedata
 from collections import Counter
-from email.message import EmailMessage
+
+# The six publishers prioritized by the user (plus University of Chicago's Ethics).
+MAJOR_PUBLISHERS = frozenset({'Springer Nature', 'Cambridge University Press', 'Wiley',
+                              'Oxford University Press', 'SAGE'})
 from pathlib import Path
 from typing import Any
 
@@ -61,6 +63,14 @@ def get(session: requests.Session, url: str, params: dict | None = None) -> dict
 
 def journal_identifiers(session: requests.Session, journal: dict, old: dict | None) -> dict:
     """Identify using exact journal names; ambiguous matches are never accepted."""
+    # Publisher-verified ISSN in the manifest overrides unreliable title matching.
+    if journal.get('issn'):
+        fixed = journal['issn']
+        if old and old.get('issn') == fixed and old.get('status') == 'identified':
+            return old
+        return {'name': journal['journal'], 'issn': fixed, 'issns': [fixed],
+                'openalex_id': (old or {}).get('openalex_id'), 'status': 'identified',
+                'notes': ['Publisher-verified ISSN in data/journals.json']}
     if old and (old.get('issn') or old.get('openalex_id')):
         return old
     name = journal['journal']
@@ -209,26 +219,6 @@ def is_in_range(item: dict, start: dt.date, end: dt.date):
     except (TypeError, ValueError): return False
 
 
-def summarize(item: dict, journal: str, client) -> dict:
-    """Translate + summarize only when the abstract is grounded. Returns no fabricated content."""
-    if not item['abstract']:
-        return {'ja_title': '（日本語題名未生成）'+item['title'], 'summary': '公開Abstractを取得できず、内容要約は省略。'}
-    if not client:
-        return {'ja_title': '（翻訳未設定）'+item['title'], 'summary': 'OPENAI_API_KEYが未設定のため要約を生成していない。'}
-    from openai import OpenAI
-    prompt = ('以下の論文題名とAbstractだけに基づいて日本語訳題名（副題を含む）と日本語要約を生成。'
-      '出典にない事実、意義、評価を補わない。断定の強さを維持する。題名は省略しない。'
-      '要約は日本語30～90字程度にし、問い・方法・結論を優先する。'
-      '必ずJSONオブジェクト {"ja_title":"...","summary":"..."} のみを返す。'
-      f'\nJournal: {journal}\nOriginal title: {item["title"]}\nAbstract: {item["abstract"][:6000]}')
-    res = client.chat.completions.create(model=os.getenv('OPENAI_MODEL','gpt-4.1-mini'),
-            messages=[{'role':'user','content':prompt}], response_format={'type':'json_object'}, temperature=0)
-    obj=json.loads(res.choices[0].message.content)
-    if not obj.get('ja_title') or not obj.get('summary'):
-        raise ValueError('AI returned missing fields')
-    return {'ja_title':str(obj['ja_title']).strip(),'summary':str(obj['summary']).strip()}
-
-
 def short_bib(item: dict, journal: dict) -> str:
     names=item['authors']
     if not names:
@@ -244,31 +234,21 @@ def short_bib(item: dict, journal: dict) -> str:
 
 def digest_text(entries: list[dict], journals: dict, report: dict):
     today=dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).date().isoformat()
-    lines=[f'学術誌新着論文｜{today}',f'今回の新着：{len(entries)}本','']
+    lines=[f'学術誌・論文メタデータ候補｜{today}',f'要確認の候補：{len(entries)}本','',
+           '※翻訳・要約・出版社による初回公開日の照合は、ChatGPT内で別途実施する。',
+           '※このファイルはメール本文ではなく調査候補一覧である。','']
     for n,item in enumerate(entries,1):
         j=journals[item['journal_id']]
-        lines += [f'{n}. {item.get("ja_title",item["title"])}',short_bib(item,j),item['url'],item.get('summary',''), '']
+        lines += [f'{n}. {item["title"]}',short_bib(item,j),item['url'],
+                  'Abstract (original): '+(item.get('abstract') or 'Not available'), '']
     counts=report['counts']
-    lines += ['【調査状況】',f'対象144誌：API照会成功 {counts.get("checked",0)}誌／識別子未解決 {counts.get("unresolved",0)}誌／取得失敗 {counts.get("failed",0)}誌／取得件数上限 {counts.get("truncated",0)}誌。',
-              'API照会で新着0件でも、出版社側の登録遅延や未収録論文の不存在までは保証しない。',
-              '個別の公開月日は一覧から省略。オンライン初回公開日を内部の判定に使用。']
+    major=report.get('major_publishers',{})
+    lines += ['【調査状況】',
+              f'大手6社80誌：API照会成功 {major.get("checked",0)}誌／未解決・取得失敗 {80-major.get("checked",0)}誌。',
+              f'全144誌：API照会成功 {counts.get("checked",0)}誌／識別子未解決 {counts.get("unresolved",0)}誌／取得失敗 {counts.get("failed",0)}誌／件数上限 {counts.get("truncated",0)}誌。',
+              'これはCrossref/OpenAlex等の機械照会状況であり、出版社新着ページの直接確認ではない。',
+              '初回オンライン公開日と研究論文かどうかを検証した後にのみ新着として紹介する。']
     return '\n'.join(lines)+'\n'
-
-
-def send_gmail(body: str, subject: str):
-    user=os.getenv('GMAIL_USER','').strip()
-    pw=os.getenv('GMAIL_APP_PASSWORD','').replace(' ','').strip()
-    to=os.getenv('MAIL_TO','').strip()
-    if not user or not pw or not to:
-        raise RuntimeError('GMAIL_USER / GMAIL_APP_PASSWORD / MAIL_TO secrets incomplete')
-    msg=EmailMessage()
-    msg['From']=user;msg['To']=to;msg['Subject']=subject
-    msg.set_content(body)
-    with smtplib.SMTP_SSL('smtp.gmail.com',465,timeout=35) as smtp:
-        smtp.login(user,pw)
-        refused=smtp.send_message(msg)
-        if refused:
-            raise RuntimeError('SMTP refused recipients: '+str(list(refused)))
 
 
 def run(argv=None):
@@ -276,7 +256,6 @@ def run(argv=None):
     parser.add_argument('--dry-run',action='store_true')
     parser.add_argument('--initialize-ids',action='store_true')
     parser.add_argument('--days',type=int,default=45)
-    parser.add_argument('--max-email',type=int,default=40)
     parser.add_argument('--limit-journals',type=int,default=0)
     opt=parser.parse_args(argv)
     source=json_read(DATA,{})
@@ -292,7 +271,12 @@ def run(argv=None):
     # Initial run is strictly bounded; later runs look back to catch late metadata updates.
     start=now - dt.timedelta(days=7 if state.get('first_run',True) else max(1,opt.days))
     status={};candidates={};errors=[]
-    journals=source['journals'][:opt.limit_journals] if opt.limit_journals else source['journals']
+    # Stable partition: all 80 major-publisher titles are queried before the other 64.
+    def is_priority(j):
+        return j['platform'] in MAJOR_PUBLISHERS or j['journal'] == 'Ethics'
+    ordered_journals = sorted(source['journals'], key=lambda j: 0 if is_priority(j) else 1)
+    assert sum(is_priority(j) for j in ordered_journals) == 80
+    journals=ordered_journals[:opt.limit_journals] if opt.limit_journals else ordered_journals
     for index,j in enumerate(journals,1):
         jid=j['id']
         ent=journal_identifiers(session,j,reg.get(jid))
@@ -304,13 +288,20 @@ def run(argv=None):
             status[jid]={'status':'unresolved','detail':'; '.join(ent['notes'][:3])};continue
         found=[]; success=False; truncated=False; failures=[]
         if ent.get('issn'):
-            try:
-                rs,overflow=crossref_candidates(session,ent['issn'],start,now)
-                found += [x for r in rs if (x:=crossref_to_item(r,jid)) and is_in_range(x,start,now)]
-                success=True;truncated |= overflow
-            except Exception as exc:failures.append('Crossref '+str(exc)[:110])
-        # OpenAlex supplements missing papers/abstracts, not an authority for earlier online date.
-        if ent.get('openalex_id'):
+            # An online ISSN and a print ISSN may be separately registered.
+            # Try alternative identifiers if the primary one returns zero records.
+            identifiers = list(dict.fromkeys([ent['issn']] + (ent.get('issns') or [])))
+            for issn in identifiers:
+                try:
+                    rs,overflow=crossref_candidates(session,issn,start,now)
+                    found += [x for r in rs if (x:=crossref_to_item(r,jid)) and is_in_range(x,start,now)]
+                    success=True;truncated |= overflow
+                    if rs:
+                        break
+                except Exception as exc:failures.append('Crossref '+str(exc)[:110])
+        # OpenAlex is optional: without an API key its rate limits had caused
+        # many HTTP 429 errors. Crossref remains available without an OpenAI API.
+        if ent.get('openalex_id') and os.getenv('OPENALEX_API_KEY'):
             try:
                 rs,overflow=openalex_candidates(session,ent['openalex_id'],start,now)
                 found += [x for r in rs if (x:=openalex_to_item(r,jid)) and is_in_range(x,start,now)]
@@ -334,47 +325,37 @@ def run(argv=None):
     json_write(REPORT,report)
     if opt.initialize_ids:
         return 0
+    # Metadata collection only: this workflow never calls OpenAI or sends mail.
     new=[c for doi,c in candidates.items() if doi not in state.get('sent_dois',{})]
     new.sort(key=lambda a:(a['date'],a['doi']))
-    selected=new[:opt.max_email]
-    if selected:
-        client=None
-        if os.getenv('OPENAI_API_KEY'):
-            from openai import OpenAI
-            client=OpenAI()
-        for item in selected:
-            try:item.update(summarize(item,jmap[item['journal_id']]['journal'],client))
-            except Exception as exc:
-                errors.append('AI failed for '+item['doi']+': '+str(exc)[:150])
-                item.update({'ja_title':'（訳題未生成）'+item['title'],'summary':'要約生成に失敗したため未掲載。'})
-        body=digest_text(selected,jmap,report)
-        DIGEST.write_text(body,encoding='utf-8')
-        if opt.dry_run:
-            print('DRY RUN: '+str(DIGEST));return 0
-        if not client:
-            report['error']='OPENAI_API_KEY not configured; digest retained, no email'
-            json_write(REPORT,report);return 2
-        subject=f'学術誌新着論文｜{now.year}年{now.month}月{now.day}日'
-        try:
-            send_gmail(body,subject)
-        except Exception as exc:
-            report['error']='Mail failed: '+str(exc)[:200]
-            json_write(REPORT,report)
-            print(report['error'],file=sys.stderr)
-            return 3
-        for item in selected:
-            state.setdefault('sent_dois',{})[item['doi']]={'date':item['date'],'sent_on':now.isoformat()}
-        state['first_run']=False
-        state['last_successful_send']=now.isoformat()
-        report['mail_sent']=True;report['emailed_count']=len(selected)
-        report['remaining_unemailed']=len(new)-len(selected)
-    else:
-        state['first_run']=False
-        report['emailed_count']=0
-    report['notes']=errors
+    major_ids={j['id'] for j in source['journals'] if is_priority(j)}
+    major_status={jid:v for jid,v in status.items() if jid in major_ids}
+    report['major_publishers']={
+        'total':80,
+        'checked':sum(1 for v in major_status.values() if v['status']=='checked'),
+        'unresolved':sum(1 for v in major_status.values() if v['status']=='unresolved'),
+        'failed':sum(1 for v in major_status.values() if v['status']=='failed'),
+        'truncated':sum(1 for v in major_status.values() if v['status']=='truncated')}
+    report['major_unchecked']=[{'journal':jmap[jid]['journal'], 'status':v['status'],
+                               'detail':v.get('detail') or '; '.join(v.get('errors',[]))}
+                              for jid,v in major_status.items() if v['status'] != 'checked']
+    report['candidate_count']=len(new)
+    report['mode']='metadata_only_no_OpenAI_API_no_Gmail'
+    report['publisher_pages_verified']=False
+    report['mail_sent']=False
+    # Preserve every candidate and full original abstracts for subsequent
+    # publisher verification, deduplication, and Japanese summaries in ChatGPT.
+    json_write(ROOT/'state'/'latest-candidates.json',
+               {'collected_on':now.isoformat(),'window_start':start.isoformat(),
+                'window_end':now.isoformat(),'needs_publisher_verification':True,
+                'items':new})
+    DIGEST.write_text(digest_text(new,jmap,report),encoding='utf-8')
+    state['first_run']=False
+    state['last_metadata_scan']=now.isoformat()
     json_write(STATE,state)
     json_write(REPORT,report)
-    print(json.dumps({'counts':dict(counts),'new':len(new),'sent':report['emailed_count']}),flush=True)
+    print(json.dumps({'counts':dict(counts),'major':report['major_publishers'],
+                      'candidates':len(new),'mail_sent':False},ensure_ascii=False),flush=True)
     return 0
 
 if __name__ == '__main__':

@@ -1,0 +1,704 @@
+{
+  "checked_at_utc": "2026-10-17T01:21:10.465510+00:00",
+  "counts": {
+    "checked": 109,
+    "unresolved": 35
+  },
+  "dry_run": false,
+  "error": "OPENAI_API_KEY not configured; digest retained, no email",
+  "journal_status": {
+    "J001": {
+      "candidate_count": 1,
+      "errors": [],
+      "status": "checked"
+    },
+    "J002": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J003": {
+      "candidate_count": 3,
+      "errors": [],
+      "status": "checked"
+    },
+    "J004": {
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
+    },
+    "J005": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
+      "status": "unresolved"
+    },
+    "J006": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
+      "status": "unresolved"
+    },
+    "J007": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J008": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J009": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J010": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J011": {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "status": "unresolved"
+    },
+    "J012": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J013": {
+      "candidate_count": 4,
+      "errors": [],
+      "status": "checked"
+    },
+    "J014": {
+      "candidate_count": 4,
+      "errors": [],
+      "status": "checked"
+    },
+    "J015": {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "status": "unresolved"
+    },
+    "J016": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J017": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J018": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J019": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J020": {
+      "candidate_count": 4,
+      "errors": [],
+      "status": "checked"
+    },
+    "J021": {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "status": "unresolved"
+    },
+    "J022": {
+      "candidate_count": 4,
+      "errors": [],
+      "status": "checked"
+    },
+    "J023": {
+      "candidate_count": 13,
+      "errors": [],
+      "status": "checked"
+    },
+    "J024": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J025": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J026": {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "status": "unresolved"
+    },
+    "J027": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J028": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J029": {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "status": "unresolved"
+    },
+    "J030": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
+      "status": "unresolved"
+    },
+    "J031": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J032": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
+      "status": "unresolved"
+    },
+    "J033": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J034": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J035": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J036": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J037": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J038": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
+      "status": "unresolved"
+    },
+    "J039": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J040": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J041": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J042": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J043": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J044": {
+      "candidate_count": 0,
+      "errors": [
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2190-6335/works?filter=from-pub-date%3A"
+      ],
+      "status": "checked"
+    },
+    "J045": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J046": {
+      "candidate_count": 0,
+      "errors": [
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2065-7285/works?filter=from-pub-date%3A"
+      ],
+      "status": "checked"
+    },
+    "J047": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J048": {
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
+    },
+    "J049": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
+      "status": "unresolved"
+    },
+    "J050": {
+      "candidate_count": 8,
+      "errors": [],
+      "status": "checked"
+    },
+    "J051": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J052": {
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
+    },
+    "J053": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J054": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J055": {
+      "candidate_count": 4,
+      "errors": [],
+      "status": "checked"
+    },
+    "J056": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J057": {
+      "candidate_count": 7,
+      "errors": [],
+      "status": "checked"
+    },
+    "J058": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J059": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J060": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J061": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J062": {
+      "candidate_count": 11,
+      "errors": [],
+      "status": "checked"
+    },
+    "J063": {
+      "candidate_count": 8,
+      "errors": [],
+      "status": "checked"
+    },
+    "J064": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J065": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J066": {
+      "candidate_count": 4,
+      "errors": [],
+      "status": "checked"
+    },
+    "J067": {
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
+    },
+    "J068": {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "status": "unresolved"
+    },
+    "J069": {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "status": "unresolved"
+    },
+    "J070": {
+      "candidate_count": 34,
+      "errors": [],
+      "status": "checked"
+    },
+    "J071": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J072": {
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
+    },
+    "J073": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J074": {
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
+    },
+    "J075": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J076": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J077": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J078": {
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
+    },
+    "J079": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J080": {
+      "candidate_count": 4,
+      "errors": [],
+      "status": "checked"
+    },
+    "J081": {
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
+    },
+    "J082": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J083": {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "status": "unresolved"
+    },
+    "J084": {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "status": "unresolved"
+    },
+    "J085": {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "status": "unresolved"
+    },
+    "J086": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J087": {
+      "candidate_count": 7,
+      "errors": [],
+      "status": "checked"
+    },
+    "J088": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
+      "status": "unresolved"
+    },
+    "J089": {
+      "candidate_count": 4,
+      "errors": [],
+      "status": "checked"
+    },
+    "J090": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J091": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J092": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J093": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J094": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J095": {
+      "candidate_count": 5,
+      "errors": [],
+      "status": "checked"
+    },
+    "J096": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J097": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J098": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J099": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J100": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J101": {
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
+    },
+    "J102": {
+      "candidate_count": 1,
+      "errors": [],
+      "status": "checked"
+    },
+    "J103": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J104": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J105": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J106": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J107": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J108": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J109": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J110": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J111": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J112": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J113": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J114": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J115": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J116": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J117": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J118": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J119": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J120": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J121": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J122": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J123": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J124": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J125": {
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
+    },
+    "J126": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J127": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J128": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J129": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J130": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J131": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J132": {
+      "detail": "Crossref: ambiguous exact title; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J133": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J134": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J135": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J136": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J137": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J138": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J139": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J140": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J141": {
+      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "status": "unresolved"
+    },
+    "J142": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J143": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    },
+    "J144": {
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
+    }
+  },
+  "mail_sent": false,
+  "possible_new_count": 89,
+  "window_end": "2026-10-17",
+  "window_start": "2026-10-10"
+}

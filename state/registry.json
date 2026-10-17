@@ -1,1 +1,1659 @@
-{}
+{
+  "J001": {
+    "issn": "0167-5249",
+    "issns": [
+      "0167-5249",
+      "1573-0522"
+    ],
+    "name": "Law and Philosophy",
+    "notes": [],
+    "openalex_id": "S153292947",
+    "status": "identified"
+  },
+  "J002": {
+    "issn": "1352-3252",
+    "issns": [
+      "1352-3252",
+      "1469-8048"
+    ],
+    "name": "Legal Theory",
+    "notes": [],
+    "openalex_id": "S139242520",
+    "status": "identified"
+  },
+  "J003": {
+    "issn": "0143-6503",
+    "issns": [
+      "0143-6503",
+      "1464-3820"
+    ],
+    "name": "Oxford Journal of Legal Studies",
+    "notes": [],
+    "openalex_id": "S34110867",
+    "status": "identified"
+  },
+  "J004": {
+    "issn": "0841-8209",
+    "issns": [
+      "0841-8209",
+      "2056-4260"
+    ],
+    "name": "Canadian Journal of Law & Jurisprudence",
+    "notes": [
+      "Crossref: no exact title match"
+    ],
+    "openalex_id": "S2764647375",
+    "status": "identified"
+  },
+  "J005": {
+    "issn": null,
+    "issns": [],
+    "name": "Ratio Juris",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex: ambiguous exact title"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J006": {
+    "issn": null,
+    "issns": [],
+    "name": "Jurisprudence",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex: ambiguous exact title"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J007": {
+    "issn": "0065-8995",
+    "issns": [
+      "0065-8995",
+      "2049-6494"
+    ],
+    "name": "The American Journal of Jurisprudence",
+    "notes": [],
+    "openalex_id": "S4210218839",
+    "status": "identified"
+  },
+  "J008": {
+    "issn": "1871-9791",
+    "issns": [
+      "1871-9791",
+      "1871-9805"
+    ],
+    "name": "Criminal Law and Philosophy",
+    "notes": [],
+    "openalex_id": "S56047584",
+    "status": "identified"
+  },
+  "J009": {
+    "issn": "0001-2343",
+    "issns": [
+      "0001-2343",
+      "2363-5614"
+    ],
+    "name": "Archiv für Rechts- und Sozialphilosophie (ARSP)",
+    "notes": [
+      "Crossref: no exact title match"
+    ],
+    "openalex_id": "S4306502846",
+    "status": "identified"
+  },
+  "J010": {
+    "issn": "2633-6847",
+    "issns": [
+      "2633-6847",
+      "2633-6855"
+    ],
+    "name": "Journal of Legal Philosophy",
+    "notes": [],
+    "openalex_id": "S4210197007",
+    "status": "identified"
+  },
+  "J011": {
+    "issn": null,
+    "issns": [],
+    "name": "Journal of Legal Analysis",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J012": {
+    "issn": "0957-8536",
+    "issns": [
+      "0957-8536",
+      "1572-8617"
+    ],
+    "name": "Law and Critique",
+    "notes": [],
+    "openalex_id": "S203428546",
+    "status": "identified"
+  },
+  "J013": {
+    "issn": "2752-6135",
+    "issns": [
+      "2752-6135"
+    ],
+    "name": "European Law Open",
+    "notes": [],
+    "openalex_id": "S4387279466",
+    "status": "identified"
+  },
+  "J014": {
+    "issn": "1528-8870",
+    "issns": [
+      "1528-8870",
+      "2049-7636"
+    ],
+    "name": "Cambridge Yearbook of European Legal Studies",
+    "notes": [],
+    "openalex_id": "S4393917462",
+    "status": "identified"
+  },
+  "J015": {
+    "issn": null,
+    "issns": [],
+    "name": "Canadian Journal of Law and Society / La Revue Canadienne Droit et Société",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J016": {
+    "issn": "1876-4045",
+    "issns": [
+      "1876-4045",
+      "1876-4053"
+    ],
+    "name": "Hague Journal on the Rule of Law",
+    "notes": [],
+    "openalex_id": "S159153988",
+    "status": "identified"
+  },
+  "J017": {
+    "issn": "0070-1998",
+    "issns": [
+      "0070-1998",
+      "2044-8422"
+    ],
+    "name": "Current Legal Problems",
+    "notes": [],
+    "openalex_id": "S2735488580",
+    "status": "identified"
+  },
+  "J018": {
+    "issn": "0263-323X",
+    "issns": [
+      "0263-323X",
+      "1467-6478"
+    ],
+    "name": "Journal of Law and Society",
+    "notes": [],
+    "openalex_id": "S113600414",
+    "status": "identified"
+  },
+  "J019": {
+    "issn": "0261-3875",
+    "issns": [
+      "0261-3875",
+      "1748-121X"
+    ],
+    "name": "Legal Studies",
+    "notes": [],
+    "openalex_id": "S85654233",
+    "status": "identified"
+  },
+  "J020": {
+    "issn": "0023-9216",
+    "issns": [
+      "0023-9216",
+      "1540-5893"
+    ],
+    "name": "Law & Society Review",
+    "notes": [
+      "Crossref: no exact title match"
+    ],
+    "openalex_id": "S44706263",
+    "status": "identified"
+  },
+  "J021": {
+    "issn": null,
+    "issns": [],
+    "name": "Law and Literature",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J022": {
+    "issn": "0924-8463",
+    "issns": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "name": "Artificial Intelligence and Law",
+    "notes": [],
+    "openalex_id": "S96609033",
+    "status": "identified"
+  },
+  "J023": {
+    "issn": "2730-5953",
+    "issns": [
+      "2730-5953",
+      "2730-5961"
+    ],
+    "name": "AI and Ethics",
+    "notes": [],
+    "openalex_id": "S4210170699",
+    "status": "identified"
+  },
+  "J024": {
+    "issn": "2524-3977",
+    "issns": [
+      "2524-3977",
+      "2524-3985"
+    ],
+    "name": "Jus Cogens",
+    "notes": [],
+    "openalex_id": "S4210181317",
+    "status": "identified"
+  },
+  "J025": {
+    "issn": "3070-8168",
+    "issns": [
+      "3070-8168"
+    ],
+    "name": "The Journal of Natural Law",
+    "notes": [],
+    "openalex_id": "S7407055877",
+    "status": "identified"
+  },
+  "J026": {
+    "issn": null,
+    "issns": [],
+    "name": "Philosophy & Public Affairs",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J027": {
+    "issn": "3033-3830",
+    "issns": [
+      "3033-3830"
+    ],
+    "name": "Political Philosophy",
+    "notes": [],
+    "openalex_id": "S5407045934",
+    "status": "identified"
+  },
+  "J028": {
+    "issn": "2977-5930",
+    "issns": [
+      "2977-5930"
+    ],
+    "name": "Free & Equal: A Journal of Ethics and Public Affairs",
+    "notes": [
+      "Crossref: no exact title match"
+    ],
+    "openalex_id": "S5407040238",
+    "status": "identified"
+  },
+  "J029": {
+    "issn": null,
+    "issns": [],
+    "name": "Economics & Philosophy",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J030": {
+    "issn": null,
+    "issns": [],
+    "name": "Res Publica",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex: ambiguous exact title"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J031": {
+    "issn": "0090-5917",
+    "issns": [
+      "0090-5917",
+      "1552-7476"
+    ],
+    "name": "Political Theory",
+    "notes": [],
+    "openalex_id": "S25369639",
+    "status": "identified"
+  },
+  "J032": {
+    "issn": null,
+    "issns": [],
+    "name": "Political Studies",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex: ambiguous exact title"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J033": {
+    "issn": "0032-3497",
+    "issns": [
+      "0032-3497",
+      "1744-1684"
+    ],
+    "name": "Polity",
+    "notes": [],
+    "openalex_id": "S72648116",
+    "status": "identified"
+  },
+  "J034": {
+    "issn": "1474-8851",
+    "issns": [
+      "1474-8851",
+      "1741-2730"
+    ],
+    "name": "European Journal of Political Theory",
+    "notes": [],
+    "openalex_id": "S14996309",
+    "status": "identified"
+  },
+  "J035": {
+    "issn": "0047-2786",
+    "issns": [
+      "0047-2786",
+      "1467-9833"
+    ],
+    "name": "Journal of Social Philosophy",
+    "notes": [],
+    "openalex_id": "S142541857",
+    "status": "identified"
+  },
+  "J036": {
+    "issn": "0265-0525",
+    "issns": [
+      "0265-0525",
+      "1471-6437"
+    ],
+    "name": "Social Philosophy and Policy",
+    "notes": [],
+    "openalex_id": "S4210203962",
+    "status": "identified"
+  },
+  "J037": {
+    "issn": "0011-2860",
+    "issns": [
+      "0011-2860",
+      "0191-4537",
+      "1461-734X"
+    ],
+    "name": "Philosophy & Social Criticism",
+    "notes": [
+      "Crossref: no exact title match"
+    ],
+    "openalex_id": "S57090429",
+    "status": "identified"
+  },
+  "J038": {
+    "issn": null,
+    "issns": [],
+    "name": "Critical Review of International Social and Political Philosophy",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex: ambiguous exact title"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J039": {
+    "issn": "1470-594X",
+    "issns": [
+      "1470-594X",
+      "1741-3060"
+    ],
+    "name": "Politics, Philosophy & Economics",
+    "notes": [
+      "Crossref: no exact title match"
+    ],
+    "openalex_id": "S195232068",
+    "status": "identified"
+  },
+  "J040": {
+    "issn": "0037-802X",
+    "issns": [
+      "0037-802X"
+    ],
+    "name": "Social Theory and Practice",
+    "notes": [],
+    "openalex_id": "S68409214",
+    "status": "identified"
+  },
+  "J041": {
+    "issn": "2194-5616",
+    "issns": [
+      "2194-5616",
+      "2194-5624"
+    ],
+    "name": "Moral Philosophy and Politics",
+    "notes": [],
+    "openalex_id": "S4210215725",
+    "status": "identified"
+  },
+  "J042": {
+    "issn": "0887-0373",
+    "issns": [
+      "0887-0373",
+      "2152-0542"
+    ],
+    "name": "Public Affairs Quarterly",
+    "notes": [],
+    "openalex_id": "S130412529",
+    "status": "identified"
+  },
+  "J043": {
+    "issn": "0971-7218",
+    "issns": [
+      "0971-7218",
+      "0973-0796"
+    ],
+    "name": "Science, Technology and Society",
+    "notes": [],
+    "openalex_id": "S202144432",
+    "status": "identified"
+  },
+  "J044": {
+    "issn": "2190-6335",
+    "issns": [
+      "2190-6335"
+    ],
+    "name": "Intergenerational Justice Review",
+    "notes": [
+      "Crossref: no exact title match"
+    ],
+    "openalex_id": "S4306513629",
+    "status": "identified"
+  },
+  "J045": {
+    "issn": "2643-4601",
+    "issns": [
+      "2643-4601",
+      "2643-4598"
+    ],
+    "name": "Journal of Libertarian Studies",
+    "notes": [],
+    "openalex_id": "S4387292662",
+    "status": "identified"
+  },
+  "J046": {
+    "issn": "2065-7285",
+    "issns": [
+      "2065-7285",
+      "2065-8958"
+    ],
+    "name": "Public Reason",
+    "notes": [
+      "Crossref: no exact title match"
+    ],
+    "openalex_id": "S7407061451",
+    "status": "identified"
+  },
+  "J047": {
+    "issn": "0143-781X",
+    "issns": [
+      "0143-781X"
+    ],
+    "name": "History of Political Thought",
+    "notes": [],
+    "openalex_id": "S88864742",
+    "status": "identified"
+  },
+  "J048": {
+    "issn": "1470-8914",
+    "issns": [
+      "1470-8914",
+      "1470-8914",
+      "1476-9336"
+    ],
+    "name": "Contemporary Political Theory",
+    "notes": [],
+    "openalex_id": "S113281486",
+    "status": "identified"
+  },
+  "J049": {
+    "issn": null,
+    "issns": [],
+    "name": "Constellations",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex: ambiguous exact title"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J050": {
+    "issn": "0034-6705",
+    "issns": [
+      "0034-6705",
+      "1748-6858"
+    ],
+    "name": "The Review of Politics",
+    "notes": [],
+    "openalex_id": "S123309644",
+    "status": "identified"
+  },
+  "J051": {
+    "issn": "0014-1704",
+    "issns": [
+      "0014-1704",
+      "1539-297X"
+    ],
+    "name": "Ethics",
+    "notes": [],
+    "openalex_id": "S184849641",
+    "status": "identified"
+  },
+  "J052": {
+    "issn": "0953-8208",
+    "issns": [
+      "0953-8208",
+      "1741-6183"
+    ],
+    "name": "Utilitas",
+    "notes": [],
+    "openalex_id": "S197192246",
+    "status": "identified"
+  },
+  "J053": {
+    "issn": "0264-3758",
+    "issns": [
+      "0264-3758",
+      "1468-5930"
+    ],
+    "name": "Journal of Applied Philosophy",
+    "notes": [],
+    "openalex_id": "S100706773",
+    "status": "identified"
+  },
+  "J054": {
+    "issn": "1386-2820",
+    "issns": [
+      "1386-2820",
+      "1572-8447"
+    ],
+    "name": "Ethical Theory and Moral Practice",
+    "notes": [],
+    "openalex_id": "S103146128",
+    "status": "identified"
+  },
+  "J055": {
+    "issn": "1382-4554",
+    "issns": [
+      "1382-4554",
+      "1572-8609"
+    ],
+    "name": "The Journal of Ethics",
+    "notes": [],
+    "openalex_id": "S160343789",
+    "status": "identified"
+  },
+  "J056": {
+    "issn": "0022-5363",
+    "issns": [
+      "0022-5363",
+      "1573-0492"
+    ],
+    "name": "The Journal of Value Inquiry",
+    "notes": [],
+    "openalex_id": "S81604740",
+    "status": "identified"
+  },
+  "J057": {
+    "issn": "0167-4544",
+    "issns": [
+      "0167-4544",
+      "1573-0697"
+    ],
+    "name": "Journal of Business Ethics",
+    "notes": [],
+    "openalex_id": "S76633192",
+    "status": "identified"
+  },
+  "J058": {
+    "issn": "1052-150X",
+    "issns": [
+      "1052-150X",
+      "2153-3326"
+    ],
+    "name": "Business Ethics Quarterly",
+    "notes": [],
+    "openalex_id": "S9702615",
+    "status": "identified"
+  },
+  "J059": {
+    "issn": "1386-7415",
+    "issns": [
+      "1386-7415",
+      "1573-1200"
+    ],
+    "name": "Theoretical Medicine and Bioethics",
+    "notes": [
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J060": {
+    "issn": "0963-1801",
+    "issns": [
+      "0963-1801",
+      "1469-2147"
+    ],
+    "name": "Cambridge Quarterly of Healthcare Ethics",
+    "notes": [],
+    "openalex_id": "S47042973",
+    "status": "identified"
+  },
+  "J061": {
+    "issn": "2767-6951",
+    "issns": [
+      "2767-6951"
+    ],
+    "name": "Journal of Ethics and Emerging Technologies",
+    "notes": [],
+    "openalex_id": "S4387280162",
+    "status": "identified"
+  },
+  "J062": {
+    "issn": "1526-5161",
+    "issns": [
+      "1526-5161",
+      "1536-0075"
+    ],
+    "name": "The American Journal of Bioethics",
+    "notes": [],
+    "openalex_id": "S41709181",
+    "status": "identified"
+  },
+  "J063": {
+    "issn": "0269-9702",
+    "issns": [
+      "0269-9702",
+      "1467-8519"
+    ],
+    "name": "Bioethics",
+    "notes": [],
+    "openalex_id": "S31551615",
+    "status": "identified"
+  },
+  "J064": {
+    "issn": "1388-1957",
+    "issns": [
+      "1388-1957",
+      "1572-8439"
+    ],
+    "name": "Ethics and Information Technology",
+    "notes": [],
+    "openalex_id": "S13096939",
+    "status": "identified"
+  },
+  "J065": {
+    "issn": "0892-6794",
+    "issns": [
+      "0892-6794",
+      "1747-7093"
+    ],
+    "name": "Ethics & International Affairs",
+    "notes": [
+      "Crossref: no exact title match"
+    ],
+    "openalex_id": "S60902712",
+    "status": "identified"
+  },
+  "J066": {
+    "issn": "1744-9626",
+    "issns": [
+      "1744-9626",
+      "1744-9634"
+    ],
+    "name": "Journal of Global Ethics",
+    "notes": [],
+    "openalex_id": "S103800664",
+    "status": "identified"
+  },
+  "J067": {
+    "issn": "0306-6800",
+    "issns": [
+      "0306-6800",
+      "1473-4257"
+    ],
+    "name": "Journal of Medical Ethics",
+    "notes": [],
+    "openalex_id": "S70185877",
+    "status": "identified"
+  },
+  "J068": {
+    "issn": null,
+    "issns": [],
+    "name": "Journal of Law, Medicine & Ethics",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J069": {
+    "issn": null,
+    "issns": [],
+    "name": "The Journal of Medicine and Philosophy",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J070": {
+    "issn": "1740-4681",
+    "issns": [
+      "1740-4681",
+      "1745-5243"
+    ],
+    "name": "Journal of Moral Philosophy",
+    "notes": [],
+    "openalex_id": "S96509893",
+    "status": "identified"
+  },
+  "J071": {
+    "issn": "1559-3061",
+    "issns": [
+      "1559-3061"
+    ],
+    "name": "Journal of Ethics and Social Philosophy",
+    "notes": [],
+    "openalex_id": "S149017889",
+    "status": "identified"
+  },
+  "J072": {
+    "issn": "1353-3452",
+    "issns": [
+      "1353-3452",
+      "1471-5546"
+    ],
+    "name": "Science and Engineering Ethics",
+    "notes": [],
+    "openalex_id": "S14881475",
+    "status": "identified"
+  },
+  "J073": {
+    "issn": "1760-7507",
+    "issns": [
+      "1760-7507",
+      "1760-7507"
+    ],
+    "name": "Revue d’études benthamiennes",
+    "notes": [
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J074": {
+    "issn": "1464-7001",
+    "issns": [
+      "1464-7001",
+      "1741-2773"
+    ],
+    "name": "Feminist Theory",
+    "notes": [],
+    "openalex_id": "S185998370",
+    "status": "identified"
+  },
+  "J075": {
+    "issn": "0887-5367",
+    "issns": [
+      "0887-5367",
+      "1527-2001"
+    ],
+    "name": "Hypatia",
+    "notes": [],
+    "openalex_id": "S124984400",
+    "status": "identified"
+  },
+  "J076": {
+    "issn": "2051-655X",
+    "issns": [
+      "2051-655X"
+    ],
+    "name": "Journal of Practical Ethics",
+    "notes": [],
+    "openalex_id": "S4210211652",
+    "status": "identified"
+  },
+  "J077": {
+    "issn": "1086-3249",
+    "issns": [
+      "1086-3249"
+    ],
+    "name": "Kennedy Institute of Ethics Journal",
+    "notes": [],
+    "openalex_id": "S159607754",
+    "status": "identified"
+  },
+  "J078": {
+    "issn": "1874-5490",
+    "issns": [
+      "1874-5490",
+      "1874-5504"
+    ],
+    "name": "Neuroethics",
+    "notes": [],
+    "openalex_id": "S112842941",
+    "status": "identified"
+  },
+  "J079": {
+    "issn": "0002-9319",
+    "issns": [
+      "0002-9319",
+      "2161-797X"
+    ],
+    "name": "American Journal of Legal History",
+    "notes": [],
+    "openalex_id": "S169727461",
+    "status": "identified"
+  },
+  "J080": {
+    "issn": "0738-2480",
+    "issns": [
+      "0738-2480",
+      "1939-9022"
+    ],
+    "name": "Law and History Review",
+    "notes": [],
+    "openalex_id": "S197491701",
+    "status": "identified"
+  },
+  "J081": {
+    "issn": "0144-0365",
+    "issns": [
+      "0144-0365",
+      "1744-0564"
+    ],
+    "name": "The Journal of Legal History",
+    "notes": [],
+    "openalex_id": "S54775333",
+    "status": "identified"
+  },
+  "J082": {
+    "issn": "2049-677X",
+    "issns": [
+      "2049-677X",
+      "2049-6788"
+    ],
+    "name": "Comparative Legal History",
+    "notes": [],
+    "openalex_id": "S4210200824",
+    "status": "identified"
+  },
+  "J083": {
+    "issn": null,
+    "issns": [],
+    "name": "Tijdschrift voor Rechtsgeschiedenis / Revue d’histoire du droit / The Legal History Review",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J084": {
+    "issn": null,
+    "issns": [],
+    "name": "Clio@Themis – Revue électronique d’histoire du droit",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J085": {
+    "issn": null,
+    "issns": [],
+    "name": "Revue d’histoire des facultés de droit et de la culture juridique",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex: no exact title match"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J086": {
+    "issn": "0029-4624",
+    "issns": [
+      "0029-4624",
+      "1468-0068"
+    ],
+    "name": "Noûs",
+    "notes": [],
+    "openalex_id": "S170801797",
+    "status": "identified"
+  },
+  "J087": {
+    "issn": "0039-7857",
+    "issns": [
+      "0039-7857",
+      "1573-0964"
+    ],
+    "name": "Synthese",
+    "notes": [],
+    "openalex_id": "S255146",
+    "status": "identified"
+  },
+  "J088": {
+    "issn": null,
+    "issns": [],
+    "name": "Topoi",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex: ambiguous exact title"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J089": {
+    "issn": "0020-174X",
+    "issns": [
+      "0020-174X",
+      "1502-3923"
+    ],
+    "name": "Inquiry",
+    "notes": [
+      "Crossref: ambiguous exact title"
+    ],
+    "openalex_id": "S970508616",
+    "status": "identified"
+  },
+  "J090": {
+    "issn": "0026-9662",
+    "issns": [
+      "0026-9662",
+      "2153-3601"
+    ],
+    "name": "The Monist",
+    "notes": [],
+    "openalex_id": "S72705189",
+    "status": "identified"
+  },
+  "J091": {
+    "issn": "0026-4423",
+    "issns": [
+      "0026-4423",
+      "1460-2113"
+    ],
+    "name": "Mind",
+    "notes": [],
+    "openalex_id": "S37480348",
+    "status": "identified"
+  },
+  "J092": {
+    "issn": "0165-0106",
+    "issns": [
+      "0165-0106",
+      "1572-8420"
+    ],
+    "name": "Erkenntnis",
+    "notes": [],
+    "openalex_id": "S63151042",
+    "status": "identified"
+  },
+  "J093": {
+    "issn": "0034-0006",
+    "issns": [
+      "0034-0006",
+      "1467-9329"
+    ],
+    "name": "Ratio",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J094": {
+    "issn": null,
+    "issns": [],
+    "name": "Theoria",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J095": {
+    "issn": "1742-3600",
+    "issns": [
+      "1742-3600",
+      "1750-0117"
+    ],
+    "name": "Episteme",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J096": {
+    "issn": "1802-2006",
+    "issns": [
+      "1802-2006",
+      "1802-2170"
+    ],
+    "name": "Ergo",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J097": {
+    "issn": null,
+    "issns": [],
+    "name": "Analysis",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J098": {
+    "issn": "2153-9596",
+    "issns": [
+      "2153-9596",
+      "2153-960X"
+    ],
+    "name": "Analytic Philosophy",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J099": {
+    "issn": "0353-5150",
+    "issns": [
+      "0353-5150",
+      "1874-6349"
+    ],
+    "name": "Acta Analytica",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J100": {
+    "issn": null,
+    "issns": [],
+    "name": "Philosophical Studies",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J101": {
+    "issn": "0031-8094",
+    "issns": [
+      "0031-8094",
+      "1467-9213"
+    ],
+    "name": "The Philosophical Quarterly",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J102": {
+    "issn": "0966-8373",
+    "issns": [
+      "0966-8373",
+      "1468-0378"
+    ],
+    "name": "European Journal of Philosophy",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J103": {
+    "issn": "0026-1068",
+    "issns": [
+      "0026-1068",
+      "1467-9973"
+    ],
+    "name": "Metaphilosophy",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J104": {
+    "issn": "0031-8108",
+    "issns": [
+      "0031-8108",
+      "1558-1470"
+    ],
+    "name": "The Philosophical Review",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J105": {
+    "issn": "0022-362X",
+    "issns": [
+      "0022-362X"
+    ],
+    "name": "The Journal of Philosophy",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J106": {
+    "issn": "1533-628X",
+    "issns": [
+      "1533-628X"
+    ],
+    "name": "Philosophers’ Imprint",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J107": {
+    "issn": "2053-4477",
+    "issns": [
+      "2053-4477",
+      "2053-4485"
+    ],
+    "name": "Journal of the American Philosophical Association",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J108": {
+    "issn": "0048-3931",
+    "issns": [
+      "0048-3931",
+      "1552-7441"
+    ],
+    "name": "Philosophy of the Social Sciences",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J109": {
+    "issn": null,
+    "issns": [],
+    "name": "Experimental Philosophy",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J110": {
+    "issn": "2371-2570",
+    "issns": [
+      "2371-2570"
+    ],
+    "name": "Feminist Philosophy Quarterly",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J111": {
+    "issn": "0017-811X",
+    "issns": [
+      "0017-811X",
+      "2161-976X"
+    ],
+    "name": "Harvard Law Review",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J112": {
+    "issn": null,
+    "issns": [],
+    "name": "Yale Law Journal",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J113": {
+    "issn": "0010-1958",
+    "issns": [
+      "0010-1958"
+    ],
+    "name": "Columbia Law Review",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J114": {
+    "issn": "0038-9765",
+    "issns": [
+      "0038-9765"
+    ],
+    "name": "Stanford Law Review",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J115": {
+    "issn": "0008-1221",
+    "issns": [
+      "0008-1221",
+      "1942-6542"
+    ],
+    "name": "California Law Review",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J116": {
+    "issn": "0041-9907",
+    "issns": [
+      "0041-9907"
+    ],
+    "name": "University of Pennsylvania Law Review",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J117": {
+    "issn": null,
+    "issns": [],
+    "name": "Texas Law Review",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J118": {
+    "issn": "0012-7086",
+    "issns": [
+      "0012-7086"
+    ],
+    "name": "Duke Law Journal",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J119": {
+    "issn": "0026-2234",
+    "issns": [
+      "0026-2234",
+      "1939-8557"
+    ],
+    "name": "Michigan Law Review",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J120": {
+    "issn": null,
+    "issns": [],
+    "name": "The Modern Law Review",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J121": {
+    "issn": "0008-1973",
+    "issns": [
+      "0008-1973",
+      "1469-2139"
+    ],
+    "name": "The Cambridge Law Journal",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J122": {
+    "issn": null,
+    "issns": [],
+    "name": "New York University Law Review",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J123": {
+    "issn": "0042-6601",
+    "issns": [
+      "0042-6601"
+    ],
+    "name": "Virginia Law Review",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J124": {
+    "issn": null,
+    "issns": [],
+    "name": "International Journal of Constitutional Law (I-CON)",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J125": {
+    "issn": "1744-5523",
+    "issns": [
+      "1744-5523",
+      "1744-5531"
+    ],
+    "name": "International Journal of Law in Context",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J126": {
+    "issn": "2071-8322",
+    "issns": [
+      "2071-8322"
+    ],
+    "name": "German Law Journal",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J127": {
+    "issn": null,
+    "issns": [],
+    "name": "Journal of Japanese Law",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J128": {
+    "issn": "0766-3838",
+    "issns": [
+      "0766-3838",
+      "2426-5519"
+    ],
+    "name": "Droits",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J129": {
+    "issn": null,
+    "issns": [],
+    "name": "Droit & Philosophie",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J130": {
+    "issn": null,
+    "issns": [],
+    "name": "Revue française d’éthique appliquée",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J131": {
+    "issn": "1151-2385",
+    "issns": [
+      "1151-2385",
+      "2105-2867"
+    ],
+    "name": "Revue française de droit constitutionnel",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J132": {
+    "issn": null,
+    "issns": [],
+    "name": "Titre VII",
+    "notes": [
+      "Crossref: ambiguous exact title",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J133": {
+    "issn": null,
+    "issns": [],
+    "name": "Jus Politicum",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J134": {
+    "issn": "1291-1941",
+    "issns": [
+      "1291-1941",
+      "1950-6708"
+    ],
+    "name": "Raisons politiques",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J135": {
+    "issn": null,
+    "issns": [],
+    "name": "Revue interdisciplinaire d’études juridiques",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J136": {
+    "issn": "1299-5495",
+    "issns": [
+      "1299-5495",
+      "1969-6876"
+    ],
+    "name": "Cités",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J137": {
+    "issn": "1488-0946",
+    "issns": [
+      "1488-0946",
+      "1929-7017"
+    ],
+    "name": "Éthique publique",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J138": {
+    "issn": null,
+    "issns": [],
+    "name": "Pouvoirs – Revue française d’études constitutionnelles et politiques",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J139": {
+    "issn": null,
+    "issns": [],
+    "name": "Revue trimestrielle des droits de l’Homme",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J140": {
+    "issn": "0034-1398",
+    "issns": [
+      "0034-1398",
+      "1865-519X"
+    ],
+    "name": "Rechtstheorie",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J141": {
+    "issn": null,
+    "issns": [],
+    "name": "Zeitschrift für Politische Theorie",
+    "notes": [
+      "Crossref: no exact title match",
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "unresolved"
+  },
+  "J142": {
+    "issn": "2409-9961",
+    "issns": [
+      "2409-9961"
+    ],
+    "name": "Zeitschrift für Praktische Philosophie",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J143": {
+    "issn": "2522-0063",
+    "issns": [
+      "2522-0063",
+      "2522-0071"
+    ],
+    "name": "Zeitschrift für Ethik und Moralphilosophie",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  },
+  "J144": {
+    "issn": "0038-884X",
+    "issns": [
+      "0038-884X",
+      "1865-5203"
+    ],
+    "name": "Der Staat",
+    "notes": [
+      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+    ],
+    "openalex_id": null,
+    "status": "identified"
+  }
+}

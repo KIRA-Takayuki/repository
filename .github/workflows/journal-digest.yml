@@ -1,13 +1,13 @@
-name: 144-Journal Digest
+name: 144-Journal Metadata Monitor
 on:
   workflow_dispatch:
     inputs:
       dry_run:
         type: boolean
-        description: 'Do not send mail'
+        description: 'Collect metadata only (this workflow never sends mail)'
         default: false
   schedule:
-    - cron: '0 23 * * *'  # 08:00 JST next day; scheduled workflows may start late
+    - cron: '13 20 * * *'  # 05:13 JST; allow time for ChatGPT's 08:00 verification
 permissions:
   contents: write
 concurrency:
@@ -25,14 +25,9 @@ jobs:
           cache: pip
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Run all 144 sources
+      - name: Collect metadata for all 144 journals (major 80 first)
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GMAIL_USER: ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          MAIL_TO: ${{ secrets.MAIL_TO }}
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
-          OPENAI_MODEL: gpt-4.1-mini
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: |
           set +e
@@ -47,6 +42,7 @@ jobs:
           path: |
             state/latest-report.json
             state/latest-digest.txt
+            state/latest-candidates.json
           if-no-files-found: ignore
       - name: Commit state and results
         if: always()
@@ -62,5 +58,5 @@ jobs:
       - name: Signal pipeline failure
         if: env.MONITOR_EXIT != '0'
         run: |
-          echo 'The monitor could not finish or email; see the diagnostic artifact.' >&2
+          echo 'The metadata scan could not finish; see the diagnostic artifact.' >&2
           exit 1

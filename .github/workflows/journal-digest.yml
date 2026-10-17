@@ -25,6 +25,21 @@ jobs:
           cache: pip
       - name: Install dependencies
         run: pip install -r requirements.txt
+      - name: Validate Python and priority registry
+        run: |
+          python -m py_compile monitor.py
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          journals = json.loads(Path('data/journals.json').read_text(encoding='utf-8'))['journals']
+          registry = json.loads(Path('state/registry.json').read_text(encoding='utf-8'))
+          major = {'Springer Nature', 'Cambridge University Press', 'Wiley',
+                   'Oxford University Press', 'SAGE'}
+          selected = [j for j in journals if j['platform'] in major or j['journal'] == 'Ethics']
+          assert len(journals) == 144 and len(selected) == 80
+          assert all(registry[j['id']].get('issn') for j in selected), 'ISSN not set for major title'
+          print('Manifest validated: 144 total and 80 priority journals with ISSNs')
+          PY
       - name: Collect metadata for all 144 journals (major 80 first)
         env:
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}

@@ -1,11 +1,12 @@
 {
-  "checked_at_utc": "2026-10-17T01:21:10.465510+00:00",
+  "candidate_count": 119,
+  "checked_at_utc": "2026-10-17T02:51:42.616570+00:00",
   "counts": {
-    "checked": 109,
-    "unresolved": 35
+    "checked": 124,
+    "failed": 4,
+    "unresolved": 16
   },
   "dry_run": false,
-  "error": "OPENAI_API_KEY not configured; digest retained, no email",
   "journal_status": {
     "J001": {
       "candidate_count": 1,
@@ -23,13 +24,14 @@
       "status": "checked"
     },
     "J004": {
-      "candidate_count": 2,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
     "J005": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
     },
     "J006": {
       "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
@@ -47,7 +49,9 @@
     },
     "J009": {
       "candidate_count": 0,
-      "errors": [],
+      "errors": [
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2363-5614/works?filter=from-pub-date%3A"
+      ],
       "status": "checked"
     },
     "J010": {
@@ -56,8 +60,9 @@
       "status": "checked"
     },
     "J011": {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
     },
     "J012": {
       "candidate_count": 0,
@@ -65,18 +70,19 @@
       "status": "checked"
     },
     "J013": {
-      "candidate_count": 4,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
     "J014": {
-      "candidate_count": 4,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
     "J015": {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "status": "unresolved"
+      "candidate_count": 1,
+      "errors": [],
+      "status": "checked"
     },
     "J016": {
       "candidate_count": 0,
@@ -99,7 +105,7 @@
       "status": "checked"
     },
     "J020": {
-      "candidate_count": 4,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -108,12 +114,12 @@
       "status": "unresolved"
     },
     "J022": {
-      "candidate_count": 4,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
     "J023": {
-      "candidate_count": 13,
+      "candidate_count": 8,
       "errors": [],
       "status": "checked"
     },
@@ -128,8 +134,9 @@
       "status": "checked"
     },
     "J026": {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "status": "unresolved"
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
     },
     "J027": {
       "candidate_count": 0,
@@ -142,12 +149,14 @@
       "status": "checked"
     },
     "J029": {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "status": "unresolved"
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
     },
     "J030": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
     },
     "J031": {
       "candidate_count": 0,
@@ -155,8 +164,9 @@
       "status": "checked"
     },
     "J032": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
-      "status": "unresolved"
+      "candidate_count": 3,
+      "errors": [],
+      "status": "checked"
     },
     "J033": {
       "candidate_count": 0,
@@ -217,7 +227,7 @@
       "errors": [
         "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2190-6335/works?filter=from-pub-date%3A"
       ],
-      "status": "checked"
+      "status": "failed"
     },
     "J045": {
       "candidate_count": 0,
@@ -227,9 +237,10 @@
     "J046": {
       "candidate_count": 0,
       "errors": [
-        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2065-7285/works?filter=from-pub-date%3A"
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2065-7285/works?filter=from-pub-date%3A",
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2065-8958/works?filter=from-pub-date%3A"
       ],
-      "status": "checked"
+      "status": "failed"
     },
     "J047": {
       "candidate_count": 0,
@@ -237,16 +248,17 @@
       "status": "checked"
     },
     "J048": {
-      "candidate_count": 2,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
     "J049": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
     },
     "J050": {
-      "candidate_count": 8,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
@@ -256,12 +268,12 @@
       "status": "checked"
     },
     "J052": {
-      "candidate_count": 2,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
     "J053": {
-      "candidate_count": 0,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
@@ -271,7 +283,7 @@
       "status": "checked"
     },
     "J055": {
-      "candidate_count": 4,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -281,7 +293,7 @@
       "status": "checked"
     },
     "J057": {
-      "candidate_count": 7,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
@@ -306,12 +318,12 @@
       "status": "checked"
     },
     "J062": {
-      "candidate_count": 11,
+      "candidate_count": 6,
       "errors": [],
       "status": "checked"
     },
     "J063": {
-      "candidate_count": 8,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
@@ -326,25 +338,27 @@
       "status": "checked"
     },
     "J066": {
-      "candidate_count": 4,
-      "errors": [],
-      "status": "checked"
-    },
-    "J067": {
       "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
+    "J067": {
+      "candidate_count": 1,
+      "errors": [],
+      "status": "checked"
+    },
     "J068": {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "status": "unresolved"
+      "candidate_count": 3,
+      "errors": [],
+      "status": "checked"
     },
     "J069": {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
     },
     "J070": {
-      "candidate_count": 34,
+      "candidate_count": 17,
       "errors": [],
       "status": "checked"
     },
@@ -354,7 +368,7 @@
       "status": "checked"
     },
     "J072": {
-      "candidate_count": 2,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
@@ -364,7 +378,7 @@
       "status": "checked"
     },
     "J074": {
-      "candidate_count": 2,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
@@ -384,7 +398,7 @@
       "status": "checked"
     },
     "J078": {
-      "candidate_count": 2,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
@@ -394,12 +408,12 @@
       "status": "checked"
     },
     "J080": {
-      "candidate_count": 4,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
     "J081": {
-      "candidate_count": 2,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
@@ -426,16 +440,17 @@
       "status": "checked"
     },
     "J087": {
-      "candidate_count": 7,
+      "candidate_count": 8,
       "errors": [],
       "status": "checked"
     },
     "J088": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
-      "status": "unresolved"
+      "candidate_count": 8,
+      "errors": [],
+      "status": "checked"
     },
     "J089": {
-      "candidate_count": 4,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -460,8 +475,9 @@
       "status": "checked"
     },
     "J094": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
-      "status": "unresolved"
+      "candidate_count": 1,
+      "errors": [],
+      "status": "checked"
     },
     "J095": {
       "candidate_count": 5,
@@ -474,8 +490,9 @@
       "status": "checked"
     },
     "J097": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
-      "status": "unresolved"
+      "candidate_count": 2,
+      "errors": [],
+      "status": "checked"
     },
     "J098": {
       "candidate_count": 0,
@@ -488,8 +505,9 @@
       "status": "checked"
     },
     "J100": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
-      "status": "unresolved"
+      "candidate_count": 1,
+      "errors": [],
+      "status": "checked"
     },
     "J101": {
       "candidate_count": 2,
@@ -532,7 +550,7 @@
       "status": "checked"
     },
     "J109": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
       "status": "unresolved"
     },
     "J110": {
@@ -546,7 +564,7 @@
       "status": "checked"
     },
     "J112": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
       "status": "unresolved"
     },
     "J113": {
@@ -570,8 +588,12 @@
       "status": "checked"
     },
     "J117": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/0040-4411/works?filter=from-pub-date%3A",
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/1942-857X/works?filter=from-pub-date%3A"
+      ],
+      "status": "failed"
     },
     "J118": {
       "candidate_count": 0,
@@ -584,8 +606,9 @@
       "status": "checked"
     },
     "J120": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
-      "status": "unresolved"
+      "candidate_count": 4,
+      "errors": [],
+      "status": "checked"
     },
     "J121": {
       "candidate_count": 0,
@@ -593,8 +616,11 @@
       "status": "checked"
     },
     "J122": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/0028-7881/works?filter=from-pub-date%3A"
+      ],
+      "status": "failed"
     },
     "J123": {
       "candidate_count": 0,
@@ -602,8 +628,9 @@
       "status": "checked"
     },
     "J124": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
     },
     "J125": {
       "candidate_count": 2,
@@ -616,7 +643,7 @@
       "status": "checked"
     },
     "J127": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
       "status": "unresolved"
     },
     "J128": {
@@ -625,11 +652,11 @@
       "status": "checked"
     },
     "J129": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
       "status": "unresolved"
     },
     "J130": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
       "status": "unresolved"
     },
     "J131": {
@@ -638,11 +665,12 @@
       "status": "checked"
     },
     "J132": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
     },
     "J133": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
       "status": "unresolved"
     },
     "J134": {
@@ -651,7 +679,7 @@
       "status": "checked"
     },
     "J135": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
       "status": "unresolved"
     },
     "J136": {
@@ -665,11 +693,11 @@
       "status": "checked"
     },
     "J138": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
       "status": "unresolved"
     },
     "J139": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
       "status": "unresolved"
     },
     "J140": {
@@ -678,7 +706,7 @@
       "status": "checked"
     },
     "J141": {
-      "detail": "Crossref: no exact title match; OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources",
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
       "status": "unresolved"
     },
     "J142": {
@@ -698,7 +726,17 @@
     }
   },
   "mail_sent": false,
-  "possible_new_count": 89,
+  "major_publishers": {
+    "checked": 80,
+    "failed": 0,
+    "total": 80,
+    "truncated": 0,
+    "unresolved": 0
+  },
+  "major_unchecked": [],
+  "mode": "metadata_only_no_OpenAI_API_no_Gmail",
+  "possible_new_count": 119,
+  "publisher_pages_verified": false,
   "window_end": "2026-10-17",
   "window_start": "2026-10-10"
 }

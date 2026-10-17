@@ -1246,7 +1246,7 @@
     "name": "Experimental Philosophy",
     "notes": [
       "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "OpenAlex: no exact title match"
     ],
     "openalex_id": null,
     "status": "unresolved"
@@ -1282,7 +1282,7 @@
     "name": "Yale Law Journal",
     "notes": [
       "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "OpenAlex: no exact title match"
     ],
     "openalex_id": null,
     "status": "unresolved"
@@ -1337,15 +1337,17 @@
     "status": "identified"
   },
   "J117": {
-    "issn": null,
-    "issns": [],
+    "issn": "0040-4411",
+    "issns": [
+      "0040-4411",
+      "1942-857X"
+    ],
     "name": "Texas Law Review",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "Crossref: no exact title match"
     ],
-    "openalex_id": null,
-    "status": "unresolved"
+    "openalex_id": "S105204244",
+    "status": "identified"
   },
   "J118": {
     "issn": "0012-7086",
@@ -1398,15 +1400,16 @@
     "status": "identified"
   },
   "J122": {
-    "issn": null,
-    "issns": [],
+    "issn": "0028-7881",
+    "issns": [
+      "0028-7881"
+    ],
     "name": "New York University Law Review",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "Crossref: no exact title match"
     ],
-    "openalex_id": null,
-    "status": "unresolved"
+    "openalex_id": "S40812874",
+    "status": "identified"
   },
   "J123": {
     "issn": "0042-6601",
@@ -1463,7 +1466,7 @@
     "name": "Journal of Japanese Law",
     "notes": [
       "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "OpenAlex: no exact title match"
     ],
     "openalex_id": null,
     "status": "unresolved"
@@ -1487,7 +1490,7 @@
     "name": "Droit & Philosophie",
     "notes": [
       "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "OpenAlex: no exact title match"
     ],
     "openalex_id": null,
     "status": "unresolved"
@@ -1498,7 +1501,7 @@
     "name": "Revue française d’éthique appliquée",
     "notes": [
       "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "OpenAlex: no exact title match"
     ],
     "openalex_id": null,
     "status": "unresolved"
@@ -1517,15 +1520,17 @@
     "status": "identified"
   },
   "J132": {
-    "issn": null,
-    "issns": [],
+    "issn": "2647-6614",
+    "issns": [
+      "2647-6614",
+      "3001-963X"
+    ],
     "name": "Titre VII",
     "notes": [
-      "Crossref: ambiguous exact title",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "Crossref: ambiguous exact title"
     ],
-    "openalex_id": null,
-    "status": "unresolved"
+    "openalex_id": "S4210226778",
+    "status": "identified"
   },
   "J133": {
     "issn": null,
@@ -1533,7 +1538,7 @@
     "name": "Jus Politicum",
     "notes": [
       "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "OpenAlex: no exact title match"
     ],
     "openalex_id": null,
     "status": "unresolved"
@@ -1557,7 +1562,7 @@
     "name": "Revue interdisciplinaire d’études juridiques",
     "notes": [
       "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "OpenAlex: no exact title match"
     ],
     "openalex_id": null,
     "status": "unresolved"
@@ -1594,7 +1599,7 @@
     "name": "Pouvoirs – Revue française d’études constitutionnelles et politiques",
     "notes": [
       "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "OpenAlex: no exact title match"
     ],
     "openalex_id": null,
     "status": "unresolved"
@@ -1605,7 +1610,7 @@
     "name": "Revue trimestrielle des droits de l’Homme",
     "notes": [
       "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "OpenAlex: no exact title match"
     ],
     "openalex_id": null,
     "status": "unresolved"
@@ -1629,7 +1634,7 @@
     "name": "Zeitschrift für Politische Theorie",
     "notes": [
       "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "OpenAlex: no exact title match"
     ],
     "openalex_id": null,
     "status": "unresolved"

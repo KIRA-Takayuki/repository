@@ -1,6 +1,6 @@
 {
-  "candidate_count": 119,
-  "checked_at_utc": "2026-10-17T02:51:42.616570+00:00",
+  "candidate_count": 927,
+  "checked_at_utc": "2026-10-17T22:16:46.579865+00:00",
   "counts": {
     "checked": 124,
     "failed": 4,
@@ -9,7 +9,7 @@
   "dry_run": false,
   "journal_status": {
     "J001": {
-      "candidate_count": 1,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
@@ -19,17 +19,17 @@
       "status": "checked"
     },
     "J003": {
-      "candidate_count": 3,
+      "candidate_count": 5,
       "errors": [],
       "status": "checked"
     },
     "J004": {
-      "candidate_count": 1,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
     "J005": {
-      "candidate_count": 0,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
@@ -38,12 +38,12 @@
       "status": "unresolved"
     },
     "J007": {
-      "candidate_count": 0,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
     "J008": {
-      "candidate_count": 0,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
@@ -65,27 +65,27 @@
       "status": "checked"
     },
     "J012": {
-      "candidate_count": 0,
+      "candidate_count": 10,
       "errors": [],
       "status": "checked"
     },
     "J013": {
-      "candidate_count": 2,
+      "candidate_count": 15,
       "errors": [],
       "status": "checked"
     },
     "J014": {
-      "candidate_count": 2,
+      "candidate_count": 5,
       "errors": [],
       "status": "checked"
     },
     "J015": {
-      "candidate_count": 1,
+      "candidate_count": 6,
       "errors": [],
       "status": "checked"
     },
     "J016": {
-      "candidate_count": 0,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
@@ -95,17 +95,17 @@
       "status": "checked"
     },
     "J018": {
-      "candidate_count": 0,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
     "J019": {
-      "candidate_count": 0,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
     "J020": {
-      "candidate_count": 2,
+      "candidate_count": 11,
       "errors": [],
       "status": "checked"
     },
@@ -114,17 +114,17 @@
       "status": "unresolved"
     },
     "J022": {
-      "candidate_count": 2,
+      "candidate_count": 6,
       "errors": [],
       "status": "checked"
     },
     "J023": {
-      "candidate_count": 8,
+      "candidate_count": 102,
       "errors": [],
       "status": "checked"
     },
     "J024": {
-      "candidate_count": 0,
+      "candidate_count": 5,
       "errors": [],
       "status": "checked"
     },
@@ -134,52 +134,52 @@
       "status": "checked"
     },
     "J026": {
-      "candidate_count": 2,
-      "errors": [],
-      "status": "checked"
-    },
-    "J027": {
-      "candidate_count": 0,
-      "errors": [],
-      "status": "checked"
-    },
-    "J028": {
-      "candidate_count": 0,
-      "errors": [],
-      "status": "checked"
-    },
-    "J029": {
-      "candidate_count": 2,
-      "errors": [],
-      "status": "checked"
-    },
-    "J030": {
-      "candidate_count": 0,
-      "errors": [],
-      "status": "checked"
-    },
-    "J031": {
-      "candidate_count": 0,
-      "errors": [],
-      "status": "checked"
-    },
-    "J032": {
       "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
+    "J027": {
+      "candidate_count": 3,
+      "errors": [],
+      "status": "checked"
+    },
+    "J028": {
+      "candidate_count": 3,
+      "errors": [],
+      "status": "checked"
+    },
+    "J029": {
+      "candidate_count": 6,
+      "errors": [],
+      "status": "checked"
+    },
+    "J030": {
+      "candidate_count": 5,
+      "errors": [],
+      "status": "checked"
+    },
+    "J031": {
+      "candidate_count": 3,
+      "errors": [],
+      "status": "checked"
+    },
+    "J032": {
+      "candidate_count": 11,
+      "errors": [],
+      "status": "checked"
+    },
     "J033": {
-      "candidate_count": 0,
+      "candidate_count": 17,
       "errors": [],
       "status": "checked"
     },
     "J034": {
-      "candidate_count": 0,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
     "J035": {
-      "candidate_count": 0,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
@@ -189,7 +189,7 @@
       "status": "checked"
     },
     "J037": {
-      "candidate_count": 0,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -208,7 +208,7 @@
       "status": "checked"
     },
     "J041": {
-      "candidate_count": 0,
+      "candidate_count": 5,
       "errors": [],
       "status": "checked"
     },
@@ -218,7 +218,7 @@
       "status": "checked"
     },
     "J043": {
-      "candidate_count": 0,
+      "candidate_count": 8,
       "errors": [],
       "status": "checked"
     },
@@ -230,7 +230,7 @@
       "status": "failed"
     },
     "J045": {
-      "candidate_count": 0,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
@@ -248,52 +248,52 @@
       "status": "checked"
     },
     "J048": {
-      "candidate_count": 1,
+      "candidate_count": 11,
       "errors": [],
       "status": "checked"
     },
     "J049": {
-      "candidate_count": 0,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
     "J050": {
-      "candidate_count": 4,
+      "candidate_count": 16,
       "errors": [],
       "status": "checked"
     },
     "J051": {
-      "candidate_count": 0,
+      "candidate_count": 19,
       "errors": [],
       "status": "checked"
     },
     "J052": {
-      "candidate_count": 1,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
     "J053": {
-      "candidate_count": 1,
+      "candidate_count": 15,
       "errors": [],
       "status": "checked"
     },
     "J054": {
-      "candidate_count": 0,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
     "J055": {
-      "candidate_count": 2,
+      "candidate_count": 12,
       "errors": [],
       "status": "checked"
     },
     "J056": {
-      "candidate_count": 0,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
     "J057": {
-      "candidate_count": 4,
+      "candidate_count": 47,
       "errors": [],
       "status": "checked"
     },
@@ -303,7 +303,7 @@
       "status": "checked"
     },
     "J059": {
-      "candidate_count": 0,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
@@ -318,17 +318,17 @@
       "status": "checked"
     },
     "J062": {
-      "candidate_count": 6,
+      "candidate_count": 35,
       "errors": [],
       "status": "checked"
     },
     "J063": {
-      "candidate_count": 4,
+      "candidate_count": 25,
       "errors": [],
       "status": "checked"
     },
     "J064": {
-      "candidate_count": 0,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -338,37 +338,37 @@
       "status": "checked"
     },
     "J066": {
-      "candidate_count": 2,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
     "J067": {
-      "candidate_count": 1,
+      "candidate_count": 16,
       "errors": [],
       "status": "checked"
     },
     "J068": {
-      "candidate_count": 3,
+      "candidate_count": 11,
       "errors": [],
       "status": "checked"
     },
     "J069": {
-      "candidate_count": 0,
+      "candidate_count": 5,
       "errors": [],
       "status": "checked"
     },
     "J070": {
-      "candidate_count": 17,
+      "candidate_count": 43,
       "errors": [],
       "status": "checked"
     },
     "J071": {
-      "candidate_count": 0,
+      "candidate_count": 6,
       "errors": [],
       "status": "checked"
     },
     "J072": {
-      "candidate_count": 3,
+      "candidate_count": 8,
       "errors": [],
       "status": "checked"
     },
@@ -378,17 +378,17 @@
       "status": "checked"
     },
     "J074": {
-      "candidate_count": 1,
+      "candidate_count": 10,
       "errors": [],
       "status": "checked"
     },
     "J075": {
-      "candidate_count": 0,
+      "candidate_count": 11,
       "errors": [],
       "status": "checked"
     },
     "J076": {
-      "candidate_count": 0,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
@@ -398,27 +398,27 @@
       "status": "checked"
     },
     "J078": {
-      "candidate_count": 1,
+      "candidate_count": 10,
       "errors": [],
       "status": "checked"
     },
     "J079": {
-      "candidate_count": 0,
-      "errors": [],
-      "status": "checked"
-    },
-    "J080": {
-      "candidate_count": 2,
-      "errors": [],
-      "status": "checked"
-    },
-    "J081": {
       "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
+    "J080": {
+      "candidate_count": 11,
+      "errors": [],
+      "status": "checked"
+    },
+    "J081": {
+      "candidate_count": 3,
+      "errors": [],
+      "status": "checked"
+    },
     "J082": {
-      "candidate_count": 0,
+      "candidate_count": 6,
       "errors": [],
       "status": "checked"
     },
@@ -435,52 +435,52 @@
       "status": "unresolved"
     },
     "J086": {
-      "candidate_count": 0,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
     "J087": {
-      "candidate_count": 8,
+      "candidate_count": 54,
       "errors": [],
       "status": "checked"
     },
     "J088": {
-      "candidate_count": 8,
+      "candidate_count": 22,
       "errors": [],
       "status": "checked"
     },
     "J089": {
-      "candidate_count": 2,
+      "candidate_count": 23,
       "errors": [],
       "status": "checked"
     },
     "J090": {
-      "candidate_count": 0,
-      "errors": [],
-      "status": "checked"
-    },
-    "J091": {
-      "candidate_count": 0,
-      "errors": [],
-      "status": "checked"
-    },
-    "J092": {
-      "candidate_count": 0,
-      "errors": [],
-      "status": "checked"
-    },
-    "J093": {
-      "candidate_count": 0,
-      "errors": [],
-      "status": "checked"
-    },
-    "J094": {
       "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
+    "J091": {
+      "candidate_count": 13,
+      "errors": [],
+      "status": "checked"
+    },
+    "J092": {
+      "candidate_count": 15,
+      "errors": [],
+      "status": "checked"
+    },
+    "J093": {
+      "candidate_count": 3,
+      "errors": [],
+      "status": "checked"
+    },
+    "J094": {
+      "candidate_count": 11,
+      "errors": [],
+      "status": "checked"
+    },
     "J095": {
-      "candidate_count": 5,
+      "candidate_count": 16,
       "errors": [],
       "status": "checked"
     },
@@ -490,7 +490,7 @@
       "status": "checked"
     },
     "J097": {
-      "candidate_count": 2,
+      "candidate_count": 13,
       "errors": [],
       "status": "checked"
     },
@@ -500,32 +500,32 @@
       "status": "checked"
     },
     "J099": {
-      "candidate_count": 0,
+      "candidate_count": 6,
       "errors": [],
       "status": "checked"
     },
     "J100": {
-      "candidate_count": 1,
+      "candidate_count": 17,
       "errors": [],
       "status": "checked"
     },
     "J101": {
-      "candidate_count": 2,
+      "candidate_count": 19,
       "errors": [],
       "status": "checked"
     },
     "J102": {
-      "candidate_count": 1,
+      "candidate_count": 8,
       "errors": [],
       "status": "checked"
     },
     "J103": {
-      "candidate_count": 0,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
     "J104": {
-      "candidate_count": 0,
+      "candidate_count": 14,
       "errors": [],
       "status": "checked"
     },
@@ -535,17 +535,17 @@
       "status": "checked"
     },
     "J106": {
-      "candidate_count": 0,
+      "candidate_count": 5,
       "errors": [],
       "status": "checked"
     },
     "J107": {
-      "candidate_count": 0,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
     "J108": {
-      "candidate_count": 0,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -606,12 +606,12 @@
       "status": "checked"
     },
     "J120": {
-      "candidate_count": 4,
+      "candidate_count": 14,
       "errors": [],
       "status": "checked"
     },
     "J121": {
-      "candidate_count": 0,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -628,17 +628,17 @@
       "status": "checked"
     },
     "J124": {
-      "candidate_count": 0,
+      "candidate_count": 6,
       "errors": [],
       "status": "checked"
     },
     "J125": {
-      "candidate_count": 2,
+      "candidate_count": 6,
       "errors": [],
       "status": "checked"
     },
     "J126": {
-      "candidate_count": 0,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -647,7 +647,7 @@
       "status": "unresolved"
     },
     "J128": {
-      "candidate_count": 0,
+      "candidate_count": 11,
       "errors": [],
       "status": "checked"
     },
@@ -710,12 +710,12 @@
       "status": "unresolved"
     },
     "J142": {
-      "candidate_count": 0,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
     "J143": {
-      "candidate_count": 0,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -735,8 +735,8 @@
   },
   "major_unchecked": [],
   "mode": "metadata_only_no_OpenAI_API_no_Gmail",
-  "possible_new_count": 119,
+  "possible_new_count": 927,
   "publisher_pages_verified": false,
-  "window_end": "2026-10-17",
-  "window_start": "2026-10-10"
+  "window_end": "2026-10-18",
+  "window_start": "2026-09-03"
 }

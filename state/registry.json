@@ -46,15 +46,16 @@
     "status": "identified"
   },
   "J005": {
-    "issn": null,
-    "issns": [],
+    "issn": "1467-9337",
+    "issns": [
+      "1467-9337"
+    ],
     "name": "Ratio Juris",
     "notes": [
-      "Crossref: ambiguous exact title",
-      "OpenAlex: ambiguous exact title"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J006": {
     "issn": null,
@@ -114,15 +115,16 @@
     "status": "identified"
   },
   "J011": {
-    "issn": null,
-    "issns": [],
+    "issn": "1946-5319",
+    "issns": [
+      "1946-5319"
+    ],
     "name": "Journal of Legal Analysis",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex: no exact title match"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J012": {
     "issn": "0957-8536",
@@ -157,15 +159,16 @@
     "status": "identified"
   },
   "J015": {
-    "issn": null,
-    "issns": [],
+    "issn": "1911-0227",
+    "issns": [
+      "1911-0227"
+    ],
     "name": "Canadian Journal of Law and Society / La Revue Canadienne Droit et Société",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex: no exact title match"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J016": {
     "issn": "1876-4045",
@@ -279,15 +282,16 @@
     "status": "identified"
   },
   "J026": {
-    "issn": null,
-    "issns": [],
+    "issn": "1088-4963",
+    "issns": [
+      "1088-4963"
+    ],
     "name": "Philosophy & Public Affairs",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex: no exact title match"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J027": {
     "issn": "3033-3830",
@@ -312,26 +316,28 @@
     "status": "identified"
   },
   "J029": {
-    "issn": null,
-    "issns": [],
+    "issn": "1474-0028",
+    "issns": [
+      "1474-0028"
+    ],
     "name": "Economics & Philosophy",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex: no exact title match"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J030": {
-    "issn": null,
-    "issns": [],
+    "issn": "1572-8692",
+    "issns": [
+      "1572-8692"
+    ],
     "name": "Res Publica",
     "notes": [
-      "Crossref: ambiguous exact title",
-      "OpenAlex: ambiguous exact title"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J031": {
     "issn": "0090-5917",
@@ -345,15 +351,16 @@
     "status": "identified"
   },
   "J032": {
-    "issn": null,
-    "issns": [],
+    "issn": "1467-9248",
+    "issns": [
+      "1467-9248"
+    ],
     "name": "Political Studies",
     "notes": [
-      "Crossref: ambiguous exact title",
-      "OpenAlex: ambiguous exact title"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J033": {
     "issn": "0032-3497",
@@ -539,15 +546,16 @@
     "status": "identified"
   },
   "J049": {
-    "issn": null,
-    "issns": [],
+    "issn": "1467-8675",
+    "issns": [
+      "1467-8675"
+    ],
     "name": "Constellations",
     "notes": [
-      "Crossref: ambiguous exact title",
-      "OpenAlex: ambiguous exact title"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J050": {
     "issn": "0034-6705",
@@ -751,26 +759,28 @@
     "status": "identified"
   },
   "J068": {
-    "issn": null,
-    "issns": [],
+    "issn": "1748-720X",
+    "issns": [
+      "1748-720X"
+    ],
     "name": "Journal of Law, Medicine & Ethics",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex: no exact title match"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J069": {
-    "issn": null,
-    "issns": [],
+    "issn": "1744-5019",
+    "issns": [
+      "1744-5019"
+    ],
     "name": "The Journal of Medicine and Philosophy",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex: no exact title match"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J070": {
     "issn": "1740-4681",
@@ -970,15 +980,16 @@
     "status": "identified"
   },
   "J088": {
-    "issn": null,
-    "issns": [],
+    "issn": "1572-8749",
+    "issns": [
+      "1572-8749"
+    ],
     "name": "Topoi",
     "notes": [
-      "Crossref: ambiguous exact title",
-      "OpenAlex: ambiguous exact title"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J089": {
     "issn": "0020-174X",
@@ -1040,15 +1051,16 @@
     "status": "identified"
   },
   "J094": {
-    "issn": null,
-    "issns": [],
+    "issn": "1755-2567",
+    "issns": [
+      "1755-2567"
+    ],
     "name": "Theoria",
     "notes": [
-      "Crossref: ambiguous exact title",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J095": {
     "issn": "1742-3600",
@@ -1077,15 +1089,16 @@
     "status": "identified"
   },
   "J097": {
-    "issn": null,
-    "issns": [],
+    "issn": "1467-8284",
+    "issns": [
+      "1467-8284"
+    ],
     "name": "Analysis",
     "notes": [
-      "Crossref: ambiguous exact title",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J098": {
     "issn": "2153-9596",
@@ -1114,15 +1127,16 @@
     "status": "identified"
   },
   "J100": {
-    "issn": null,
-    "issns": [],
+    "issn": "1573-0883",
+    "issns": [
+      "1573-0883"
+    ],
     "name": "Philosophical Studies",
     "notes": [
-      "Crossref: ambiguous exact title",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J101": {
     "issn": "0031-8094",
@@ -1359,15 +1373,16 @@
     "status": "identified"
   },
   "J120": {
-    "issn": null,
-    "issns": [],
+    "issn": "1468-2230",
+    "issns": [
+      "1468-2230"
+    ],
     "name": "The Modern Law Review",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J121": {
     "issn": "0008-1973",
@@ -1406,15 +1421,16 @@
     "status": "identified"
   },
   "J124": {
-    "issn": null,
-    "issns": [],
+    "issn": "1474-2659",
+    "issns": [
+      "1474-2659"
+    ],
     "name": "International Journal of Constitutional Law (I-CON)",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex lookup error: HTTP 429: https://api.openalex.org/sources"
+      "Electronic ISSN verified on publisher/ISSN register website, 2026-10-17"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J125": {
     "issn": "1744-5523",

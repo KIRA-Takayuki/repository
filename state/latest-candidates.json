@@ -1,431 +1,6 @@
 {
-  "collected_on": "2026-10-18",
+  "collected_on": "2026-10-19",
   "items": [
-    {
-      "abstract": "ABSTRACT In popular discourse and in the philosophical literature there is almost no reflection on the morality of doing harm in the context of doing one's job. To the contrary, workers are valorised simply for having a job, and typically individual workers are spared from blame, even when they cause significant harm as part of their job. In this article we define and argue against a position, which we label permissivism , that renders more precise a popular yet inchoate attitude toward the domain of job‐taking. Permissivists believe (by definition) that one does no wrong by taking a job, and thus committing to doing a certain kind of work, unless the work is cartoonishly evil. We distinguish between two versions of this view. According to situational permissivism, in almost every case of committing‐to‐doing‐harm‐by‐taking‐a‐job, particular situational details (such as personal costs) provide a defeater of the wrongness of doing that harm. On structural permissivism, the institutional nature of the market economy substitutes for the moral agency of the job‐taker. We consider multiple arguments for each version of Permissivism and show them all to be flawed.",
-      "authors": [
-        "Theron Pummer",
-        "Benjamin Sachs‐Cobbe"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1002/japp.70127",
-      "journal": "Journal of Applied Philosophy",
-      "journal_id": "J053",
-      "origin": "crossref",
-      "title": "Taking Jobs and Doing Harm",
-      "url": "https://doi.org/10.1002/japp.70127"
-    },
-    {
-      "abstract": "Abstract Whistleblowing protection is typically examined as a governance mechanism for detecting organisational misconduct, financial fraud, and regulatory violations. Its broader ethical function in enabling employee voice and preventing operational harm remains less fully theorised. Drawing on institutional theory, this study conceptualises whistleblowing protection as an ethical infrastructure through which regulative, normative, and cultural-cognitive institutions shape employees’ willingness to raise concerns about organisational risk. We argue that effective whistleblowing protection converts ethical awareness into organisational action by reducing the personal costs of speaking up, strengthening the credibility of internal escalation, and enabling firms to identify and correct unsafe practices before harm materialises. Using a global panel of 18,303 firm-year observations from 60 countries between 2003 and 2023, we examine the association between whistleblowing protection and workplace safety outcomes. The analysis combines firm fixed-effects models with Lewbel instrumental-variable estimation, entropy balancing, coefficient stability tests, and a difference-in-differences design exploiting the regulatory shock of the U.S. Dodd-Frank Act. The results show that stronger whistleblowing protection is associated with significantly lower workplace injury rates, equivalent to an approximately 23% reduction relative to the sample mean. This relationship is strengthened by board-level oversight of ethics and workplace safety and by higher-quality public governance institutions, but weakened in high power distance cultures. By linking whistleblowing protection to employee welfare, this study advances business ethics research by showing that protecting whistleblowers is not merely a compliance mechanism, but a core element of moral governance grounded in stakeholder care, employee dignity, and the prevention of foreseeable harm.",
-      "authors": [
-        "Richard Yeboah",
-        "Ali Meftah Gerged",
-        "Mahmoud A. Nasr",
-        "Emmanuel Owusu Okyere",
-        "Ali ElSemsar"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s10551-026-06442-1",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Does Whistleblowing Protection Save Lives? International Evidence from Workplace Safety Outcomes",
-      "url": "https://doi.org/10.1007/s10551-026-06442-1"
-    },
-    {
-      "abstract": "Abstract Unethical consumer behavior, such as deceptive product returns, digital piracy, shoplifting, and falsifying online reviews, is a growing concern with significant economic and ethical implications. However, its psychological antecedents remain underexplored. This research investigates the role of stress as a key driver of unethical consumer behavior, offering a novel perspective on why consumers engage in such conduct. Grounded in conservation of resources theory, we propose that stress heightens perceived threats to personal resources, triggering rumination—repetitive, negative thoughts about potential resource losses—which, in turn, fosters unethical behaviors. Across a field study and five experiments (one reported in the Online Appendix), we provide empirical evidence supporting this mechanism. Moreover, our findings reveal that the effect of stress on unethical consumer behavior is particularly pronounced among individuals with high levels of narcissism. These insights contribute to the broader understanding of consumer ethics and have important implications for marketers, human resource managers, and policymakers seeking to curb unethical consumer practices.",
-      "authors": [
-        "Hai-Anh Tran",
-        "Artyom Golossenko",
-        "Samuel G. B. Johnson",
-        "Mansur Khamitov",
-        "Jiayan Huang"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s10551-026-06449-8",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Life is a Pressure Cooker: How and Why Stress Directs Consumers to Act Unethically",
-      "url": "https://doi.org/10.1007/s10551-026-06449-8"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Xenia da Silva",
-        "Lea Stadtler"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s10551-026-06451-0",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Discourse-Practice Interplay: Uncovering Colonial Fingerprints in Business-NGO Partnerships",
-      "url": "https://doi.org/10.1007/s10551-026-06451-0"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Wanying Shi",
-        "Antonios Karatzas",
-        "Carlos Mena"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s10551-026-06456-9",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Female Employment in Global Supply Chains: A Multilevel Analysis of Nike’s Supplier Factories",
-      "url": "https://doi.org/10.1007/s10551-026-06456-9"
-    },
-    {
-      "abstract": "Abstract The Adoption Problem suggests that it is impossible to rationally choose or adopt new basic logical principles. It aims to refute cognitivist views according to which adopting a logical principle is accepting or coming to believe a general principle, and then applying it in reasoning – according to which it is coming to have a belief whose content is a general proposition, which is then applied in reasoning. In this paper, we explore a new solution to the Adoption Problem inspired by Ramsey’s view of general beliefs as ‘habit[s] of singular belief’ (Ramsey 1929: 148). According to him, beliefs with a general content are special in that they are dispositional states. We show how this feature paves the way for a solution to the Adoption Problem which combines cognitivism with a form of expressivism.",
-      "authors": [
-        "Corine Besson",
-        "Matthew Simpson"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s11245-026-10457-8",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "The Adoption Problem and the Nature of General Belief",
-      "url": "https://doi.org/10.1007/s11245-026-10457-8"
-    },
-    {
-      "abstract": "Abstract It is common to define affordances (the action possibilities offered by the environment) either as dispositions of objects in the environment or subject-environment relations. Drawing on Gibson’s original framework and subsequent developments, I identify four core criteria for evaluating comprehensive theories of affordances: environmental basis, subject-relativity, socio-cultural situatedness, and empirical tractability. I argue that neither of the common approaches adequately satisfies all four. Dispositionalism properly captures environmental basis and empirical tractability but struggles with subject-relativity and socio-cultural situatedness. Relationalism shows the reverse pattern. To move beyond this impasse, I propose a response-dependent account: an environmental feature affords an action just in case it would elicit the relevant action-oriented responsiveness in suitable subjects under empirically specifiable conditions, where that counterfactual responsiveness constitutes the feature’s affording that action. This treats affordances as environmental properties while explaining systematic variation across subjects and contexts without reducing them either to dispositions or to organism–environment relations, thereby offering a more unified framework that integrates the core insights of both views and provides a stable foundation for empirical research.",
-      "authors": [
-        "Yukun Chen"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s11245-026-10464-9",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "Affordances as Response-Dependent Properties: Beyond Dispositionalism and Relationalism",
-      "url": "https://doi.org/10.1007/s11245-026-10464-9"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Christopher Blake-Turner"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s11245-026-10472-9",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "Neopragmatism about Logical Necessity: Towards a Metasemantics for Possible Worlds",
-      "url": "https://doi.org/10.1007/s11245-026-10472-9"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Yun Ting Ong",
-        "Michael Dunn",
-        "G. Owen Schaefer"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s12152-026-09670-4",
-      "journal": "Neuroethics",
-      "journal_id": "J078",
-      "origin": "crossref",
-      "title": "A Scoping Review of Ethical Considerations in the Use of AI for Bereavement-related Grief Support",
-      "url": "https://doi.org/10.1007/s12152-026-09670-4"
-    },
-    {
-      "abstract": "Zusammenfassung Der Aufsatz setzt sich kritisch mit Tim Hennings Deutung des sogenannten moralistischen Fehlschlusses aus dem Buch Wissenschaftsfreiheit und Moral auseinander. Henning versteht unter einem solchen Fehlschluss einen „Sollen-Sein-Fehlschluss“, bei dem aus moralischen Überzeugungen auf deskriptive Tatsachen geschlossen wird. Ein moralistischer Fehlschluss wäre z. B.: Wenn Menschen Fleisch essen können, dann dürfen Menschen Fleisch essen; Menschen dürfen kein Fleisch essen; also können Menschen kein Fleisch essen. Der eigentliche Fehler solcher Schlüsse bestehe darin, einen unmittelbaren epistemischen Zugang zu moralischen Qualitäten partikularer Gegenstände vorauszusetzen. Doch Hennings Analyse ist aus drei Gründen nicht überzeugend: Erstens verteidigen diverse metaethische Positionen durchaus die Möglichkeit direkter moralischer Erkenntnis partikularer Gegenstände. Zweitens kritisiert Henning eine dogmatische Setzung, die er selbst in seinem Modell nicht vermeiden kann. Doch selbst wenn man diese beiden Punkte schenkte, gibt es drittens (und vor allem) das Problem, dass Henning das Wesen moralistischer Fehlschlüsse nicht erfasst. Denn wenn er Recht hätte, wären viele solcher Schlüsse (auch die in seinen eigenen Beispielen) überhaupt keine moralistischen Fehlschlüsse.",
-      "authors": [
-        "Dieter Schönecker"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s42048-026-00260-w",
-      "journal": "Zeitschrift für Ethik und Moralphilosophie",
-      "journal_id": "J143",
-      "origin": "crossref",
-      "title": "Tim Hennings Deutung moralistischer Fehlschlüsse. Eine Kritik",
-      "url": "https://doi.org/10.1007/s42048-026-00260-w"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Harry R. Lloyd"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s43681-026-01313-x",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Problems for the expectational approach to machine ethics",
-      "url": "https://doi.org/10.1007/s43681-026-01313-x"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Larry Medsker",
-        "Sumit Virmani"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1007/s43681-026-01327-5",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Beyond the autonomy illusion: hybrid intelligent systems and the architecture of AI accountability",
-      "url": "https://doi.org/10.1007/s43681-026-01327-5"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Alice Murphy"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1080/0020174x.2026.2717559",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "The aesthetics of ‘invasive’ species",
-      "url": "https://doi.org/10.1080/0020174x.2026.2717559"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Arne Johan Vetlesen"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1080/0020174x.2026.2725743",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "A different kind of revolution. Comments on Lea Ypi, ‘are revolutions justified?’",
-      "url": "https://doi.org/10.1080/0020174x.2026.2725743"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Øystein Linnebo"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1080/0020174x.2026.2726466",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "The precautionary principle and justified risk aversion",
-      "url": "https://doi.org/10.1080/0020174x.2026.2726466"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Renaud-Philippe Garner",
-        "Edward Andrew Greetis",
-        "Eric D. de Roulet"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1080/0020174x.2026.2728124",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "Bounded justice for tribal creatures: a fact-sensitive defence of patriotism",
-      "url": "https://doi.org/10.1080/0020174x.2026.2728124"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Mario Attie-Picker"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1080/0020174x.2026.2728127",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "Forgiveness in the plural",
-      "url": "https://doi.org/10.1080/0020174x.2026.2728127"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Alva Noë"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1093/analys/anag049",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "title": "Replies to Commentators",
-      "url": "https://doi.org/10.1093/analys/anag049"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ray Jackendoff",
-        "Katrin Erk"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1093/analys/anag050",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "title": "The Case for Multiple Languages of Thought",
-      "url": "https://doi.org/10.1093/analys/anag050"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Paul Boghossian",
-        "Matti Eklund"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1093/analys/anag072",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "title": "The Case for Normative Realism and The Case Against Normative Realism: Reply to Boghossian",
-      "url": "https://doi.org/10.1093/analys/anag072"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Tushar Menon"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1093/mind/fzag049",
-      "journal": "Mind",
-      "journal_id": "J091",
-      "origin": "crossref",
-      "title": "Saving Science from Quantum Mechanics: The Epistemology of the Measurement Problem\n                    , by Emily Adlam",
-      "url": "https://doi.org/10.1093/mind/fzag049"
-    },
-    {
-      "abstract": "Abstract Two central questions regarding future bias are (a) why we are future-biased, and (b) whether future bias is justified. With respect to (a), I propose a Humean explanation of future bias in terms of the workings of the imagination, which makes our imaginings of future events more vivid than our imaginings of past events. However, in order to defend this explanation, a potential tension within Humean psychology needs to be resolved: since, per Hume, memory is more vivid than imagination, we ought to be past-biased. My proposed resolution makes use of Hume’s mechanism of sympathy (when applied to one’s own future self). With respect to (b), I argue that, rather than focusing on the question of rationality, we should focus on whether future bias is a virtue, by considering, in a Humean spirit, how agents’ temporal preferences affect others, when assessed from ‘the general point of view’.",
-      "authors": [
-        "Nir Ben-Moshe"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1093/pq/pqag060",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "A Humean account of temporal preferences",
-      "url": "https://doi.org/10.1093/pq/pqag060"
-    },
-    {
-      "abstract": "Abstract Standard accounts of higher-order defeat run into well-known Bayesian hurdles. In this paper, I explore the prospects of overcoming those hurdles by applying a thoroughgoing instrumentalist approach: treating our reasoning capacities as we’d treat any other instrument. I argue that instrumentalism cannot coherently accommodate the defeatist’s position when that position involves genuine higher-order uncertainty—that is, rational uncertainty about what rationality requires. At the end of the paper I gesture at an approach to modeling our responses to defeaters that is both instrumentalist and Bayesian, but that abandons the thought that the cases typically described as cases of higher-order defeat involve genuinely higher-order uncertainty.",
-      "authors": [
-        "Miriam Schoenfield"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1093/pq/pqag061",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Instrumentalism and higher-order defeat",
-      "url": "https://doi.org/10.1093/pq/pqag061"
-    },
-    {
-      "abstract": "Integration policies in the EU and the UK have over the past two decades increasingly emphasised duties and constraints for migrants. This article challenges the duty‐based model and proposes an alternative legal conception: ‘integration through rights’, with associational rights taking a central role. It argues that migrants participate in diverse associative practices that contribute to the social, civic, and political fabric of their societies, constituting a form of integration that ought to be protected under human rights law. The article criticises the dominant model's imperative of conformity, showing how it undermines human rights and reinforces exclusion. It then develops the legal foundations of an associational paradigm of integration, highlighting the role of associational ties as expressions of belonging in a pluralist democracy. Finally, it explores how this model can be implemented through existing legal frameworks – particularly the European Convention on Human Rights by examining deportation case law through the lens of freedom of association and private life.",
-      "authors": [
-        "Sarah Ganty",
-        "Clíodhna Murphy"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1111/1468-2230.70057",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "Integration Through Rights: Towards an Associational Paradigm",
-      "url": "https://doi.org/10.1111/1468-2230.70057"
-    },
-    {
-      "abstract": "The decision of the Judicial Committee of the Privy Council in Rubis Bahamas Ltd v Russell is the most significant development in the law of Rylands v Fletcher for decades. Rejecting the view that the rule is merely a sub‐species of private nuisance, the Committee reconstructed it as an independent rule of strict liability governing harm caused by exceptionally dangerous things. This note argues that the recharacterisation is largely welcome. It restores coherence to the relationship between Rylands v Fletcher , nuisance and negligence, and supports the actionability of personal injury. At the same time, the note questions the continued significance of land and the escape requirement once liability is understood as resting on the creation of exceptional risks of harm. It further argues that the Committee's formulation of the dangerousness requirement leaves unresolved questions about the interaction between the probability and severity of harm, while questioning the extent to which the specialised‐use requirement performs independent work. Finally, the note contends that the Committee's justificatory analysis, although a valuable starting point, falls short of providing a satisfactory theoretical foundation for the reconstructed doctrine. The decision nevertheless marks a turning point in the modern law of Rylands v Fletcher .",
-      "authors": [
-        "Marco Cappelletti"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1111/1468-2230.70063",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "Rylands\n                    v\n                    Fletcher\n                    Redux:\n                    Rubis Bahamas Ltd\n                    v\n                    Russell",
-      "url": "https://doi.org/10.1111/1468-2230.70063"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jessica du Toit"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1111/bioe.70184",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "The Hackett Introduction to Medical Ethics: A Guide for Students, Clinicians, and Ethics Committees By Matthew C.Altman and Cynthia D.Coe, Indianapolis: Hackett Publishing Company, Inc, 2025. 464 pp. $35. ISBN: 978‐1‐64792‐218‐4",
-      "url": "https://doi.org/10.1111/bioe.70184"
-    },
-    {
-      "abstract": "ABSTRACT Opt‐out consent for posthumous organ donation has been criticized for its lower evidential weight: a person's not opting out of donation is poorer evidence of their preferences than their opting in to it, because their not opting out could be due to unawareness, inertia, or lack of preference. Do people also perceive opt‐out consent to have lower evidential weight, and how does this affect their downstream ethical judgments about the validity of consent and the appropriateness of families overriding it? Could the evidential weight of opt‐out consent be augmented, and if so, how? In this paper, I use two survey experiments to address these questions. First, I find that when a potential donor has merely not opted out of donation (rather than opted in to it), participants are less likely to judge that this person has given valid, informed consent; are more likely to judge that hospitals should uphold a familial challenge to their consent; and are more likely to judge that this person prefers the family to override their decision. Secondly, I evaluate three augmentation measures that aim to increase this evidential weight; I find substantial public alignment with the theoretical claim that the consent process should involve a “selective occasion”. I then draw some ethical implications about the deficiencies of opt‐out consent and how we might improve it.",
-      "authors": [
-        "Shang Long Yeo"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1111/bioe.70185",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "The Evidential and Ethical Weight of Opt‐Out Consent: An Empirical Bioethical Examination",
-      "url": "https://doi.org/10.1111/bioe.70185"
-    },
-    {
-      "abstract": "ABSTRACT Free will scepticism about moral responsibility denies that human agents possess the kind of control required for basic desert moral responsibility. This position is often taken to have substantive normative implications, including the rejection of retributive punishment and support for reformist approaches to criminal justice. This paper challenges that assumption. We argue that scepticism about moral responsibility, considered in isolation, is normatively inert. While it undermines backward‐looking justifications of blame and punishment grounded in basic desert, it does not itself yield positive conclusions about how offenders ought to be treated. A central source of confusion is a category mistake: The rejection of basic moral responsibility is taken to establish moral innocence, when in fact it renders the distinction between such basic guilt and innocence inapplicable. We show how this mistake operates in pessimistic responses to scepticism, such as Smilansky's appeal to a ‘practical reductio.’ By contrast, so‐called optimistic sceptics such as Pereboom and Caruso avoid this error, yet still risk overstating the normative significance of scepticism by closely linking it to reformist proposals, including quarantine‐based models of punishment and limits on penal severity. While these proposals are defended on independent normative grounds—notably, self‐defence—we argue that they are not entailed by scepticism itself. Eliminating retributive desert removes one ground for punishment, but it neither constrains penal severity nor justifies offender‐focused detention except on forward‐looking and predictive bases. Any appeal to moderation or humanitarian restraint therefore depends on normative commitments and empirical assumptions, rather than on scepticism about moral responsibility alone.",
-      "authors": [
-        "Thomas Nys",
-        "Gijs van Donselaar"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1111/theo.70117",
-      "journal": "Theoria",
-      "journal_id": "J094",
-      "origin": "crossref",
-      "title": "Scepticism Without Consequence? On Hard Incompatibilism and Its Normative Recommendations",
-      "url": "https://doi.org/10.1111/theo.70117"
-    },
-    {
-      "abstract": "ABSTRACT Relationalism, that is, the view that intentional states are essentially relational, and non‐relationalism, that is, the view that intentional states are non‐relational, is an ongoing debate within the domain of Intentionality. The advocates of non‐relationalism deny relationalism primarily on the grounds that it compromises ontological minimalism and physicalist metaphysics. In this paper, we advocate object‐relationalism, that is, the view that intentional states are relation to intentional objects, a specific variant of relationalism. We argue that object‐relationalism neither compromises ontological minimalism nor is inconsistent with physicalist metaphysics.",
-      "authors": [
-        "Sreenish S"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1111/theo.70118",
-      "journal": "Theoria",
-      "journal_id": "J094",
-      "origin": "crossref",
-      "title": "Intentional Objects and Object‐Relationalism",
-      "url": "https://doi.org/10.1111/theo.70118"
-    },
-    {
-      "abstract": "Can measurement provide an independent source of evidence in the human sciences? Recent philosophy of measurement often suggests that it cannot. This essay argues that this conclusion is too strong: even in the human sciences, instruments can sometimes be developed so that the evidence they provide is independent of the substantive theories they in turn put to the test. Psychometric instrument development provides the most challenging case, but the claim survives it. The argument does not deny the roles of models, statistics, judgment, or error; it shows that these need not collapse the distinction between evidence and theory.",
-      "authors": [
-        "Mariam Thalos"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.1177/00483931261483173",
-      "journal": "Philosophy of the Social Sciences",
-      "journal_id": "J108",
-      "origin": "crossref",
-      "title": "Measurement and Instrument Development in the Human Sciences",
-      "url": "https://doi.org/10.1177/00483931261483173"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Thomas Sinclair"
-      ],
-      "date": "2026-09-03",
-      "doi": "10.16995/pp.27536",
-      "journal": "Political Philosophy",
-      "journal_id": "J027",
-      "origin": "crossref",
-      "title": "Enforceability, Legitimacy, and the Right to do Wrong",
-      "url": "https://doi.org/10.16995/pp.27536"
-    },
     {
       "abstract": "",
       "authors": [
@@ -12625,6 +12200,96 @@
       "url": "https://doi.org/10.1007/s12152-026-09681-1"
     },
     {
+      "abstract": "",
+      "authors": [
+        "Anton Alexandrov",
+        "Sebastian Sunday Grève"
+      ],
+      "date": "2026-10-17",
+      "doi": "10.1080/0020174x.2026.2748284",
+      "journal": "Inquiry",
+      "journal_id": "J089",
+      "origin": "crossref",
+      "title": "Strong AI and the method of explication",
+      "url": "https://doi.org/10.1080/0020174x.2026.2748284"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "James Q. Whitman"
+      ],
+      "date": "2026-10-17",
+      "doi": "10.1080/2049677x.2026.2740910",
+      "journal": "Comparative Legal History",
+      "journal_id": "J082",
+      "origin": "crossref",
+      "title": "Ownership in the legal imagination",
+      "url": "https://doi.org/10.1080/2049677x.2026.2740910"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Lauren Benton"
+      ],
+      "date": "2026-10-17",
+      "doi": "10.1080/2049677x.2026.2740917",
+      "journal": "Comparative Legal History",
+      "journal_id": "J082",
+      "origin": "crossref",
+      "title": "The problem of property in European empires",
+      "url": "https://doi.org/10.1080/2049677x.2026.2740917"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Clifford Ando"
+      ],
+      "date": "2026-10-17",
+      "doi": "10.1080/2049677x.2026.2741500",
+      "journal": "Comparative Legal History",
+      "journal_id": "J082",
+      "origin": "crossref",
+      "title": "From control to ownership: slaves, land, and territory in Roman law",
+      "url": "https://doi.org/10.1080/2049677x.2026.2741500"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "date": "2026-10-17",
+      "doi": "10.1080/2049677x.2026.2741501",
+      "journal": "Comparative Legal History",
+      "journal_id": "J082",
+      "origin": "crossref",
+      "title": "From slavery to landownership?",
+      "url": "https://doi.org/10.1080/2049677x.2026.2741501"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Joanna Carraway Vitiello"
+      ],
+      "date": "2026-10-17",
+      "doi": "10.1080/2049677x.2026.2746233",
+      "journal": "Comparative Legal History",
+      "journal_id": "J082",
+      "origin": "crossref",
+      "title": "Contester l’Inquisition (XIIIe-XVe siècle)",
+      "url": "https://doi.org/10.1080/2049677x.2026.2746233"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Joaquín Alcaide-Fernández"
+      ],
+      "date": "2026-10-17",
+      "doi": "10.1080/2049677x.2026.2746234",
+      "journal": "Comparative Legal History",
+      "journal_id": "J082",
+      "origin": "crossref",
+      "title": "The problem of piracy in the early modern world: maritime predation, empire, and the construction of authority at sea",
+      "url": "https://doi.org/10.1080/2049677x.2026.2746234"
+    },
+    {
       "abstract": "ABSTRACT Beginning with a recent high‐profile case in mainland China, this paper argues that the current prohibition on social egg freezing for single women cannot be justified from a Confucian ethical perspective. We first explain why Confucian ethics provides a normatively appropriate and socially salient framework for evaluating reproductive policy in the Chinese context. We then articulate a theoretical model that we term Confucian familist virtue ethics . A central contribution of the paper is to distinguish between Confucian ethical ideals and its minimal standards. While the ideals—such as timely marriage and childbearing within an intact family—are properly the objects of moral aspiration and voluntary cultivation, only violations of the minimal standards warrant legal prohibition. On this basis, we develop three lines of argument to show that although social egg freezing by single women may fall short of Confucian aspirational ideals, it does not violate the ethical minimum. Accordingly, it does not justify coercive state intervention. Finally, we examine the predictive concern that permitting social egg freezing would undermine marital norms or substantially increase single motherhood. We argue that such negative effects are empirically uncertain and in principle manageable through regulatory design. They therefore fail to provide sufficient grounds for a categorical prohibition.",
       "authors": [
         "Rui Deng",
@@ -12653,6 +12318,6 @@
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-18",
-  "window_start": "2026-09-03"
+  "window_end": "2026-10-19",
+  "window_start": "2026-09-04"
 }

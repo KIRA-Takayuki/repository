@@ -1,6 +1,6 @@
 {
-  "candidate_count": 927,
-  "checked_at_utc": "2026-10-17T22:16:46.579865+00:00",
+  "candidate_count": 903,
+  "checked_at_utc": "2026-10-18T22:25:17.035280+00:00",
   "counts": {
     "checked": 124,
     "failed": 4,
@@ -119,7 +119,7 @@
       "status": "checked"
     },
     "J023": {
-      "candidate_count": 102,
+      "candidate_count": 100,
       "errors": [],
       "status": "checked"
     },
@@ -139,7 +139,7 @@
       "status": "checked"
     },
     "J027": {
-      "candidate_count": 3,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -273,7 +273,7 @@
       "status": "checked"
     },
     "J053": {
-      "candidate_count": 15,
+      "candidate_count": 14,
       "errors": [],
       "status": "checked"
     },
@@ -293,7 +293,7 @@
       "status": "checked"
     },
     "J057": {
-      "candidate_count": 47,
+      "candidate_count": 43,
       "errors": [],
       "status": "checked"
     },
@@ -323,7 +323,7 @@
       "status": "checked"
     },
     "J063": {
-      "candidate_count": 25,
+      "candidate_count": 23,
       "errors": [],
       "status": "checked"
     },
@@ -398,7 +398,7 @@
       "status": "checked"
     },
     "J078": {
-      "candidate_count": 10,
+      "candidate_count": 9,
       "errors": [],
       "status": "checked"
     },
@@ -418,7 +418,7 @@
       "status": "checked"
     },
     "J082": {
-      "candidate_count": 6,
+      "candidate_count": 12,
       "errors": [],
       "status": "checked"
     },
@@ -445,12 +445,12 @@
       "status": "checked"
     },
     "J088": {
-      "candidate_count": 22,
+      "candidate_count": 19,
       "errors": [],
       "status": "checked"
     },
     "J089": {
-      "candidate_count": 23,
+      "candidate_count": 19,
       "errors": [],
       "status": "checked"
     },
@@ -460,7 +460,7 @@
       "status": "checked"
     },
     "J091": {
-      "candidate_count": 13,
+      "candidate_count": 12,
       "errors": [],
       "status": "checked"
     },
@@ -475,7 +475,7 @@
       "status": "checked"
     },
     "J094": {
-      "candidate_count": 11,
+      "candidate_count": 9,
       "errors": [],
       "status": "checked"
     },
@@ -490,7 +490,7 @@
       "status": "checked"
     },
     "J097": {
-      "candidate_count": 13,
+      "candidate_count": 10,
       "errors": [],
       "status": "checked"
     },
@@ -510,7 +510,7 @@
       "status": "checked"
     },
     "J101": {
-      "candidate_count": 19,
+      "candidate_count": 17,
       "errors": [],
       "status": "checked"
     },
@@ -545,7 +545,7 @@
       "status": "checked"
     },
     "J108": {
-      "candidate_count": 2,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
@@ -606,7 +606,7 @@
       "status": "checked"
     },
     "J120": {
-      "candidate_count": 14,
+      "candidate_count": 12,
       "errors": [],
       "status": "checked"
     },
@@ -715,7 +715,7 @@
       "status": "checked"
     },
     "J143": {
-      "candidate_count": 2,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
@@ -735,8 +735,8 @@
   },
   "major_unchecked": [],
   "mode": "metadata_only_no_OpenAI_API_no_Gmail",
-  "possible_new_count": 927,
+  "possible_new_count": 903,
   "publisher_pages_verified": false,
-  "window_end": "2026-10-18",
-  "window_start": "2026-09-03"
+  "window_end": "2026-10-19",
+  "window_start": "2026-09-04"
 }

@@ -1,281 +1,6 @@
 {
-  "collected_on": "2026-10-19",
+  "collected_on": "2026-10-20",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Gregory Slack"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1002/japp.70132",
-      "journal": "Journal of Applied Philosophy",
-      "journal_id": "J053",
-      "origin": "crossref",
-      "title": "Anti‐Racism as Communism. P.Gomberg, 2024. London, Bloomsbury Academic. xiii + 252 pp, £95 (hb) £28.99 (pb), open access",
-      "url": "https://doi.org/10.1002/japp.70132"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Eya Hammami",
-        "Rim Faiz"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1007/s10506-026-09533-6",
-      "journal": "Artificial Intelligence and Law",
-      "journal_id": "J022",
-      "origin": "crossref",
-      "title": "Legal case representation for multi-tasks based on intermediate hidden layers",
-      "url": "https://doi.org/10.1007/s10506-026-09533-6"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Zixun Zhou",
-        "Xinyu Zhou",
-        "Hao Zhong",
-        "Xuezhi Zhang",
-        "Qi He"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1007/s10551-026-06438-x",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Caring Shoots Beneath the Algorithms: Text-Based Employee CSR and Firm AI Innovation",
-      "url": "https://doi.org/10.1007/s10551-026-06438-x"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Rima Helal",
-        "Sa’ad Ali",
-        "Sally Shamieh"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1007/s10551-026-06452-z",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Ethical Wasta: A Postcolonial Account of Ethical Leadership in Lebanon",
-      "url": "https://doi.org/10.1007/s10551-026-06452-z"
-    },
-    {
-      "abstract": "Abstract Employees are a special category of stakeholders. They expect the firm to behave in a particular way, which forms the basis of a psychological contract (Rousseau, 1995). If the firm engages in irresponsible behavior, known as Corporate Social Irresponsibility (CSI), this may be seen as a violation of such expectations. Through the theoretical lenses of psychological contract and expectancy disconfirmation theory, we argue that there is a negative association between employees’ evaluations of management and CSI incidents that violate employees’ expectations of a firm’s integrity than in the case of other types of CSI incidents. We further investigate how a firm’s CSR performance and the media coverage of the CSI incident moderate the relationship between integrity violations and employees’ evaluations. Analyzing employee responses to 1596 CSI incidents involving 104 US public firms from 2016 to 2021, we find a negative association between integrity violations and employees’ evaluations of management. Moreover, media coverage serves a critical role in intensifying this relationship, whereas our post hoc analyses suggest that employee-related CSR may attenuate these negative responses. Our study contributes to the literature on CSI, psychological contract, and the media, exploring the responses of employees to integrity violations.",
-      "authors": [
-        "Hyo Eun Sarina Son",
-        "Róisín Donnelly",
-        "Niels Noorderhaven"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1007/s10551-026-06453-y",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "How Firms’ Violations of Integrity Influence Employee Evaluations",
-      "url": "https://doi.org/10.1007/s10551-026-06453-y"
-    },
-    {
-      "abstract": "Abstract I develop in this essay a dialectical thesis: there is something right about both a narrative and an anti-narrative view of ethics, and to get things right, we need to discard something in both; to learn something from both; and to move beyond both.",
-      "authors": [
-        "Sophie Grace Chappell"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1007/s10790-026-10109-5",
-      "journal": "The Journal of Value Inquiry",
-      "journal_id": "J056",
-      "origin": "crossref",
-      "title": "Narrativity in ethics",
-      "url": "https://doi.org/10.1007/s10790-026-10109-5"
-    },
-    {
-      "abstract": "Abstract The concept of inductive risk—commonly understood as the possibility of error in accepting or rejecting a scientific hypothesis—has been a topic of discussion in the philosophy of science since the 1950s. The primary focus has been on its implications for the legitimacy of non-epistemic values in science, particularly their role in weighing risks of false positives against false negatives. This paper examines inductive risk through the lens of contemporary risk science. Drawing on recent developments in the conceptualization of risk, it offers new insights into how inductive risk can be assessed and characterized. The analysis is illustrated with the example of testing a new drug. The paper identifies and discusses several strategies for mitigating inductive risk.",
-      "authors": [
-        "Malvina Ongaro",
-        "Terje Aven"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1007/s11229-026-05759-8",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "A risk science perspective on inductive risk",
-      "url": "https://doi.org/10.1007/s11229-026-05759-8"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Yiheng Wang",
-        "Zhe Lin",
-        "Yu Peng",
-        "Zhe Yu"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1007/s11229-026-05790-9",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "FMP in classical and intuitionistic non-normal monotonic modal logic with transitivity",
-      "url": "https://doi.org/10.1007/s11229-026-05790-9"
-    },
-    {
-      "abstract": "Abstract This paper will explore the kind of insights that the phenomenological tradition and its various conceptualisations of the temporalities of agency might have to offer for thinking about our increasingly complex relationship to AI technologies. The phenomenological tradition conceptualises both human agency and our relationship to knowledge – from the kinds of epistemic practices that we engage in, to the various conditions that might enable or constrain those practices – in terms of our relationship to time. For phenomenologists, the ways in which we generate, navigate, and inhabit temporal structures are fundamental to our sense-making and decision-making processes. Given the increasing integration of various kinds of AI technologies into our lives, we might ask then how these technologies could and should impact the temporal dynamics of agency. This paper will focus on three types of what I call ‘temporal hazards’ generated by these impacts: delegation, stagnation, and fragmentation. These refer to tendencies or behaviours that involve ways of navigating time which in some manner undermine, constrain, or distort the development, exercise, or recognition of epistemic agency. Temporal delegation, stagnation, and fragmentation all precede the rise of generative AI, but are arguably amplified by the increasing integration of AI technologies into our lives.",
-      "authors": [
-        "Marilyn Stendera"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1007/s11229-026-05805-5",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Synthetic temporalities – phenomenological perspectives on epistemic agency, time, and AI",
-      "url": "https://doi.org/10.1007/s11229-026-05805-5"
-    },
-    {
-      "abstract": "Abstract This article explores what intended parents think about the Assisted Human Reproduction Act —a federal law that criminalizes paid surrogacy in Canada. Canadian scholars have long debated the merits of the AHRA’s prohibitions and, in recent years, lawmakers have proposed decriminalization. However, interviews with Canadian intended parents reveal that few support decriminalizing paid surrogacy in the absence of regulations and policies that provide protection for surrogates and intended parents. This piece will interest scholars and law and policymakers advocating for evidence-based responses to surrogacy. It challenges longstanding assumptions that decriminalizing payment—and leaving provinces to decide whether to introduce regulations—would support family building through surrogacy.",
-      "authors": [
-        "Stefanie Carsley"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1017/cls.2026.10043",
-      "journal": "Canadian Journal of Law and Society / Revue Canadienne Droit et Société",
-      "journal_id": "J015",
-      "origin": "crossref",
-      "title": "Decriminalizing Paid Surrogacy in Canada: Intended Parents’ Perspectives",
-      "url": "https://doi.org/10.1017/cls.2026.10043"
-    },
-    {
-      "abstract": "Abstract There is wide agreement on the entailment thesis, according to which if S knows that p, then S believes that p. Some philosophers, however, have attempted to present counterexamples to the entailment thesis, where subjects know that p without believing p. Proponents of the entailment thesis have typically responded to such cases by arguing that the subjects have the required prior beliefs, and therefore, the cases in question do not constitute genuine counterexamples. Unfortunately, this line of reply seems untenable when the counterexamples involve subjects who have clearly not formed the relevant beliefs, making it impossible for proponents to appeal to prior beliefs. I therefore propose a different approach by demonstrating the lack of knowledge rather than arguing for the presence of belief. My approach is based on KNA-Suff, which states that if S knows that p, then it is proper for S to assert p. By applying KNA-Suff, I show that the subjects in the putative counterexamples lack knowledge, since it would be improper for them to assert the relevant propositions. Hence, the putative counterexamples fail, and the entailment thesis survives the challenge.",
-      "authors": [
-        "Jinwoo Heo"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1017/epi.2026.10135",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "Against Beliefless Knowledge",
-      "url": "https://doi.org/10.1017/epi.2026.10135"
-    },
-    {
-      "abstract": "In Ahluwalia v Ahluwalia , the Supreme Court of Canada took the unprecedented step of inaugurating a novel ‘tort of intimate partner violence’ targeting coercive control. 1 In giving benediction to this new nominate tort, the judgment charts a creative path for the law of torts in Canada, which will be of interest to Anglo-Commonwealth scholars and jurists more broadly. This comment highlights the principal innovative aspects of the Court’s decision, while identifying some analytical issues in its reasoning and cautioning against its uncritical adoption.",
-      "authors": [
-        "Kerry Sun"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1017/lst.2026.10142",
-      "journal": "Legal Studies",
-      "journal_id": "J019",
-      "origin": "crossref",
-      "title": "Ahluwalia v Ahluwalia\n                    2026 SCC 16: a new tort of intimate partner violence",
-      "url": "https://doi.org/10.1017/lst.2026.10142"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Simon Goldstein",
-        "Harvey Lederman"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1080/0020174x.2026.2727584",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "What does ChatGPT want? An interpretationist guide",
-      "url": "https://doi.org/10.1080/0020174x.2026.2727584"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sanford Diehl"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1093/analys/anag056",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "title": "Congdon on Changing the Moral World",
-      "url": "https://doi.org/10.1093/analys/anag056"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Robert A Wilson"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1093/mind/fzag044",
-      "journal": "Mind",
-      "journal_id": "J091",
-      "origin": "crossref",
-      "title": "The Units of Life: Kinds of Individual in Biology\n                    , by Ellen Clarke",
-      "url": "https://doi.org/10.1093/mind/fzag044"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jessica Keiser"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1093/mind/fzag046",
-      "journal": "Mind",
-      "journal_id": "J091",
-      "origin": "crossref",
-      "title": "Inflammatory Language: Its Linguistics and Philosophy\n                    , by Una Stojnić and Ernie Lepore",
-      "url": "https://doi.org/10.1093/mind/fzag046"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Barbara Baum Levenbook"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1093/mind/fzag048",
-      "journal": "Mind",
-      "journal_id": "J091",
-      "origin": "crossref",
-      "title": "The Logic of Precedent: Constraint, Freedom, and Common Law Reasoning\n                    , by John Horty",
-      "url": "https://doi.org/10.1093/mind/fzag048"
-    },
-    {
-      "abstract": "ABSTRACT In my (2020) I defended an intentionalist understanding of Chomskyan linguistics whereby standard linguistic entities (“SLEs”) such as words, phrases and phonemes don’t exist, but are “intentional inexistents” merely represented in our brains. Reviewers complained this was in tension with “externalist” theories of representation that require externalia as causes of internal representations. I argue that this requirement can be met by the kind of idealization to which Chomskyan theories appeal, which, like the idealized dispositions that regularly appear in physical sciences, can be understood along the lines of Quine’s (1960) invocation of Weierstrass’s “delta-epsilon” strategy for defining a limit in calculus. Where such a strategy is available in a domain, it would seem to render the externalist/internalist distinction there explanatorily otiose.",
-      "authors": [
-        "Georges Rey"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1093/monist/onag019",
-      "journal": "The Monist",
-      "journal_id": "J090",
-      "origin": "crossref",
-      "title": "Syntax as Idealized Dispositions: The Non-Issue of Content Externalism?",
-      "url": "https://doi.org/10.1093/monist/onag019"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Cristóbal Karle",
-        "Matías Petersen"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1111/josp.70069",
-      "journal": "Journal of Social Philosophy",
-      "journal_id": "J035",
-      "origin": "crossref",
-      "title": "Work, Virtue and Resistance: Towards a MacIntyrean Approach to Trade Unions and the Labour Movement",
-      "url": "https://doi.org/10.1111/josp.70069"
-    },
-    {
-      "abstract": "According to Adorno, all attempts to change society “immediately come up against the overwhelming force of inertia in the prevailing situation, and seem condemned to impotence.” This article explores the way the phenomenon of social and institutional inertia has been addressed in recent Critical Theory. It poses two central questions: firstly, what is social inertia, and what causes it? And secondly, how do we judge when institutions or social norms are “inert” or “obsolete”? It first briefly discusses the historical background of the problem of inertia, obsolescence and second nature in Hegel, Marx and the first generation of the Frankfurt School, and then discusses the central questions primarily with reference to recent work by Jaeggi and Menke and, to a lesser extent, Rosa and Von Redecker.",
-      "authors": [
-        "Bart Zantvoort"
-      ],
-      "date": "2026-09-04",
-      "doi": "10.1177/01914537261481242",
-      "journal": "Philosophy &amp; Social Criticism",
-      "journal_id": "J037",
-      "origin": "crossref",
-      "title": "Social Inertia in Critical Theory",
-      "url": "https://doi.org/10.1177/01914537261481242"
-    },
     {
       "abstract": "",
       "authors": [
@@ -6751,33 +6476,6 @@
       "url": "https://doi.org/10.1007/s43681-026-01407-6"
     },
     {
-      "abstract": "Abstract In late-nineteenth-century Canada, cases of incest were met with both outrage and doubt. To avoid questions of consent raised by long-term abuse, the Crown Attorney in Ontario’s Wentworth County experimented with a novel prosecutorial strategy between 1886 and 1890, trying three cases of incestuous abuse involving fifteen-year-old girls under the new criminal seduction law. Only one resulted in a conviction, and an examination of court records and contemporary commentary reveals how social taboos, discredited testimony, and requirements of corroboration rendered girls’ experiences of incest illegible to the court and community when viewed through the lens of seduction. Situating girlhood within discourses about protection, the family, and sexual morality, this study illuminates unexplored applications and limits of the seduction law, contemporary shifts in understandings of consent and coercion, and how victims serve as sites of socio-legal experimentation before being discarded once they have fulfilled that role.",
-      "authors": [
-        "Jordyn Beaupré"
-      ],
-      "date": "2026-09-28",
-      "doi": "10.1017/cls.2026.10049",
-      "journal": "Canadian Journal of Law and Society / Revue Canadienne Droit et Société",
-      "journal_id": "J015",
-      "origin": "crossref",
-      "title": "“Seduced” Daughters: Deciphering Incest and Girlhood in Wentworth County’s Late-Victorian Criminal Seduction Trials",
-      "url": "https://doi.org/10.1017/cls.2026.10049"
-    },
-    {
-      "abstract": "Abstract This article investigates why restorative justice in France—legally recognized since 2014 and broadly endorsed by political actors—remains only marginally implemented, particularly in cases of gender‑based violence (GBV). Drawing on qualitative research, including interviews, observations, and parliamentary debate analysis, the study shows that limited uptake cannot be explained primarily by feminist resistance or public reluctance. Instead, restorative justice has been shaped by blame‑avoidance strategies, institutional ambivalence, and the downward delegation of responsibility to under‑resourced local actors. Presented as a right but maintained in a quasi‑experimental mode, it relies heavily on the discretionary, often overtime labour of frontline practitioners. This governance configuration reframes, a statutory right into an optional service, preserves existing penal hierarchies, and obscures the structural nature of GBV. The article highlights how symbolic reforms may be neutralized through managerial practices and calls for comparative research on institutional designs that enable more consistent implementation.",
-      "authors": [
-        "Sandrine Lefranc",
-        "Delphine Griveaud"
-      ],
-      "date": "2026-09-28",
-      "doi": "10.1017/cls.2026.10050",
-      "journal": "Canadian Journal of Law and Society / Revue Canadienne Droit et Société",
-      "journal_id": "J015",
-      "origin": "crossref",
-      "title": "How (Not) to Address the Problem of Gender-Based Violence: The Political Uses of Restorative Justice",
-      "url": "https://doi.org/10.1017/cls.2026.10050"
-    },
-    {
       "abstract": "Abstract This paper argues for three main claims: (i) belonging can play an important role for epistemic self-trust; (ii) epistemic self-trust can be construed plurally so as to include not only its intellectual or propositional dimensions but also its experiential (practical, tacit, embodied, and affective) dimensions; and (iii) self-trust, plurally construed, can serve as a mechanism of epistemic repair to counteract various forms of epistemic injustice that undermine epistemic agency along these propositional and experiential dimensions. To make this threefold argument, I turn to the context of neurodiversity and neuronormativity, which helpfully illustrates the plural dimensions of epistemic agency, epistemic self-trust, and epistemic repair.",
       "authors": [
         "Amandine Catala"
@@ -7399,19 +7097,6 @@
       "origin": "crossref",
       "title": "When Are Arguments from Scholarly Legal Authority Legitimate?",
       "url": "https://doi.org/10.1017/cjlj.2026.10073"
-    },
-    {
-      "abstract": "Résumé Des données statistiques provenant de publications scientifiques ou de témoignages d’expert sont de plus en plus portées devant les tribunaux. Or, de telles données peuvent être mal employées. Après un bref exposé de quelques fondements de la statistique, la première partie de cet essai relate des cas tirés du droit de mauvais usage de données statistiques. Le théorème de Bayes est ensuite présenté comme un outil mathématique qui pourrait contribuer à réduire la fréquence de ce type d’erreurs. En seconde partie, l’essai propose le rehaussement de la formation des juristes en statistique et un recours accru à l’expertise dans ce domaine comme autres moyens d’éviter les erreurs du passé. La conclusion souligne les difficultés que pose en pratique l’application du théorème de Bayes et le besoin d’évaluer l’efficacité de stratégies visant une utilisation plus appropriée de données statistiques.",
-      "authors": [
-        "Gina Bravo"
-      ],
-      "date": "2026-09-30",
-      "doi": "10.1017/cls.2026.10041",
-      "journal": "Canadian Journal of Law and Society / Revue Canadienne Droit et Société",
-      "journal_id": "J015",
-      "origin": "crossref",
-      "title": "Accroître la compréhension des fondements de la statistique pour éviter les erreurs judiciaires du passé",
-      "url": "https://doi.org/10.1017/cls.2026.10041"
     },
     {
       "abstract": "Abstract Has there been a rise or fall in negative integration in the last 50 years? Three competing views on this question can today be distinguished. One asserts that there has been a decline of negative integration; another one argues that negative integration has, instead, risen; while a third view, finally, contends that there has been neither a fall nor a rise, because the normative degree of negative integration has remained stable over time. In the last five years, Jan Zglinski has published several provocative pieces that have come to defend a modified version of the declining-integration view. Negative integration, he claims, has become ever weaker over time due, mainly, to a judicial rise of political deference towards the Member States. Negative integration has thus assumed ‘a stronger national flavour’ and may even be coming to an end! Importantly and innovatively, Zglinski arrives at this result by means of an ‘empirical legal studies’ method; and this ELS-method aims to settle the debate. For an ardent defender of the second view on the evolution of the internal market and a devotee of an historical-conceptual approach to European Union law this poses a tricky question: did Zglinski’s ‘data’ really meet the ‘law’ better than all qualitative-doctrinal views that preceded him?",
@@ -12315,9 +12000,280 @@
       "origin": "crossref",
       "title": "From Imminence to Institutional Incidence: Rethinking Fetal Status Beyond Metaphysical Classification",
       "url": "https://doi.org/10.1111/bioe.70203"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jonas Haeg"
+      ],
+      "date": "2026-10-18",
+      "doi": "10.1002/japp.70141",
+      "journal": "Journal of Applied Philosophy",
+      "journal_id": "J053",
+      "origin": "crossref",
+      "title": "The Philosophy of Force: Violence, Domination, and the Ethics of Republican War. C. J.Finlay, 2025. Oxford, Oxford University Press. x + 330 pp, £119 (hb)",
+      "url": "https://doi.org/10.1002/japp.70141"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mark Robert Taylor"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1007/s10551-026-06497-0",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Alienation and Emotional Labor",
+      "url": "https://doi.org/10.1007/s10551-026-06497-0"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Zhitong Zhao",
+        "Roberto Pizarro Contreras",
+        "Guihong Zhang"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1007/s11229-026-05833-1",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Nostalgia for technology: a philosophical account",
+      "url": "https://doi.org/10.1007/s11229-026-05833-1"
+    },
+    {
+      "abstract": "Abstract Given the rapid acceleration of the climate crisis, the IPCC has deemed Carbon Dioxide Removal (CDR) technologies as unavoidable to sufficiently mitigate the crisis. In this context, engineering biology (EngBio) is increasingly gaining traction in CDR research. While the deployment of EngBio is perceived by some as inherently high-risk for society, the economy, and the environment, the risks posed by insufficiently abated climate change are likely to be irreparable. Against this background, a pilot study was conducted, aimed at exploring experts’ perspectives on risk in decision-making regarding the use of advanced EngBio applications to develop CDR technologies. Our results show that EngBio experts are moderately or highly open to discussing, accepting, or taking the risks of using EngBio-based CDR. Our findings also indicate expert trust in the potential of rapid advancements in EngBio-based CDR technologies. While these findings do not entail an unconditional and uncritical acceptance of all risks arising from using EngBio for CDR purposes, they underscore a notion of risk as integral to environmental responsibility, namely as necessary to avoid the higher risk of insufficiently abated climate change. In our view, this notion of risk highlights the epistemic context in which ethical debates on CDR will unfold as the climate crisis intensifies, shifting the focus from traditional risk-risk analysis to how EngBio‑based CDR can contribute to environmental responsibility and to effective and ethical decarbonisation.",
+      "authors": [
+        "Daniele Fulvi",
+        "Henry Dixson",
+        "Lucy Carter",
+        "Aditi Mankad",
+        "Josh Wodak"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1007/s11229-026-05848-8",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Expert perspectives on framing risk in engineering biology: anticipating ethical discourse about climate change mitigation",
+      "url": "https://doi.org/10.1007/s11229-026-05848-8"
+    },
+    {
+      "abstract": "Abstract Thinking hard is hard. Cognitive misers like us are therefore inclined to seek extreme cognitive assistance : assistance that is ubiquitously available, highly substitutive, and relatively domain-general. Increasingly, we are being offered assistance like this as the default mode of cognition – it is being embedded in the infrastructure of our digital lives. But whatever its merits for adults, providing extreme cognitive assistance to children is pro tanto morally wrong. This is because the cognitive capacities that make a person self-governing are skills: they are built through deliberate, regular exercise and lost without it. Extreme cognitive assistance removes both the opportunities for that exercise and the incentive to undertake it. Maybe this won’t matter: in a future awash with extreme cognitive assistance, maybe persons won’t need or want to think for themselves. But people should decide for themselves how much of their cognitive self-governance to hand over; and doing that requires having the capacity for cognitive self-governance in the first place.",
+      "authors": [
+        "Nathaniel P. Sharadin"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1007/s11229-026-05851-z",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Cognitive enfeeblement by design",
+      "url": "https://doi.org/10.1007/s11229-026-05851-z"
+    },
+    {
+      "abstract": "Abstract Healthcare professionals (HCPs) and the patients they treat would benefit from professional ethical guidance for the use of AI (PEG-AI) in healthcare. A proactive approach, asserting unified and standardised guidance covering all HCPs in the United Kingdom, would assert clear and authoritative standards for HCP practice to abide by. This rapid scoping review seeks to aid this goal by answering the question: What ethical principles, rules, or claims that can guide the use of AI in professional healthcare practice can be identified within the literature?. The literature search resulted in the inclusion of 124 items and generated 9 overarching themes comprising 33 distinct normative claims about the ethical use of AI in healthcare. This review captures current published thinking about principles to govern AI use in clinical settings across a wide range of peer-reviewed literature, grey literature, and formal guidance. This provides a baseline on which to build unified guidance across the healthcare professions.",
+      "authors": [
+        "Helen Smith",
+        "Jonathan Ives"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1007/s43681-026-01443-2",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Professional ethical guidance for AI use (PEG-AI) in healthcare: a rapid scoping review",
+      "url": "https://doi.org/10.1007/s43681-026-01443-2"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ruiyuan Zhang"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1007/s43681-026-01453-0",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "From traditional to distributed responsibility: moral responsibility in generative artificial intelligence",
+      "url": "https://doi.org/10.1007/s43681-026-01453-0"
+    },
+    {
+      "abstract": "Abstract What makes knowledge more valuable than mere true belief? This is the so-called value problem . Some epistemologists think that providing a solution to this problem is a key desideratum for theories of knowledge. One simple argument for this position starts with the claim that knowledge is intuitively more valuable than true belief. A more subtle and ambitious argument is rooted in the idea that theorists about knowledge must explain why knowledge is distinctively valuable, on pain of embarrassment; for without such an explanation, the thinking seems to go, epistemologists must confront the awkward possibility that they are spending time and energy on an unworthy subject. In what follows, I flesh out each of the arguments sketched above in a number of ways, and I argue that none of these versions succeed. The moral is that the value problem does not have the metaepistemological significance that is sometimes attributed to it.",
+      "authors": [
+        "Sophia Dandelet"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1017/epi.2026.10137",
+      "journal": "Episteme",
+      "journal_id": "J095",
+      "origin": "crossref",
+      "title": "Metaepistemology and the Value Problem",
+      "url": "https://doi.org/10.1017/epi.2026.10137"
+    },
+    {
+      "abstract": "Abstract The UK’s Athena Swan Charter positions itself as a policy instrument, an award-based scheme for improving gender equality through self-assessment, evidence gathering, and action planning. I argue that this description overlooks the fact that Athena Swan is also a semiotic framework that governs gender through naming, iconography, and the public performance of institutional virtue. I defend three claims. First, the Charter’s mythic-inflected branding, acronym, and iconography frame the ideal of intelligible, respectable gender-equality practice that is in tension with emancipatory aims of loosening coercive gender norms and challenging credibility hierarchies. Second, insofar as Athena Swan operates by conferring public credentials, I elucidate how its semiotics function not merely expressively but also as instruments of legitimation that shape incentives, trust, institutional identity, and the handling of dissent. Third, I contend that the Charter’s credential economy is supported by audit feminism which abstracts equality into auditable artefacts (documents, metrics, and narratives) assessed as a basis for external recognition. The result is an audit regime that intensifies performativity, encouraging institutions to substitute appearances for substantive change and to commodify individuals as interchangeable units in a managed representational economy.",
+      "authors": [
+        "Ognjen Arandjelović"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1017/hyp.2026.10111",
+      "journal": "Hypatia",
+      "journal_id": "J075",
+      "origin": "crossref",
+      "title": "Innocence by Accreditation: Mythic Branding and Audit Feminism in Athena Swan",
+      "url": "https://doi.org/10.1017/hyp.2026.10111"
+    },
+    {
+      "abstract": "Abstract Hospital-based violence intervention programs (HVIPs) help survivors of violent injury to return to physical, psychological, financial, and social health by addressing a broad range of social determinants of health and reducing the risk of future injury. This work requires connections to a range of providers and services, which often requires the sharing of patient health information. While HIPAA gives providers more discretion to share information to address health-related social needs and care coordination than many providers realize, patients can and should be the ones deciding what health information is shared, with whom it is shared, and under what circumstances. Providers, patients, and programs like HVIPs would benefit from greater clarity on appropriate information-sharing practices. In this article, we consider the real and perceived barriers to information sharing to address social needs and we make recommendations for practice, research, and policy to improve how patient information is shared to address social needs, with relevance for a wide range of interventions.",
+      "authors": [
+        "Lara Cartwright-Smith",
+        "Ruth Abaya"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1017/jme.2026.10288",
+      "journal": "Journal of Law, Medicine &amp; Ethics",
+      "journal_id": "J068",
+      "origin": "crossref",
+      "title": "Navigating Health Information Sharing to Address Social Needs: Practice, Research, and Policy Recommendations from Hospital-Based Violence Intervention",
+      "url": "https://doi.org/10.1017/jme.2026.10288"
+    },
+    {
+      "abstract": "Abstract Words can have inherently multiple meanings; therefore, semantics can directly impact policies and behaviours. In regulatory practice, semantics refers to the specific, actionable meaning behind terminology, and attention to semantics can help ensure that legal frameworks are interpreted accurately. Refining semantics is not a purely theoretical exercise, but a subtle yet powerful element that has the potential to make the regulatory system more efficient in setting priorities and more reliable in meeting societal expectations and needs. When their intended purpose does not align with their true meaning, labels widely used in pharmaceutical regulation such as “breakthrough,” “orphans,” or “unmet medical need” risks undermining the clarity and precision essential to a sound regulatory framework. In addition, differences in definitions, scopes, eligibility criteria, and incentives can obstruct the efficient convergence of efforts in drug development and access. As pharmaceutical investments and clinical research increasingly transcend borders, the adoption of consistent terminology and regulatory definitions becomes crucial. This alignment can enhance cooperation among investors, governments, regulators, researchers, health care practitioners, and patients.",
+      "authors": [
+        "Enrico Costa",
+        "Aaron S. Kesselheim"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1017/jme.2026.10293",
+      "journal": "Journal of Law, Medicine &amp; Ethics",
+      "journal_id": "J068",
+      "origin": "crossref",
+      "title": "The Impact of Semantics in Medicines Regulation",
+      "url": "https://doi.org/10.1017/jme.2026.10293"
+    },
+    {
+      "abstract": "There’s a lot to like about Respect and Loathing (not least the Hunter Thompson reference!): it breaks new ground by using empirical methods to investigate a theoretical concept; it is ambitious, taking on a key element of the current democratic crisis; and it is engaging and readable. It’s a real achievement and will inspire many young graduate students to emulate its methodology, leading to a useful rapprochement between political theory and political science. I also agree with a lot of the book: it is incredibly level-headed and sensible. I want to investigate two claims about which I wasn’t fully persuaded: first, is the liberal respect paradox really a matter of recognition respect? Second, is an egalitarian pluralist ethos the right response to the crisis of respect?",
+      "authors": [
+        "Anna Stilz"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1017/s003467052610120x",
+      "journal": "The Review of Politics",
+      "journal_id": "J050",
+      "origin": "crossref",
+      "title": "Does Contemporary Democracy Show a Crisis of Respect?",
+      "url": "https://doi.org/10.1017/s003467052610120x"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Michael Patrick Lynch"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1017/s0034670526101235",
+      "journal": "The Review of Politics",
+      "journal_id": "J050",
+      "origin": "crossref",
+      "title": "Linda M.G. Zerilli: A Democratic Theory of Truth. (Chicago: University of Chicago Press, 2025. Pp. xiii, 189.)",
+      "url": "https://doi.org/10.1017/s0034670526101235"
+    },
+    {
+      "abstract": "Abstract Chapter 2 of On Liberty , titled ‘Of the Liberty of Thought and Discussion’, develops a well-known epistemic argument for free speech. While it makes a plausible case for open-mindedness and diversity of opinion, it also appears to encapsulate some of the flaws that critics attribute to ‘free speech ideology’. This paper defends On Liberty against this criticism and proposes a new interpretation of the chapter’s objectives and its contemporary relevance, the power-critical account. While I conclude that chapter 2 fails to show that it is always epistemically harmful to silence opinions, I defend the Millian idea that a robust principle of speaker immunity is required for the transition to an ideal, reflectively stable society.",
+      "authors": [
+        "Michael Schefczyk"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1017/s0953820826100466",
+      "journal": "Utilitas",
+      "journal_id": "J052",
+      "origin": "crossref",
+      "title": "What Does Chapter Two of\n                    On Liberty\n                    Really Achieve? Introducing the Power-Critical Account",
+      "url": "https://doi.org/10.1017/s0953820826100466"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Alasia Nuti"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1057/s41296-026-00858-0",
+      "journal": "Contemporary Political Theory",
+      "journal_id": "J048",
+      "origin": "crossref",
+      "title": "Reparations and redress for historical injustice",
+      "url": "https://doi.org/10.1057/s41296-026-00858-0"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Didier Zúñiga"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1057/s41296-026-00859-z",
+      "journal": "Contemporary Political Theory",
+      "journal_id": "J048",
+      "origin": "crossref",
+      "title": "Disjunctures: Indigenous redirections in political theory",
+      "url": "https://doi.org/10.1057/s41296-026-00859-z"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "James Ravi Kirkpatrick",
+        "Alexandru Radulescu",
+        "Rachel Katharine Sterken"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1080/0020174x.2026.2745114",
+      "journal": "Inquiry",
+      "journal_id": "J089",
+      "origin": "crossref",
+      "title": "Talking with language models",
+      "url": "https://doi.org/10.1080/0020174x.2026.2745114"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Keren Gorodeisky"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1093/analys/anag079",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "title": "The Claims of Our Hearts",
+      "url": "https://doi.org/10.1093/analys/anag079"
+    },
+    {
+      "abstract": "Abstract According to Paul Boghossian’s ‘Inference Problem’, rule-following generates a regress because it involves inference, which itself involves rule-following. Boghossian claims the Problem leads to an ‘antinomy of pure reason’, showing that ‘we both must—and cannot—make sense of the notion of someone’s following a rule’. I argue that there is no antinomy by proposing a solution to the Problem based on the idea that following a rule consists in acting on a commitment to exercising one’s knowledge of how to follow it.",
+      "authors": [
+        "Camilo Martinez"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1093/pq/pqag078",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
+      "origin": "crossref",
+      "title": "Competent rule-following",
+      "url": "https://doi.org/10.1093/pq/pqag078"
+    },
+    {
+      "abstract": "This article argues that the existence of financial institutions considered ‘too big to fail’ (TBTF) represents a systemic injustice requiring fundamental reform of the existing financial system. Drawing on and extending recent work on structural domination in republican political theory, the article develops the concept of ‘systemic institutional domination’ to capture the distinctive form of unfreedom that TBTF engenders. Systemic institutional domination is a reflexive form of domination, where the democratic state is subjected to uncontrolled power vested in identifiable financial institutions but grounded in the norms, rules and regulations of the financial system that the state itself enacts and upholds. Because the dominated public institution is at once the constitutive author of the system and the only agent capable of reforming it, TBTF confronts republican theory with a case of second-order domination: domination of the institution charged with securing nondomination. The article identifies four dimensions of systemic domination: effective compulsion to bail out failing megabanks; de facto legal impunity; the systematic subversion of tax enforcement; and background consolidatory pressure on public finances. The article concludes by discussing the democratic paradox involved in abolishing TBTF: namely, that the dominated institution – the democratic state – is the only institution that could reform the dominating system.",
+      "authors": [
+        "Malte Frøslee Ibsen"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1177/14748851261499651",
+      "journal": "European Journal of Political Theory",
+      "journal_id": "J034",
+      "origin": "crossref",
+      "title": "Too big to fail: On a systemic injustice of modern finance",
+      "url": "https://doi.org/10.1177/14748851261499651"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-19",
-  "window_start": "2026-09-04"
+  "window_end": "2026-10-20",
+  "window_start": "2026-09-05"
 }

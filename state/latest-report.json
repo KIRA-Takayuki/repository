@@ -1,8 +1,8 @@
 {
-  "candidate_count": 900,
-  "checked_at_utc": "2026-10-19T23:36:58.312315+00:00",
+  "candidate_count": 932,
+  "checked_at_utc": "2026-10-20T23:10:34.647808+00:00",
   "counts": {
-    "checked": 124,
+    "checked": 125,
     "failed": 4,
     "unresolved": 16
   },
@@ -43,7 +43,7 @@
       "status": "checked"
     },
     "J008": {
-      "candidate_count": 3,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -105,7 +105,7 @@
       "status": "checked"
     },
     "J020": {
-      "candidate_count": 11,
+      "candidate_count": 12,
       "errors": [],
       "status": "checked"
     },
@@ -164,7 +164,7 @@
       "status": "checked"
     },
     "J032": {
-      "candidate_count": 11,
+      "candidate_count": 12,
       "errors": [],
       "status": "checked"
     },
@@ -179,7 +179,7 @@
       "status": "checked"
     },
     "J035": {
-      "candidate_count": 2,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
@@ -278,7 +278,7 @@
       "status": "checked"
     },
     "J054": {
-      "candidate_count": 3,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
@@ -288,12 +288,12 @@
       "status": "checked"
     },
     "J056": {
-      "candidate_count": 3,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
     "J057": {
-      "candidate_count": 41,
+      "candidate_count": 42,
       "errors": [],
       "status": "checked"
     },
@@ -328,7 +328,7 @@
       "status": "checked"
     },
     "J064": {
-      "candidate_count": 7,
+      "candidate_count": 8,
       "errors": [],
       "status": "checked"
     },
@@ -343,7 +343,7 @@
       "status": "checked"
     },
     "J067": {
-      "candidate_count": 16,
+      "candidate_count": 19,
       "errors": [],
       "status": "checked"
     },
@@ -353,12 +353,12 @@
       "status": "checked"
     },
     "J069": {
-      "candidate_count": 5,
+      "candidate_count": 6,
       "errors": [],
       "status": "checked"
     },
     "J070": {
-      "candidate_count": 43,
+      "candidate_count": 44,
       "errors": [],
       "status": "checked"
     },
@@ -440,7 +440,7 @@
       "status": "checked"
     },
     "J087": {
-      "candidate_count": 54,
+      "candidate_count": 58,
       "errors": [],
       "status": "checked"
     },
@@ -450,7 +450,7 @@
       "status": "checked"
     },
     "J089": {
-      "candidate_count": 19,
+      "candidate_count": 17,
       "errors": [],
       "status": "checked"
     },
@@ -475,7 +475,7 @@
       "status": "checked"
     },
     "J094": {
-      "candidate_count": 9,
+      "candidate_count": 10,
       "errors": [],
       "status": "checked"
     },
@@ -628,7 +628,7 @@
       "status": "checked"
     },
     "J124": {
-      "candidate_count": 6,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -723,20 +723,42 @@
       "candidate_count": 0,
       "errors": [],
       "status": "checked"
+    },
+    "J145": {
+      "candidate_count": 17,
+      "errors": [],
+      "status": "checked"
     }
   },
+  "journal_total": 145,
   "mail_sent": false,
   "major_publishers": {
-    "checked": 80,
+    "checked": 87,
     "failed": 0,
-    "total": 80,
+    "total": 90,
     "truncated": 0,
-    "unresolved": 0
+    "unresolved": 3
   },
-  "major_unchecked": [],
+  "major_unchecked": [
+    {
+      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
+      "journal": "Jurisprudence",
+      "status": "unresolved"
+    },
+    {
+      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
+      "journal": "Law and Literature",
+      "status": "unresolved"
+    },
+    {
+      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "status": "unresolved"
+    }
+  ],
   "mode": "metadata_only_no_OpenAI_API_no_Gmail",
-  "possible_new_count": 900,
+  "possible_new_count": 932,
   "publisher_pages_verified": false,
-  "window_end": "2026-10-20",
-  "window_start": "2026-09-05"
+  "window_end": "2026-10-21",
+  "window_start": "2026-09-06"
 }

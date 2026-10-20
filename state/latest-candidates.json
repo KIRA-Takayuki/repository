@@ -1,58 +1,6 @@
 {
-  "collected_on": "2026-10-20",
+  "collected_on": "2026-10-21",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Ru Ye"
-      ],
-      "date": "2026-09-05",
-      "doi": "10.1007/s10670-026-01149-1",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "Permissivism and the Truth Problem",
-      "url": "https://doi.org/10.1007/s10670-026-01149-1"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Rocío Lorca"
-      ],
-      "date": "2026-09-05",
-      "doi": "10.1007/s11572-026-09815-9",
-      "journal": "Criminal Law and Philosophy",
-      "journal_id": "J008",
-      "origin": "crossref",
-      "title": "From Imperium to Ius Puniendi: On the Distinction Between Punishment and Enforcement",
-      "url": "https://doi.org/10.1007/s11572-026-09815-9"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Alex Kerr"
-      ],
-      "date": "2026-09-05",
-      "doi": "10.1080/0020174x.2026.2708314",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "Are colors only visible?",
-      "url": "https://doi.org/10.1080/0020174x.2026.2708314"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Maud van Lier"
-      ],
-      "date": "2026-09-05",
-      "doi": "10.1080/0020174x.2026.2720909",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "From mycelia to machines: categorizing AI systems using fungi-inspired analogies",
-      "url": "https://doi.org/10.1080/0020174x.2026.2720909"
-    },
     {
       "abstract": "Abstract I characterize two different senses in which a formal theory of location can be said to be neutral: neutrality with respect to some locational principles, and neutrality with respect to some controversial cases that have been presented as counterexamples to some principles. Theories neutral in the second sense are often weaker than theories neutral in the first. To illustrate this, I consider some popular principles and some of the counterexamples that have been used to argue against them in the literature, including inexact objects, cases of Nested Multilocation, and failures of Additivity. I then show that no currently existing theory of location built on just one primitive is able to account for all the cases that I have discussed. Lastly, I present a theory of location based on just one primitive which can account for all the discussed cases.",
       "authors": [
@@ -4657,6 +4605,20 @@
       "url": "https://doi.org/10.1017/s0008197326101731"
     },
     {
+      "abstract": "Abstract In this paper we argue that the thinking animal argument does not establish Animalism, i.e ., the view that human persons are biological animals with purely biological persistence conditions. While we accept that the argument is sound, we show that its soundness is consistent with the hybrid view of personal persistence, a view that is inconsistent with Animalism.",
+      "authors": [
+        "Benjamin L. Curtis",
+        "Harold Noonan"
+      ],
+      "date": "2026-09-22",
+      "doi": "10.1017/s0031819126101570",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "The Thinking Animal Argument is Not a Sound Argument for Animalism",
+      "url": "https://doi.org/10.1017/s0031819126101570"
+    },
+    {
       "abstract": "Abstract Scholars have read Leo Strauss’s Thoughts on Machiavelli (1958) as a theological-political treatise that offers timeless truths about politics. This article argues that it also aimed to convince American conservatives to embrace a muscular foreign policy. Strauss’s correspondence and seminar transcripts reveal that he wanted the United States to support embattled outposts of Western civilization and blamed Kant’s philosophy of history for enabling the rise of Nazism and communism. Thoughts on Machiavelli teaches American elites that politics often involves a choice among evils, strong leaders are necessary to found states, democracies are better than dictatorships at maintaining states, and propaganda can mobilize a multitude to join one’s army. The article shows that Strauss wanted to influence US policy regarding the State of Israel, Cuba, and Vietnam and deserves his reputation as the founder of neoconservatism.",
       "authors": [
         "Nicholas Tampio"
@@ -6515,6 +6477,45 @@
       "url": "https://doi.org/10.1017/lsr.2026.10119"
     },
     {
+      "abstract": "Abstract The traditional analysis of a priori warrant is negative: warrant for a belief is a priori just in case it does not depend on experience. To ward off obvious counterexamples, a standard exemption is made for learning experiences. In order to believe that the square root of two is irrational, I first needed to learn the relevant concepts, and this happened through experience. This standard exemption is not enough. I formed my warranted belief about the square root of two by reading the proof in Euclid’s Elements . This experience isn’t covered by the standard exemption, so the traditional analysis counts even basic mathematical beliefs as a posteriori . This is a disaster, but it can be fixed. The fix involves an ‘imagination test’ for determining which experiences are epistemically relevant and which are not. With the imagination test in hand, the negative approach may still provide the core of a satisfying analysis of the generative a priori , provided that various objections can be dealt with in a satisfying manner.",
+      "authors": [
+        "Jared Warren"
+      ],
+      "date": "2026-09-28",
+      "doi": "10.1017/s0031819126101442",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Analyzing the\n                    A Priori",
+      "url": "https://doi.org/10.1017/s0031819126101442"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Richard Healey"
+      ],
+      "date": "2026-09-28",
+      "doi": "10.1017/s0031819126101508",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Review -\n                    Morality and Responsibility\n                    by T. M. Scanlon, Polity Press, 2025, 272pp., £55 (hbk), ISBN: 9781509566969",
+      "url": "https://doi.org/10.1017/s0031819126101508"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Andreas Lammer"
+      ],
+      "date": "2026-09-28",
+      "doi": "10.1017/s003181912610151x",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Power and Possibility in Early Arabic Philosophy: Three Innovators between Philoponus and Avicenna\n                    by Nicholas Allan Aubin, Scientia graeco-arabica 37, Walter de Gruyter, 2024, ix+286pp., €149,95 (hbk), ISBN 978-3-11-132492-0",
+      "url": "https://doi.org/10.1017/s003181912610151x"
+    },
+    {
       "abstract": "",
       "authors": [
         "Lawrence A Alexander"
@@ -7749,6 +7750,19 @@
       "url": "https://doi.org/10.1017/glj.2026.10236"
     },
     {
+      "abstract": "Abstract Sometimes it seems that no matter how faultlessly we conduct ourselves, we cannot but fail in our obligations, making us apt to feel morally responsible. But according to the popular view I call ‘moralism’ about obligation, we cannot breach our obligations faultlessly, leading moralists to pathologize our feelings, or worse still, to find fault in our conduct. I argue that we should reject moralism, but that we should not do so in the ‘hard’ way, which denies the plausible claim that blameworthiness entails fault. Yet we cannot ‘soften’ our anti-moralism unless we can explain how ordinary agent-regret can rise to a ‘moral’ quality sufficient to do justice to the phenomenology. I offer the outline of a proposal according to which a failure to meet our obligations gives rise to agent-regret with the following ‘moral’ quality: it is extraordinarily hard to let go of or justifiably repress it.",
+      "authors": [
+        "Kenta Sekine"
+      ],
+      "date": "2026-10-01",
+      "doi": "10.1017/s0031819126101569",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "How to Avoid ‘Moralism’ about Obligation",
+      "url": "https://doi.org/10.1017/s0031819126101569"
+    },
+    {
       "abstract": "",
       "authors": [
         "Michael P. Zuckert"
@@ -8632,6 +8646,19 @@
       "url": "https://doi.org/10.1017/jme.2026.10292"
     },
     {
+      "abstract": "Abstract Rachael Wiseman (2019) has challenged the standard understanding of Wittgenstein’s Blue Book discussion of ‘two different cases in the use of the word “I”’. Wittgenstein is standardly read as identifying an important distinction between the use of ‘I’ as object, which involves the recognition of a person and is vulnerable to errors of misidentification, and the use of ‘I’ as subject, which involves no recognition of a person and is immune to error through misidentification. Wiseman argues that Wittgenstein does not in fact endorse such a distinction but warns against it. She contends that the standard interpretation ignores the context of the passage in the Blue Book discussion of solipsism and that it misunderstands the nature of self-consciousness. This paper defends the standard reading of Wittgenstein against Wiseman’s revisionary interpretation. It shows how it fits with his discussion of solipsism. And it defends the conception of self-consciousness it involves.",
+      "authors": [
+        "William Child"
+      ],
+      "date": "2026-10-02",
+      "doi": "10.1017/s0031819126101557",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Wittgenstein and Immunity to Error Through Misidentification",
+      "url": "https://doi.org/10.1017/s0031819126101557"
+    },
+    {
       "abstract": "Abstract In prominent legal historical works, Michael Clanchy and Stephen D. White constructed an important paradigm for medieval dispute settlement by adapting the phrase “law and love” from the Anglo-Norman Leges Henrici Primi . Yet, rarely has this aphorism’s background been explored. This article argues that “love or law” has roots in Viking-Age Scandinavia, where this Old Norse terminology represented a unique dynamic of dispute resolution revolving around harsh “law” pressuring parties to make “love” settlements outside of court. Contrasting sharply with Anglo-Saxon disputing norms centered on formal compensation tariffs, “love or law” found its way to England’s tenth-century Danelaw, first recorded in the Wantage Code. This alliterative pair continues in English writings, while “love-days” become a major cultural feature, and more broadly, the dynamic of threateningly punitive “law” inducing “love” agreements appears in action within early common law case records. In ways that recollect Icelandic and Danelaw practices, negotiated compensation occurring “under the shadow of law” may have been a major feature of medieval English dispute as hinted by our surviving sources. Scandinavian dispute concepts, occasionally coined by unique “love or law” vocabulary, may have had a subtle yet profound influence on some of the grounding assumptions of English common law.",
       "authors": [
         "Jake A. Stattel"
@@ -9254,6 +9281,19 @@
       "url": "https://doi.org/10.1017/epi.2026.10139"
     },
     {
+      "abstract": "Abstract Many critics have argued that Meursault, the protagonist of Albert Camus’s L’Étranger , is profoundly aware that life is absurd. In this paper, I argue that this is partially correct: although Meursault believes that life lacks meaning (the existential lack), he has also failed to acknowledge the need for meaning (the existential demand). Since the Camusian account of the absurd involves both an existential demand and an existential lack, Meursault initially fails to completely recognize the absurdity of life. I analyze his initial failure to acknowledge the existential demand, its subsequent coming into conscious awareness in the second half of the novella, how it could have been out of awareness in the first place, and how the possibility of proactively pursuing a meaningful life is forlorn once he has become aware of the existential demand, which explains his sense of guilt at the end of the novella. This analysis offers crucial insight into both the phenomenology of the absurd and the normative implications that follow from the absurdity of life. The story, in short, implores us to embrace the existential demand – not only for the sake of integrity, but also to guide us towards a more meaningful life.",
+      "authors": [
+        "Thom Hamer"
+      ],
+      "date": "2026-10-06",
+      "doi": "10.1017/s0031819126101582",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Coming to Terms with the Need for Meaning: How an Existential Demand Awakens in Camus’s\n                    L’Étranger",
+      "url": "https://doi.org/10.1017/s0031819126101582"
+    },
+    {
       "abstract": "",
       "authors": [],
       "date": "2026-10-06",
@@ -9427,6 +9467,19 @@
       "origin": "crossref",
       "title": "JUDICIAL REVIEW AND CIVIL APPEALS: COMMON GROUNDS",
       "url": "https://doi.org/10.1017/s0008197326101743"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Anna Giustina"
+      ],
+      "date": "2026-10-07",
+      "doi": "10.1017/s0031819126101545",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Review -\n                    Introspection: First-Person Access in Science and Agency\n                    by Maja Spener, Oxford University Press, 2024, 236pp., £78 (hbk), ISBN 9780198867449 doi: 10.1093/oso/9780198867449.001.0001",
+      "url": "https://doi.org/10.1017/s0031819126101545"
     },
     {
       "abstract": "",
@@ -10003,6 +10056,19 @@
       "origin": "crossref",
       "title": "Toward understanding AI adoption in the Global South: an empirical study of creative practitioners’ experiences in Iran",
       "url": "https://doi.org/10.1007/s43681-026-01437-0"
+    },
+    {
+      "abstract": "I start by assembling three images, the first and third of which can be found online.",
+      "authors": [
+        "Clare Mac Cumhaill"
+      ],
+      "date": "2026-10-09",
+      "doi": "10.1017/s0031819126101600",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "‘Are there no foxes in the human soul?’ A Midgleyean Metaphysics for Mixed Communities",
+      "url": "https://doi.org/10.1017/s0031819126101600"
     },
     {
       "abstract": "Abstract Scholarship about the Chinese Question has largely understood it as a “coolie” question, but what if it was reframed in terms of merchants? Well-studied US anti-Chinese laws like the 1882 Chinese Exclusion Act targeted working-class rather than elite Chinese, like merchants and students. But in 1921, the US-controlled Insular Government in the Philippines enacted a statute known as the Chinese Bookkeeping Act (Act No. 2972), marking a moment when US Chinese exclusion laws were directed toward businessowners. The act banned Chinese-language record-keeping and affected merchants ranging from small storeowners to multi-millionaire tycoons. A group of Chinese merchants in the Philippines sued the colonial government and appealed their case to the US Supreme Court, which ruled the Bookkeeping Act unconstitutional in 1926. For the “coolie” Chinese question, the US Supreme Court said “yes” to exclusion, but for the merchant Chinese question, the Court said “no.” The Court’s rejection of a merchant Chinese exclusion became part of the Philippines’ transformation into a US colony. In relation to a patriotic Filipino capital and unmarked Euro-American capital, Chinese capital won rights even as it was framed within US law as “alien” by American and Filipino judges and politicians and, surprisingly, by the Chinese merchants themselves.",
@@ -11581,6 +11647,106 @@
     },
     {
       "abstract": "",
+      "authors": [],
+      "date": "2026-10-16",
+      "doi": "10.1017/s0031819125101071",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "PHI volume 101 issue 4 Cover and Front matter",
+      "url": "https://doi.org/10.1017/s0031819125101071"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "date": "2026-10-16",
+      "doi": "10.1017/s0031819125101083",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "PHI volume 101 issue 4 Cover and Back matter",
+      "url": "https://doi.org/10.1017/s0031819125101083"
+    },
+    {
+      "abstract": "Abstract Traditional conceptual analysis is the most common method used when accounting for the nature of blame. The method of traditional conceptual analysis fails in this endeavor, however, when met with particular counterexamples that present false positives and negatives. Recently this problem in accounting for the nature of blame has led philosophers to explore new methods. The newcomers are functional theories of blame , and paradigm-based explanations of blame . In this paper I explore whether these theories fare better in accounting for the full nature of our blaming practices. I argue that the extant accounts face a problem when determining the paradigm-example and the function of blame: They either end up with a circular explanation, or they revert to traditional conceptual analysis. To avoid circularity and reliance on necessary or sufficient conditions, I argue that a functional account must start by determining the function of blame. To determine the function I look closer at what happens if we fail to blame. Situations where we fail to blame, I argue, show us the functional role of blame. I conclude that we blame someone for wronging us because we need to protect our understanding of moral worth against the threat implicit in this wrongdoing.",
+      "authors": [
+        "Maria Seim"
+      ],
+      "date": "2026-10-16",
+      "doi": "10.1017/s0031819126101466",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "A Better Method for Blame: Functional and Paradigm-based Accounts",
+      "url": "https://doi.org/10.1017/s0031819126101466"
+    },
+    {
+      "abstract": "Abstract This article offers a new interpretation of moral knowledge in Wang Yangming’s 王陽明 philosophy, emphasizing its embodied foundations and practical significance. I advance two central claims. First, although moral knowledge ( liangzhi 良知) is often construed as an internal mental sense to know right from wrong, Wang’s writings reveal its deeper grounding in bodily perception, particularly in the perception of pain. Second, while the extension of moral knowledge ( zhi liangzhi 致良知) is typically understood as an inward process of correcting one’s mental states, Wang understands it more fundamentally as the practice of recognizing the affective interconnectedness and mutual resonance between oneself and other beings. Drawing on close readings of Wang’s key texts, informed by comparative and interdisciplinary perspectives, I argue that this embodied and relational account both deepens our understanding of the unity of knowledge and action in Wang’s thought and enriches contemporary discussions of moral motivation.",
+      "authors": [
+        "Chi-keung Chan"
+      ],
+      "date": "2026-10-16",
+      "doi": "10.1017/s0031819126101533",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Pain and Moral Knowledge",
+      "url": "https://doi.org/10.1017/s0031819126101533"
+    },
+    {
+      "abstract": "Niko Kolodny’s The Pecking Order includes a ‘book-length treatment’ of the idea of an ‘equal say’ (6) that is ubiquitous in commonplace talk and philosophical reflection about democracy. 1 In this commentary I concentrate on the account of political representation that forms a main part of the ‘treatment’. That account places democratic representative institutions within a larger framework animated by the thought – a ‘positive conjecture’ – that we have non-derivative claims against being placed in ‘untempered relations of inferiority’ (126) with individuals who wield the power and authority of the state. The principal challenge is to identify conditions under which we might regard these relations as sufficiently tempered to be unobjectionable. Kolodny’s book offers a doctrine of ‘primary’ and ‘secondary tempering factors’ whose satisfaction is claimed to render hierarchical social relations like those that constitute political representation acceptable, or as much so as we might reasonably expect.",
+      "authors": [
+        "Charles R. Beitz"
+      ],
+      "date": "2026-10-16",
+      "doi": "10.1017/s0031819126101612",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Tempering Political Inferiority: How Does Representation Matter?",
+      "url": "https://doi.org/10.1017/s0031819126101612"
+    },
+    {
+      "abstract": "I come as an interloper in political theory, but I am honoured and excited to have been invited to interlope, and I have already learned so much from Niko Kolodny’s book. I am sure I will stumble into issues with the naivety of an outsider – but I hope that might be of some use.",
+      "authors": [
+        "Pamela Hieronymi"
+      ],
+      "date": "2026-10-16",
+      "doi": "10.1017/s0031819126101624",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Discontent with the Benevolent Despot, Varieties thereof: Comments on Niko Kolodny’s\n                    The Pecking Order",
+      "url": "https://doi.org/10.1017/s0031819126101624"
+    },
+    {
+      "abstract": "Much in our interior mental lives and in our exterior social structures presupposes that we, human beings, are conscious of social hierarchy, of differences in rank and status. We are ‘conscious’ of hierarchy in both senses of the word: ‘aware’ of and ‘anxious’ about. This consciousness seems rooted in our natural history. Many social animals are likewise preoccupied with ‘pecking order’. These animals include not only chickens, who literally peck, but also our closest primate relatives. And this consciousness of hierarchy, transformed by our species’ special bent for symbol and self-reflection, has driven much of our non-natural history. The main chapters of the human story might be defined by the prevailing answers to the questions of who among us, if anyone, would be above, and who, if anyone, would be below. For most of the career of Homo sapiens , we appear to have lived in societies that were predominantly and often vigilantly egalitarian, at least for adult men. At various times and places, this was eventually upended, with the great many being subordinated, in enduring ways, to the very few. The birth of enduring hierarchy was no easy delivery, apparently having to be midwifed by the coordinated manipulation of superstition and the control, by violence, of food stores. Modernity, albeit not without precedents, is in large part the tale – at times inspiring, at times cautionary – of our experiments with reconciling the equality of individuals with the differentiation of roles and concentrations of power and authority of large-scale, complex societies – with, in one sense of the word, civilization. If we take the longest historical view, therefore, the questions that this has been exploring may be among the first questions of politics. These questions are: First, what is social hierarchy? Second, do we have an objection to being set beneath another in a social hierarchy – standing in a relation of inferiority to another – as such? Third, if there is such an objection, how then do we reconcile ourselves to a social world that seems rife with hierarchy? That is, if complex, large-scale society – if, in one sense of the word, civilization – requires a differentiation of roles and a concentration of power and authority, can it be reconciled with the equality of standing that was guarded so jealously before? The Pecking Order seeks to bring these questions into more explicit, philosophical reflection. This precis tries to convey a bit of what the book has to say about these questions as well as to note some second thoughts and responses to a few specific criticisms.",
+      "authors": [
+        "Niko Kolodny"
+      ],
+      "date": "2026-10-16",
+      "doi": "10.1017/s0031819126101636",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Precis of\n                    The Pecking Order",
+      "url": "https://doi.org/10.1017/s0031819126101636"
+    },
+    {
+      "abstract": "Let me take up the second of the two questions first, about whether the asymmetries associated with a representative system might answer to values other than tempering inferiority. As Beitz observes, my stance is already pluralistic. In addition to claims against inferiority, there are also rights against invasion and claims to improvement. So, it remains open to me to grant that representative institutions reflect a compromise between noninferiority and other values. The idea would be, in other words, that the move from direct to representative democracy involves some cost in terms of inferiority, but this is compensated for by the gain in noninvasion and improvement, as well as perhaps still other values. Indeed, the move from direct to representative democracy, while involving a cost in terms of inferiority along one dimension, may alleviate inferiority along another dimension, such as if representative democracy leads to better protections against discrimination.",
+      "authors": [
+        "Niko Kolodny"
+      ],
+      "date": "2026-10-16",
+      "doi": "10.1017/s0031819126101648",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Reply to the Symposium on\n                    The Pecking Order",
+      "url": "https://doi.org/10.1017/s0031819126101648"
+    },
+    {
+      "abstract": "",
       "authors": [
         "Maria Tzanakopoulou"
       ],
@@ -12260,6 +12426,40 @@
       "url": "https://doi.org/10.1093/pq/pqag078"
     },
     {
+      "abstract": "ABSTRACT This article examines a document that the ChatGPT interface made available during an exchange about capacity for saved memories. The response presented the reorganisation of writing rules for a narrative project as already completed, although my request concerned capacity alone, and no recorded prompt requested a file or specified the proposed hierarchy. Earlier, I had copied every visible saved memory entry verbatim into another document, allowing comparison in both directions to identify corresponding formulations and changes in their placement or prescriptive force. The phenomenological account follows my remembered reading and remains separate from those findings. In the linked document, rules appeared within a hierarchy not specified in my request and reading those formulations in their new positions changed how I understood decisions. Available records establish the limited request and the sequence through which the organised file became available without identifying the operations that produced the file. In this case, I formulated the rules without articulating their comprehensive relations, and recognising my formulations did not mean understanding what their new placement asserted. ChatGPT presented the organisation as already complete, whereas a human collaborator could have presented the same arrangement together with reasons.",
+      "authors": [
+        "Stefano Ramello"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1111/theo.70127",
+      "journal": "Theoria",
+      "journal_id": "J094",
+      "origin": "crossref",
+      "title": "A Document Beyond the Request: A Phenomenological Case Study of\n                    ChatGPT",
+      "url": "https://doi.org/10.1111/theo.70127"
+    },
+    {
+      "abstract": "Are stringent vaccine promotion policies associated with higher vaccine uptake? We argue policy stringency, which changes the costs and benefits of immunisation choices, can affect individual vaccination decisions. In a survey of G-7 countries, 22% of respondents ( n = 42,417) said they did not trust the Covid-19 vaccine, but half of them reported having at least one vaccination. We investigate factors associated with take-up. Our data indicate a high-stringency policy environment (with vaccine mandates and travel restrictions) is associated with increased uptake of the initial vaccination protocol (7 percentage points) compared to a low-stringency policy environment. Among those who did not trust the Covid-19 vaccine, a high-stringency policy environment is associated with increased uptake of the initial vaccine (16 percentage points) and the booster vaccine (20 percentage points). Our findings suggest high-stringency policies can promote vaccine uptake but raise questions about how to strike the right balance between persuasive and coercive policies.",
+      "authors": [
+        "Manu M. Savani",
+        "Richard Koenig",
+        "Brendan Nyhan",
+        "Sanchayan Banerjee",
+        "Andrew Hunter",
+        "Peter John",
+        "Blake Lee-Whiting",
+        "Peter John Loewen",
+        "John McAndrews"
+      ],
+      "date": "2026-10-19",
+      "doi": "10.1177/00323217261484277",
+      "journal": "Political Studies",
+      "journal_id": "J032",
+      "origin": "crossref",
+      "title": "Stringent policies were associated with greater Covid-19 vaccine uptake including among those who did not trust the vaccine",
+      "url": "https://doi.org/10.1177/00323217261484277"
+    },
+    {
       "abstract": "This article argues that the existence of financial institutions considered ‘too big to fail’ (TBTF) represents a systemic injustice requiring fundamental reform of the existing financial system. Drawing on and extending recent work on structural domination in republican political theory, the article develops the concept of ‘systemic institutional domination’ to capture the distinctive form of unfreedom that TBTF engenders. Systemic institutional domination is a reflexive form of domination, where the democratic state is subjected to uncontrolled power vested in identifiable financial institutions but grounded in the norms, rules and regulations of the financial system that the state itself enacts and upholds. Because the dominated public institution is at once the constitutive author of the system and the only agent capable of reforming it, TBTF confronts republican theory with a case of second-order domination: domination of the institution charged with securing nondomination. The article identifies four dimensions of systemic domination: effective compulsion to bail out failing megabanks; de facto legal impunity; the systematic subversion of tax enforcement; and background consolidatory pressure on public finances. The article concludes by discussing the democratic paradox involved in abolishing TBTF: namely, that the dominated institution – the democratic state – is the only institution that could reform the dominating system.",
       "authors": [
         "Malte Frøslee Ibsen"
@@ -12271,9 +12471,242 @@
       "origin": "crossref",
       "title": "Too big to fail: On a systemic injustice of modern finance",
       "url": "https://doi.org/10.1177/14748851261499651"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Pier Franco Luigi Fraboni",
+        "Luca Baccarini",
+        "Giorgia Moschini",
+        "Lucia Pizzichini"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1007/s10551-026-06499-y",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Rethinking Ethical Employment Pathways for People with Intellectual Disabilities: A Systemic Nested Alliances Model",
+      "url": "https://doi.org/10.1007/s10551-026-06499-y"
+    },
+    {
+      "abstract": "Abstract Many philosophers understand logic as a theory of truth preservation that is value-neutral and becomes prescriptive only when combined with external, non-logical rules. In this article, we develop an alternative view informed by recent work in the philosophy of scientific modeling. We argue that certain logical systems, in certain scientific and philosophical practices, are used as normative scientific models: they represent their targets by combining descriptive idealizations with assumptions adopted—and defended—on normative grounds. We propose a practice-based account of normative models in science, according to which the normative character of a model depends on its use in the relevant research practice, and apply it to the case of classical first-order logic, in its uses as a model of correct reasoning. Finally, we show how our proposal opens up a new perspective on several contemporary debates in the philosophy of logic.",
+      "authors": [
+        "Matteo De Benedetto",
+        "Matìas Osta-Vèlez"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1007/s10670-026-01162-4",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Logic as Normative Modeling",
+      "url": "https://doi.org/10.1007/s10670-026-01162-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sukru Mehmet Erturk",
+        "Sıtkı Safa Taflan"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1007/s10676-026-09930-0",
+      "journal": "Ethics and Information Technology",
+      "journal_id": "J064",
+      "origin": "crossref",
+      "title": "Beyond blanket prohibition: generative ai, accountable authorship, and the genealogy of thought",
+      "url": "https://doi.org/10.1007/s10676-026-09930-0"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ke Zhang"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1007/s10677-026-10587-3",
+      "journal": "Ethical Theory and Moral Practice",
+      "journal_id": "J054",
+      "origin": "crossref",
+      "title": "The Aspiration of a Future Death Metal Fanatic",
+      "url": "https://doi.org/10.1007/s10677-026-10587-3"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mohammad Emdadi Masuleh"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1007/s10790-026-10121-9",
+      "journal": "The Journal of Value Inquiry",
+      "journal_id": "J056",
+      "origin": "crossref",
+      "title": "Reconsidering Charity in Relation to Social Justice: An Argument for Normative Complementarity",
+      "url": "https://doi.org/10.1007/s10790-026-10121-9"
+    },
+    {
+      "abstract": "Abstract This paper develops an axiomatic framework for a non-referential theory of meaning by formally characterizing intra-theoretical synonymy through inferential and syntactic criteria rather than through reference or truth conditions. Building on formalist and inferentialist traditions, a series of axioms are proposed that satisfy basic semantic principles such as theory-dependence, semantic holism, and (restricted) compositionality. The resulting systems ( TS 0 and its extensions) satisfy these principles to progressively greater degrees, yielding a sufficiently fine-grained notion of synonymy. The framework thus shows that equality of meaning can be characterized in non-referential terms, while illuminating the limits of non-referential meaning.",
+      "authors": [
+        "Mirko Engler"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1007/s11229-026-05847-9",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Towards a non-referential theory of meaning: intra-theoretical synonymy",
+      "url": "https://doi.org/10.1007/s11229-026-05847-9"
+    },
+    {
+      "abstract": "Abstract Some people are safe from harm yet remain in positions where things could easily go badly for them. Their proximity to worlds where something bad happens to them makes their situation ethically precarious. In some worlds, they are excluded, punished, or abandoned, which deserves attention in its own right. We argue that this is not just a matter of risk or harm, but about how people are placed within the space of possible worlds. We explain this through a modal account of difference-making and use it to highlight attitudinal responses fitting to fragility and introduce duties of modal security: moral reasons to protect one another from positions where small changes could lead to significant loss.",
+      "authors": [
+        "Andrés G. Garcia",
+        "Mattias Gunnemyr"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1007/s11229-026-05849-7",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Fragile lives and moral duties: on the ethics of modal security",
+      "url": "https://doi.org/10.1007/s11229-026-05849-7"
+    },
+    {
+      "abstract": "Abstract Metaphors in science communication do more than simplify complex ideas; they impose certain epistemic frameworks with the potential to steer public attitudes and behavior. In this paper, we investigate the effects of metaphorical framing on public understanding and evaluation of de-extinction, a field where dominant metaphors (“resurrection,” “bringing back to life”) have been criticized for mischaracterizing the technology and fostering undue optimism. We presented a nationally representative sample of the Spanish population ( N = 1,522) with popular science descriptions of de-extinction that varied only in metaphorical framing and assessed its downstream effects on misinformation, perceived scientific rigor, attitudes, funding preferences, and sharing intentions. Promotional metaphors increased misinformation relative to the neutral condition, while critical metaphors reduced it. These effects occurred without altering readers’ perception of the text’s scientific rigor—a dissociation we characterize as credibility without comprehension . Critical metaphors also reduced support for de-extinction, whereas promotional metaphors did not boost support above baseline levels in the neutral condition. Funding allocations and sharing intentions, though related to misinformation, were unaffected by metaphorical framing. We propose that metaphors function as epistemic conditioning devices : they influence downstream judgments not through direct persuasion, but by structuring the understanding upon which those judgments are formed. These findings bear on philosophical debates about the role of metaphors in science, the epistemic preconditions of democratic engagement with emerging technologies, and the limits of lexical precision as a remedy for public misinformation.",
+      "authors": [
+        "Mikel Asteinza",
+        "Hugo Viciana",
+        "Ivar R. Hannikainen"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1007/s11229-026-05854-w",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "De-extinction, resurrection and biological Frankensteins: scientific metaphors and their impact on public perception",
+      "url": "https://doi.org/10.1007/s11229-026-05854-w"
+    },
+    {
+      "abstract": "Abstract In the field of mental health, the role of Experts by Experience (ExE) has been gaining increasing attention. However, theoretical research on this topic remains limited, leaving it unclear how ExE can contribute to improving psychiatric research and services. In this paper, I propose two explanations for the contributions of ExE, drawing on perspectives from feminist philosophy of science. The first explanation focuses on the epistemic capabilities of ExE, grounded in standpoint theory. This approach highlights the unique individual potential of ExE as a factor that enhances psychiatric research and services. The second explanation underscores the epistemic diversity between ExE and professionals in research and/or service contexts, focusing on the value of epistemic diversity within teams and communities. The main difference is that epistemic capabilities focus on the individual, while epistemic diversity focuses on the collective. I argue that these two explanatory models should be chosen based on research design, but in the context of psychiatric PPI, considering ExE participation not only in terms of standpoint but also in terms of epistemic diversity may suggest a more inclusive approach to PPI.",
+      "authors": [
+        "Mitsue Sugimoto"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1007/s11229-026-05862-w",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Two explanations of experts by experience in psychiatry: epistemic capabilities or epistemic diversity",
+      "url": "https://doi.org/10.1007/s11229-026-05862-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Bridget J. Crawford"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1017/lsr.2026.10112",
+      "journal": "Law &amp; Society Review",
+      "journal_id": "J020",
+      "origin": "crossref",
+      "title": "The House That Family Money Built: How Inequality Governs Debt and Wealth Management\n                    . By Allison Anna Tait. Oakland: University of California Press, 2026.",
+      "url": "https://doi.org/10.1017/lsr.2026.10112"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ying-hsueh Chen"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1093/icon/moag100",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
+      "origin": "crossref",
+      "title": "Florian Couveinhes Matsumoto & Nathalie Clarenc Bicudo eds.\n                    Le Rojava démocratique et le droit",
+      "url": "https://doi.org/10.1093/icon/moag100"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "date": "2026-10-20",
+      "doi": "10.1093/jmp/jhag037",
+      "journal": "The Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine",
+      "journal_id": "J069",
+      "origin": "crossref",
+      "title": "To Our Guest Reviewers: Thank You",
+      "url": "https://doi.org/10.1093/jmp/jhag037"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Nicholas Drake"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1111/josp.70066",
+      "journal": "Journal of Social Philosophy",
+      "journal_id": "J035",
+      "origin": "crossref",
+      "title": "Wellbeing Frameworks and Future Generations",
+      "url": "https://doi.org/10.1111/josp.70066"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Hazem Zohny",
+        "Ilina Singh",
+        "Julian Savulescu"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1136/jme-2025-111546",
+      "journal": "Journal of Medical Ethics",
+      "journal_id": "J067",
+      "origin": "crossref",
+      "title": "From principles to practice: an Implementation Decision-Tool for Ethical AI in clinical governance",
+      "url": "https://doi.org/10.1136/jme-2025-111546"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jordan Sibeoni",
+        "Laurence Verneuil",
+        "Anne Revah-Levy"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1136/jme-2026-111831",
+      "journal": "Journal of Medical Ethics",
+      "journal_id": "J067",
+      "origin": "crossref",
+      "title": "Giving voice without guardrails: lived experience and the ethics of epistemic mediation in public health",
+      "url": "https://doi.org/10.1136/jme-2026-111831"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Simon Walker",
+        "Sinead Donnelly",
+        "John McMillan"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1136/jme-2026-112130",
+      "journal": "Journal of Medical Ethics",
+      "journal_id": "J067",
+      "origin": "crossref",
+      "title": "Structural realities and personal impact: how ethics teaching can prepare students for early clinical practice",
+      "url": "https://doi.org/10.1136/jme-2026-112130"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Krzysztof Głowacki"
+      ],
+      "date": "2026-10-20",
+      "doi": "10.1163/17455243-bja10230",
+      "journal": "Journal of Moral Philosophy",
+      "journal_id": "J070",
+      "origin": "crossref",
+      "title": "Hobbes and Political Contractarianism: Selected Writings, written by D. P. Gauthier",
+      "url": "https://doi.org/10.1163/17455243-bja10230"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-20",
-  "window_start": "2026-09-05"
+  "window_end": "2026-10-21",
+  "window_start": "2026-09-06"
 }

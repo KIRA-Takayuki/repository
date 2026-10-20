@@ -1,4 +1,4 @@
-"""144-journal incremental digest monitor; fail closed on uncertain journal identity."""
+"""Incremental journal metadata monitor; fail closed on uncertain journal identity."""
 from __future__ import annotations
 import argparse
 import datetime as dt
@@ -11,9 +11,10 @@ import time
 import unicodedata
 from collections import Counter
 
-# The six publishers prioritized by the user (plus University of Chicago's Ethics).
+# Seven prioritized publishers; journal counts are derived from the manifest.
 MAJOR_PUBLISHERS = frozenset({'Springer Nature', 'Cambridge University Press', 'Wiley',
-                              'Oxford University Press', 'SAGE'})
+                              'Oxford University Press', 'SAGE', 'Taylor & Francis',
+                              'University of Chicago Press'})
 from pathlib import Path
 from typing import Any
 
@@ -244,8 +245,8 @@ def digest_text(entries: list[dict], journals: dict, report: dict):
     counts=report['counts']
     major=report.get('major_publishers',{})
     lines += ['【調査状況】',
-              f'大手6社80誌：API照会成功 {major.get("checked",0)}誌／未解決・取得失敗 {80-major.get("checked",0)}誌。',
-              f'全144誌：API照会成功 {counts.get("checked",0)}誌／識別子未解決 {counts.get("unresolved",0)}誌／取得失敗 {counts.get("failed",0)}誌／件数上限 {counts.get("truncated",0)}誌。',
+              f'主要7出版社{major.get("total",0)}誌：API照会成功 {major.get("checked",0)}誌／未解決・取得失敗等 {major.get("total",0)-major.get("checked",0)}誌。',
+              f'全{report.get("journal_total",0)}誌：API照会成功 {counts.get("checked",0)}誌／識別子未解決 {counts.get("unresolved",0)}誌／取得失敗 {counts.get("failed",0)}誌／件数上限 {counts.get("truncated",0)}誌。',
               'これはCrossref/OpenAlex等の機械照会状況であり、出版社新着ページの直接確認ではない。',
               '初回オンライン公開日と研究論文かどうかを検証した後にのみ新着として紹介する。']
     return '\n'.join(lines)+'\n'
@@ -259,9 +260,9 @@ def run(argv=None):
     parser.add_argument('--limit-journals',type=int,default=0)
     opt=parser.parse_args(argv)
     source=json_read(DATA,{})
-    assert source.get('total')==144 and len(source['journals'])==144, 'journal manifest must contain 144'
+    assert isinstance(source.get('journals'),list) and source.get('total')==len(source['journals']), 'journal manifest count mismatch'
     seen_ids=[j['id'] for j in source['journals']]
-    assert len(set(seen_ids))==144
+    assert len(set(seen_ids))==len(seen_ids), 'duplicate journal IDs'
     jmap={j['id']:j for j in source['journals']}
     reg=json_read(REGISTRY,{})
     state=json_read(STATE,{'sent_dois':{},'first_run':True})
@@ -271,11 +272,11 @@ def run(argv=None):
     # Initial run is strictly bounded; later runs look back to catch late metadata updates.
     start=now - dt.timedelta(days=7 if state.get('first_run',True) else max(1,opt.days))
     status={};candidates={};errors=[]
-    # Stable partition: all 80 major-publisher titles are queried before the other 64.
+    # Stable partition: query all major-publisher titles before the other titles.
     def is_priority(j):
-        return j['platform'] in MAJOR_PUBLISHERS or j['journal'] == 'Ethics'
+        return j['platform'] in MAJOR_PUBLISHERS
     ordered_journals = sorted(source['journals'], key=lambda j: 0 if is_priority(j) else 1)
-    assert sum(is_priority(j) for j in ordered_journals) == 80
+    priority_count = sum(is_priority(j) for j in ordered_journals)
     journals=ordered_journals[:opt.limit_journals] if opt.limit_journals else ordered_journals
     for index,j in enumerate(journals,1):
         jid=j['id']
@@ -318,7 +319,7 @@ def run(argv=None):
             print(f'checked {index}/{len(journals)} journals',flush=True)
     json_write(REGISTRY,reg)
     counts=Counter(x['status'] for x in status.values())
-    report={'checked_at_utc':dt.datetime.now(dt.timezone.utc).isoformat(), 'window_start':start.isoformat(),
+    report={'journal_total':len(source['journals']), 'checked_at_utc':dt.datetime.now(dt.timezone.utc).isoformat(), 'window_start':start.isoformat(),
             'window_end':now.isoformat(),'counts':dict(counts),'journal_status':status,
             'possible_new_count':len(candidates),'mail_sent':False,'dry_run':opt.dry_run}
     # Persist diagnostic report even if later mail sending fails.
@@ -331,7 +332,7 @@ def run(argv=None):
     major_ids={j['id'] for j in source['journals'] if is_priority(j)}
     major_status={jid:v for jid,v in status.items() if jid in major_ids}
     report['major_publishers']={
-        'total':80,
+        'total':len(major_ids),
         'checked':sum(1 for v in major_status.values() if v['status']=='checked'),
         'unresolved':sum(1 for v in major_status.values() if v['status']=='unresolved'),
         'failed':sum(1 for v in major_status.values() if v['status']=='failed'),

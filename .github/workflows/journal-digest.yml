@@ -1,4 +1,4 @@
-name: 144-Journal Metadata Monitor
+name: 145-Journal Metadata Monitor
 on:
   workflow_dispatch:
     inputs:
@@ -34,13 +34,17 @@ jobs:
           journals = json.loads(Path('data/journals.json').read_text(encoding='utf-8'))['journals']
           registry = json.loads(Path('state/registry.json').read_text(encoding='utf-8'))
           major = {'Springer Nature', 'Cambridge University Press', 'Wiley',
-                   'Oxford University Press', 'SAGE'}
-          selected = [j for j in journals if j['platform'] in major or j['journal'] == 'Ethics']
-          assert len(journals) == 144 and len(selected) == 80
-          assert all(registry[j['id']].get('issn') for j in selected), 'ISSN not set for major title'
-          print('Manifest validated: 144 total and 80 priority journals with ISSNs')
+                   'Oxford University Press', 'SAGE', 'Taylor & Francis', 'University of Chicago Press'}
+          selected = [j for j in journals if j['platform'] in major]
+          assert len(journals) == 145 and len(selected) == 90
+          assert len({j['id'] for j in journals}) == len(journals), 'Duplicate journal ID'
+          philosophy = next(j for j in journals if j['journal'] == 'Philosophy')
+          assert philosophy['site'] == 'https://www.cambridge.org/core/journals/philosophy/firstview'
+          assert registry[philosophy['id']]['issn'] == '0031-8191'
+          missing = [j['journal'] for j in selected if not registry.get(j['id'],{}).get('issn')]
+          print(f'Manifest validated: {len(journals)} total, {len(selected)} priority. Missing ISSNs: {missing}')
           PY
-      - name: Collect metadata for all 144 journals (major 80 first)
+      - name: Collect metadata for all 145 journals (major 90 first)
         env:
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}

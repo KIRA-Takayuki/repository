@@ -1676,5 +1676,18 @@
     ],
     "openalex_id": null,
     "status": "identified"
+  },
+  "J145": {
+    "issn": "0031-8191",
+    "issns": [
+      "0031-8191",
+      "1469-817X"
+    ],
+    "name": "Philosophy",
+    "notes": [
+      "Print ISSN 0031-8191 and electronic ISSN 1469-817X verified on Cambridge Core FirstView 2026-10-21"
+    ],
+    "openalex_id": null,
+    "status": "identified"
   }
 }

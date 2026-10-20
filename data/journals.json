@@ -1,8 +1,8 @@
 {
   "source": "User-uploaded journal_list(3).html",
   "extracted_on": "2026-10-16",
-  "total": 144,
-  "note": "These are the 144 requested journals, not 144 completed checks. ISSN and source IDs await validation.",
+  "total": 145,
+  "note": "145 journals (original 144 plus Philosophy, Cambridge University Press FirstView, added 2026-10-21). New additions retain stable IDs.",
   "journals": [
     {
       "id": "J001",
@@ -2062,6 +2062,21 @@
       "last_check": null,
       "check_status": "not_checked",
       "last_new_doi": null
+    },
+    {
+      "id": "J145",
+      "category": "哲学一般",
+      "journal": "Philosophy",
+      "site": "https://www.cambridge.org/core/journals/philosophy/firstview",
+      "domain": "www.cambridge.org",
+      "platform": "Cambridge University Press",
+      "issn": "0031-8191",
+      "openalex_id": null,
+      "source_method": "crossref+openalex+publisher",
+      "last_check": null,
+      "check_status": "not_checked",
+      "last_new_doi": null,
+      "abbrev": "Philosophy"
     }
   ]
 }

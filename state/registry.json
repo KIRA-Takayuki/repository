@@ -931,15 +931,17 @@
     "status": "identified"
   },
   "J083": {
-    "issn": null,
-    "issns": [],
+    "issn": "1571-8190",
+    "issns": [
+      "1571-8190",
+      "0040-7585"
+    ],
     "name": "Tijdschrift voor Rechtsgeschiedenis / Revue d’histoire du droit / The Legal History Review",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex: no exact title match"
+      "Confirmed online and print ISSNs in the ISSN International Centre catalogue; Yale print ISSN also confirmed by publisher. 2026-10-21"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J084": {
     "issn": null,
@@ -1283,15 +1285,17 @@
     "status": "identified"
   },
   "J112": {
-    "issn": null,
-    "issns": [],
+    "issn": "1939-8611",
+    "issns": [
+      "1939-8611",
+      "0044-0094"
+    ],
     "name": "Yale Law Journal",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex: no exact title match"
+      "Confirmed online and print ISSNs in the ISSN International Centre catalogue; Yale print ISSN also confirmed by publisher. 2026-10-21"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J113": {
     "issn": "0010-1958",
@@ -1467,15 +1471,17 @@
     "status": "identified"
   },
   "J127": {
-    "issn": null,
-    "issns": [],
+    "issn": "2366-7117",
+    "issns": [
+      "2366-7117",
+      "1431-5726"
+    ],
     "name": "Journal of Japanese Law",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex: no exact title match"
+      "Confirmed online and print ISSNs in the ISSN International Centre catalogue; Yale print ISSN also confirmed by publisher. 2026-10-21"
     ],
     "openalex_id": null,
-    "status": "unresolved"
+    "status": "identified"
   },
   "J128": {
     "issn": "0766-3838",

@@ -58,17 +58,17 @@
     "status": "identified"
   },
   "J006": {
-    "name": "Jurisprudence",
     "issn": "2040-3321",
     "issns": [
       "2040-3321",
       "2040-3313"
     ],
-    "openalex_id": null,
-    "status": "identified",
+    "name": "Jurisprudence",
     "notes": [
       "Publisher-verified ISSN (Taylor & Francis journal information), 2026-10-21"
-    ]
+    ],
+    "openalex_id": null,
+    "status": "identified"
   },
   "J007": {
     "issn": "0065-8995",
@@ -230,17 +230,17 @@
     "status": "identified"
   },
   "J021": {
-    "name": "Law and Literature",
     "issn": "1541-2601",
     "issns": [
       "1541-2601",
       "1535-685X"
     ],
-    "openalex_id": null,
-    "status": "identified",
+    "name": "Law and Literature",
     "notes": [
       "Publisher-verified ISSN (Taylor & Francis journal information), 2026-10-21"
-    ]
+    ],
+    "openalex_id": null,
+    "status": "identified"
   },
   "J022": {
     "issn": "0924-8463",
@@ -425,17 +425,17 @@
     "status": "identified"
   },
   "J038": {
-    "name": "Critical Review of International Social and Political Philosophy",
     "issn": "1743-8772",
     "issns": [
       "1743-8772",
       "1369-8230"
     ],
-    "openalex_id": null,
-    "status": "identified",
+    "name": "Critical Review of International Social and Political Philosophy",
     "notes": [
       "Publisher-verified ISSN (Taylor & Francis journal information), 2026-10-21"
-    ]
+    ],
+    "openalex_id": null,
+    "status": "identified"
   },
   "J039": {
     "issn": "1470-594X",

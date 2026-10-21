@@ -1,12 +1,16 @@
 {
-  "candidate_count": 932,
-  "checked_at_utc": "2026-10-20T23:10:34.647808+00:00",
+  "candidate_count": 948,
+  "candidate_count_scope": "Lookback cache, NOT verified new research papers",
+  "checked_at_utc": "2026-10-21T05:28:24.624625+00:00",
   "counts": {
-    "checked": 125,
-    "failed": 4,
-    "unresolved": 16
+    "checked": 132,
+    "unresolved": 13
   },
+  "daily_abstracts_missing": 4,
+  "daily_candidate_count": 19,
+  "daily_unverified_research_candidate_count": 15,
   "dry_run": false,
+  "first_observed_doi_count": 16,
   "journal_status": {
     "J001": {
       "candidate_count": 4,
@@ -34,8 +38,9 @@
       "status": "checked"
     },
     "J006": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
-      "status": "unresolved"
+      "candidate_count": 7,
+      "errors": [],
+      "status": "checked"
     },
     "J007": {
       "candidate_count": 7,
@@ -110,8 +115,9 @@
       "status": "checked"
     },
     "J021": {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "status": "unresolved"
+      "candidate_count": 3,
+      "errors": [],
+      "status": "checked"
     },
     "J022": {
       "candidate_count": 5,
@@ -194,8 +200,9 @@
       "status": "checked"
     },
     "J038": {
-      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
-      "status": "unresolved"
+      "candidate_count": 4,
+      "errors": [],
+      "status": "checked"
     },
     "J039": {
       "candidate_count": 0,
@@ -227,7 +234,7 @@
       "errors": [
         "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2190-6335/works?filter=from-pub-date%3A"
       ],
-      "status": "failed"
+      "status": "checked"
     },
     "J045": {
       "candidate_count": 3,
@@ -240,7 +247,7 @@
         "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2065-7285/works?filter=from-pub-date%3A",
         "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2065-8958/works?filter=from-pub-date%3A"
       ],
-      "status": "failed"
+      "status": "checked"
     },
     "J047": {
       "candidate_count": 0,
@@ -593,7 +600,7 @@
         "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/0040-4411/works?filter=from-pub-date%3A",
         "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/1942-857X/works?filter=from-pub-date%3A"
       ],
-      "status": "failed"
+      "status": "checked"
     },
     "J118": {
       "candidate_count": 0,
@@ -620,7 +627,7 @@
       "errors": [
         "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/0028-7881/works?filter=from-pub-date%3A"
       ],
-      "status": "failed"
+      "status": "checked"
     },
     "J123": {
       "candidate_count": 0,
@@ -633,7 +640,7 @@
       "status": "checked"
     },
     "J125": {
-      "candidate_count": 6,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -710,7 +717,7 @@
       "status": "unresolved"
     },
     "J142": {
-      "candidate_count": 1,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -733,31 +740,15 @@
   "journal_total": 145,
   "mail_sent": false,
   "major_publishers": {
-    "checked": 87,
+    "checked": 90,
     "failed": 0,
     "total": 90,
     "truncated": 0,
-    "unresolved": 3
+    "unresolved": 0
   },
-  "major_unchecked": [
-    {
-      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
-      "journal": "Jurisprudence",
-      "status": "unresolved"
-    },
-    {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "journal": "Law and Literature",
-      "status": "unresolved"
-    },
-    {
-      "detail": "Crossref: ambiguous exact title; OpenAlex: ambiguous exact title",
-      "journal": "Critical Review of International Social and Political Philosophy",
-      "status": "unresolved"
-    }
-  ],
+  "major_unchecked": [],
   "mode": "metadata_only_no_OpenAI_API_no_Gmail",
-  "possible_new_count": 932,
+  "possible_new_count": 948,
   "publisher_pages_verified": false,
   "window_end": "2026-10-21",
   "window_start": "2026-09-06"

@@ -1,12 +1,12 @@
 {
   "candidate_count": 948,
   "candidate_count_scope": "Lookback cache, NOT verified new research papers",
-  "checked_at_utc": "2026-10-21T05:32:33.322415+00:00",
+  "checked_at_utc": "2026-10-21T05:36:54.138095+00:00",
   "counts": {
-    "checked": 132,
-    "failed": 0,
+    "checked": 134,
+    "failed": 1,
     "truncated": 0,
-    "unresolved": 13
+    "unresolved": 10
   },
   "daily_abstracts_missing": 1,
   "daily_candidate_count": 19,
@@ -432,8 +432,9 @@
       "status": "checked"
     },
     "J083": {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [],
+      "status": "checked"
     },
     "J084": {
       "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
@@ -573,8 +574,11 @@
       "status": "checked"
     },
     "J112": {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/1939-8611/works?filter=from-pub-date%3A"
+      ],
+      "status": "checked"
     },
     "J113": {
       "candidate_count": 0,
@@ -652,8 +656,12 @@
       "status": "checked"
     },
     "J127": {
-      "detail": "Crossref: no exact title match; OpenAlex: no exact title match",
-      "status": "unresolved"
+      "candidate_count": 0,
+      "errors": [
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/2366-7117/works?filter=from-pub-date%3A",
+        "Crossref 404 Client Error: Not Found for url: https://api.crossref.org/journals/1431-5726/works?filter=from-pub-date%3A"
+      ],
+      "status": "failed"
     },
     "J128": {
       "candidate_count": 11,

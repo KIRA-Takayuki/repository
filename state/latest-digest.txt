@@ -4928,6 +4928,6 @@ Abstract (original): Der Konsum von Online-Pornos, eine relativ weit verbreitete
 
 【調査状況】
 主要7出版社90誌：API照会成功 90誌／未解決・取得失敗等 0誌。
-全145誌：API照会成功 132誌／識別子未解決 13誌／取得失敗 0誌／件数上限 0誌。
+全145誌：API照会成功 134誌／識別子未解決 10誌／取得失敗 1誌／件数上限 0誌。
 これはCrossref/OpenAlex等の機械照会状況であり、出版社新着ページの直接確認ではない。
 初回オンライン公開日と研究論文かどうかを検証した後にのみ新着として紹介する。

@@ -1,11 +1,11 @@
 {
-  "checked_at_utc": "2026-10-21T05:32:33.322415+00:00",
+  "checked_at_utc": "2026-10-21T05:36:54.138095+00:00",
   "collected_on": "2026-10-21",
   "counts": {
-    "checked": 132,
-    "failed": 0,
+    "checked": 134,
+    "failed": 1,
     "truncated": 0,
-    "unresolved": 13
+    "unresolved": 10
   },
   "fresh_today_jst": true,
   "items": [

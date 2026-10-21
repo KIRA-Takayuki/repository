@@ -43,6 +43,14 @@ jobs:
           assert registry[philosophy['id']]['issn'] == '0031-8191'
           missing = [j['journal'] for j in selected if not registry.get(j['id'],{}).get('issn')]
           print(f'Manifest validated: {len(journals)} total, {len(selected)} priority. Missing ISSNs: {missing}')
+          from build_daily import kind_guess, extract_publisher
+          assert kind_guess('To Our Guest Reviewers: Thank You') == 'likely_nonresearch'
+          assert kind_guess('A New Theory of Law') == 'research_candidate_unverified'
+          assert kind_guess('Hobbes and Political Contractarianism, written by D. P. Gauthier') == 'likely_nonresearch'
+          fake = '<meta name="citation_doi" content="10.1007/test"><meta name="citation_online_date" content="2026/10/20"><meta name="citation_abstract" content="' + ('A sample of a publisher abstract. ' * 15) + '">'
+          assert extract_publisher(fake, '10.1007/test')['online_date'] == '2026-10-20'
+          assert not extract_publisher(fake, '10.1007/different')['doi_matched']
+          print('Daily extraction safeguards passed')
           PY
       - name: Collect metadata for all 145 journals (major 90 first)
         env:

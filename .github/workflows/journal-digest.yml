@@ -1,5 +1,13 @@
 name: 145-Journal Metadata Monitor
 on:
+  push:
+    branches: [master]
+    paths:
+      - 'monitor.py'
+      - 'build_daily.py'
+      - 'data/journals.json'
+      - 'state/registry.json'
+      - '.github/workflows/journal-digest.yml'
   workflow_dispatch:
     inputs:
       dry_run:

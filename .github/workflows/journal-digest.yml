@@ -7,7 +7,7 @@ on:
         description: 'Collect metadata only (this workflow never sends mail)'
         default: false
   schedule:
-    - cron: '13 20 * * *'  # 05:13 JST; allow time for ChatGPT's 08:00 verification
+    - cron: '13 17 * * *'  # 02:13 JST; extra buffer for delayed GitHub runs before 08:00 digest
 permissions:
   contents: write
 concurrency:

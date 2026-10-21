@@ -27,7 +27,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Validate Python and priority registry
         run: |
-          python -m py_compile monitor.py
+          python -m py_compile monitor.py build_daily.py
           python - <<'PY'
           import json
           from pathlib import Path
@@ -53,6 +53,12 @@ jobs:
           python monitor.py ${{ inputs.dry_run && '--dry-run' || '' }}
           echo "MONITOR_EXIT=$?" >> "$GITHUB_ENV"
           exit 0
+      - name: Build yesterday/today shortlist and recover missing abstracts
+        if: env.MONITOR_EXIT == '0'
+        env:
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python build_daily.py
       - name: Preserve daily diagnostic report
         if: always()
         uses: actions/upload-artifact@v4
@@ -62,6 +68,7 @@ jobs:
             state/latest-report.json
             state/latest-digest.txt
             state/latest-candidates.json
+            state/latest-daily.json
           if-no-files-found: ignore
       - name: Commit state and results
         if: always()

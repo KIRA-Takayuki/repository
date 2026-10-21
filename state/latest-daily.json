@@ -1,8 +1,10 @@
 {
-  "checked_at_utc": "2026-10-21T05:28:24.624625+00:00",
+  "checked_at_utc": "2026-10-21T05:32:33.322415+00:00",
   "collected_on": "2026-10-21",
   "counts": {
     "checked": 132,
+    "failed": 0,
+    "truncated": 0,
     "unresolved": 13
   },
   "fresh_today_jst": true,
@@ -300,8 +302,8 @@
       "url": "https://doi.org/10.1111/josp.70066"
     },
     {
-      "abstract": "",
-      "abstract_source": "missing",
+      "abstract": "<p>Healthcare institutions assessing clinical artificial intelligence (AI) must turn ethical principles, evidence standards and implementation guidance into decisions about specific systems in specific contexts. This paper proposes the Implementation Decision-Tool for Ethical AI (IDEA), an author-developed normative framework for clinical governance committees. IDEA organises assessment across 10 domains and 3 item-level priority tiers: Tier 1 blockers, Tier 2 concerns that can be addressed through mitigation and Tier 3 opportunities for institutional excellence. A mandatory synthesis then connects these assessments to a documented institutional recommendation. Where unresolved Tier 1 uncertainty rules out clinical implementation, IDEA provides a separate route for governed non-clinical evaluation. It also sets minimum procedures for authority, disagreement, conflicts of interest and decision recording. A worked hypothetical application to published evidence on a real sepsis prediction algorithm illustrates how IDEA is intended to operate under evidential uncertainty. IDEA complements broader institutional governance and implementation processes by giving committees an explicitly ethical structure for judgement and authorisation.</p>",
+      "abstract_source": "publisher_doi_matched_page",
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Hazem Zohny",
@@ -315,17 +317,17 @@
       "journal_id": "J067",
       "origin": "crossref",
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_check_status": "doi_matched",
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
+      "publisher_doi_matched": true,
       "publisher_online_date": null,
       "title": "From principles to practice: an Implementation Decision-Tool for Ethical AI in clinical governance",
       "url": "https://doi.org/10.1136/jme-2025-111546"
     },
     {
-      "abstract": "",
-      "abstract_source": "missing",
+      "abstract": "<p>Lived experience has acquired strong moral and political authority in health debates. Personal testimonies are increasingly mobilised not only to show how health policies are experienced but also to contest scientific evidence and challenge public health decisions. This paper argues that experiential knowledge is indispensable, but that its authority has limits. While a person is the authority on how they experience their symptoms and suffering and on what these mean to them, the causal explanation they give of that experience is a different kind of claim: others can assess it and it may prove wrong. The problem arises when the explanation borrows the authority of the experience. Careful defenders of lived experience already recognise this distinction. The difficulty lies elsewhere: in experiential claims that circulate without the procedures that make them answerable, that is, stating what would count against them, submitting them to others able to assess them, and judging them by standards suited to the kind of claim they make. This occurs in public debate and at times within qualitative research itself, as in self-diagnosis, attributed treatment effects and environmental syndromes. We propose epistemic mediation as an ethical safeguard: lived experience is authoritative for meaning and value but cannot on its own settle causal or population-level questions. Such restraint is a requirement of medical ethics, not a methodological preference.</p>",
+      "abstract_source": "publisher_doi_matched_page",
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Jordan Sibeoni",
@@ -339,17 +341,17 @@
       "journal_id": "J067",
       "origin": "crossref",
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_check_status": "doi_matched",
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
+      "publisher_doi_matched": true,
       "publisher_online_date": null,
       "title": "Giving voice without guardrails: lived experience and the ethics of epistemic mediation in public health",
       "url": "https://doi.org/10.1136/jme-2026-111831"
     },
     {
-      "abstract": "",
-      "abstract_source": "missing",
+      "abstract": "<p>Undergraduate ethics teaching aims to improve future clinical practice by instilling ethical knowledge, character and awareness. However, whether and to what extent ethics teaching can achieve this can be questioned. This paper reports on how some doctors in their first and second years of practice perceived their undergraduate ethics teaching in the light of ethical challenges they had encountered and discusses what these perceptions reveal about the aims of such teaching. We propose that ethics education can promote ethical knowledge and reflective skills but needs to be framed within an understanding of the personal, professional and systemic challenges that doctors face in early clinical practice and the translational work that is required.</p>",
+      "abstract_source": "publisher_doi_matched_page",
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Simon Walker",
@@ -363,10 +365,10 @@
       "journal_id": "J067",
       "origin": "crossref",
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_check_status": "doi_matched",
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
+      "publisher_doi_matched": true,
       "publisher_online_date": null,
       "title": "Structural realities and personal impact: how ethics teaching can prepare students for early clinical practice",
       "url": "https://doi.org/10.1136/jme-2026-112130"
@@ -451,8 +453,8 @@
   "publisher_first_online_date_conflict_count": 0,
   "publisher_first_online_in_window_verified_count": 10,
   "raw_candidate_count": 19,
-  "research_candidate_abstracts_available": 11,
-  "research_candidate_abstracts_missing": 4,
+  "research_candidate_abstracts_available": 14,
+  "research_candidate_abstracts_missing": 1,
   "research_candidate_unverified_count": 15,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
   "window_end_jst": "2026-10-21",

@@ -1,16 +1,18 @@
 {
   "candidate_count": 948,
   "candidate_count_scope": "Lookback cache, NOT verified new research papers",
-  "checked_at_utc": "2026-10-21T05:28:24.624625+00:00",
+  "checked_at_utc": "2026-10-21T05:32:33.322415+00:00",
   "counts": {
     "checked": 132,
+    "failed": 0,
+    "truncated": 0,
     "unresolved": 13
   },
-  "daily_abstracts_missing": 4,
+  "daily_abstracts_missing": 1,
   "daily_candidate_count": 19,
   "daily_unverified_research_candidate_count": 15,
   "dry_run": false,
-  "first_observed_doi_count": 16,
+  "first_observed_doi_count": 0,
   "journal_status": {
     "J001": {
       "candidate_count": 4,

@@ -1,76 +1,6 @@
 {
-  "collected_on": "2026-10-21",
+  "collected_on": "2026-10-22",
   "items": [
-    {
-      "abstract": "Abstract I characterize two different senses in which a formal theory of location can be said to be neutral: neutrality with respect to some locational principles, and neutrality with respect to some controversial cases that have been presented as counterexamples to some principles. Theories neutral in the second sense are often weaker than theories neutral in the first. To illustrate this, I consider some popular principles and some of the counterexamples that have been used to argue against them in the literature, including inexact objects, cases of Nested Multilocation, and failures of Additivity. I then show that no currently existing theory of location built on just one primitive is able to account for all the cases that I have discussed. Lastly, I present a theory of location based on just one primitive which can account for all the discussed cases.",
-      "authors": [
-        "Alberto Carrascon"
-      ],
-      "date": "2026-09-06",
-      "doi": "10.1007/s11098-026-02604-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "Location and neutrality",
-      "url": "https://doi.org/10.1007/s11098-026-02604-z"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Shraddha Chaudhary"
-      ],
-      "date": "2026-09-06",
-      "doi": "10.1007/s11572-026-09814-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Criminal Law and Philosophy",
-      "journal_id": "J008",
-      "origin": "crossref",
-      "title": "The Pro-Tanto Wrongfulness of Sexual Exploitation: A Context-Sensitive Approach from India",
-      "url": "https://doi.org/10.1007/s11572-026-09814-w"
-    },
-    {
-      "abstract": "ABSTRACT Robert Nozick doubted forms of consequentialism that employ so‐called “agent‐relative value” because he found them “gimmicky.” This doubt has been sharpened by Don Regan, Mark Schroeder, and others into the objection that agent‐relative value lacks the practical importance we associate with good simpliciter . This sharpened objection has prompted agent‐relative consequentialists to replace the agent‐relative value at the foundation of their view with agent‐relative reasons for desire. This paper argues for two claims. First, the turn to agent‐relative reasons is less promising than it seems. Second, concerns about gimmickiness can be allayed directly by showing how standard decision‐theoretic conceptions of outcomes already relativize what agents evaluate without relativizing value itself.",
-      "authors": [
-        "Nathan Robert Howard"
-      ],
-      "date": "2026-09-06",
-      "doi": "10.1111/nous.70065",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Noûs",
-      "journal_id": "J086",
-      "origin": "crossref",
-      "title": "Redeeming Relative Value: Indexicality and Consequentializing Agent‐Centered Norms",
-      "url": "https://doi.org/10.1111/nous.70065"
-    },
-    {
-      "abstract": "ABSTRACT The Russell‐Myhill paradox targeting the structuralist view of proposition in classical higher‐order logic is blocked by implementing restrictions associated with an ordinary account of predicativity. However, it has been shown that these restrictions are not safe: “revenge” versions of the paradox show the inconsistency of the structuralist view in what is ordinarily regarded as a predicative setting. This result has been interpreted as suggesting an expressive limitation of the structuralist view. In this paper, I argue otherwise. There is a metaphysical sense in which structured propositions presuppose properties appearing as their constituents. I use this idea to elaborate a more thoroughgoing understanding of predicativity. In this way, the structuralist has the resources to interpret revenge paradoxes as a byproduct of impredicativity and coherently block them by means of a more subtle regimentation on how properties are defined.",
-      "authors": [
-        "Jacopo Berneri"
-      ],
-      "date": "2026-09-06",
-      "doi": "10.1111/theo.70119",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Theoria",
-      "journal_id": "J094",
-      "origin": "crossref",
-      "title": "Revenge Russell‐Myhill and the Ramified Hierarchy",
-      "url": "https://doi.org/10.1111/theo.70119"
-    },
-    {
-      "abstract": "This article critically explores council democracy as a utopian state order, on the basis of anarchist and Marxist works from western Europe and the United States, post-World War 2. As a system of national government, council democracy cannot possibly deliver on its utopian promises. Collective self-rule cannot put an end to domination/hierarchy/rule but will engender another variety of ‘democratic hierarchy’. Comprehensive citizen participation locks citizens in an overregulated ‘democratic bureaucracy’, and delivers no feasible, working formula of government. In a paradox, council democracy is likely greatly to reduce the share of the population participating in the country’s political process, thus carrying less rather than more democratic legitimacy than representative democracy.",
-      "authors": [
-        "Erik van Ree"
-      ],
-      "date": "2026-09-06",
-      "doi": "10.1177/01914537261481246",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophy &amp; Social Criticism",
-      "journal_id": "J037",
-      "origin": "crossref",
-      "title": "Collective Self-Rule and Comprehensive Participation: A Critique of Council Democracy",
-      "url": "https://doi.org/10.1177/01914537261481246"
-    },
     {
       "abstract": "",
       "authors": [
@@ -13835,6 +13765,105 @@
       "url": "https://doi.org/10.1163/17455243-bja10230"
     },
     {
+      "abstract": "Abstract The question who (or which things) are the agents has attracted a very wide range of different answers. For some, only humans can satisfy the necessary conditions for agency; others extend the concept to a wide range of animals or even plants; and some believe there are also agents outside the biological realm. Do these different answers constitute substantively different views about the same question? Or are the disagreements really terminological ones, at root, owed to different ‘definitions’ of agency? In this paper, I try to provide examples both of disputes which do, and disputes which do not seem amenable to this sort of terminological deflation. I then try to diagnose the difference, by offering a view about how we must think about the concept of agency if it is to play a role in genuinely substantive disagreement, combining Susan Carey’s idea that agency is a ‘core concept’ with an externalist account of how the concept must work, if it is to figure in thoroughly substantive disputes about who the agents are.",
+      "authors": [
+        "Helen Steward"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1007/s11229-026-05863-9",
+      "first_seen_jst": "2026-10-22",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Who are the agents?",
+      "url": "https://doi.org/10.1007/s11229-026-05863-9"
+    },
+    {
+      "abstract": "Abstract I argue that questions can be transmitted through asking just as beliefs are transmitted through testimony. Just as we rely on testifiers to assert only when their epistemic position is good enough, so (I argue) we rely on queriers to ask questions only if they are in a position to know that the question is sound, which guarantees that the asked question has an answer. Along the way, I argue against the view that we can only ask questions of people who (we know) know the answer to our questions. A recurring theme of the paper is that we learn about the norms for asking not just in those cases in which we straightforwardly comply with or violate them, but also by the ways we creatively deviate from the norms to accomplish our conversational goals.",
+      "authors": [
+        "Christopher Willard-Kyle"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1017/epi.2026.10144",
+      "first_seen_jst": "2026-10-22",
+      "journal": "Episteme",
+      "journal_id": "J095",
+      "origin": "crossref",
+      "title": "Asking Questions Aloud: A Case for Interrogative Transmission",
+      "url": "https://doi.org/10.1017/epi.2026.10144"
+    },
+    {
+      "abstract": "Abstract This Article investigates how law conceptualizes the temporality of migration, exposing a mismatch between the legal framework and migrants’ lived experiences. It shows that the dominant mode, which views migration as a sequential process, fails to capture the realities of migration. The Article argues that both epistemic and human rights arguments call for remedying this mismatch. In response, it introduces migration as simultaneity, which better reflects migrants’ experiences and the interplay between space, place, and time in migration and belonging. The argument proceeds in three stages. First, it examines migration as a sequence, the prevailing concept embedded in international, European, and domestic migration and citizenship laws. This sequential framework operates through linearity and temporariness, which function as primary mechanisms for governing inclusion and exclusion. Second, drawing on migration studies and anthropology, it critiques this model, showing its inability to account for how migrants perceive and experience migration and belonging. Finally, it argues that strong power asymmetries shaping the regulation of migration demand a temporal conception that better aligns with migrants’ lived experiences. To this end, it advances migration as simultaneity and suggests that this concept can inform legal frameworks regulating migration and belonging.",
+      "authors": [
+        "Anuscheh Farahat"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1017/glj.2026.10248",
+      "first_seen_jst": "2026-10-22",
+      "journal": "German Law Journal",
+      "journal_id": "J126",
+      "origin": "crossref",
+      "title": "Everything Everywhere All at Once – From Migration as Sequence to Migration as Simultaneity",
+      "url": "https://doi.org/10.1017/glj.2026.10248"
+    },
+    {
+      "abstract": "Abstract Modern shareholder primacy is commonly justified by reference to an equilibrium famously articulated by Milton Friedman: business may pursue profits provided it operates “within the rules of the game.” The legitimacy of shareholder–oriented governance thus depends on effective legal mechanisms capable of constraining harmful profit-seeking. This Article argues that corporate sanctioning regimes play a constitutive role in sustaining that equilibrium and in structuring the relationship between shareholder-oriented corporate purpose and stakeholder protection. Drawing on examples from EU competition enforcement, benefit–based attribution models of corporate criminal liability in the United States and Finland, and the organizational failure-to-prevent regime exemplified by the UK Bribery Act, the Article shows how sanctioning regimes institutionalize competing conceptions of the corporation as an economic instrument or as an organizational actor. Economically calibrated liability models reflect a conception of the corporation primarily as an economic instrument, framing compliance in instrumental terms and narrowing the boundaries of corporate accountability. By contrast, organizationally informed liability models embed responsibility in internal governance structures and preventive capacities. The Article conceptualizes this development as an emerging organizational turn in corporate sanctioning in which liability increasingly serves to shape internal corporate governance, encourage the prevention of harm, and protect stakeholders. It thereby conditions the legitimacy of corporate profit-seeking and redefines the institutional role of corporate sanctions in shaping corporate responsibility.",
+      "authors": [
+        "Heli Korkka-Knuts"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1017/glj.2026.10249",
+      "first_seen_jst": "2026-10-22",
+      "journal": "German Law Journal",
+      "journal_id": "J126",
+      "origin": "crossref",
+      "title": "The Organizational Turn in Corporate Sanctioning Regimes: Rebalancing Profit–Seeking and Stakeholder Protection",
+      "url": "https://doi.org/10.1017/glj.2026.10249"
+    },
+    {
+      "abstract": "Abstract Socio-legal scholarship increasingly conceptualizes legal consciousness as relational, yet research has focused primarily on how individuals’ understandings of law are shaped through interpersonal interactions and social relationships. Less attention has been paid to how broader cultural beliefs circulating within political-economic systems shape whether – and how – individuals invoke or refrain from invoking law when interpreting everyday experiences. We extend relational legal consciousness scholarship by examining how macro-level cultural beliefs structure meaning-making about digital data privacy in the United States. We analyze data from a survey experiment in which 600 respondents evaluated vignettes describing secondary uses of personal data by government and private corporations for different motives. Quantitative analyses of 2,555 vignette evaluations show that perceived acceptability varies systematically by both actor and motive. Interpretive analysis of open-ended responses reveals that participants draw on multiple cultural beliefs – including everyday expectations of legality, market logics, institutional trust, and narratives of technological inevitability – when evaluating these practices. By showing how cultural beliefs related and unrelated to law and legality work together to shape everyday interpretations of privacy encroachments, we extend relational legal consciousness scholarship beyond interpersonal relationships to encompass the broader cultural environment in which legal meaning-making occurs. We further demonstrate that this relational dynamic has political-economic consequences: a diverse range of cultural beliefs – not only narratives of commodification and technological inevitability – can normalize, conditionally legitimate, or challenge the data practices associated with informational capitalism.",
+      "authors": [
+        "Vasundhara Kaul",
+        "Robin Stryker"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1017/lsr.2026.10128",
+      "first_seen_jst": "2026-10-22",
+      "journal": "Law &amp; Society Review",
+      "journal_id": "J020",
+      "origin": "crossref",
+      "title": "Relational legal consciousness in the age of informational capitalism: how Americans make sense of data privacy",
+      "url": "https://doi.org/10.1017/lsr.2026.10128"
+    },
+    {
+      "abstract": "Abstract This article develops the concept of delegated gatekeeping to explain regulatory systems where a primary gatekeeper (the “principal”) delegates revocable roles of support withholder or provider to other gatekeepers (“agents”). Delegation requires that agents assume non-traditional gatekeeping roles such as reputational stewardship (safeguarding the principal’s reputational capital). To illustrate delegated gatekeeping concretely, this article conducts a detailed case study of the London Stock Exchange’s Alternative Investment Market (“AIM”). It argues that reputational incentives can partially alleviate agent gatekeepers’ conflicts of interest, and that these incentives have strengthened on AIM relative to historic levels.",
+      "authors": [
+        "Jonathan Chan"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1017/s0008197326101755",
+      "first_seen_jst": "2026-10-22",
+      "journal": "The Cambridge Law Journal",
+      "journal_id": "J121",
+      "origin": "crossref",
+      "title": "Delegated Gatekeeping: A Study of the Alternative Investment Market (“AIM”)",
+      "url": "https://doi.org/10.1017/s0008197326101755"
+    },
+    {
+      "abstract": "Abstract Bernard Williams’s account of regret contains a lacuna with respect to the appropriate emotion for contributors to feel in response to faultless group harms. While he delineates ‘agent-regret’ for agents faultlessly causing harm and ‘spectator-regret’ for observers, neither suffices for individuals who unintentionally or unforeseeably contribute to harms resulting from group actions. This paper investigates the fitting emotion for such cases. I contend that contributors occupy ‘as-if positions’ in that they are quasi-agents in virtue of their own contributions and quasi-spectators owing to others’ roles. This dual standpoint generates a ‘biperspective’ that calls for a distinct form of regret, which is reducible to neither agent-regret nor spectator-regret but synthesises elements of both. I term this distinct form ‘biperspectival regret’. Taking the appropriateness of emotions to depend on their formal objects, I formulate the formal object of biperspectival regret as the ‘comparative disvalue of group harm to which one faultlessly contributed’. Because this formal object corresponds to the defining features of faultless group harms, I argue that biperspectival regret is the warranted emotion for contributors to experience in such scenarios.",
+      "authors": [
+        "Ahmet Gönüllü"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1017/s003181912610165x",
+      "first_seen_jst": "2026-10-22",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "Biperspectival Regret: The Appropriate Emotion for Faultless Group Harm",
+      "url": "https://doi.org/10.1017/s003181912610165x"
+    },
+    {
       "abstract": "Abstract Disabled people continue to experience social exclusion and denial of meaningful belonging despite legal commitments to independent living and autonomy. This paper brings disability studies, legal scholarship and philosophical debates around a right against social deprivation into conversation. We argue that the concepts of social access needs and social contribution needs provide a valuable framework for identifying harms that existing disability rights and human rights approaches often fail to recognise or adequately address. At the same time, rather than simply applying the right against social deprivation to disability, we contend that disability offers a critical lens through which the right itself must be rethought. Drawing on critical disability studies, we foreground interdependence, care, relationality and vulnerability, while exposing ableist assumptions that may shape theorising in this area. Through engagement with disability law and rights frameworks, we explore the potential of this dialogue to reconfigure understandings of rights, responsibility and justice.",
       "authors": [
         "Beverley Clough",
@@ -13848,6 +13877,36 @@
       "origin": "crossref",
       "title": "Disability, relationships and a right against social deprivation",
       "url": "https://doi.org/10.1017/s1744552326100688"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Anil Gupta",
+        "T. Raja Rosenhagen"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1080/0020174x.2026.2751143",
+      "first_seen_jst": "2026-10-22",
+      "journal": "Inquiry",
+      "journal_id": "J089",
+      "origin": "crossref",
+      "title": "Ori Beck on reformed empiricism",
+      "url": "https://doi.org/10.1080/0020174x.2026.2751143"
+    },
+    {
+      "abstract": "Kristeva’s abjection theory is a popular framework for grappling with leaking bodies. Yet while exploring the significance of women's involuntary urination during sport, abject theory's insistence that pissing oneself must be identity shattering failed to convince us. Indeed, some women find pissing themselves to be identity forming as it marks the threshold beyond which one becomes a ‘serious’ athlete. Drawing on Sedgwick, we frame abjection as strong theory—able to explain some aspects of the experience well but unable to account for other aspects. To supplement our approach, we draw on sexuality studies for inspiration regarding how to approach involuntary urination during sport through weak theory. Rather than trying to proffer a totalizing explanation, weak theory foregrounds near and specific phenomena, allowing for variation and complexity. In this case, weak theory is analytically useful as it allows us to consider women's diverse responses to urinary leakages alongside mainstream cultural responses (disgust at the leaky body) and subcultural sporting norms (prioritization of sport performance). Further, weak theory allows us to attend to the gendered specificities of peeing in sport. Drawing on interviews with women strength athletes, we question what women's responses to their nuanced, specific experience of peeing themselves while resistance training tells us about women's place in sport and their bodily capacities. Ultimately, we argue that far from being abject, bodily leaks can be transformative, creating new subjectivities and new understandings of what women's bodies are capable of: namely, being simultaneously strong, beautiful, and leaky. This article contributes a grounded exploration of the limits of abjection theory by highlighting the necessity of considering cultural context and specific phenomena, arguing that weak theory is a useful lens through which to do so.",
+      "authors": [
+        "Bridgette Desjardins",
+        "Jean Ketterling"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1177/14647001261491251",
+      "first_seen_jst": "2026-10-22",
+      "journal": "Feminist Theory",
+      "journal_id": "J074",
+      "origin": "crossref",
+      "title": "‘Why are girls lifting that heavy if it makes\n                    that\n                    happen?’: From abjection to a weak theory of ‘pissing yourself’ in sport",
+      "url": "https://doi.org/10.1177/14647001261491251"
     },
     {
       "abstract": "Der Konsum von Online-Pornos, eine relativ weit verbreitete Praxis, hat im Vergleich zur philosophischen Diskussion über die abstrakte Natur der Pornografie und im Vergleich zur Ethik anderer Konsumentscheidungen vergleichsweise wenig philosophische Aufmerksamkeit erfahren. In diesem Beitrag argumentiere ich, dass die Entscheidung für den Konsum solcher Medien eine Mitschuld an zutiefst schädlichen Praktiken impliziert. Angesichts der weit verbreiteten Gewalt und Ausbeutung in der Pornografieproduktion akzeptieren Konsumenten ein erhebliches Risiko, dass das konsumierte Material gefilmten Missbrauch oder Vergewaltigung zeigt. Indem man dieses Risiko durch den Konsum von Pornografie eingeht, behandelt man andere auf eine Weise als Mittel zur persönlichen Befriedigung, die ethisch nicht zu rechtfertigen ist. Im zweiten Teil des Artikels, präsentiere ich ein weiteres Problem des Konsums von Online-Pornografie – unabhängig davon, ob sie gewalttätig ist oder nicht –, da der sexuelle Zugang zu anderen durch den Konsum dieser Medien eine Form sexueller Aktivität darstellt, die den allgemein anerkannten Standards einer sinnvollen (moralisch transformierenden) Einwilligung nicht genügt.",
@@ -13865,6 +13924,6 @@
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-21",
-  "window_start": "2026-09-06"
+  "window_end": "2026-10-22",
+  "window_start": "2026-09-07"
 }

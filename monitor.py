@@ -308,9 +308,11 @@ def run(argv=None):
                     if rs:
                         break
                 except Exception as exc:failures.append('Crossref '+str(exc)[:110])
-        # OpenAlex is optional: without an API key its rate limits had caused
-        # many HTTP 429 errors. Crossref remains available without an OpenAI API.
-        if ent.get('openalex_id') and os.getenv('OPENALEX_API_KEY'):
+        # Use OpenAlex without a key ONLY when Crossref failed.  A limited
+        # fallback avoids hitting anonymous rate limits for all 145 titles.
+        # An optional OpenAlex key continues to enable full dual-source checks.
+        need_fallback = not success or (bool(failures) and not found)
+        if ent.get('openalex_id') and (os.getenv('OPENALEX_API_KEY') or need_fallback):
             try:
                 rs,overflow=openalex_candidates(session,ent['openalex_id'],start,now)
                 found += [x for r in rs if (x:=openalex_to_item(r,jid)) and is_in_range(x,start,now)]

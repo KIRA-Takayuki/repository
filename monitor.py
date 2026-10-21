@@ -25,6 +25,7 @@ ROOT = Path(__file__).resolve().parent
 DATA = ROOT / 'data' / 'journals.json'
 REGISTRY = ROOT / 'state' / 'registry.json'
 STATE = ROOT / 'state' / 'state.json'
+SEEN = ROOT / 'state' / 'first-seen.json'
 REPORT = ROOT / 'state' / 'latest-report.json'
 DIGEST = ROOT / 'state' / 'latest-digest.txt'
 UA = 'JournalMonitor/1.0 (scholarly metadata; contact: ' + os.getenv('CROSSREF_MAILTO', 'journal-monitor@example.org') + ')'
@@ -266,6 +267,13 @@ def run(argv=None):
     jmap={j['id']:j for j in source['journals']}
     reg=json_read(REGISTRY,{})
     state=json_read(STATE,{'sent_dois':{},'first_run':True})
+    seen=json_read(SEEN,{})
+    # Bootstrap the DOI ledger from the previous full scan.  This is NOT a
+    # record of papers actually verified or delivered in ChatGPT.
+    previous=json_read(ROOT/'state'/'latest-candidates.json',{})
+    for item in previous.get('items',[]):
+        if item.get('doi'):
+            seen.setdefault(item['doi'].lower(), previous.get('collected_on','historical'))
     session=requests.Session(); session.headers.update({'User-Agent':UA, 'Accept':'application/json'})
 
     now=dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).date()
@@ -326,9 +334,18 @@ def run(argv=None):
     json_write(REPORT,report)
     if opt.initialize_ids:
         return 0
-    # Metadata collection only: this workflow never calls OpenAI or sends mail.
-    new=[c for doi,c in candidates.items() if doi not in state.get('sent_dois',{})]
+    # Keep the entire lookback cache, not an imaginary list of verified sent
+    # publications.  sent_dois was never updated and is intentionally unused.
+    new=list(candidates.values())
     new.sort(key=lambda a:(a['date'],a['doi']))
+    first_observed_this_run=[]
+    for item in new:
+        doi=item['doi'].lower()
+        if doi not in seen:
+            first_observed_this_run.append(doi)
+            seen[doi]=now.isoformat()
+        item['first_seen_jst']=seen[doi]
+    json_write(SEEN,seen)
     major_ids={j['id'] for j in source['journals'] if is_priority(j)}
     major_status={jid:v for jid,v in status.items() if jid in major_ids}
     report['major_publishers']={
@@ -341,6 +358,8 @@ def run(argv=None):
                                'detail':v.get('detail') or '; '.join(v.get('errors',[]))}
                               for jid,v in major_status.items() if v['status'] != 'checked']
     report['candidate_count']=len(new)
+    report['candidate_count_scope']='Lookback cache, NOT verified new research papers'
+    report['first_observed_doi_count']=len(first_observed_this_run)
     report['mode']='metadata_only_no_OpenAI_API_no_Gmail'
     report['publisher_pages_verified']=False
     report['mail_sent']=False

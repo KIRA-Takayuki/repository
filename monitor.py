@@ -330,7 +330,7 @@ def run(argv=None):
     json_write(REGISTRY,reg)
     counts=Counter(x['status'] for x in status.values())
     report={'journal_total':len(source['journals']), 'checked_at_utc':dt.datetime.now(dt.timezone.utc).isoformat(), 'window_start':start.isoformat(),
-            'window_end':now.isoformat(),'counts':dict(counts),'journal_status':status,
+            'window_end':now.isoformat(),'counts':{**{k:0 for k in ('checked','unresolved','failed','truncated')},**dict(counts)},'journal_status':status,
             'possible_new_count':len(candidates),'mail_sent':False,'dry_run':opt.dry_run}
     # Persist diagnostic report even if later mail sending fails.
     json_write(REPORT,report)

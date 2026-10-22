@@ -1,5 +1,5 @@
 学術誌・論文メタデータ候補｜2026-10-22
-要確認の候補：952本
+要確認の候補：953本
 
 ※翻訳・要約・出版社による初回公開日の照合は、ChatGPT内で別途実施する。
 ※このファイルはメール本文ではなく調査候補一覧である。
@@ -4936,7 +4936,12 @@ Gupta, A. & Rosenhagen, T.R. (2026). Ori Beck on reformed empiricism. Inquiry.
 https://doi.org/10.1080/0020174x.2026.2751143
 Abstract (original): Not available
 
-951. ‘Why are girls lifting that heavy if it makes
+951. Worldview Silencing: Recognizing Reasoned Objections to Brain Death
+McCurdy, J.L. et al. (2026). Worldview Silencing: Recognizing Reasoned Objections to Brain Death. Bioethics.
+https://doi.org/10.1111/bioe.70205
+Abstract (original): ABSTRACT The determination of death by neurologic criteria (brain death) has increasingly become a topic of controversy. Here we address a question that provokes clinical ethics consultations and scholarly debate: “how should objections to the declaration of neurologic death be handled?” While much of the discourse on this question has focused on the legitimacy of the criteria for brain death determinations or the motivations of individuals' objections to declarations of death, our analysis addresses a deeper issue inherent in the conflicts in clinical settings. We argue that some objections to brain death cannot be explained away as grief, misunderstanding, or different religious beliefs. Rather, tensions between worldviews—fundamental standpoints or lenses through which humans experience and conceptualize the world around them—may drive conflicts around brain death. In what follows, we introduce the concept of worldview silencing as a means of recognizing the injustice that can occur when brain death objections grounded in alternative ontologies of death are unfairly dismissed or disrespected. Ultimately, we contend that the concept of worldview silencing offers moral guidance for just recognition of objections to brain death in practice, education, and policy.
+
+952. ‘Why are girls lifting that heavy if it makes
                     that
                     happen?’: From abjection to a weak theory of ‘pissing yourself’ in sport
 Desjardins, B. & Ketterling, J. (2026). ‘Why are girls lifting that heavy if it makes
@@ -4945,7 +4950,7 @@ Desjardins, B. & Ketterling, J. (2026). ‘Why are girls lifting that heavy if i
 https://doi.org/10.1177/14647001261491251
 Abstract (original): Kristeva’s abjection theory is a popular framework for grappling with leaking bodies. Yet while exploring the significance of women's involuntary urination during sport, abject theory's insistence that pissing oneself must be identity shattering failed to convince us. Indeed, some women find pissing themselves to be identity forming as it marks the threshold beyond which one becomes a ‘serious’ athlete. Drawing on Sedgwick, we frame abjection as strong theory—able to explain some aspects of the experience well but unable to account for other aspects. To supplement our approach, we draw on sexuality studies for inspiration regarding how to approach involuntary urination during sport through weak theory. Rather than trying to proffer a totalizing explanation, weak theory foregrounds near and specific phenomena, allowing for variation and complexity. In this case, weak theory is analytically useful as it allows us to consider women's diverse responses to urinary leakages alongside mainstream cultural responses (disgust at the leaky body) and subcultural sporting norms (prioritization of sport performance). Further, weak theory allows us to attend to the gendered specificities of peeing in sport. Drawing on interviews with women strength athletes, we question what women's responses to their nuanced, specific experience of peeing themselves while resistance training tells us about women's place in sport and their bodily capacities. Ultimately, we argue that far from being abject, bodily leaks can be transformative, creating new subjectivities and new understandings of what women's bodies are capable of: namely, being simultaneously strong, beautiful, and leaky. This article contributes a grounded exploration of the limits of abjection theory by highlighting the necessity of considering cultural context and specific phenomena, arguing that weak theory is a useful lens through which to do so.
 
-952. Sexueller Zugang aus der Ferne Sexual access from a distance
+953. Sexueller Zugang aus der Ferne Sexual access from a distance
 Baron, T. (2026). Sexueller Zugang aus der Ferne Sexual access from a distance. Zeitschrift für Praktische Philosophie.
 https://doi.org/10.22613/zfpp/13.1.1
 Abstract (original): Der Konsum von Online-Pornos, eine relativ weit verbreitete Praxis, hat im Vergleich zur philosophischen Diskussion über die abstrakte Natur der Pornografie und im Vergleich zur Ethik anderer Konsumentscheidungen vergleichsweise wenig philosophische Aufmerksamkeit erfahren. In diesem Beitrag argumentiere ich, dass die Entscheidung für den Konsum solcher Medien eine Mitschuld an zutiefst schädlichen Praktiken impliziert. Angesichts der weit verbreiteten Gewalt und Ausbeutung in der Pornografieproduktion akzeptieren Konsumenten ein erhebliches Risiko, dass das konsumierte Material gefilmten Missbrauch oder Vergewaltigung zeigt. Indem man dieses Risiko durch den Konsum von Pornografie eingeht, behandelt man andere auf eine Weise als Mittel zur persönlichen Befriedigung, die ethisch nicht zu rechtfertigen ist. Im zweiten Teil des Artikels, präsentiere ich ein weiteres Problem des Konsums von Online-Pornografie – unabhängig davon, ob sie gewalttätig ist oder nicht –, da der sexuelle Zugang zu anderen durch den Konsum dieser Medien eine Form sexueller Aktivität darstellt, die den allgemein anerkannten Standards einer sinnvollen (moralisch transformierenden) Einwilligung nicht genügt.

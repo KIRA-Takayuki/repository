@@ -19,6 +19,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent
 STATE = ROOT / "state"
+EARLIER_PUBLICATIONS = json.loads((ROOT / "data" / "known-earlier-publications.json").read_text(encoding="utf-8"))
 JST = dt.timezone(dt.timedelta(hours=9))
 
 
@@ -100,14 +101,20 @@ def enrich(item, session, start, end):
     work = dict(item)
     work["publication_date_is_api_candidate"] = True
     work["article_type_guess"] = kind_guess(work.get("title", ""))
+    previous = EARLIER_PUBLICATIONS.get((work.get("doi") or "").lower())
+    work["previously_published_by_publisher"] = bool(
+        previous and previous["first_publication_prior_to"] <= start)
+    if work["previously_published_by_publisher"]:
+        work["article_type_guess"] = "prior_publication_not_new"
+        work["publisher_verification_evidence"] = previous["publisher_source"]
     work["abstract_source"] = "crossref_or_openalex_metadata" if text_clean(work.get("abstract", "")) else "missing"
     work["publisher_online_date"] = None
     work["publisher_doi_matched"] = False
     work["publisher_date_verified_in_window"] = False
     work["publisher_date_conflict"] = False
     work["publisher_check_status"] = "not_checked"
-    if work["article_type_guess"] == "likely_nonresearch":
-        work["publisher_check_status"] = "skipped_likely_nonresearch"
+    if work["article_type_guess"] in {"likely_nonresearch", "prior_publication_not_new"}:
+        work["publisher_check_status"] = ("skipped_prior_publication" if work["previously_published_by_publisher"] else "skipped_likely_nonresearch")
         return work
     doi = work.get("doi", "")
     try:
@@ -157,7 +164,9 @@ def build():
     session = requests.Session()
     session.headers.update({"User-Agent": "JournalDigest-Metadata/1.1 (academic monitoring; contact: " + os.getenv("CROSSREF_MAILTO", "journal-monitor@example.org") + ")"})
     enriched = [enrich(x, session, start, end) for x in data]
-    likely = [e for e in enriched if e["article_type_guess"] != "likely_nonresearch"]
+    likely = [e for e in enriched if e["article_type_guess"] == "research_candidate_unverified"]
+    excluded_nonresearch = sum(e["article_type_guess"] == "likely_nonresearch" for e in enriched)
+    excluded_older = sum(e["article_type_guess"] == "prior_publication_not_new" for e in enriched)
     full = {
         "collected_on": source.get("collected_on"),
         "checked_at_utc": report.get("checked_at_utc"),
@@ -169,7 +178,8 @@ def build():
         "major_publishers": report.get("major_publishers", {}),
         "raw_candidate_count": len(data),
         "research_candidate_unverified_count": len(likely),
-        "likely_nonresearch_count": len(data) - len(likely),
+        "likely_nonresearch_count": excluded_nonresearch,
+        "excluded_older_publications_count": excluded_older,
         "research_candidate_abstracts_available": sum(bool(text_clean(x.get("abstract", ""))) for x in likely),
         "research_candidate_abstracts_missing": sum(not bool(text_clean(x.get("abstract", ""))) for x in likely),
         "publisher_first_online_in_window_verified_count": sum(x["publisher_date_verified_in_window"] for x in likely),

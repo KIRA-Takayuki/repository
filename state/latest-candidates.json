@@ -1,339 +1,6 @@
 {
-  "collected_on": "2026-10-22",
+  "collected_on": "2026-10-23",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Qingtao Wang",
-        "Wei Jiang",
-        "Lian Zhang",
-        "Kevin Zheng Zhou"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s10551-026-06446-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "How Managers’ Islamic Religiosity Impacts Relational Ties: Evidence from West Africa",
-      "url": "https://doi.org/10.1007/s10551-026-06446-x"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Xinming Liu",
-        "Keyu Luo",
-        "Jingwei Yin",
-        "Samuel A. Vigne",
-        "Huangying Cheng"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s10551-026-06447-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Names as Ethical Signals: How Moral Symbols in Auditor Names Shape Audit Quality",
-      "url": "https://doi.org/10.1007/s10551-026-06447-w"
-    },
-    {
-      "abstract": "Abstract Contemporary philosophy of spacetime has thus far focused predominantly on the metrical properties of spacetime, with substantially less attention paid to its topological aspects. In this article, we go some way to rectifying this situation, by introducing philosophers to a class of ‘(almost) asymmetric’ manifolds which possess flat geodesically complete Riemannian metrics yet admit only finite (or trivial) isometry groups. The resulting spacetimes exhibit a unique dual nature: they are locally homogeneous (indistinguishable from standard flat space) but globally inhomogeneous, such that every spatial point is individuated from its neighbours. We argue that this topology-induced structure has at least two significant philosophical upshots. First, we show that there are surprising upshots for existing popular notions of theoretical equivalence when one considers theories set on these manifolds: many theories which might appear prima facie inequivalent in fact become categorically equivalent on such topological settings. Second, we demonstrate that theories set on these manifolds satisfy what Manchak et al. (2026) dub “de re* determinism” and “rigidity”, thereby avoiding (e.g.) the indeterminism which some associate with Leibnizian spacetimes.",
-      "authors": [
-        "Daniel Grimmer",
-        "James Read"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s10670-026-01153-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "Equivalence and Determinism in Light of Topologically-Induced Structure",
-      "url": "https://doi.org/10.1007/s10670-026-01153-5"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Noah Lemos"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s10892-026-09583-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Ethics",
-      "journal_id": "J055",
-      "origin": "crossref",
-      "title": "Announcement",
-      "url": "https://doi.org/10.1007/s10892-026-09583-7"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jessica Walsh"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s40803-026-00282-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Hague Journal on the Rule of Law",
-      "journal_id": "J016",
-      "origin": "crossref",
-      "title": "Lifting Judicial Immunity: Taking Stock of Responsibilities and Processes in the Disciplinary and Criminal Liability of Judges",
-      "url": "https://doi.org/10.1007/s40803-026-00282-x"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jorge Azevedo Correia"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s42439-026-00131-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Jus Cogens",
-      "journal_id": "J024",
-      "origin": "crossref",
-      "title": "MacIntyre and Legal Originality: A Teleology For Legal Research",
-      "url": "https://doi.org/10.1007/s42439-026-00131-3"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Thomas Mulligan"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s43681-026-01345-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Publisher Correction: What do AI companies deserve? Shapley attribution and optimal tax theory",
-      "url": "https://doi.org/10.1007/s43681-026-01345-3"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Giulio Toscani"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s43681-026-01347-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "The authenticity paradox: an ethical analysis of why AI identity features fail on social media",
-      "url": "https://doi.org/10.1007/s43681-026-01347-1"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Åke Elden"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s43681-026-01359-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "When responsibility cannot arise: algorithmic mediation and the preconditions of moral imputability",
-      "url": "https://doi.org/10.1007/s43681-026-01359-x"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Duoduo Mou"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s43681-026-01366-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "From automation to ethical authority: governing AI-mediated decision-making in global digital trade",
-      "url": "https://doi.org/10.1007/s43681-026-01366-y"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Roberto Pugliese"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1007/s43681-026-01367-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Ethical evaluation as cognitive resonance: a relational diagnostic framework for hybrid human–AI systems",
-      "url": "https://doi.org/10.1007/s43681-026-01367-x"
-    },
-    {
-      "abstract": "Abstract There is a well-established research program that relies on the Condorcet Jury Theorem (CJT) to justify democracy and majority voting from an epistemic perspective. This paper explores how the CJT can be extended beyond its standard epistemic interpretation. I propose a version of the CJT that does not presuppose the existence of an objective fact of the matter (or moral fact) on which group members must vote; I call it the “Constructive CJT.” This constructive version of the CJT is designed to show that a close relative of majority voting (here modeled as majority polling followed by individual action) can help bring about outcomes that are desirable independently of the procedure itself. In particular, it helps agents build situations in which cooperative behavior is achieved, as long as certain conditions are met. This provides a middle ground between epistemic and procedural justifications; under certain conditions, majority voting contributes to generating the environment under which desirable outcomes arise.",
-      "authors": [
-        "Eleonora Cresto"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1017/epi.2026.10133",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "A Constructive Condorcet Jury Theorem",
-      "url": "https://doi.org/10.1017/epi.2026.10133"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Neil Kaplan"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1080/01440365.2026.2728752",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Legal History",
-      "journal_id": "J081",
-      "origin": "crossref",
-      "title": "Arbitration and mediation in nineteenth-century England",
-      "url": "https://doi.org/10.1080/01440365.2026.2728752"
-    },
-    {
-      "abstract": "Abstract",
-      "authors": [
-        "Richard Pettigrew"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1093/pq/pqag062",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Introduction to the Special Issue of\n                    The Philosophical Quarterly\n                    on Uncertainty",
-      "url": "https://doi.org/10.1093/pq/pqag062"
-    },
-    {
-      "abstract": "Abstract This paper is a small contribution to the study of extensionality principles in mereology. We argue that the extensionality of composition logically implies the extensionality of parthood, and that this entailment persists in the presence of weak supplementation even if we restrict the former principle to cases of proper composition.",
-      "authors": [
-        "Henrique Formigoni Morais"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1093/pq/pqag063",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "A note on mereological extensionality principles",
-      "url": "https://doi.org/10.1093/pq/pqag063"
-    },
-    {
-      "abstract": "Abstract This discussion note challenges Yoshiki Yoshimura’s recent attempt to defend Scanlonian contractualism against the distant world objection. While Yoshimura’s amended contractualism initially appears capable of avoiding the objection, I argue that his proposal ultimately falls short in certain relevant cases. Moreover, I suggest that attempts to revise the view reveal a deeper problem for Yoshimura’s overall strategy that has important implications for principle-based views more generally.",
-      "authors": [
-        "Valentin Salein"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1093/pq/pqag064",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Principles across distant worlds? A reply to Yoshimura",
-      "url": "https://doi.org/10.1093/pq/pqag064"
-    },
-    {
-      "abstract": "The separation of powers is an enigmatic political ideal, particularly in the context of the modern administrative state, in which administrative officials routinely perform a combination of legislative, judicial, and executive functions. In this article we reexamine this ideal by interrogating Adrian Vermeule's provocative claim that the separation of powers is neither necessary nor desirable for the rule of law. We begin by comparing Vermeule's view with the constitutional models of two theorists who share a similar skepticism of the separation of powers – Thomas Hobbes and Carl Schmitt. We argue that Vermeule's view is best understood as a variation of Schmitt's apology for unitary executive power. By contrast, Hobbes emphasises what we call law's systematicity. We then proceed to elaborate this idea. We claim that at the conceptual level law's systematicity issues into a ‘proto‐separation’ of state institutions that together realise the rule of law. Because law is systematic, it also makes normative sense to combine the rule of law and the separation of powers. The separation of powers allows us to articulate the demands of the rule of law through a process of public deliberation and scrutiny. By contrast, a political order that relinquishes its commitment to the separation of powers for the sake of unleashing the power of the executive degrades its commitment to the rule of law as well.",
-      "authors": [
-        "Dimitrios Kyritsis",
-        "Matthew Lewans"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1111/1468-2230.70061",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "Does the Rule of Law Require the Separation of Powers?",
-      "url": "https://doi.org/10.1111/1468-2230.70061"
-    },
-    {
-      "abstract": "ABSTRACT The issue of post‐trial responsibility is about what is owed to research participants after a clinical trial ends, who is responsible, and how long this responsibility must endure. Despite two decades of international guidance on this issue, research involving novel high‐risk interventions—such as implantable neurotechnologies—raises underexplored ethical tensions. Trials of implantable devices carry surgical risks and require access to multidisciplinary teams and specialised clinical infrastructures. These factors can foster participant dependence on investigator teams and trial institutions for post‐trial care and support. With research and development in this area accelerating, actionable ethical guidance on the post‐trial responsibilities of trial stakeholders is urgently needed. Recent normative commentaries have examined the post‐trial responsibilities of clinical trial investigators, who play a central role in study design, trial coordination, and follow‐up. A persistent challenge is demarcating investigator responsibilities of research integrity from those of therapeutic care when developing ethical guidance on post‐trial responsibilities. Recognising the value of empirical engagement for informing further ethical reflection, we conducted qualitative semi‐structured interviews with n = 21 investigators involved in neurosurgical device trials. We contend that investigators frequently experience institutional and regulatory pressures that shape how they interpret and enact responsibilities for participants' post‐trial wellbeing, often in ways that extend beyond standard expectations of clinical research practice.",
-      "authors": [
-        "Nathan Higgins",
-        "Adrian Carter",
-        "John Gardner"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1111/bioe.70186",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "Post‐Trial Responsibilities for Participants Implanted With Neurosurgical Devices: A Qualitative Study",
-      "url": "https://doi.org/10.1111/bioe.70186"
-    },
-    {
-      "abstract": "Abstract This paper is about showing that Plato has a theory of ideology in the broadly Marxist sense of distorted self‐consciousness of social life. Focusing on the Allegory of the Cave and related passages in the Republic , the paper argues that in the Cave, Plato illustrates the social mediation of human psychology, which contributes to the soul's orientation to sensible reality. Orientation to sensible reality is by itself a condition of psychological bondage, but it becomes specifically ideological when its social mediation meets certain conditions. I argue that social structures are ideological when they distort social reality so as to enclose the soul in its orientation to sensible reality with little ability to escape. The paper argues that Plato develops this framework to critique Athenian cultural and political institutions. Seeing this allows us to separate Plato's critical from his constructive political thought, and we learn about the nature of both by seeing where ideology ends and Plato's ideas about beneficial social arrangements begin. By contrast, previous interpretations have tended to crowd out Plato's theory of ideology by focusing either on the role of ontology or desire in Plato's conception of psychological bondage or on his positive political ideas.",
-      "authors": [
-        "John D. Proios"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1111/ejop.70118",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Journal of Philosophy",
-      "journal_id": "J102",
-      "origin": "crossref",
-      "title": "Trapped in the Cave: Toward a Platonic Theory of Ideology",
-      "url": "https://doi.org/10.1111/ejop.70118"
-    },
-    {
-      "abstract": "Contemporary diagnoses of resurgent authoritarianism frequently attribute it to the political mobilization of fear, drawing on a long tradition that casts fear as the antithesis of freedom. This article argues that such a framework is conceptually inadequate in the face of climate breakdown. It critically engages scholarship that cautions against environmental fear and catastrophist discourse, identifying three key assumptions underpinning most of these critiques: that environmental fears are politically homologous to other historically theorized forms of fear; that fear directly fosters authoritarian tendencies at the individual level; and that fear consolidates reactionary power while weakening emancipatory movements at the collective level. Against this affective determinism and threat functionalism, the article draws on ecofeminist and anti-militarist thought to reconceptualize fear not as a regressive affect opposed to democratic agency, but as an ambivalent, critical orientation toward shared vulnerability. In this context, affective self-defense emerges as key: a mode of political praxis grounded in the open, collective acknowledgement and articulation of fear - rather than its suppression or instrumentalization - as a first step in the organization of resistance and care.",
-      "authors": [
-        "Léna Silberzahn"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1177/01914537261481248",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophy &amp; Social Criticism",
-      "journal_id": "J037",
-      "origin": "crossref",
-      "title": "Reclaiming Fear in the Age of Climate Breakdown: From the Biopolitics of Catastrophe to Affective Self-Defense",
-      "url": "https://doi.org/10.1177/01914537261481248"
-    },
-    {
-      "abstract": "This paper addresses the problem of sexual misrecognition: some groups are excluded from being seen as sexually desirable or are hypersexualised. This shapes their sexual subjectivity – how they understand themselves as sexual agents. Despite widespread initiatives calling for recognition in the domain of sexuality, the need for sexual recognition has remained undertheorised in recognition theory. Building on debates on the ambivalence of recognition, I argue that sexuality has a uniquely complex relationship to recognition. While sexual recognition is necessary for subjectivity, it also reinforces subjection to power structures. Moreover, sexuality continually transgresses sociality and subjectivity itself. Using Jeanette Chedda’s erotic story in Damn Horny as a case study, I demonstrate how sexual recognition transgresses ideals of mutuality and equality, and theorise transformative possibilities for cultivating sexual subjectivity differently.",
-      "authors": [
-        "Veerle van Wijngaarden"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1177/01914537261484989",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophy &amp; Social Criticism",
-      "journal_id": "J037",
-      "origin": "crossref",
-      "title": "The Ambivalence of Recognition in Sexual Subjectivity",
-      "url": "https://doi.org/10.1177/01914537261484989"
-    },
-    {
-      "abstract": "Abstract In an era of profound geopolitical fragmentation, rising authoritarianism and an increasingly multipolar global order, political and economic decision-makers face a growing moral dilemma: how to reconcile economic interests with commitments to international law, human rights, and democratic values. In this paper I examine the ethical dilemma raised by commercial ties with authoritarian regimes in the context of a rapidly changing economic and political landscape. Drawing on moral philosophy, international political theory, and business ethics, I analyze how existing ethical approaches evaluate such relationships. I argue that prevailing binary frameworks, such as democratic versus authoritarian regimes or legal versus political norms, increasingly fail to capture the normative and strategic complexity of today’s multipolar world. Instead, I propose a convergence approach, emphasizing the prioritization of norm violations that challenge the very foundations of an already eroding global normative order, including wars of aggression and gross violations of international humanitarian law.",
-      "authors": [
-        "Alexander Kriebitz"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1515/mopp-2025-0039",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Moral Philosophy and Politics",
-      "journal_id": "J041",
-      "origin": "crossref",
-      "title": "Commercial Ties with Authoritarian Regimes in a Changing Global Order: The Need for a Refined Ethical Approach",
-      "url": "https://doi.org/10.1515/mopp-2025-0039"
-    },
-    {
-      "abstract": "Abstract This article argues that the approach to political theory articulated by Shmuel Nili’s Philosophizing the Indefensible needs to be modified to address non-ideal political circumstances in illiberal political societies in deep conflict. Building on Nili’s analysis of Israeli politics as a paradigmatic example, and with the moral catastrophe of October 7 and the Gaza war in mind, I argue that the burdens of politics under these circumstances are likely to make repugnant views commonplace; that worldviewing – the attempt to engage with the strongest version of our interlocutor’s arguments – is an overly charitable exercise, allowing repugnant views to appear non-repugnant; and that, counter-intuitively, the imperative to engage with repugnant views is stronger, not weaker, under these non-ideal circumstances.",
-      "authors": [
-        "Lior Erez"
-      ],
-      "date": "2026-09-07",
-      "doi": "10.1515/mopp-2025-0040",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Moral Philosophy and Politics",
-      "journal_id": "J041",
-      "origin": "crossref",
-      "title": "Steelmanning in the Shadow of Iron Swords",
-      "url": "https://doi.org/10.1515/mopp-2025-0040"
-    },
     {
       "abstract": "",
       "authors": [
@@ -11796,6 +11463,20 @@
       "url": "https://doi.org/10.1136/jme-2026-112675"
     },
     {
+      "abstract": "Summary This article analyzes judicial practice in rape cases in socialist Czechoslovakia from a gender perspective. Based on case analysis and legal-historical research, it identifies key asymmetries in the interpretation and application of the rape offence, particularly in marital and group contexts. The study shows how courts often reclassified acts to lesser offences, thereby weakening protection of women’s sexual autonomy. It reveals how gendered stereotypes and traditional norms influenced evidentiary standards, sentencing, and perceptions of victim credibility. The findings highlight the gap between the formal legal framework and its real-world implementation.",
+      "authors": [
+        "Milan Dobeš"
+      ],
+      "date": "2026-10-12",
+      "doi": "10.1163/15718190-20260115",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Tijdschrift voor Rechtsgeschiedenis / Revue d'histoire du droit / The Legal History Review",
+      "journal_id": "J083",
+      "origin": "crossref",
+      "title": "Sexual offenses and gender differences in Socialist Czechoslovakia with an emphasis on the crime of rape",
+      "url": "https://doi.org/10.1163/15718190-20260115"
+    },
+    {
       "abstract": "",
       "authors": [
         "Brian Hillman"
@@ -13881,6 +13562,35 @@
     {
       "abstract": "",
       "authors": [
+        "Cathrine Holst",
+        "Tore Wig"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1080/0020174x.2026.2744691",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Inquiry",
+      "journal_id": "J089",
+      "origin": "crossref",
+      "title": "The affinities between democracy and science",
+      "url": "https://doi.org/10.1080/0020174x.2026.2744691"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Fintan Mallory"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1080/0020174x.2026.2751136",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Inquiry",
+      "journal_id": "J089",
+      "origin": "crossref",
+      "title": "Abstraction and the Value Form",
+      "url": "https://doi.org/10.1080/0020174x.2026.2751136"
+    },
+    {
+      "abstract": "",
+      "authors": [
         "Anil Gupta",
         "T. Raja Rosenhagen"
       ],
@@ -13892,6 +13602,21 @@
       "origin": "crossref",
       "title": "Ori Beck on reformed empiricism",
       "url": "https://doi.org/10.1080/0020174x.2026.2751143"
+    },
+    {
+      "abstract": "Most of the discussion of adversarialism has taken place in the context of criminal justice and it is often assumed that family courts are not adversarial, particularly in child arrangements cases where the stated focus is the future welfare of children. Drawing on data from a recent study of child arrangements proceedings in England and Wales this article will argue that despite modifications to the adversarial process, adversarialism remains a structural barrier to safe processes and outcomes in cases where there are allegations of domestic abuse. It will be argued that the underpinning logic of adversarialism is fundamentally problematic in private family law proceedings given the high prevalence of domestic abuse in such cases reaching the family courts.",
+      "authors": [
+        "Mandy Burton",
+        "Rosemary Hunter"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1111/1468-2230.70076",
+      "first_seen_jst": "2026-10-23",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "Adversarialism in the Family Courts in Child Arrangements Cases in England and Wales",
+      "url": "https://doi.org/10.1111/1468-2230.70076"
     },
     {
       "abstract": "ABSTRACT The determination of death by neurologic criteria (brain death) has increasingly become a topic of controversy. Here we address a question that provokes clinical ethics consultations and scholarly debate: “how should objections to the declaration of neurologic death be handled?” While much of the discourse on this question has focused on the legitimacy of the criteria for brain death determinations or the motivations of individuals' objections to declarations of death, our analysis addresses a deeper issue inherent in the conflicts in clinical settings. We argue that some objections to brain death cannot be explained away as grief, misunderstanding, or different religious beliefs. Rather, tensions between worldviews—fundamental standpoints or lenses through which humans experience and conceptualize the world around them—may drive conflicts around brain death. In what follows, we introduce the concept of worldview silencing as a means of recognizing the injustice that can occur when brain death objections grounded in alternative ontologies of death are unfairly dismissed or disrespected. Ultimately, we contend that the concept of worldview silencing offers moral guidance for just recognition of objections to brain death in practice, education, and policy.",
@@ -13908,6 +13633,34 @@
       "origin": "crossref",
       "title": "Worldview Silencing: Recognizing Reasoned Objections to Brain Death",
       "url": "https://doi.org/10.1111/bioe.70205"
+    },
+    {
+      "abstract": "ABSTRACT According to a traditional conception, a fact is individuated by its constituents and the way these are structured. Lowe (1998) argues against this, claiming that there is no principled way to ascertain what the constituents of facts are and, therefore, there is no way to coherently individuate them. In this paper, I examine and reject Lowe's argument. It will be shown that there are different conceptions of facts, a fine‐grained and a coarse‐grained conception, and that both can coherently individuate facts. In my diagnosis, Lowe's argument arises from a conflation of both conceptions.",
+      "authors": [
+        "Guido Imaguire"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1111/phib.70025",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Analytic Philosophy",
+      "journal_id": "J098",
+      "origin": "crossref",
+      "title": "On the Identity of Facts: A Reply to Lowe",
+      "url": "https://doi.org/10.1111/phib.70025"
+    },
+    {
+      "abstract": "This article argues that the contemporary crisis of the public sphere cannot be adequately understood as a crisis of communication alone. What is at stake is a contraction of the horizon of the possible: a narrowing of the conditions under which alternatives can be imagined. Drawing on the Frankfurt School tradition, it develops a concept of imagination as a critical faculty grounded in Walter Benjamin’s characterisation of it as the “awareness of the de-formations of the future,” and traces its erosion through Marcuse’s analysis of one-dimensional society. The article proposes the model of Infrastructural Conditioning of Imagination (ICI), identifying three interdependent dynamics (filtering, familiarisation and anticipation) through which algorithmic systems pre-structure the field of the thinkable. Each dynamic bears on a distinct dimension of experience: filtering concerns the structure of access, familiarisation the structure of reception, and anticipation the structure of temporality. The article argues that this conditioning operates as a suppression of non-identity in Adorno’s sense, eroding the conditions of Erfahrung under which the preponderance of the object can function as a critical moment, at the level of the conditions through which subjectivity itself is formed.",
+      "authors": [
+        "Gil Baptista Ferreira"
+      ],
+      "date": "2026-10-21",
+      "doi": "10.1177/01914537261496517",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Philosophy &amp; Social Criticism",
+      "journal_id": "J037",
+      "origin": "crossref",
+      "title": "The Contraction of the Possible: Algorithmic Infrastructures and the Erosion of Critical Imagination",
+      "url": "https://doi.org/10.1177/01914537261496517"
     },
     {
       "abstract": "Kristeva’s abjection theory is a popular framework for grappling with leaking bodies. Yet while exploring the significance of women's involuntary urination during sport, abject theory's insistence that pissing oneself must be identity shattering failed to convince us. Indeed, some women find pissing themselves to be identity forming as it marks the threshold beyond which one becomes a ‘serious’ athlete. Drawing on Sedgwick, we frame abjection as strong theory—able to explain some aspects of the experience well but unable to account for other aspects. To supplement our approach, we draw on sexuality studies for inspiration regarding how to approach involuntary urination during sport through weak theory. Rather than trying to proffer a totalizing explanation, weak theory foregrounds near and specific phenomena, allowing for variation and complexity. In this case, weak theory is analytically useful as it allows us to consider women's diverse responses to urinary leakages alongside mainstream cultural responses (disgust at the leaky body) and subcultural sporting norms (prioritization of sport performance). Further, weak theory allows us to attend to the gendered specificities of peeing in sport. Drawing on interviews with women strength athletes, we question what women's responses to their nuanced, specific experience of peeing themselves while resistance training tells us about women's place in sport and their bodily capacities. Ultimately, we argue that far from being abject, bodily leaks can be transformative, creating new subjectivities and new understandings of what women's bodies are capable of: namely, being simultaneously strong, beautiful, and leaky. This article contributes a grounded exploration of the limits of abjection theory by highlighting the necessity of considering cultural context and specific phenomena, arguing that weak theory is a useful lens through which to do so.",
@@ -13937,9 +13690,469 @@
       "origin": "crossref",
       "title": "Sexueller Zugang aus der Ferne Sexual access from a distance",
       "url": "https://doi.org/10.22613/zfpp/13.1.1"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Naghmeh Sheibani Moghadam",
+        "Joëlle Vanhamme"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10551-026-06501-7",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Corporate Social Responsibility in Negative Marketing Events: The Overlooked Role of Normative Ethics",
+      "url": "https://doi.org/10.1007/s10551-026-06501-7"
+    },
+    {
+      "abstract": "Abstract The article compares two ways to think about the implicit structure of systems studied in pure mathematics. The first approach specifies implicit structure in terms of formal languages, relying on a model-theoretic notion of definability. The second approach defines the notion in terms of invariance criteria. The structural features of a given system are often considered to be properties which are invariant under specific transformations of the system. In the paper, I analyze these two approaches to implicit structure in terms of invariance and definability conditions by drawing to the field of finite geometry. I then explore their formal relationship in the framework of relational algebra, based on the concepts of Galois closures and Krasner algebras. Finally, I examine the equivalence of mathematical systems with respect to their implicit structure in terms of the model-theoretic notion of bi-interpretability.",
+      "authors": [
+        "Georg Schiemer"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10670-026-01164-2",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Two Ways to Think About (Implicit) Structure",
+      "url": "https://doi.org/10.1007/s10670-026-01164-2"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Liam P. Dempsey"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10670-026-01165-1",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Complex Subjects: On the Natural Origins of Subjective Experience",
+      "url": "https://doi.org/10.1007/s10670-026-01165-1"
+    },
+    {
+      "abstract": "Abstract Delusion is one of the most puzzling doxastic phenomena: on the one hand, the subject appears irrational, holding a delusion despite counterevidence; on the other hand, the subject appears otherwise rational, apportioning their non-delusional beliefs to the evidence. Leading theories of delusion, despite their strengths, still face notable limitations. This article argues that they may benefit from a new empiricist approach. Drawing on insights from Hobbes and Locke, it proposes that the subject may have a distinctive kind of compelling experience that is phenomenologically analogous to, and can effectively be more compelling than, the Cartesian ‘clear experience’. How the experience may, in various ways and to varying degrees, compel domain-specific irrational belief in the face of counterevidence will be articulated.",
+      "authors": [
+        "Chenwei Nie"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10670-026-01166-0",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Delusions and Compelling Experiences",
+      "url": "https://doi.org/10.1007/s10670-026-01166-0"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Philose Koshy"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10670-026-01167-z",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Background Information as a Key to Resolving the Gettier Problem: Insights from Bayesian Confirmation Theory",
+      "url": "https://doi.org/10.1007/s10670-026-01167-z"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Paula Teijeiro"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10670-026-01168-y",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Infinitary Metainferences, Categoricity and the Structure of Logical Theories",
+      "url": "https://doi.org/10.1007/s10670-026-01168-y"
+    },
+    {
+      "abstract": "Abstract Doxastic deliberation about how to doxastically relate to a given proposition p is said to be transparent, in that the central deliberative question of ‘Whether to believe p?’ is equivalent to ‘Whether p?’. I discuss four challenges to this thesis based on non-evidential epistemic reasons, deliberative dilemmas, self-effecting attitudes, and permissivist pragmatism. By employing recent insights from both the theory of epistemic normativity and the literature on practical deliberation, I argue that each of these puzzles can be squared with a properly limited and constrained version of the transparency thesis. Ultimately, I show that the claim that doxastic deliberation is after settling ‘Whether p?’ can only be understood as an approximation of a sub-question of the initial normative deliberative question concerning a very specific set of attitudinal options. Nevertheless, the resulting theory retains the core motivation and upshots of the transparency thesis: one is still able to explain why the deliberative norms of doxastic deliberation appear to be, for the most part, epistemic norms.",
+      "authors": [
+        "Michael Vollmer"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10670-026-01169-x",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Doxastic Deliberation and the Puzzles of Transparency",
+      "url": "https://doi.org/10.1007/s10670-026-01169-x"
+    },
+    {
+      "abstract": "Abstract We often support our moral judgements by appealing to independent considerations. According to some approaches in moral epistemology, the best way to understand this support is as evidential . However, it is unclear how some metaethical positions, like expressivism, can be compatible with such a view. For expressivists, moral judgements are desire-like states, which ostensibly are not the sorts of states which can be evidentially supported. In this paper, I argue that expressivists can indeed make sense of relations of evidential support for moral judgements. Drawing on a common sides-stepping expressivist strategy, I argue that expressivists should first focus not on evidential relations themselves but on our thought and talk of the form ‘ e is evidence for p ’. I then appeal to a form of epistemic expressivism, according to which such claims express complex non-cognitive attitudes or normative perspectives about standards that make it permissible to judge that p given e . This approach allows expressivists to reinterpret questions about what evidential relations between evidence e and moral judgements that p are as first-order normative questions about which standards not ruled out by acceptable normative perspectives make it permissible to judge that p given e . Responses to these first-order questions should be, in principle, compatible with expressivist second-order accounts of moral thought and talk. Finally, to show that this first-order interpretation is plausible, I outline a version of evidential explanationism along those lines.",
+      "authors": [
+        "Rodrigo Valencia Pacheco"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10670-026-01170-4",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Expressivism and Evidence for Moral Judgments",
+      "url": "https://doi.org/10.1007/s10670-026-01170-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Guanglong Luo"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10670-026-01180-2",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Indispensable Mathematics and Isolated Universes",
+      "url": "https://doi.org/10.1007/s10670-026-01180-2"
+    },
+    {
+      "abstract": "Abstract Many authors who reject the vacuous truth of counterpossibles still adopt a strangeness of impossibility condition (SIC): possible worlds are always closer than impossible ones. Others doubt that SIC holds across the board. I situate the debate between linguistics and other disciplines. Then I weigh considerations of conservativity, systematicity and intuitiveness against counterexamples to SIC and purported theoretical benefits of abandoning SIC. My result is that neither the supporting nor the opposing evidence so far is compelling. The most plausible hypothesis is that SIC holds for a ‘standard resolution’ of the vagueness of counterpossibles, but that it can be overridden by context and pragmatic considerations even when counterpossibles are assessed ‘out of the blue’.",
+      "authors": [
+        "Daniel Dohrn"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10670-026-01181-1",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Strange Days Have Found Us",
+      "url": "https://doi.org/10.1007/s10670-026-01181-1"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Parker Crutchfield"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10676-026-09925-x",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Ethics and Information Technology",
+      "journal_id": "J064",
+      "origin": "crossref",
+      "title": "Digital restraints: when AI may override human decisions",
+      "url": "https://doi.org/10.1007/s10676-026-09925-x"
+    },
+    {
+      "abstract": "Abstract In philosophical work on the ethics of video games, ludic amoralists argue that acts players perform in games are beyond moral scrutiny. This is chiefly supported by the following arguments: the fictional harm argument, the consequentialist rebuttal, and the moral exploration argument. The fictional harm argument supports ludic amoralism in principle: if all game actions are fictional, none can be immoral. The consequentialist rebuttal supports a defeasible default: if violent games do not reliably produce harmful outcomes, amoralism is the default position. The moral exploration argument provides an aesthetic reason for amoralism: play is beyond moral criticism insofar as the player engages with the game in an aesthetic, exploratory way. Drawing on Waltonian theories of fiction, I argue that players often imagine themselves as performing the fictional acts represented in games, ranging from heroic exploits to morally abhorrent deeds. When players do this, they can come to identify with, to varying degrees, their fictional exploits. Strong identification occurs when players interpret their fictional actions as satisfying real desires, such as the desire to harm others. Using examples from players of violent extremist games, as well as mainstream violent games, I show how such identification can arise in practice. Most importantly, I show that in cases of strong identification, all three justifications for ludic amoralism fail.",
+      "authors": [
+        "Joshua Kelsall"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s10676-026-09931-z",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Ethics and Information Technology",
+      "journal_id": "J064",
+      "origin": "crossref",
+      "title": "Imagining evil: from violent imaginings to violent extremist video games",
+      "url": "https://doi.org/10.1007/s10676-026-09931-z"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Bryanna Moore",
+        "Amy Caruso Brown"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11017-026-09772-3",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Theoretical Medicine and Bioethics",
+      "journal_id": "J059",
+      "origin": "crossref",
+      "title": "Parental reason-giving obligations in pediatrics: who owes what to whom and why?",
+      "url": "https://doi.org/10.1007/s11017-026-09772-3"
+    },
+    {
+      "abstract": "Abstract Even if state-led biodiversity conservation projects can result in the displacement, exclusion, and impoverishment of former reserve residents, they are often presented as responding to the public interest. The core idea of these projects, I argue in this paper, is that nature and people should be separated, because people are too dangerous to be part of the landscape. However, this narrow perspective fails to acknowledge the numerous wrongs caused by conservation-induced displacement. That is, considering the interdependent relationships between human and non-human entities at the core of several Indigenous approaches to biodiversity conservation, I show that the conservation-induced displacement of some Indigenous groups can cause three interconnected wrongs: territorial, epistemic, and identity-based.",
+      "authors": [
+        "Rita Ogochukwu Ezugwu"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11158-026-09794-7",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Res Publica",
+      "journal_id": "J030",
+      "origin": "crossref",
+      "title": "Why Conservation-Induced Displacement is Wrong",
+      "url": "https://doi.org/10.1007/s11158-026-09794-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Douglas Ehring"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11158-026-09802-w",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Res Publica",
+      "journal_id": "J030",
+      "origin": "crossref",
+      "title": "Against the Anti-History Principle",
+      "url": "https://doi.org/10.1007/s11158-026-09802-w"
+    },
+    {
+      "abstract": "Abstract Business ethics increasingly explains corporate duties through failure-based theories. The Market Failures Approach (MFA) limits profit-seeking by reference to competitive efficiency, while the Justice Failures Approach (JFA) bars firms from benefiting from unjust background conditions. This article argues that both leave a distinct class of corporate wrongs under-theorized, namely the degradation of relational goods through which corporate authority becomes legitimate and social cooperation remains stable. The article develops a Relational Failures Approach (RFA), according to which firms are relationship-constituting institutions whose permission to exercise discretionary power depends on sustaining relational goods. Drawing on sociology and organizational research, the article defends an empirically grounded and non-perfectionist account of these goods and shows how firms can commit efficiency-compatible, justice-compatible, and institutionally corrosive wrongs. The argument clarifies why familiar corporate pathologies, including disposability regimes and fear-based cultures, are not adequately captured by efficiency or justice alone in contemporary corporate ethics debates.",
+      "authors": [
+        "Chi Kwok"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11158-026-09804-8",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Res Publica",
+      "journal_id": "J030",
+      "origin": "crossref",
+      "title": "Business Firms and Relational Failures: Situating Relational Goods Beyond Market and Justice Failures",
+      "url": "https://doi.org/10.1007/s11158-026-09804-8"
+    },
+    {
+      "abstract": "Abstract This article draws on the cross-disciplinary literature on risk, uncertainty and precaution to address a central dilemma put forward against precautionary principles. According to this dilemma, weak versions of precautionary principles, which hold that policymakers can justifiably adopt precautionary measures even when they lack certainty of impending harm, fail to justify adopting any precautionary measures. Conversely, strong versions of precautionary principles, which hold that policymakers must adopt precautionary measures whenever they face significant risks of harm, yield contradictory policy prescriptions. The article argues that the proffered defences of precautionary principles provide only a partial solution to this dilemma. The article then demonstrates that a meta-precautionary approach, which applies precautionary reasoning to the prescriptions of precautionary principles, can resolve the dilemma and successfully address further prominent objections put forward against precautionary principles.",
+      "authors": [
+        "Roberto Fumagalli"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11229-026-05856-8",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "A meta-precautionary solution to the dilemma of precaution",
+      "url": "https://doi.org/10.1007/s11229-026-05856-8"
+    },
+    {
+      "abstract": "Abstract Autobiographical memory and the self are closely connected. Autobiographical memories provide the information needed to form and maintain a stable self-model (memory-to-self). The self, in turn, modulates the construction of autobiographical memories during retrieval (self-to-memory). Past research has mainly focused on the former direction of influence. However, self-to-memory dynamics are being increasingly investigated both in neurotypical and neurodivergent individuals. We contribute to this line of research in two ways. First, we elaborate on the self-memory system framework focusing on self-related processes involved in autobiographical memory retrieval. In particular, we distinguish between long-term and situationally activated aspects of the self, as well as between its representational and agentive aspects. Second, we propose a general framework for understanding self-to-memory dynamics in major depressive disorder based on four dimensions of the self: self-coherence (comprising self-coherence proper and self-congruence); self-valence; self-knowledge; and self-control. Based on the characteristics of the self in depression, we propose an outline of the self-to-memory dynamics in individuals with depression, drawing on existing empirical evidence. Additionally, we suggest that our framework, adjusted as needed, could be employed to describe self-to-memory dynamics in other mental health conditions.",
+      "authors": [
+        "Francesco Fanti Rovetta",
+        "Nikolai Axmacher",
+        "Albert Newen"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11229-026-05857-7",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Varieties of self-to-memory dynamics in autobiographical memory: the case of depression",
+      "url": "https://doi.org/10.1007/s11229-026-05857-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Xiaoxuan Fu",
+        "Fenrong Liu",
+        "Zhiguang Zhao"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11245-026-10397-3",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "title": "Towards a PDL Framework for Reasoning About Causality",
+      "url": "https://doi.org/10.1007/s11245-026-10397-3"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Thomas Souverain",
+        "Paul Égré"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11245-026-10454-x",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "title": "Fairness Interventions in Classification: A Study on AI Explainability",
+      "url": "https://doi.org/10.1007/s11245-026-10454-x"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "T. A. Pendlebury"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11245-026-10488-1",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "title": "Capacities-First Philosophy as First Philosophy",
+      "url": "https://doi.org/10.1007/s11245-026-10488-1"
+    },
+    {
+      "abstract": "Abstract Debates about the extended mind and extended cognition typically focus on the boundaries of cognitive processes and the mechanisms responsible for their realization. This paper develops a different perspective, one that foregrounds the role of dispositional properties such as beliefs, capacities, and abilities. According to the dispositional hypothesis, cases of cognitive extension share a common structure: an entity is credited with a dispositional property whose manifestation is realized by a mechanism that extends beyond the boundaries of that entity. This provides a unified way of understanding otherwise disparate cases of cognitive extension. The dispositional perspective also sheds new light on several familiar issues in the active externalist literature, including cognitive bloat and the criteria used to evaluate putative cases of cognitive extension. More generally, it draws attention to the importance of disposition ascription and the identification of disposition bearers: whether a mechanism qualifies as extended depends not simply on whether it crosses an organismic boundary, but on whether it extends beyond the boundaries of the entity credited with the relevant dispositional property. The resulting framework provides a common basis for understanding both natural and artificial forms of cognitive extension.",
+      "authors": [
+        "Paul Smart"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11245-026-10491-6",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "title": "Beyond Skin and Skull: A Dispositional Approach to the Extended Mind",
+      "url": "https://doi.org/10.1007/s11245-026-10491-6"
+    },
+    {
+      "abstract": "Abstract This paper aims to show that a neo-Aristotelian version of capacity-first philosophy of mind is fruitfully applied to a question which is specific to philosophy of psychology, namely: What counts as an adequate explanation in psychology? Drawing on Kenny, Glock and Schellenberg, the paper argues that the neo-Aristotelian capacity view is built around a set of criteria for the classification of capacities. All capacities are classified according to (1) possession-, (2) exercise-, (3) vehicle-, (4) opportunity-, (5) enablement- and (6) successful employment- criteria. These classification criteria are used to reconstruct the process of de-intellectualizing explanations of psychological phenomena. De-intellectualization targets theoretical assumptions about the circumstances in which the various criteria for classifying capacities are satisfied. The capacity approach offers a tool for regimenting the process of de-intellectualization. It also illustrates the contrast between de-intellectualization and Dennett’s homuncular functionalism. Rather than offering nothing more than conceptual clarity for debates about the metaphysics and epistemology of mind, the neo-Aristotelian capacity view explains why de-intellectualizing explanations is a feature of adequate explanations in psychology.",
+      "authors": [
+        "Cameron Alexander"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11245-026-10497-0",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "title": "Capacity-First Philosophy of Psychology",
+      "url": "https://doi.org/10.1007/s11245-026-10497-0"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Keota Fields"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11245-026-10498-z",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "title": "Discrimination Without Phenomenal Difference in Schellenberg’s Capacitism",
+      "url": "https://doi.org/10.1007/s11245-026-10498-z"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Cristina Barés Gómez",
+        "Matthieu Fontaine"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11245-026-10508-0",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "title": "Abduction by Analogy in Bio-Medical Inquiry",
+      "url": "https://doi.org/10.1007/s11245-026-10508-0"
+    },
+    {
+      "abstract": "Abstract Computational or machine ethics examines how morality could be implemented in machines and represented computationally. In the cognitive sciences, different architectures (rule-based and connectionist) have been proposed. Nevertheless, such approaches have limitations when incorporating ethical claims. With the rise of artificial intelligence, new ways of simulating moral expertise seem possible, where chatbots can serve as dialogue partners for moral orientation. However, as I will argue, such systems lack a theoretical grounding in metaethics, as do the former approaches. In order to align such systems ethically and ground them conceptually, a topography of moral competence must be developed. By outlining this topography, I will show some directions for further research and how such systems might enhance us morally.",
+      "authors": [
+        "Florian Richter"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s11948-026-00634-8",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Science and Engineering Ethics",
+      "journal_id": "J072",
+      "origin": "crossref",
+      "title": "Limitations of Computational Morality: Can We Morally Enhance Ourselves via AI?",
+      "url": "https://doi.org/10.1007/s11948-026-00634-8"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mahmoud Soliman",
+        "Samer Saber",
+        "Mohamed Hatem",
+        "Ibrahim Habib"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1007/s43681-026-01429-0",
+      "first_seen_jst": "2026-10-23",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Ethical and safe by construction: a unified assurance pipeline for physical AI",
+      "url": "https://doi.org/10.1007/s43681-026-01429-0"
+    },
+    {
+      "abstract": "Abstract This comment assesses the evidence from four papers on the development process for four breakthrough drugs or treatments. The comment notes that the papers show all the key breakthroughs in the development process were financed either through the National Institutes of Health or various foundations or charities, not drug companies looking to be compensated through patent monopolies. It argues that this evidence suggests patent monopolies are an unnecessary distortion that results in high drug prices and creates perverse incentives. Expanded public funding could replace patent monopolies, allowing new drugs to be sold at free market prices, ending the problem of high drug prices blocking access.",
+      "authors": [
+        "Dean Baker"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1017/jme.2026.10299",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Journal of Law, Medicine &amp; Ethics",
+      "journal_id": "J068",
+      "origin": "crossref",
+      "title": "What Have We Learned About Incentive Mechanisms?",
+      "url": "https://doi.org/10.1017/jme.2026.10299"
+    },
+    {
+      "abstract": "Abstract This paper examines the role of public interest litigation in promoting accountability for AI and automated decision-making (ADM) in Australia. Since ADM regulation faces political and geopolitical headwinds, effective governance will have to rely on the enforcement of existing laws. Drawing on interviews with Australian public interest litigators, technology policy activists, and technology law scholars, the paper positions public interest litigation as part of a larger ecosystem for transparency, accountability, and justice with respect to ADM. The paper explores the tactics and strategies of what one participant described as “retrofitting” old laws to ADM. These go beyond creative legal argumentation to encompass practices of community-building, collaboration on theories of change, canny selection of clients and causes of action, and careful alignment of the interests of stakeholders in litigation. Naturally, the paper also contends with the limits of these strategies, and of the Australian legal system. Where limits are, however, capable of being overcome, the paper presents findings on urgent needs: the enabling institutional arrangements without which effective litigation and accountability will falter. The paper is relevant to law and technology scholars; individuals and groups harmed by ADM; public interest litigators and technology lawyers; civil society and advocacy organizations; and policymakers.",
+      "authors": [
+        "Henry Leopold Fraser",
+        "Zahra Stardust"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1017/lsr.2026.10124",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Law &amp; Society Review",
+      "journal_id": "J020",
+      "origin": "crossref",
+      "title": "Retrofitters, pragmatists, and activists: public interest litigation for accountable automated decision-making",
+      "url": "https://doi.org/10.1017/lsr.2026.10124"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sascha Auerbach"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1080/2049677x.2026.2736391",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Comparative Legal History",
+      "journal_id": "J082",
+      "origin": "crossref",
+      "title": "Worthy of freedom: indenture and free labour in the era of emancipation",
+      "url": "https://doi.org/10.1080/2049677x.2026.2736391"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Cho Kiu Chiang"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1080/2049677x.2026.2749361",
+      "first_seen_jst": "2026-10-23",
+      "journal": "Comparative Legal History",
+      "journal_id": "J082",
+      "origin": "crossref",
+      "title": "When did China have law? A genealogical approach to Chinese legal history",
+      "url": "https://doi.org/10.1080/2049677x.2026.2749361"
+    },
+    {
+      "abstract": "Abstract This article examines the significance of what Edmund Husserl calls “the paradox of human subjectivity” for the metaphysical realism‐idealism debate in transcendental phenomenology. I distinguish two plausible interpretations of the paradox that are relevant to this debate. I term the first a vicious circle of mutual dependence: the world is characterized as being ontologically dependent on one causally dependent part of the world. I term the second a paradox of bodily self‐constitution: the transcendental subject is defined in such a way that it would be impossible for it to constitute itself as an empirical subject, and yet, in order to constitute the world, it must undergo such a process of self‐objectification. I focus on one prominent version of phenomenology from each side of the realism‐idealism debate, treating them as counterparts insofar as they share three core commitments. I argue that while the main accounts of the subject available to this idealist version generate at least one such paradox, the realist version can explain how one and the same subject is both transcendental and empirical without generating either paradox. My argument therefore provides a substantial prima facie reason to favour this realist version of phenomenology over its idealist counterpart for those who accept their shared commitments and take transcendental phenomenology to have metaphysical implications for the realism‐idealism debate.",
+      "authors": [
+        "Tyeson Davies‐Barton"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.1111/ejop.70130",
+      "first_seen_jst": "2026-10-23",
+      "journal": "European Journal of Philosophy",
+      "journal_id": "J102",
+      "origin": "crossref",
+      "title": "Realism, Idealism, and the Paradox of Subjectivity in Transcendental Phenomenology",
+      "url": "https://doi.org/10.1111/ejop.70130"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-22",
-  "window_start": "2026-09-07"
+  "window_end": "2026-10-23",
+  "window_start": "2026-09-08"
 }

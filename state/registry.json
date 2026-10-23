@@ -1249,15 +1249,16 @@
     "status": "identified"
   },
   "J109": {
-    "issn": null,
-    "issns": [],
+    "issn": "3052-914X",
+    "issns": [
+      "3052-914X"
+    ],
     "name": "Experimental Philosophy",
     "notes": [
-      "Crossref: no exact title match",
-      "OpenAlex: no exact title match"
+      "Crossref: no exact title match"
     ],
-    "openalex_id": null,
-    "status": "unresolved"
+    "openalex_id": "S7407089969",
+    "status": "identified"
   },
   "J110": {
     "issn": "2371-2570",

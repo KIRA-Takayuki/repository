@@ -1,193 +1,6 @@
 {
-  "collected_on": "2026-10-23",
+  "collected_on": "2026-10-24",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Mengyang Wang",
-        "Jialin Du",
-        "Jiaxuan Li"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1007/s10551-026-06460-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Perceived Unfairness and Supplier Opportunism in International Exchanges: The Moderating Role of Institutional Distance and Supplier Dependence",
-      "url": "https://doi.org/10.1007/s10551-026-06460-z"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Carl G. Wagner"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1007/s10670-026-01155-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "How Conditioning Effects Undercutting Defeat",
-      "url": "https://doi.org/10.1007/s10670-026-01155-3"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Renjia Xiao"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1007/s12136-026-00705-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Acta Analytica",
-      "journal_id": "J099",
-      "origin": "crossref",
-      "title": "Common Knowledge Attainability: A Response to Lederman’s Sailboat Argument",
-      "url": "https://doi.org/10.1007/s12136-026-00705-2"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "yuanfan HUANG"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1007/s12136-026-00706-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Acta Analytica",
-      "journal_id": "J099",
-      "origin": "crossref",
-      "title": "On Wholehearted Decisions",
-      "url": "https://doi.org/10.1007/s12136-026-00706-1"
-    },
-    {
-      "abstract": "Abstract This paper integrates empirical and doctrinal approaches to demystify the intellectual property law Typical Case system in China. IP Typical Cases have proliferated nationwide, yet their institutional meaning – particularly what makes them ‘typical’ and what functions they are intended to serve – remains obscure. Normative documents suggest a dual purpose: doctrinally, to unify the application of law across similar cases; and socially, to promote law popularisation and support broader social governance. This dual intention aligns with the findings from a semantic network analysis based on a large-N Weibo dataset, which reveals that IP Typical Cases embody economic, political, and legal dimensions. However, policymakers have overlooked the inherent tension between these functions: the legal function requires the doctrinal complexity of hard cases, whereas the societal function depends on simple, communicable cases suitable for public education. Given the predominance of non-hard cases and the pre-existing ambiguity surrounding the system’s intended purpose, the current IP Typical Case system struggles to realise either objective effectively. A clear recognition of the hard–simple division could enable the system to function more coherently, contributing both to the development of China’s case guidance system and, more narrowly, to the formation of IP legal dogmatics.",
-      "authors": [
-        "Guangyu Li"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1017/lst.2026.10133",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Legal Studies",
-      "journal_id": "J019",
-      "origin": "crossref",
-      "title": "Obscure engine: China’s Typical Case system for intellectual property law – empirical and doctrinal insights",
-      "url": "https://doi.org/10.1017/lst.2026.10133"
-    },
-    {
-      "abstract": "Abstract Software as a medical device (SaMD) offer significant promise for care and have become near ubiquitous within healthcare and medicine. Yet, the regulation of SaMD in the UK and Europe has not kept up with the technological state-of-the-art. In this paper we argue that there is a conceptual mismatch between regulatory frameworks designed for physical devices and the intangible nature of software. To demonstrate this, we identify three key gaps in the application of medical devices regulations to SaMD: (1) how the ‘intended use’ of digital devices impacts on whether they are captured by the relevant Regulations; (2) the problems created by the boundaryless nature of software for determining the device ‘manufacturer’; and (3) the challenges of managing changes to SaMD, especially where these are updated rapidly and frequently. Whilst recognising that recently published guidance and planned proposals to update medical devices regulation in the UK and EU attempt to address these challenges, we argue that they do not go far enough. Namely, they fail to properly attend to the foundational mismatch at the heart of regulating SaMD. In response, we propose three potential solutions to ensure that any forthcoming regulatory changes appropriately capture the nuances and risks specific to software.",
-      "authors": [
-        "Muireann Quigley",
-        "Laura Downey",
-        "Louise Hatherall"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1017/lst.2026.10139",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Legal Studies",
-      "journal_id": "J019",
-      "origin": "crossref",
-      "title": "Living in a material world? Regulatory challenges of software as a medical device",
-      "url": "https://doi.org/10.1017/lst.2026.10139"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "John Collins"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1080/0020174x.2026.2729883",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "A problem of adventitiousness for simple propositions",
-      "url": "https://doi.org/10.1080/0020174x.2026.2729883"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ada Kuskowski"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1080/01440365.2026.2728753",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Legal History",
-      "journal_id": "J081",
-      "origin": "crossref",
-      "title": "The Antiqua consuetudo Normannie, or ‘part one’ of the so-called Très ancien coutumier of Normandy",
-      "url": "https://doi.org/10.1080/01440365.2026.2728753"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Eva Bernet Kempers"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1080/20403313.2026.2675795",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Jurisprudence",
-      "journal_id": "J006",
-      "origin": "crossref",
-      "title": "Multispecies legality: animals and the foundation of legal inclusion",
-      "url": "https://doi.org/10.1080/20403313.2026.2675795"
-    },
-    {
-      "abstract": "Abstract It is often argued that maximizing normative theories are inappropriate for bounded agents. I argue that leading motivations for theories of bounded rationality are substantially compatible with some traditional maximizing normative theories. This finding expands the audience for theories of bounded rationality by making room for advocates of maximizing normative theories, and has implications for knowledge-action principles, the relationship between descriptive and normative theorizing, and the definitions of central tenets of bounded rationality.",
-      "authors": [
-        "David Thorstad"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1093/pq/pqag059",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Satisficing, maximizing, and bounded rationality",
-      "url": "https://doi.org/10.1093/pq/pqag059"
-    },
-    {
-      "abstract": "ABSTRACT Recent changes in aid in dying laws have led some to argue for a pathway from Voluntarily Stopping Eating and Drinking (VSED) to Medical Aid in Dying (MAiD). Proponents point to the Sontag case as demonstrating the efficacy of the practice. This article first provides an overview of the development of the practice of VSED and MAiD and provides the ethical arguments which support both. It then moves to discussing and critiquing Pope and Brodoff's defense of VSED‐as‐pathway. Pope and Brodoff argue it is maleficent and inconsistent to exclude patients diagnosed with dementia from accessing aid in dying. The main crux of their argument relies on the notion of “terminal self election.” In this article terminal self election is critiqued, and alternate proposals are put forward to allow incapacitated patients with dementia access to aid in dying without first having to access VSED.",
-      "authors": [
-        "D. B. Davison"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1111/bioe.70144",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "VSED Should\n                    Not\n                    Be a Pathway to MAiD (Though Both Are Ethically Permissible)",
-      "url": "https://doi.org/10.1111/bioe.70144"
-    },
-    {
-      "abstract": "ABSTRACT This article discusses three interpretations of cosmic significance, all of which reveal something important about the notion of significance. Along the way, it proposes a unified view of significance by combining elements of each of the views. It then moves on to analyse space endeavours, considering these views to investigate whether there are any grounds for thinking that grandiose space projects could be significant on the cosmic scale. Of the three space endeavours examined, planetary seeding fares best for cosmic significance. Nonetheless, this does not mean that we ought to seed planets, since the value of such activity remains uncertain, and in general significance is not something that we should have pro‐attitudes towards, as also malign things can be important.",
-      "authors": [
-        "Oskari Sivula"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1111/rati.70043",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ratio",
-      "journal_id": "J093",
-      "origin": "crossref",
-      "title": "On Our Cosmic (In)significance",
-      "url": "https://doi.org/10.1111/rati.70043"
-    },
-    {
-      "abstract": "This article traces a single, three-stage argument. It begins by documenting, with empirical precision, how digital platforms functioned as genuine instruments of horizontal mobilization during the North African uprisings of 2010–2012. It then analyses how those same platforms were rapidly incorporated into new and frequently more sophisticated architectures of social control, transforming what had been emancipatory tools into what Foucault would call dispositifs of docility. Finally, it asks what theoretical apparatus is adequate to comprehend this transition—and argues that the most productive framework is a deliberate synthesis of Foucault’s analytics of biopower and disciplinary normalization with Bauman’s diagnosis of liquid modernity. The contribution of Bauman is not merely decorative: his account of how solid disciplinary confinement mutates under liquid conditions into consensual, self-administered surveillance explains precisely why the digital panopticon is so much more difficult to resist than its institutional predecessors. The article also examines the epistemological dimensions of this subjection, attending to the structural marginalization of non-Western knowledge traditions through the normative alignment filters of Large Language Models. The argument is organized as a continuous analytical thread, not as a review of theoretical positions, and concludes with implications for decolonial critical theory.",
-      "authors": [
-        "M. Djemai Chebika",
-        "Rabah Kahli"
-      ],
-      "date": "2026-09-08",
-      "doi": "10.1177/01914537261481244",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophy &amp; Social Criticism",
-      "journal_id": "J037",
-      "origin": "crossref",
-      "title": "The Architecture of Docility: Digital Platforms, Post-Revolutionary North Africa, and the Foucault–Bauman Dispositif",
-      "url": "https://doi.org/10.1177/01914537261481244"
-    },
     {
       "abstract": "",
       "authors": [
@@ -14150,9 +13963,256 @@
       "origin": "crossref",
       "title": "Realism, Idealism, and the Paradox of Subjectivity in Transcendental Phenomenology",
       "url": "https://doi.org/10.1111/ejop.70130"
+    },
+    {
+      "abstract": "In this motivational article, I employ Michel Foucault’s ideas about genealogy, power, and the subject to provoke a new problematization of the subfield of bioethics. By drawing on the claims of feminist abolitionists, the challenges of Foucault’s work, and the lessons of historical epistemology, I reiterate and expand my earlier argument—an argument that merges Foucault studies, feminist philosophy, and  philosophy of disability, as well as complicates them—that the field of bioethics is a strategy and mechanism of neoliberal eugenics that must be abolished. To support this expanded version of my argument for the abolition of bioethics, I introduce genealogical work that should compromise the notions of autonomy and self-determination, both of which notions are foundational to the field.",
+      "authors": [
+        "Shelley Lynn Tremain"
+      ],
+      "date": "2026-10-22",
+      "doi": "10.5206/9q1x9923",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Feminist Philosophy Quarterly",
+      "journal_id": "J110",
+      "origin": "crossref",
+      "title": "Notes for a Feminist Abolitionist Genealogy of Bioethics",
+      "url": "https://doi.org/10.5206/9q1x9923"
+    },
+    {
+      "abstract": "Abstract Editorial policies increasingly require authors to disclose substantive uses of generative AI, but such requirements commonly focus on whether, where, and how a model was used. Even function-specific disclosure may locate a model in the research or writing process without showing how its outputs entered scholarly judgment, how they were evaluated, or whether contributors can reconstruct the relevant reasoning and defend resulting claims without treating those outputs as sufficient justification. Drawing on research ethics, AI disclosure policy, human–model interaction, and researcher formation, this article argues that disclosure documents model use, whereas responsible use requires claim-level authorial warrant: a contributor’s capacity to understand, justify, and defend claims within their contribution. The article distinguishes cognitive delegation, in which model outputs shape substantive choices, interpretations, or justifications, from routine delegation, which does not ordinarily bear on the substance of judgment. Its conceptual contribution is to link the epistemic role of outputs that shape judgment to the function-appropriate evaluation required to justify decisions and retain warrant for resulting claims. It then repurposes disclosure categories as a claim-sensitive ex ante heuristic, mapping six recurrent research functions to risks, forms of oversight, and formative questions for recognising cognitive delegation and selecting function-appropriate evaluation. The article contributes to the ethics of information technology by clarifying when AI-supported scholarship remains under responsible human judgment and when cognitive delegation threatens the epistemic basis of authorship.",
+      "authors": [
+        "Marcin Mirończuk"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1007/s10676-026-09928-8",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Ethics and Information Technology",
+      "journal_id": "J064",
+      "origin": "crossref",
+      "title": "When disclosure rules are not enough: authorial warrant and judgment in ai-supported scholarship",
+      "url": "https://doi.org/10.1007/s10676-026-09928-8"
+    },
+    {
+      "abstract": "Abstract Political protests are almost always collective endeavours, in which many people come together to jointly express some claim or demand. The power of those protests lies, in part, in their collectivity. But this collectivity also means that we may end up protesting alongside others who, though they endorse the shared claim the protest is expressing, also make other claims which are deeply unjust or harmful during the protest. This paper explores whether protesting alongside such others makes one complicit in the promotion or expression of those unjust or harmful claims, and whether we therefore have a duty not to participate (or to cease ongoing participation) in such protests. I identify two moral risks involved in protest which may ground such a duty – that we inadvertently amplify those views, and that we are unable to engage in effective counterspeech in response to them – and submit that when these risks are especially high, protestors have a pro tanto duty not to participate. However, I also show that the resources provided by different organisational forms protestors may use can help mitigate these risks.",
+      "authors": [
+        "Alexander Bryan"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1007/s10677-026-10586-4",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Ethical Theory and Moral Practice",
+      "journal_id": "J054",
+      "origin": "crossref",
+      "title": "Protesting Together",
+      "url": "https://doi.org/10.1007/s10677-026-10586-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Matthew McGrath"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1007/s11098-026-02618-7",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Weatherson on knowledge and inquiry",
+      "url": "https://doi.org/10.1007/s11098-026-02618-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Joe R. Nelson"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1007/s11098-026-02621-y",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "The recognition problem for theories of hedonic states",
+      "url": "https://doi.org/10.1007/s11098-026-02621-y"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Timothy Williamson"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1007/s11098-026-02644-5",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Synopsis of Good as Usual: Anti-Exceptionalist Essays on Values, Norms, and Action",
+      "url": "https://doi.org/10.1007/s11098-026-02644-5"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Kenneth V. Iserson"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1007/s12152-026-09682-0",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
+      "origin": "crossref",
+      "title": "Against the Arrow",
+      "url": "https://doi.org/10.1007/s12152-026-09682-0"
+    },
+    {
+      "abstract": "Abstract The development and ubiquitous availability of large language model based systems (LLMs) poses a plurality of potentials and risks for education in schools and universities. In this paper, we provide an analysis and discussion of the overreliance concern as one specific risk: that students might fail to acquire important skills, or be inhibited in the acquisition of these skills, because they overly rely on LLMs. We use the distinction between local and global goals of education to guide our investigation. In our view, the harm of LLM overreliance is specifically that it severs the connection between local educational goals (e.g., successfully solving a specific kind of math problem) and global educational goals (e.g., acquiring general skills for mathematics). Based on this analysis, we sketch three possible responses to the overreliance concern: preserving both local and global goals while making minimal changes to educational practice (a conservative approach), changing global and local educational goals (a revisionary perspective), and preserving global educational goals while changing local goals (an in-between view). Since different types of responses have different benefits and weaknesses, we think that it is likely that an optimal response ultimately combines elements from all three types.",
+      "authors": [
+        "Leonard Dung",
+        "Dominik Balg"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1007/s43681-026-01464-x",
+      "first_seen_jst": "2026-10-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Learning alone: language models, overreliance, and the goals of education",
+      "url": "https://doi.org/10.1007/s43681-026-01464-x"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Izak Tait"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1007/s43681-026-01465-w",
+      "first_seen_jst": "2026-10-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Digital mayflies: transient personhood of AI companions",
+      "url": "https://doi.org/10.1007/s43681-026-01465-w"
+    },
+    {
+      "abstract": "Abstract ‘Corrubedo’ is one of many stories Ben Judah tells in This is Europe: The Way We Live Now . It follows Graña, a fisherman from the titular Galician town who, faced with the erosion of his community, is forced to answer what Martha Nussbaum terms a ‘tragic question’ and joins the crew of Kunlun , a vessel sailing to Antarctica to poach Patagonian toothfish. Given the ubiquity of European law, in this article we interrogate its role in shaping the choices available to him and his everyday. We critically examine the Common Fisheries Policy and the IUU Regulation, highlighting their disconnect from the complex social and ecological contexts they seek to regulate, as well as the ensuing forms of alienation. These, we argue, hinting at the principle of subsidiarity, could be overcome through a reflexive law and policy that attends to the voices and lived experiences of those it most directly affects. We thereby hope to contribute to a collective inquiry into the law of the everyday in Europe, revealing the everyday as the site where the costs of governance accumulate and where ‘tragic questions’ are lived rather than resolved.",
+      "authors": [
+        "Anna D’Agostino",
+        "Lukas Sebastian Schaupp",
+        "Hubert Sitnik"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1017/elo.2026.10102",
+      "first_seen_jst": "2026-10-24",
+      "journal": "European Law Open",
+      "journal_id": "J013",
+      "origin": "crossref",
+      "title": "Against the tide: law, illegality and the everyday in Corrubedo",
+      "url": "https://doi.org/10.1017/elo.2026.10102"
+    },
+    {
+      "abstract": "Abstract Large language models produce assertion-shaped outputs that often bring their users to true belief. I argue for two conclusions of different strengths: that on the best current evidence, these systems do not transmit testimonial knowledge and that hearers are not now positioned to accord their outputs testimonial uptake, which does not wait on the first. From Burge, Williamson, Goldberg, Faulkner, and Lackey, I derive a Tracking Minimum: a source transmits testimonial knowledge that p only if the truth of p , or the evidential support for p , figures in the explanation of its producing that assertion, and does so in virtue of the source’s own production process rather than of a proxy on which that process depends. It is this endogeneity requirement, not any modal profile, that the five accounts share and current systems fail. The argument engages Burge’s extension of his framework to computational sources, the interpretability literature, and the published case for AI testimony, whose dispute with mine turns on an empirically decidable question, for which an experiment is specified. The positive proposal places LLM outputs within an extended epistemology of instruments, with a result that has gone unremarked: a working barometer satisfies the condition these systems fail.",
+      "authors": [
+        "Abhinav Saxena"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1017/epi.2026.10160",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Episteme",
+      "journal_id": "J095",
+      "origin": "crossref",
+      "title": "Assertion without a Speaker: Testimony, Tracking, and Large Language Models",
+      "url": "https://doi.org/10.1017/epi.2026.10160"
+    },
+    {
+      "abstract": "Abstract Focusing on the UK-Mauritius Chagos Agreement, this article maps the normative effects of advisory opinions of the International Court of Justice (“ICJ”). At a time when the advisory function of international courts is resorted to more frequently than ever before, a better understanding of the effects of advisory opinions is needed. ICJ advisory opinions are formally non-binding. As this article argues, however, their normative effects cannot be captured by their non-binding character, or the common understanding that they merely constitute “advice” to the requesting body. Rather, their normativity, as judicial pronouncements that state the law, can be felt across the international legal order, within and outwith the UN system, and in different judicial and non-judicial fora.",
+      "authors": [
+        "Eleni Methymaki"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1017/s0008197326101780",
+      "first_seen_jst": "2026-10-24",
+      "journal": "The Cambridge Law Journal",
+      "journal_id": "J121",
+      "origin": "crossref",
+      "title": "THE NORMATIVE EFFECTS OF ADVISORY OPINIONS OF THE INTERNATIONAL COURT OF JUSTICE: THE UK-MAURITIUS CHAGOS DEAL",
+      "url": "https://doi.org/10.1017/s0008197326101780"
+    },
+    {
+      "abstract": "Abstract The 2026 war in Iran is thus far the high-water mark of the interventionism of the second Trump administration. This essay argues that the war in Iran is profoundly unjust and even worse than the 2003 invasion of Iraq. Like the Iraq War, it fails to meet the main criteria of just war theory and lacks any plausible humanitarian justification. But it is also symptomatic of backsliding toward an autocratic way of war, rendering it wrong in ways that go beyond violations of the principles of jus ad bellum and jus in bello. The war in Iran is undemocratic, abdicates any sense of humanitarian or reparative responsibilities, and is highly revisionist of the prevailing international order. In these respects, it is even worse than the 2003 Iraq War.",
+      "authors": [
+        "James Pattison"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1017/s0892679426100501",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Ethics &amp; International Affairs",
+      "journal_id": "J065",
+      "origin": "crossref",
+      "title": "The Ethics of Intervention in Iran and the Autocratic Way of War",
+      "url": "https://doi.org/10.1017/s0892679426100501"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Chelsea Roff",
+        "Scott Y. H. Kim"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1080/15265161.2026.2741287",
+      "first_seen_jst": "2026-10-24",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "What Is a Terminal Disease? Hidden Expansion of Medically Assisted Death in the United States",
+      "url": "https://doi.org/10.1080/15265161.2026.2741287"
+    },
+    {
+      "abstract": "Abstract This paper presents a puzzle for theories of causation. On the one hand, it is plausible that events involving impure sets do not have the same causal profile as events involving their individual members. On the other hand, our best theories of causation predict that these events have the same causal profile. Our goal is to develop this dilemma in more detail and to discuss possible responses. In the end, we argue that there is no easy way out.",
+      "authors": [
+        "Torfinn Thomesen Huvenes",
+        "Bram Vaassen"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1093/analys/anag080",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "title": "A Puzzle about Causation and Impure Sets",
+      "url": "https://doi.org/10.1093/analys/anag080"
+    },
+    {
+      "abstract": "Abstract What constitutes a full ground for a general fact? Assuming its instances merely partially ground it, some argue that the fact consequently lacks a full ground (i.e., the instances constitute an incompletable partial ground). Others argue that a totality fact must therefore be added to complete the ground. I demonstrate that this debate rests on an ambiguity regarding the very concept of a general fact. Once disambiguated, we see that on one interpretation, the shared initial assumption is false, so both derived views are mistaken. On the other interpretation, the assumption holds, but both views remain viable.",
+      "authors": [
+        "Davood Hosseini"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1093/analys/anag081",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "title": "(Absolute) Generality and (Partial) Grounding",
+      "url": "https://doi.org/10.1093/analys/anag081"
+    },
+    {
+      "abstract": "How does political humour influence affective polarisation? In today’s media landscape, humour is increasingly used to ridicule political opponents, potentially deepening partisan divides. At the same time, humour may mitigate polarisation by evoking positive emotions and softening reactions to political critique. To date, it remains unclear whether intergroup political humour affects polarisation differently from equivalent non-humorous content. We address this question using a survey experiment in Great Britain ( n = 2011 ) with a 2×3 factorial design varying in message tone (humorous or non-humorous) and target (in-group, out-group or non-political). We find that serious in-group criticism increases affective polarisation, as measured by trait-based evaluations. Notably, this effect is significantly attenuated when the same messages are delivered humorously. Humour, therefore, reduces polarisation in situations that would otherwise provoke defensive reactions among group members. Mediation analyses provide suggestive evidence that this effect operates through increased message discounting and reduced negative emotional responses.",
+      "authors": [
+        "Yara Sleiman",
+        "Maria Grasso",
+        "Charles Pattie",
+        "Laura Serra",
+        "Carlo Hofer"
+      ],
+      "date": "2026-10-23",
+      "doi": "10.1177/00323217261496123",
+      "first_seen_jst": "2026-10-24",
+      "journal": "Political Studies",
+      "journal_id": "J032",
+      "origin": "crossref",
+      "title": "Polarising punchlines: The influence of intergroup humour on affective political polarisation",
+      "url": "https://doi.org/10.1177/00323217261496123"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-23",
-  "window_start": "2026-09-08"
+  "window_end": "2026-10-24",
+  "window_start": "2026-09-09"
 }

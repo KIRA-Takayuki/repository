@@ -1,7 +1,7 @@
 {
-  "candidate_count": 960,
+  "candidate_count": 954,
   "candidate_count_scope": "Lookback cache, NOT verified new research papers",
-  "checked_at_utc": "2026-10-24T19:30:55.546489+00:00",
+  "checked_at_utc": "2026-10-25T19:38:14.331921+00:00",
   "counts": {
     "checked": 135,
     "failed": 1,
@@ -9,13 +9,13 @@
     "unresolved": 9
   },
   "daily_abstracts_missing": 0,
-  "daily_candidate_count": 1,
-  "daily_unverified_research_candidate_count": 1,
+  "daily_candidate_count": 6,
+  "daily_unverified_research_candidate_count": 6,
   "dry_run": false,
-  "first_observed_doi_count": 3,
+  "first_observed_doi_count": 6,
   "journal_status": {
     "J001": {
-      "candidate_count": 4,
+      "candidate_count": 5,
       "errors": [],
       "status": "checked"
     },
@@ -72,7 +72,7 @@
       "status": "checked"
     },
     "J012": {
-      "candidate_count": 10,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -127,7 +127,7 @@
       "status": "checked"
     },
     "J023": {
-      "candidate_count": 97,
+      "candidate_count": 95,
       "errors": [],
       "status": "checked"
     },
@@ -182,7 +182,7 @@
       "status": "checked"
     },
     "J034": {
-      "candidate_count": 4,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
@@ -227,7 +227,7 @@
       "status": "checked"
     },
     "J043": {
-      "candidate_count": 8,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -292,7 +292,7 @@
       "status": "checked"
     },
     "J055": {
-      "candidate_count": 11,
+      "candidate_count": 12,
       "errors": [],
       "status": "checked"
     },
@@ -302,7 +302,7 @@
       "status": "checked"
     },
     "J057": {
-      "candidate_count": 40,
+      "candidate_count": 39,
       "errors": [],
       "status": "checked"
     },
@@ -367,7 +367,7 @@
       "status": "checked"
     },
     "J070": {
-      "candidate_count": 43,
+      "candidate_count": 42,
       "errors": [],
       "status": "checked"
     },
@@ -455,7 +455,7 @@
       "status": "checked"
     },
     "J088": {
-      "candidate_count": 25,
+      "candidate_count": 24,
       "errors": [],
       "status": "checked"
     },
@@ -515,7 +515,7 @@
       "status": "checked"
     },
     "J100": {
-      "candidate_count": 19,
+      "candidate_count": 23,
       "errors": [],
       "status": "checked"
     },
@@ -525,7 +525,7 @@
       "status": "checked"
     },
     "J102": {
-      "candidate_count": 8,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -730,7 +730,7 @@
       "status": "unresolved"
     },
     "J142": {
-      "candidate_count": 2,
+      "candidate_count": 1,
       "errors": [],
       "status": "checked"
     },
@@ -761,8 +761,8 @@
   },
   "major_unchecked": [],
   "mode": "metadata_only_no_OpenAI_API_no_Gmail",
-  "possible_new_count": 960,
+  "possible_new_count": 954,
   "publisher_pages_verified": false,
-  "window_end": "2026-10-25",
-  "window_start": "2026-09-10"
+  "window_end": "2026-10-26",
+  "window_start": "2026-09-11"
 }

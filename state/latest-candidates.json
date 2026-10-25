@@ -1,188 +1,6 @@
 {
-  "collected_on": "2026-10-25",
+  "collected_on": "2026-10-26",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Adnan Ali",
-        "Qingyu Zhang"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1007/s10551-026-06459-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Executive Expertise and Corporate Fraud: Roles of Governance and Digitalization in China",
-      "url": "https://doi.org/10.1007/s10551-026-06459-6"
-    },
-    {
-      "abstract": "Abstract The March 2025 detention of former Philippine president Rodrigo Duterte under an ICC arrest warrant marks an unprecedented legal rupture, yet its significance extends far beyond individual prosecution. The Duterte case exposes how global security infrastructures, instrumental sovereignty, and oligarchic legality co-produce authoritarian impunity. Using Duterte’s drug war as a paradigmatic case, the article develops four key arguments. First, violent narcotic governance in the Philippines was sustained by transnational counterterrorism alliances, legal security frameworks, and strategic silence from key partners. Second, Duterte’s sovereignty rhetoric functioned as political stagecraft that concealed dependence while resisting external scrutiny, preserving U.S. military ties and courting Chinese finance. Third, the ICC should be read not only as a tribunal but as a moral archive : a site that names atrocity, preserves counter-memory, and affirms victims’ and survivors’ dignity when domestic institutions failed to do so. Fourth, the article advances “radical accountability,” a survivor-centered approach that links truth-telling and recognition to reparations, institutional redesign, and redistribution. Acknowledging the Court’s selectivity, including the importance of consistent treatment in the case of Palestine, the article shows how archival naming can still be mobilized to disrupt impunity and to strengthen local justice claims. Framed at the intersection of critical legal theory, international relations, and postcolonial studies, the article reconceives accountability as an ongoing, emancipatory struggle against the systemic and transnational architecture that makes mass disposability appear lawful.",
-      "authors": [
-        "Salvador Santino Regilme"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1007/s10978-026-09435-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Critique",
-      "journal_id": "J012",
-      "origin": "crossref",
-      "title": "The Hague as Archive: Duterte’s War on Drugs, Instrumental Sovereignty, and the Architecture of Global Impunity",
-      "url": "https://doi.org/10.1007/s10978-026-09435-1"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Milcar Jeff Dorce",
-        "Alex Alexis",
-        "Caleb Mac Bernard Dorce"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1007/s10978-026-09436-0",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Critique",
-      "journal_id": "J012",
-      "origin": "crossref",
-      "title": "The Coloniality of Investment Treaty Arbitration: Power, Knowledge and Exclusion",
-      "url": "https://doi.org/10.1007/s10978-026-09436-0"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Matías Guiloff Titiun",
-        "Viviana Ponce de León",
-        "Gonzalo Mellado Calderón"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1007/s10978-026-09437-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Critique",
-      "journal_id": "J012",
-      "origin": "crossref",
-      "title": "Resisting the Commodification of Water Through Constitutional Change in Chile",
-      "url": "https://doi.org/10.1007/s10978-026-09437-z"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Riccardo Peruzzi"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1007/s11245-026-10483-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "Metaphorical Negotiation: A Model for Early Chinese Analogical Debate",
-      "url": "https://doi.org/10.1007/s11245-026-10483-6"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Miranda Boldrini",
-        "Damien Lacroux",
-        "Marie-Sophie von Braun",
-        "Vera Pancaldi",
-        "Paola Ulivi",
-        "Vanessa Nurock"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1007/s43681-026-01354-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Trust and the reliability of AI algorithms for clinical decision-making support in medicine: the MIRACLE case study",
-      "url": "https://doi.org/10.1007/s43681-026-01354-2"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Tak Ming Yu",
-        "Xia Zheng",
-        "Hoi-kuen Ng"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1007/s43681-026-01360-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "From responsibility gaps to meaningful human control: an ethical and regulatory governance framework for intelligent AI systems",
-      "url": "https://doi.org/10.1007/s43681-026-01360-4"
-    },
-    {
-      "abstract": "Abstract Practical knowledge, as Anscombe understands, is agent's knowledge of what they are doing intentionally. McDowell (2010) contends that if Anscombe insists that one can possess the same practical knowledge even when failing to execute their intention, this view readily leads to a “highest common factor” conception of practical knowledge. As an alternative, McDowell then suggests a disjunctive conception of practical knowledge. In this paper, I first reconstruct McDowell's criticism as a skeptical argument against practical knowledge, which parallels that against perceptual knowledge based on a similar highest common factor conception. I then contend that although disjunctivism is the promising framework to solve this skeptical challenge, McDowell's approach leads it into the wrong way. His success‐centered disjunctivism fails to accommodate two salient features of Anscombean practical knowledge. Finally, I propose an aptness‐centered disjunctivism about practical knowledge based on a what I call Triple‐C ( Conducive to success , Capacity , Circumstance ) model of aptness as a better response to the skeptical argument. The crucial point of this new version is that it takes aptness , rather than success , as the criterion for distinguishing the disjuncts.",
-      "authors": [
-        "Shiwei Chen"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1111/ejop.70119",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Journal of Philosophy",
-      "journal_id": "J102",
-      "origin": "crossref",
-      "title": "Aptness‐centered Disjunctivism about Practical Knowledge",
-      "url": "https://doi.org/10.1111/ejop.70119"
-    },
-    {
-      "abstract": "Abstract This paper addresses the unification question for dishonesty: what do paradigmatic instances—such as lying, misleading, and bullshitting—have in common, and what explains when they genuinely manifest dishonesty rather than merely appearing to do so? I argue that what unifies these cases is disrespect for the right not to be deceived (RND). To handle the full range of cases precisely, the paper introduces a tripartite framework distinguishing acts that manifest the vice of dishonesty, acts that wrongfully infringe RND without expressing such a vice, and acts that are merely apparently dishonest while being either permissible or wrong for other reasons. Unlike Christian Miller’s account, which identifies honesty with a cluster of behavioral dispositions, my view grounds dishonesty in a single evaluative failure and thereby offers a more unified and context-sensitive explanation of the scope of dishonesty.",
-      "authors": [
-        "Sungwoo Um"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1163/17455243-bja10197",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "The Scope of Dishonesty",
-      "url": "https://doi.org/10.1163/17455243-bja10197"
-    },
-    {
-      "abstract": "This editorial introduces a special issue examining the impact of artificial intelligence (AI) on economies across seven countries at different stages of development: Australia, China, Greece, India, Korea, Türkiye, and Vietnam. Drawing on perspectives from labour economics, innovation systems theory, sociotechnical analysis, and development studies, the assembled contributions move beyond technologically deterministic accounts of automation to reveal heterogeneous outcomes shaped by occupational structures, workforce demographics, governance arrangements, and institutional capacity. Five cross-cutting themes emerge: the age and experience asymmetry of AI’s labour-market effects, with early-career workers disproportionately affected through narrowed hiring margins; significant sectoral heterogeneity in adoption trajectories; a diverse spectrum of governance approaches, none clearly superior and all context-dependent; a critical gap between technology deployment and the institutional conversion of AI capabilities into inclusive growth; and differentiated skill policies. The issue argues that skills policy must be differentiated and context-sensitive, and that the central challenge of AI-driven transformation lies not in access to technology but in building the complementary institutional, organisational, and human-capital foundations needed to translate technological potential into broadly shared prosperity.",
-      "authors": [
-        "D. Cetindamar"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1177/09717218261480246",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science, Technology and Society",
-      "journal_id": "J043",
-      "origin": "crossref",
-      "title": "Introduction: The Impact of AI on Economies: Challenges and Opportunities",
-      "url": "https://doi.org/10.1177/09717218261480246"
-    },
-    {
-      "abstract": "This essay is a response to David Lay Williams’ reading of Plato’s political thought, in his book The Greatest of All Plagues: How Economic Inequality Shaped Political Thought from Plato to Marx . The review essay asks three questions: Does Williams see among practitioners of contemporary political thinking any sign of a return to the deeper moral and philosophical aspects of political theory and any sign of a move toward expanding on the safer statistical approaches he himself diagnoses as insufficient? Of the two modes of responding to radical inequality, the imposition of practical impediments to acquiring massive wealth versus the re-education of the population toward an attitude that does not value the excessive accumulation of wealth, does Williams see across the canon of thinkers he treats here any general preference for one over the other? And lastly, in response to Plato’s apparent observation of a tendency in human life to lose sight of the whole of the political community one exists in and to focus on smaller horizons of concern, are there any strategies in Plato or in the other thinkers he treats, that Williams would suggest are valuable in combatting this tendency?",
-      "authors": [
-        "Sean D Kirkland"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.1177/14748851261481500",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Journal of Political Theory",
-      "journal_id": "J034",
-      "origin": "crossref",
-      "title": "On Williams on Plato",
-      "url": "https://doi.org/10.1177/14748851261481500"
-    },
-    {
-      "abstract": "Seit den unterschiedlichsten Stellungnahmen von Philosophen und Philosophinnen zu dem antisemitischen Massaker der Hamas vom 7.Oktober 2023 und den nachfolgenden militärischen Kriegshandlungen in Gaza und im Libanon ist die Debatte über das Verhältnis der Philosophie zum Antisemitismus erneut aufgerollt worden. Gerade die Frage nach dem Verhältnis der Disziplin zu den verschiedenen Verständnissen und Definitionsversuchen von Antisemitismus, Antijudaismus und Antizionismus auf der einen und zum Judentum und dem Jüdisch-Sein auf der anderen Seite ist seitdem verstärkt ins Zentrum akademischer und öffentlicher Kontroversen gerückt. Zugleich kann eine bis in die Gegenwart reichende Vernachlässigung einer kritisch-reflexiven Thematisierung des Verhältnisses von Philosophie und Antisemitismus in den philosophischen Diskursen und Forschungen aufgezeigt werden. Während Themen und Fragestellungen aus postkolonialen und antirassistischen Kontexten in den vergangenen Jahren zunehmend auch aus philosophischem Blickwinkel auf- und bearbeitet worden sind, findet eine philosophische Auseinandersetzung mit Antisemitismus auch im deutschsprachigen Raum bisher nur peripher statt. Dieses Forschungsdesiderat betrifft ebenso die historischen und gegenwärtigen Verstrickungen der eigenen Disziplin in die antijüdische Ausgrenzungs- und Gewaltgeschichte. Der Zeitschriftenschwerpunkt stellt einen Versuch dar, diese disziplinären Lücken aufzuarbeiten und neue theoretische Perspektiven der Analyse und Kritik von Antisemitismus zu eröffnen.",
-      "authors": [
-        "Christian Thein",
-        "Alexandra Schauer",
-        "Johannes Drerup"
-      ],
-      "date": "2026-09-10",
-      "doi": "10.22613/zfpp/13.1.5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Zeitschrift für Praktische Philosophie",
-      "journal_id": "J142",
-      "origin": "crossref",
-      "title": "Philosophie und Antisemitismus Philosophy and Antisemitsm",
-      "url": "https://doi.org/10.22613/zfpp/13.1.5"
-    },
     {
       "abstract": "",
       "authors": [
@@ -14022,9 +13840,93 @@
       "origin": "crossref",
       "title": "Differential Disruption and Human Flourishing: Towards a Capability-Based Approach for Assessing Socially Disruptive Technologies",
       "url": "https://doi.org/10.1007/s11948-026-00635-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Louis Quintana Gularte"
+      ],
+      "date": "2026-10-25",
+      "doi": "10.1007/s10892-026-09575-7",
+      "first_seen_jst": "2026-10-26",
+      "journal": "The Journal of Ethics",
+      "journal_id": "J055",
+      "origin": "crossref",
+      "title": "The Paradox of Suffering",
+      "url": "https://doi.org/10.1007/s10892-026-09575-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Scott J. Shapiro"
+      ],
+      "date": "2026-10-25",
+      "doi": "10.1007/s10982-026-09595-2",
+      "first_seen_jst": "2026-10-26",
+      "journal": "Law and Philosophy",
+      "journal_id": "J001",
+      "origin": "crossref",
+      "title": "Alienated Judges, Libertarian Painters, and the Shared Nature of Law",
+      "url": "https://doi.org/10.1007/s10982-026-09595-2"
+    },
+    {
+      "abstract": "Abstract Mereological Middleism (MM) is the view that fundamental objects are mereologically intermediate. Together with Mereological Bottomism (MB), the view that fundamental objects are mereologically atomic, and Mereological Topism (MT), the view that fundamental objects are mereologically coatomic, MM constitutes one of the three standard answers to Schaffer’s Question of Fundamental Mereology (QFM). In this paper, I present a novel argument against the claim that MM is necessarily true ( Nec -MM). If one assumes that any answer to the QFM, if true, is necessarily true ( QFM Necessitarianism ), then MM itself is under threat. To support this conclusion, I develop two sets of arguments: the Arguments from Atoms and Quasi-Atoms, and the Arguments from Dependence and Non-Dependence. I further show that the middleist faces a dilemma, since the most promising strategy for resisting the first set of arguments undermines the most promising strategy for resisting the second, and vice versa. After considering and rejecting several responses, I argue that Nec -MM should be abandoned as a naïve formulation of the necessity of middleism and replaced with a more sophisticated formulation that preserves the core commitments of MM. This provides the middleist with a principled reason to reject QFM Necessitarianism , thereby avoiding the argument. Finally, I suggest that analogous reformulations are available to proponents of MB and MT, and that this has important implications for how the QFM itself ought to be understood.",
+      "authors": [
+        "Giacomo Ferrari"
+      ],
+      "date": "2026-10-25",
+      "doi": "10.1007/s11098-026-02606-x",
+      "first_seen_jst": "2026-10-26",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Middleism, but not necessarily",
+      "url": "https://doi.org/10.1007/s11098-026-02606-x"
+    },
+    {
+      "abstract": "Abstract The dual ranking model holds that when what is permissible or required is determined by the balance of competing reasons, different roles are played by the reasons that require and the reasons that permit. Proponents of this idea often go further, and accept the multidimensional view that this is because there is a deep or fundamental distinction between two kinds of reasons, or between two kinds of weight of reasons, or between two dimensions along which reasons have weight. This paper defends the dual ranking model but offers several arguments against the multidimensional view. The distinction between two roles for reasons in the determination of what is required and what is permissible can be satisfactorily ultimately explained in terms of a single dimension of reasons' weight.",
+      "authors": [
+        "Mark Schroeder"
+      ],
+      "date": "2026-10-25",
+      "doi": "10.1007/s11098-026-02635-6",
+      "first_seen_jst": "2026-10-26",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Requiring vs. justifying: derived, not basic",
+      "url": "https://doi.org/10.1007/s11098-026-02635-6"
+    },
+    {
+      "abstract": "Abstract Selim Berker argues that the distinction between requiring and justifying weight or strength is not in good standing. In this response I argue that all his worries, when directed at my view, can be answered. It is only certain mistaken or optional interpretive moves that lead him to have doubts in the first place. He interprets me as holding that the criterion for one reason having greater weight in a role than another involves counterfactual conditionals thought of in terms of possible worlds, which would leave me open to the charge than I am committing a version of Shope’s Conditional Fallacy. He also interprets my talk of intelligible objects of human motivation as being so wide as to include absolutely anything we can imagine a person being motivated by, even if it is the result of a “bizarre fixation”. And he interprets me as agreeing with his controversial monistic view of reasons, such that it makes sense to say that all reasons, by their nature, can be taken together to yield an overall verdict as to what one ought to do, simpliciter. In contrast to this, I hold that moral reasons are considerations that make systematic contributions to moral status, legal reasons are considerations that make systematic contributions to legal status, and generic practical reasons – which are the reasons I am concerned with – are considerations that make systematic contribution to rational status.",
+      "authors": [
+        "Joshua Gert"
+      ],
+      "date": "2026-10-25",
+      "doi": "10.1007/s11098-026-02639-2",
+      "first_seen_jst": "2026-10-26",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "On some alleged problems for the distinction between two roles for reasons",
+      "url": "https://doi.org/10.1007/s11098-026-02639-2"
+    },
+    {
+      "abstract": "Abstract It seems permissible to eat out instead of doing more good by donating to a charity that effectively prevents suffering. Many ethicists infer that partiality can be permissible, that it can be permissible to choose less good over more. A common thought is that our autonomy somehow explains such permissible partiality. Past attempts to vindicate this natural thought collapse the role of autonomy into the agent’s wellbeing or something that is itself morally assessable, such as attitudes, projects, or dispositions. This paper explains how autonomy gives rise to permissible partiality without such collapse.",
+      "authors": [
+        "Chris Tucker"
+      ],
+      "date": "2026-10-25",
+      "doi": "10.1007/s11098-026-02643-6",
+      "first_seen_jst": "2026-10-26",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Autonomy: how lesser goods can be justifying reasons",
+      "url": "https://doi.org/10.1007/s11098-026-02643-6"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-25",
-  "window_start": "2026-09-10"
+  "window_end": "2026-10-26",
+  "window_start": "2026-09-11"
 }

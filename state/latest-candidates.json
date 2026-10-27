@@ -1,174 +1,6 @@
 {
-  "collected_on": "2026-10-27",
+  "collected_on": "2026-10-28",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Jing Wang",
-        "Baoyin Qiu",
-        "Jinsen Zhang",
-        "Kuo Zhang"
-      ],
-      "date": "2026-09-12",
-      "doi": "10.1007/s10551-026-06455-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Social Trust and Stock Market Rumors: Evidence from China",
-      "url": "https://doi.org/10.1007/s10551-026-06455-w"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Erin Trouth Hofmann",
-        "Saeed Ahmad",
-        "Weihong Wang",
-        "Caren J. Frost",
-        "Ariann Child",
-        "Ikal Salaiau",
-        "Michael Ault",
-        "Teresa Thompson",
-        "Trent Foxley",
-        "Sylvia Bradshaw",
-        "Jesse L. Morris"
-      ],
-      "date": "2026-09-12",
-      "doi": "10.1007/s11948-026-00630-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science and Engineering Ethics",
-      "journal_id": "J072",
-      "origin": "crossref",
-      "title": "Teaching Responsible and Ethical Conduct of Research in U.S. Higher Educational Institutions: A Scoping Review",
-      "url": "https://doi.org/10.1007/s11948-026-00630-y"
-    },
-    {
-      "abstract": "Abstract I critically examine a conflict-of-interest argument against conscientious objection in health care. This argument claims that conscientious objection is analogous to conflict of interest in which objecting professionals place their personal interest above patients’ health, which violates the healthcare professional’s primary ethical obligation. The argument concludes that conscientious objection in health care is impermissible. I argue that this argument proceeds from false or dubious premises. First, it categorizes conscientious objection with conflict of interest. I argue that conscientious objection is not analogous to conflict of interest: conscientious objection lacks key features that make conflict of interest ethically problematic; and conscientious objection exhibits a key feature that makes it ethically incompatible with conflict of interest. Second, the argument assumes that conscientious objection is likely to harm patient health. I argue that this assumption lacks strong supporting evidence. I conclude that the argument fails to demonstrate its conclusion.",
-      "authors": [
-        "Darrin W Snyder Belousek"
-      ],
-      "date": "2026-09-12",
-      "doi": "10.1093/jmp/jhag031",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine",
-      "journal_id": "J069",
-      "origin": "crossref",
-      "title": "Conscience, Conflict, and Health Care: A Critical Examination of the Conflict-of-Interest Argument against Conscientious Objection",
-      "url": "https://doi.org/10.1093/jmp/jhag031"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jeffrey A Bernstein"
-      ],
-      "date": "2026-09-12",
-      "doi": "10.1093/pq/pqag065",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Justice in Plato’s Republic: The Lessons of Book 1",
-      "url": "https://doi.org/10.1093/pq/pqag065"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Andrea Mura"
-      ],
-      "date": "2026-09-12",
-      "doi": "10.1111/1467-8675.70069",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Constellations",
-      "journal_id": "J049",
-      "origin": "crossref",
-      "title": "Carl Schmitt's International Order: A Decolonial Reappraisal",
-      "url": "https://doi.org/10.1111/1467-8675.70069"
-    },
-    {
-      "abstract": "Abstract Social theorists in the Marxian tradition often interpret philosophical problems as reflections of social problems. This approach is central to Adorno's interpretation of Kant's epistemology. Adorno claims that the Critique of Pure Reason develops a concept of subjectivity that mirrors the “functionalization” of experience in capitalist societies. He retains that concept contradictory just as the social functionalism it ideologically reflects. In this paper I argue that Kant's concept of subjectivity is not contradictory and that Adorno must rely on it to articulate his critique of functionalism. Recognizing this Kantian debt implies not just acknowledging the Kantian sources of Adorno's model of ideology critique, but also revising central aspects of his social theory.",
-      "authors": [
-        "Antoine Athanassiadis"
-      ],
-      "date": "2026-09-12",
-      "doi": "10.1111/1467-8675.70072",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Constellations",
-      "journal_id": "J049",
-      "origin": "crossref",
-      "title": "Adorno and the Kantian Sources of Ideology Critique",
-      "url": "https://doi.org/10.1111/1467-8675.70072"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Zohar Lederman",
-        "Hazem Zohny"
-      ],
-      "date": "2026-09-12",
-      "doi": "10.1111/bioe.70183",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "Gaza and the Responsibilities of Bioethics",
-      "url": "https://doi.org/10.1111/bioe.70183"
-    },
-    {
-      "abstract": "ABSTRACT The United States Food and Drug Omnibus Reform Act (FDORA) of 2022 established a legislative mandate requiring sponsors of pharmaceutical research to actively enhance the inclusion of historically underrepresented populations in clinical trials. This policy reflects the growing recognition that diversity in research is not only a scientific and medical necessity, but an ethical imperative rooted in the principle of justice. However, as efforts to increase diversity expand, the inclusion of individuals traditionally viewed as “vulnerable” introduces complex ethical considerations that necessitate a reassessment of current research practices. Historically, clinical research has often adopted an overly protective stance toward individuals classified as vulnerable, such as children, pregnant women, older adults, or those with cognitive or socioeconomic disadvantages, leading to their exclusion. This exclusion, while intended to prevent harm, paradoxically perpetuates inequalities restricting access to the potential benefits of research participation and evidence generation to support the broader use of the product. Moreover, this cautious approach is applied inconsistently across the phases of clinical development, suggesting a lack of ethical coherence in how vulnerability is defined, interpreted, and operationalized. A reexamination of the concept and treatment of vulnerability across all phases of clinical research is therefore essential. The consistent and ethically justified inclusion of vulnerable populations would advance the generalizability of scientific findings, promote health equity, and uphold the bioethical principles of autonomy, beneficence, nonmaleficence, and most critically, justice. Ensuring equitable inclusion is not merely a regulatory expectation but a moral obligation that underpins the legitimacy and integrity of clinical research.",
-      "authors": [
-        "Kenneth T. Moore"
-      ],
-      "date": "2026-09-12",
-      "doi": "10.1111/bioe.70187",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "The Changing Application of Vulnerability Across the Different Phases of Clinical Research",
-      "url": "https://doi.org/10.1111/bioe.70187"
-    },
-    {
-      "abstract": "",
-      "authors": [],
-      "date": "2026-09-12",
-      "doi": "10.1111/bioe.70189",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "Issue Information",
-      "url": "https://doi.org/10.1111/bioe.70189"
-    },
-    {
-      "abstract": "Electoral success of radical right parties is often argued to normalize previously stigmatized anti-immigration attitudes. Yet, it remains unclear whether such normalization reflects genuine within-individual persuasion or shifts in the local climate of political expression. We address this question by linking highly disaggregated district-level vote shares to individual-level panel survey data from Sweden (2018–2022), a period marked by sustained growth and partial normalization of the Sweden Democrats. Cross-sectional analyses reveal pronounced contextual patterns: Restrictive immigration attitudes are more prevalent in districts with higher local radical right support, particularly among voters who do not support the party, while core supporters remain comparatively stable. However, first-difference panel analyses provide little evidence that changes in local radical right support are associated with attitudinal change. The findings suggest that what appears as normalization in ecological analyses is more consistent with contextual alignment than with rapid persuasion, clarifying the micro-foundations of radical right normalization.",
-      "authors": [
-        "Stefan Dahlberg",
-        "Hilma Lindskog",
-        "Henrik Oscarsson"
-      ],
-      "date": "2026-09-12",
-      "doi": "10.1177/00323217261483794",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Political Studies",
-      "journal_id": "J032",
-      "origin": "crossref",
-      "title": "Right up my alley: Local radical right success, contextual alignment, and immigration attitudes in Sweden",
-      "url": "https://doi.org/10.1177/00323217261483794"
-    },
-    {
-      "abstract": "This article comparatively reads the Buddhism-inspired cyanotype work of the US queer-theory scholar Eve Kosofsky Sedgwick and the indigo-dyed fabric work of the LA-based multimedia artist Candice Lin. It examines how Jason Edwards, one of the very few scholars to analyze Sedgwick's visual art, mistakenly identifies her cyanotype blue as “indigo” rather than Prussian blue, tracing this error to the troubled link between the visual blur of the two blues and their opposing geohistorical associations—Prussian with the West and indigo with the East. I read this charged mistake as an Orientalist refusal. Lin, on the other hand, enacts traditional indigo-dyeing techniques to critique the colonial history of the indigo trade. Despite her elaborate distancing of her ethnicity from her artistic practice, the two are often conflated in its reception. Underlining the tendency in their work perceptions where their ethnicity is either confounded (Sedgwick) or overdetermined (Lin), this article argues that indigo blue is treated similarly. At the same time, it foregrounds the deep blue that permeates across the two artists’ work that helps dismantle such a binary. By elucidating the previously unstated distinction between the underexamined and oversaturated readings of color and ethnicity in their work, this article seeks to transform this absent discussion into an impetus for envisioning an expansive queer relationality across the Pacific.",
-      "authors": [
-        "Soyi Kim"
-      ],
-      "date": "2026-09-12",
-      "doi": "10.1177/14647001261476991",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Feminist Theory",
-      "journal_id": "J074",
-      "origin": "crossref",
-      "title": "Indigo orientalism: The fabric art of Eve Kosofsky Sedgwick and Candice Lin",
-      "url": "https://doi.org/10.1177/14647001261476991"
-    },
     {
       "abstract": "ABSTRACT This paper considers, with special attention to Avicenna, the kinds of questions to ask concerning a philosopher who engages—either positively or negatively—with the Principle of Sufficient Reason.",
       "authors": [
@@ -14003,9 +13835,183 @@
       "origin": "crossref",
       "title": "The Welfarist Consequentialist Case Against Conscientious Objection in Healthcare: Empirical Failures, Normative Confusions, and the Primacy of Patient Care",
       "url": "https://doi.org/10.1111/bioe.70207"
+    },
+    {
+      "abstract": "Research on the participation effects of deliberative mini-publics has often focused on political opinions and knowledge, but less is known about the effects on confidence in deliberation and political talk. Given widespread concerns about eroding tolerance and trust in democracy, deliberation should ideally contribute to citizens’ ability to engage in political talk, as well as the confidence that such talk is possible and worthwhile. Following Dahl’s strong principle of equality, we argue that it is important that citizens believe that other people are capable of contributing. Thus, this study asks whether participation in mini-publics fosters confidence in political talk, measured by internal political efficacy, confidence in others’ democratic abilities and tolerance for opposing views. Using before–after surveys from three Swedish mini-publics in 2024, we find significant increases in participants’ confidence in their own abilities and those of co-participants, despite high baseline values. Effects on perceptions of people in general and tolerance for disagreement were mixed. When comparing cases, we find stronger effects when participants had more deliberation time and when the issue of the assembly was more politicised. The findings suggest that mini-publics can enhance confidence in political talk, depending on their design, duration and context.",
+      "authors": [
+        "Frederik Pfeiffer",
+        "Tim M. Daw",
+        "Vera Telemo"
+      ],
+      "date": "2026-10-26",
+      "doi": "10.1177/00323217261493272",
+      "first_seen_jst": "2026-10-28",
+      "journal": "Political Studies",
+      "journal_id": "J032",
+      "origin": "crossref",
+      "title": "Gaining confidence – Examining the effects of participation in deliberative mini-publics on self- and other-regarding democratic beliefs",
+      "url": "https://doi.org/10.1177/00323217261493272"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ditlev Pihl Bisgaard"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1007/s43681-026-01410-x",
+      "first_seen_jst": "2026-10-28",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Automation and the latent deprivation problem",
+      "url": "https://doi.org/10.1007/s43681-026-01410-x"
+    },
+    {
+      "abstract": "Abstract As global populations age and birth rates decline, many societies, especially in developed countries, face critical labor shortages in the caregiving sector. This demographic imbalance is straining existing care infrastructures and raising urgent questions about how to support an increasing number of elderly individuals who can no longer live independently. Socially interactive AI systems, particularly care robots, have emerged as a promising technological response. However, their successful integration into real-world care settings hinges on more than technical capability; it requires appropriately calibrated reliance on robotic performance and morally trustworthy sociotechnical care arrangements. This paper investigates the ethical and conceptual foundations of trust in human–robot interactions, with a focus on the caregiving context. Building on the distinction between performance trust and moral trust, we argue that its application to care robotics reveals an agency-trust mismatch: care robots are not moral agents, yet care contexts generate morally significant expectations concerning dignity, autonomy, privacy, non-deception, responsibility, and well-being. We therefore reconceptualize moral trust in care robotics as sociotechnical moral trust, directed not toward the robot alone but toward the broader care arrangement in which robotic behavior is designed, deployed, monitored, governed, and corrected by human and institutional actors. On this basis, we distinguish robot-level performance trust from system-level moral trustworthiness and derive ethical design and governance principles for trustworthy care-robotic systems.",
+      "authors": [
+        "Arisa Yasuda",
+        "Yoshihiro Maruyama"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1007/s43681-026-01459-8",
+      "first_seen_jst": "2026-10-28",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Performance and moral trust in care robotics: ethical foundations for human–robot relationships",
+      "url": "https://doi.org/10.1007/s43681-026-01459-8"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Maxime C. Cohen",
+        "Eddy Hage-Youssef",
+        "Warut Khern-am-nuai"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1007/s43681-026-01472-x",
+      "first_seen_jst": "2026-10-28",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "When AI sets wages: biases and labor discrimination in generative pricing",
+      "url": "https://doi.org/10.1007/s43681-026-01472-x"
+    },
+    {
+      "abstract": "Abstract Although current AI systems are probably not autonomous agents in a robust traditional sense, we might nonetheless wonder: what capacities must they possess to justifiably be held morally responsible for their choices? This paper argues that the answer to this question depends on the kind of responsibility and choice in question. A system’s ability to choose between programmed goals and means to them may be necessary and (with other capacities) sufficient for the system to justifiably share moral responsibility with its designers, but not for any kind of stand-alone responsibility. By contrast, the ability to shed programmed goals in accordance with moral reasons may be sufficient for holding the system responsible for pursuing a programmed goal rather than not, but not for a contrastive choice between a programmed and a non-programmed goal. To be responsible for such choices, a system must be able to set goals in accordance with moral reasons . I propose operational tests for this capacity and argue that it does not require freedom in an incompatibilist sense; rather, it is analogous to the human capacity to pursue goals not conducive to our survival.",
+      "authors": [
+        "Uri Eran"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1007/s43681-026-01473-w",
+      "first_seen_jst": "2026-10-28",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Choosing, shedding, setting: three faces of AI responsibility",
+      "url": "https://doi.org/10.1007/s43681-026-01473-w"
+    },
+    {
+      "abstract": "Abstract This article engages with the seventh chapter of Ben Judah’s book, which tells the story of Nora, a girl from the Latvian city of Liepāja. Nora has been awarded a scholarship to study in Italy, but cannot afford the related costs, such as travel expenses. Seeing no other solution, Nora accepts the job offer of a scam company and eventually prostitutes herself online, quickly realising that she can earn enough to pay for her trip and also help her family. Judah’s chapter ends with Nora having collected enough money to finally move to Italy. The article first addresses how we understand Nora’s story and why we frame it in light of violence, abuse and a holistic perspective of gendered oppression and sex work. It then analyses the role that law plays (or does not play) in the context of her lived experience and everyday struggles. Zooming out of the legal framework, it tackles more systematic and structural issues underlying Nora’s trajectory. Finally, the article offers some methodological reflections on the meaning and implications of our legal engagement with the everyday.",
+      "authors": [
+        "Alexander Schuster",
+        "Davide Tomaselli"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1017/elo.2026.10107",
+      "first_seen_jst": "2026-10-28",
+      "journal": "European Law Open",
+      "journal_id": "J013",
+      "origin": "crossref",
+      "title": "Free to move, bound to injustice: Sexual exploitation, sex work and law from Latvia to Europe",
+      "url": "https://doi.org/10.1017/elo.2026.10107"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Theunis Roux"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1057/s41296-026-00860-6",
+      "first_seen_jst": "2026-10-28",
+      "journal": "Contemporary Political Theory",
+      "journal_id": "J048",
+      "origin": "crossref",
+      "title": "The forgotten contents of liberal constitutionalism",
+      "url": "https://doi.org/10.1057/s41296-026-00860-6"
+    },
+    {
+      "abstract": "ABSTRACT The living world is in many respects diverse. It includes animals, plants, fungi, and microorganisms of various phylogenetic taxa and with various genetic constitutions contributing in multiple ways to a wide range of ecological systems. And not just this: when a group of organisms includes some experiencing organisms, it is experientially diverse. In this paper, I investigate this rarely considered dimension of biodiversity. I clarify what experiential diversity is, consider how it can be measured, and explain how it can be lost.",
+      "authors": [
+        "Simon P James"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1093/monist/onag029",
+      "first_seen_jst": "2026-10-28",
+      "journal": "The Monist",
+      "journal_id": "J090",
+      "origin": "crossref",
+      "title": "On the Plurality of Nonhuman Worlds",
+      "url": "https://doi.org/10.1093/monist/onag029"
+    },
+    {
+      "abstract": "Abstract In the ongoing debate over the nature of philosophical progress, it is often assumed that normative ethics is just one philosophical subdiscipline among others and that it does not require special treatment. In this paper I argue that if expressivism about moral discourse is correct, then that assumption is false and we need at least two different accounts of philosophical progress, one suited to the type of project ethics (and, presumably, other nonrepresentational projects in philosophy) is and one suited to the type of project that, e.g., metaethics is.",
+      "authors": [
+        "Ylwa Sjölin Wirling"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1093/monist/onag034",
+      "first_seen_jst": "2026-10-28",
+      "journal": "The Monist",
+      "journal_id": "J090",
+      "origin": "crossref",
+      "title": "Expressivism and Progress in Ethics, Philosophy, and Science",
+      "url": "https://doi.org/10.1093/monist/onag034"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Diana C. Nicholls Mutter"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1111/1468-2230.70072",
+      "first_seen_jst": "2026-10-28",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "KevinWerbach, EvaMicheler and BiancaKremer (eds), Foundations of Decentralized Organizations: Blockchain and the Future of Corporate Law, Oxford, Oxford University Press, 2026, 352 pp, hb, £125.00",
+      "url": "https://doi.org/10.1111/1468-2230.70072"
+    },
+    {
+      "abstract": "This essay reads the 2003 Broadway musical Caroline, or Change to articulate a relationship between Black feminist aesthetics and the dreamwork of freedom struggle. Reading the I-want song ‘I Hate the Bus,' which the character Emmie Thibadeaux sings in the musical’s second act, I show that dreamwork—the term I use to describe the cultural work of representations of Black dreams that refract Black political longings through aesthetic and representational practices—reconciles fraught and contradictory longings for freedom. Through close analysis of the song, its staging, and scoring, I read the dreamwork performed in this moment as a form of defiance, one in which Emmie rejects the mandates circumscribing Black girls who dream of freedom. In short, I show that the Black feminist musical is a key site for thinking through the political possibilities of dreaming, through which we might reimagine political and social meanings of freedom, justice, and protest.",
+      "authors": [
+        "Justin L Mann"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1177/14647001261488772",
+      "first_seen_jst": "2026-10-28",
+      "journal": "Feminist Theory",
+      "journal_id": "J074",
+      "origin": "crossref",
+      "title": "‘I Hate the Bus’: The dreamwork of the black feminist musical",
+      "url": "https://doi.org/10.1177/14647001261488772"
+    },
+    {
+      "abstract": "This short article offers a reflection on the importance of listening to the reparative politics made possible by the #MeToo movement. It does so via a close reading of a recent public essay by a male philosopher who managed to write an entire piece ostensibly about the Epstein files without mentioning the women and girls victimized by Jeffrey Epstein and his accomplices. Viewed through the lens of “himpathy,” Peter Ludlow's essay about the virtues of Noam Chomsky—in spite of the latter's chummy relationship with Epstein—testifies to the importance of centering women's stories.",
+      "authors": [
+        "Megan Gallagher"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1177/14647001261496850",
+      "first_seen_jst": "2026-10-28",
+      "journal": "Feminist Theory",
+      "journal_id": "J074",
+      "origin": "crossref",
+      "title": "The virtues of listening: Epstein and the #MeToo memoir",
+      "url": "https://doi.org/10.1177/14647001261496850"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-27",
-  "window_start": "2026-09-12"
+  "window_end": "2026-10-28",
+  "window_start": "2026-09-13"
 }

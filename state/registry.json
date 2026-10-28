@@ -1035,13 +1035,14 @@
     "status": "identified"
   },
   "J092": {
-    "issn": "0165-0106",
+    "issn": "1572-8420",
     "issns": [
-      "0165-0106",
       "1572-8420"
     ],
     "name": "Erkenntnis",
-    "notes": [],
+    "notes": [
+      "Publisher-verified ISSN in data/journals.json"
+    ],
     "openalex_id": "S63151042",
     "status": "identified"
   },

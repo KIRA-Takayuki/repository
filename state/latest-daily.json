@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-27T21:20:23.111225+00:00",
+  "checked_at_utc": "2026-10-28T03:51:50.663011+00:00",
   "collected_on": "2026-10-28",
   "counts": {
     "checked": 135,
@@ -10,6 +10,29 @@
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
+    {
+      "abstract": "ABSTRACT This article develops a Razian account of legitimate authority in war. It rejects the traditionalist assumption that legitimate authority is confined to states and state‐like groups while defending the criterion as a distinct and morally significant element of the jus ad bellum against revisionism. I argue that legitimate authority grounds a presumptive obligation of deference because it enables individuals to better conform to the reasons that apply to them under the conditions of epistemic uncertainty and collective action that characterise war. Drawing on Joseph Raz's service conception of authority, I identify three individually necessary conditions that constitute the minimum threshold for legitimate authority in war: knowability to those subject to authority, epistemic competence concerning the resort to and conduct of war, and sufficient institutional capacity to coordinate collective action. States that fail to meet these conditions lack legitimate authority, whereas non‐state actors that satisfy them may possess it.",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Brianna Rosen"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1002/japp.70142",
+      "first_seen_jst": "2026-10-28",
+      "journal": "Journal of Applied Philosophy",
+      "journal_id": "J053",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "title": "Who Has the Right to Fight? Rethinking Legitimate Authority in War",
+      "url": "https://doi.org/10.1002/japp.70142"
+    },
     {
       "abstract": "In this paper I explore the latent deprivation problem of automation: How do we avoid becoming deprived of the latent benefits of work in a future where machines are increasingly able to do the work for us? Building on existing enumerations of the latent benefits of work, I initially ask whether the latent benefits are inherently or only contingently connected to work, and if this depends on whether we conceive of ‘work’ as market work (work-as-a-labor-market-phenomenon) or as work activity (work-as-instrumental-activity). I conclude that almost all of the benefits are only contingently connected to work, with the key exception being that achieving a sense of (instrumental) purpose is inherently connected to work activity. Since the latent deprivation problem of automation is a collective problem, the key to countering it is through a collective focus on developing and cultivating new freely chosen, systematically recurring social contexts of active participation and learning. In addition to this, we will presumably also need to cultivate some personal projects in order to derive a sense of (instrumental) purpose. Although I find that the latent deprivation problem is ultimately solvable, there are considerable cultural barriers to actually resolving it. However, since the latent deprivation problem is difficult to address directly through political reform, the primary policy focus should initially be to ensure that automation does not lead to widespread material deprivation.",
       "abstract_source": "publisher_doi_matched_page",
@@ -266,6 +289,29 @@
       "publisher_online_date": null,
       "title": "The virtues of listening: Epstein and the #MeToo memoir",
       "url": "https://doi.org/10.1177/14647001261496850"
+    },
+    {
+      "abstract": "Traditions, from cultural holidays to personal rituals, have a certain place in many of our lives. On regular occasions, we interrupt our normal priorities to follow the dictates of some tradition, often without being able to explain why—and we’re glad to do so. Can such a role be justified? I argue that traditions are well-positioned to help solve a problem in human life. On some level, a good life involves balancing different values. But values must compete for our attention, and miscellaneous attentional pulls can lead to a life misspent. As regularized and sticky occurrences that prescribe specific actions, traditions can guide us into new normative perspectives even at moments when we’re unable to see the perspective’s appeal. Thus traditions can preserve space for normative perspectives at risk of being neglected—helping ensure that all the values we care about get their due. Where prior accounts explain traditions in terms of interpersonal coordination, this account is intrapersonal, capturing a new range of cases and accounting for the particularities of traditions.",
+      "abstract_source": "publisher_doi_matched_page",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Jacob L. Blitz"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.16995/fe.25873",
+      "first_seen_jst": "2026-10-28",
+      "journal": "Free &amp; Equal: A Journal of Ethics and Public Affairs",
+      "journal_id": "J028",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": true,
+      "publisher_online_date": null,
+      "title": "Traditions and Perspectives",
+      "url": "https://doi.org/10.16995/fe.25873"
     }
   ],
   "journal_total": 145,
@@ -279,10 +325,10 @@
   },
   "publisher_first_online_date_conflict_count": 0,
   "publisher_first_online_in_window_verified_count": 6,
-  "raw_candidate_count": 11,
-  "research_candidate_abstracts_available": 10,
+  "raw_candidate_count": 13,
+  "research_candidate_abstracts_available": 12,
   "research_candidate_abstracts_missing": 1,
-  "research_candidate_unverified_count": 11,
+  "research_candidate_unverified_count": 13,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
   "window_end_jst": "2026-10-28",
   "window_start_jst": "2026-10-27"

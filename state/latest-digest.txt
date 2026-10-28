@@ -1,5 +1,5 @@
 学術誌・論文メタデータ候補｜2026-10-28
-要確認の候補：961本
+要確認の候補：963本
 
 ※翻訳・要約・出版社による初回公開日の照合は、ChatGPT内で別途実施する。
 ※このファイルはメール本文ではなく調査候補一覧である。
@@ -4930,60 +4930,70 @@ Pfeiffer, F. et al. (2026). Gaining confidence – Examining the effects of part
 https://doi.org/10.1177/00323217261493272
 Abstract (original): Research on the participation effects of deliberative mini-publics has often focused on political opinions and knowledge, but less is known about the effects on confidence in deliberation and political talk. Given widespread concerns about eroding tolerance and trust in democracy, deliberation should ideally contribute to citizens’ ability to engage in political talk, as well as the confidence that such talk is possible and worthwhile. Following Dahl’s strong principle of equality, we argue that it is important that citizens believe that other people are capable of contributing. Thus, this study asks whether participation in mini-publics fosters confidence in political talk, measured by internal political efficacy, confidence in others’ democratic abilities and tolerance for opposing views. Using before–after surveys from three Swedish mini-publics in 2024, we find significant increases in participants’ confidence in their own abilities and those of co-participants, despite high baseline values. Effects on perceptions of people in general and tolerance for disagreement were mixed. When comparing cases, we find stronger effects when participants had more deliberation time and when the issue of the assembly was more politicised. The findings suggest that mini-publics can enhance confidence in political talk, depending on their design, duration and context.
 
-951. Automation and the latent deprivation problem
+951. Who Has the Right to Fight? Rethinking Legitimate Authority in War
+Rosen, B. (2026). Who Has the Right to Fight? Rethinking Legitimate Authority in War. J App Philos.
+https://doi.org/10.1002/japp.70142
+Abstract (original): ABSTRACT This article develops a Razian account of legitimate authority in war. It rejects the traditionalist assumption that legitimate authority is confined to states and state‐like groups while defending the criterion as a distinct and morally significant element of the jus ad bellum against revisionism. I argue that legitimate authority grounds a presumptive obligation of deference because it enables individuals to better conform to the reasons that apply to them under the conditions of epistemic uncertainty and collective action that characterise war. Drawing on Joseph Raz's service conception of authority, I identify three individually necessary conditions that constitute the minimum threshold for legitimate authority in war: knowability to those subject to authority, epistemic competence concerning the resort to and conduct of war, and sufficient institutional capacity to coordinate collective action. States that fail to meet these conditions lack legitimate authority, whereas non‐state actors that satisfy them may possess it.
+
+952. Automation and the latent deprivation problem
 Bisgaard, D.P. (2026). Automation and the latent deprivation problem. AI Ethics.
 https://doi.org/10.1007/s43681-026-01410-x
 Abstract (original): Not available
 
-952. Performance and moral trust in care robotics: ethical foundations for human–robot relationships
+953. Performance and moral trust in care robotics: ethical foundations for human–robot relationships
 Yasuda, A. & Maruyama, Y. (2026). Performance and moral trust in care robotics: ethical foundations for human–robot relationships. AI Ethics.
 https://doi.org/10.1007/s43681-026-01459-8
 Abstract (original): Abstract As global populations age and birth rates decline, many societies, especially in developed countries, face critical labor shortages in the caregiving sector. This demographic imbalance is straining existing care infrastructures and raising urgent questions about how to support an increasing number of elderly individuals who can no longer live independently. Socially interactive AI systems, particularly care robots, have emerged as a promising technological response. However, their successful integration into real-world care settings hinges on more than technical capability; it requires appropriately calibrated reliance on robotic performance and morally trustworthy sociotechnical care arrangements. This paper investigates the ethical and conceptual foundations of trust in human–robot interactions, with a focus on the caregiving context. Building on the distinction between performance trust and moral trust, we argue that its application to care robotics reveals an agency-trust mismatch: care robots are not moral agents, yet care contexts generate morally significant expectations concerning dignity, autonomy, privacy, non-deception, responsibility, and well-being. We therefore reconceptualize moral trust in care robotics as sociotechnical moral trust, directed not toward the robot alone but toward the broader care arrangement in which robotic behavior is designed, deployed, monitored, governed, and corrected by human and institutional actors. On this basis, we distinguish robot-level performance trust from system-level moral trustworthiness and derive ethical design and governance principles for trustworthy care-robotic systems.
 
-953. When AI sets wages: biases and labor discrimination in generative pricing
+954. When AI sets wages: biases and labor discrimination in generative pricing
 Cohen, M.C. et al. (2026). When AI sets wages: biases and labor discrimination in generative pricing. AI Ethics.
 https://doi.org/10.1007/s43681-026-01472-x
 Abstract (original): Not available
 
-954. Choosing, shedding, setting: three faces of AI responsibility
+955. Choosing, shedding, setting: three faces of AI responsibility
 Eran, U. (2026). Choosing, shedding, setting: three faces of AI responsibility. AI Ethics.
 https://doi.org/10.1007/s43681-026-01473-w
 Abstract (original): Abstract Although current AI systems are probably not autonomous agents in a robust traditional sense, we might nonetheless wonder: what capacities must they possess to justifiably be held morally responsible for their choices? This paper argues that the answer to this question depends on the kind of responsibility and choice in question. A system’s ability to choose between programmed goals and means to them may be necessary and (with other capacities) sufficient for the system to justifiably share moral responsibility with its designers, but not for any kind of stand-alone responsibility. By contrast, the ability to shed programmed goals in accordance with moral reasons may be sufficient for holding the system responsible for pursuing a programmed goal rather than not, but not for a contrastive choice between a programmed and a non-programmed goal. To be responsible for such choices, a system must be able to set goals in accordance with moral reasons . I propose operational tests for this capacity and argue that it does not require freedom in an incompatibilist sense; rather, it is analogous to the human capacity to pursue goals not conducive to our survival.
 
-955. Free to move, bound to injustice: Sexual exploitation, sex work and law from Latvia to Europe
+956. Free to move, bound to injustice: Sexual exploitation, sex work and law from Latvia to Europe
 Schuster, A. & Tomaselli, D. (2026). Free to move, bound to injustice: Sexual exploitation, sex work and law from Latvia to Europe. Eur Law Open.
 https://doi.org/10.1017/elo.2026.10107
 Abstract (original): Abstract This article engages with the seventh chapter of Ben Judah’s book, which tells the story of Nora, a girl from the Latvian city of Liepāja. Nora has been awarded a scholarship to study in Italy, but cannot afford the related costs, such as travel expenses. Seeing no other solution, Nora accepts the job offer of a scam company and eventually prostitutes herself online, quickly realising that she can earn enough to pay for her trip and also help her family. Judah’s chapter ends with Nora having collected enough money to finally move to Italy. The article first addresses how we understand Nora’s story and why we frame it in light of violence, abuse and a holistic perspective of gendered oppression and sex work. It then analyses the role that law plays (or does not play) in the context of her lived experience and everyday struggles. Zooming out of the legal framework, it tackles more systematic and structural issues underlying Nora’s trajectory. Finally, the article offers some methodological reflections on the meaning and implications of our legal engagement with the everyday.
 
-956. The forgotten contents of liberal constitutionalism
+957. The forgotten contents of liberal constitutionalism
 Roux, T. (2026). The forgotten contents of liberal constitutionalism. Contemp Polit Theory.
 https://doi.org/10.1057/s41296-026-00860-6
 Abstract (original): Not available
 
-957. On the Plurality of Nonhuman Worlds
+958. On the Plurality of Nonhuman Worlds
 James, S.P. (2026). On the Plurality of Nonhuman Worlds. The Monist.
 https://doi.org/10.1093/monist/onag029
 Abstract (original): ABSTRACT The living world is in many respects diverse. It includes animals, plants, fungi, and microorganisms of various phylogenetic taxa and with various genetic constitutions contributing in multiple ways to a wide range of ecological systems. And not just this: when a group of organisms includes some experiencing organisms, it is experientially diverse. In this paper, I investigate this rarely considered dimension of biodiversity. I clarify what experiential diversity is, consider how it can be measured, and explain how it can be lost.
 
-958. Expressivism and Progress in Ethics, Philosophy, and Science
+959. Expressivism and Progress in Ethics, Philosophy, and Science
 Wirling, Y.S. (2026). Expressivism and Progress in Ethics, Philosophy, and Science. The Monist.
 https://doi.org/10.1093/monist/onag034
 Abstract (original): Abstract In the ongoing debate over the nature of philosophical progress, it is often assumed that normative ethics is just one philosophical subdiscipline among others and that it does not require special treatment. In this paper I argue that if expressivism about moral discourse is correct, then that assumption is false and we need at least two different accounts of philosophical progress, one suited to the type of project ethics (and, presumably, other nonrepresentational projects in philosophy) is and one suited to the type of project that, e.g., metaethics is.
 
-959. KevinWerbach, EvaMicheler and BiancaKremer (eds), Foundations of Decentralized Organizations: Blockchain and the Future of Corporate Law, Oxford, Oxford University Press, 2026, 352 pp, hb, £125.00
+960. KevinWerbach, EvaMicheler and BiancaKremer (eds), Foundations of Decentralized Organizations: Blockchain and the Future of Corporate Law, Oxford, Oxford University Press, 2026, 352 pp, hb, £125.00
 Mutter, D.C.N. (2026). KevinWerbach, EvaMicheler and BiancaKremer (eds), Foundations of Decentralized Organizations: Blockchain and the Future of Corporate Law, Oxford, Oxford University Press, 2026, 352 pp, hb, £125.00. Mod Law Rev.
 https://doi.org/10.1111/1468-2230.70072
 Abstract (original): Not available
 
-960. ‘I Hate the Bus’: The dreamwork of the black feminist musical
+961. ‘I Hate the Bus’: The dreamwork of the black feminist musical
 Mann, J.L. (2026). ‘I Hate the Bus’: The dreamwork of the black feminist musical. Feminist Theory.
 https://doi.org/10.1177/14647001261488772
 Abstract (original): This essay reads the 2003 Broadway musical Caroline, or Change to articulate a relationship between Black feminist aesthetics and the dreamwork of freedom struggle. Reading the I-want song ‘I Hate the Bus,' which the character Emmie Thibadeaux sings in the musical’s second act, I show that dreamwork—the term I use to describe the cultural work of representations of Black dreams that refract Black political longings through aesthetic and representational practices—reconciles fraught and contradictory longings for freedom. Through close analysis of the song, its staging, and scoring, I read the dreamwork performed in this moment as a form of defiance, one in which Emmie rejects the mandates circumscribing Black girls who dream of freedom. In short, I show that the Black feminist musical is a key site for thinking through the political possibilities of dreaming, through which we might reimagine political and social meanings of freedom, justice, and protest.
 
-961. The virtues of listening: Epstein and the #MeToo memoir
+962. The virtues of listening: Epstein and the #MeToo memoir
 Gallagher, M. (2026). The virtues of listening: Epstein and the #MeToo memoir. Feminist Theory.
 https://doi.org/10.1177/14647001261496850
 Abstract (original): This short article offers a reflection on the importance of listening to the reparative politics made possible by the #MeToo movement. It does so via a close reading of a recent public essay by a male philosopher who managed to write an entire piece ostensibly about the Epstein files without mentioning the women and girls victimized by Jeffrey Epstein and his accomplices. Viewed through the lens of “himpathy,” Peter Ludlow's essay about the virtues of Noam Chomsky—in spite of the latter's chummy relationship with Epstein—testifies to the importance of centering women's stories.
+
+963. Traditions and Perspectives
+Blitz, J.L. (2026). Traditions and Perspectives. Free & Equal: A Journal of Ethics and Public Affairs.
+https://doi.org/10.16995/fe.25873
+Abstract (original): Not available
 
 【調査状況】
 主要7出版社90誌：API照会成功 90誌／未解決・取得失敗等 0誌。

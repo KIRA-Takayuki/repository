@@ -1,81 +1,6 @@
 {
-  "collected_on": "2026-10-28",
+  "collected_on": "2026-10-29",
   "items": [
-    {
-      "abstract": "ABSTRACT This paper considers, with special attention to Avicenna, the kinds of questions to ask concerning a philosopher who engages—either positively or negatively—with the Principle of Sufficient Reason.",
-      "authors": [
-        "Michael Della Rocca"
-      ],
-      "date": "2026-09-13",
-      "doi": "10.1111/theo.70120",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Theoria",
-      "journal_id": "J094",
-      "origin": "crossref",
-      "title": "A User's Guide to the\n                    PSR\n                    : The Case of Avicenna",
-      "url": "https://doi.org/10.1111/theo.70120"
-    },
-    {
-      "abstract": "Artificial intelligence (AI), as a General-Purpose Technology, is reshaping both work and productivity. However, its implementation is contingent not solely on its technical capabilities, but also on sectoral capacity, institutional quality, and the state of human capital. This article, focusing on Greece—a peripheral EU economy with substantial projected AI benefits but considerable structural limitations—develops a structural conversion framework linking three dimensions: capacity for AI-driven sectoral upgrading; institutional readiness beyond digital infrastructure; and the regeneration and retention of skilled labour. Employing micro-level data, it formulates indices for institutional trust, digital confidence, and service usability. The analysis uncovers a structural mismatch: while usability improves with education, digital confidence is primarily influenced by performance rather than legitimacy. Moreover, Attica demonstrates a conflict between elevated institutional trust and inadequate user-centric quality. These findings underscore a fragmented transition characterised by social and regional imbalances, implying that inclusive growth necessitates a policy shift away from simple deployment and towards the institutional conversion of technological resources.",
-      "authors": [
-        "Anthony Bartzokas",
-        "Pantelis C. Kostis"
-      ],
-      "date": "2026-09-13",
-      "doi": "10.1177/09717218261480257",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science, Technology and Society",
-      "journal_id": "J043",
-      "origin": "crossref",
-      "title": "AI Adoption, Structural Constraints and Inclusive Growth: Evidence from Greece",
-      "url": "https://doi.org/10.1177/09717218261480257"
-    },
-    {
-      "abstract": "The rapid advancement of artificial intelligence (AI) is reshaping labour markets globally, with profound implications for China amid structural fragility, youth unemployment and demographic ageing. This study examines AI’s impacts from a dual-perspective framework: employees’ adaptation, skills and perceived risks and employers’ demand reshaping, emphasising supply-demand interactions and mismatches. Using nationally representative survey data from the 2023 China Social Survey and 2023 AI recruitment big data, we find that platform employment sustains opportunities but erodes stability and heightens substitution anxiety, with occupational heterogeneities driving polarisation—routine roles face greater risks, while high-skill positions adapt better. Employers exhibit stratified demand, premiuming algorithm-intensive skills in urban clusters, exacerbating regional and demographic divides. These dynamics reveal perceptual and skill mismatches, advancing task-based models by incorporating bidirectional feedbacks with ethical implications calling for transparent regulations to address vulnerabilities, with policy recommendations for upskilling and equity-focused governance.",
-      "authors": [
-        "Cheng Tan",
-        "Aobo Ran"
-      ],
-      "date": "2026-09-13",
-      "doi": "10.1177/09717218261480258",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science, Technology and Society",
-      "journal_id": "J043",
-      "origin": "crossref",
-      "title": "Reshaping China’s Labour Market: AI’s Dual Impacts on Employee Adaptation and Employer Demand",
-      "url": "https://doi.org/10.1177/09717218261480258"
-    },
-    {
-      "abstract": "Generative artificial intelligence (AI) is increasingly viewed as a general-purpose technology with far-reaching labour-market implications. While existing evidence is largely drawn from advanced economies, much less is known about the impact of generative AI on employment in emerging economies. This article examines the labour-market impact of generative AI in Türkiye using individual-level administrative records from the Social Security Institution combined with occupation-level exposure measures from the International Labour Organisation. We find that the share of AI-exposed employment within the top 20% of the exposure distribution (fifth quintile) amounts to 17% of total employment. About 2.3 million registered jobs in Türkiye are highly exposed to generative AI. Employment effects are strongly age-asymmetric: since 2023, job growth has weakened mainly for early-career workers in highly exposed occupations, while no comparable losses are observed for workers over thirty. These patterns survive controls for sectoral reallocation, suggesting that generative AI operates primarily through hiring margins, displacing inexperienced workers while complementing experienced ones.",
-      "authors": [
-        "Burcu Gürci̇han",
-        "Berna Beyhan",
-        "İbrahim Semih Akçomak"
-      ],
-      "date": "2026-09-13",
-      "doi": "10.1177/09717218261480259",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science, Technology and Society",
-      "journal_id": "J043",
-      "origin": "crossref",
-      "title": "Labour Market Implications of Generative AI in an Emerging Economy: The Case of Türkiye",
-      "url": "https://doi.org/10.1177/09717218261480259"
-    },
-    {
-      "abstract": "Artificial intelligence (AI) is reshaping global labour markets, yet adoption remains uneven across sectors. This article employs a sociotechnical systems perspective to examine how national policy and institutional barriers shape AI implementation in advanced economies by examining the case of Australia. The study investigates the tension between technological potential and institutional readiness, focusing on Australia’s unique policy, a model prioritising innovation and voluntary standards over prescriptive regulation. Comparing the Finance and Administrative & Support Services sectors, findings reveal a significant divergence: while the Finance sector achieves role restructuring through task-level augmentation, the Administrative & Support Services sector faces challenges due to the concentration of automation risk in feminised, lower-skilled and entry-level administrative roles specific to the sector. The article concludes with contributions and limitations of the study.",
-      "authors": [
-        "D. Cetindamar",
-        "Sancheeta Pugalia"
-      ],
-      "date": "2026-09-13",
-      "doi": "10.1177/09717218261483815",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science, Technology and Society",
-      "journal_id": "J043",
-      "origin": "crossref",
-      "title": "Exploring the Impact of AI on the Transformation of Labour Markets in Advanced Economies: Insights from Australia",
-      "url": "https://doi.org/10.1177/09717218261483815"
-    },
     {
       "abstract": "Abstract Global sporting events, such as the Olympics, often highlight a delicate tension between universal ideals of corporate social responsibility (CSR) and nationalistic appeals to local pride. Against this backdrop, the present study investigates how moral foundations (fairness vs. loyalty) and national attachment shape stakeholder perceptions of nationalism-infused CSR motives and CSR authenticity. Building on moral foundation theory and attribution-based CSR research, we tested hypotheses regarding the interplay between these variables. Conducting a survey (N = 755) through Dynata, we found that fairness-oriented individuals attributed egoistic- and strategic-driven motives, while people with in-group/loyalty foundation perceived value-driven motives from the initiatives.",
       "authors": [
@@ -10673,7 +10598,7 @@
       "journal": "The Modern Law Review",
       "journal_id": "J120",
       "origin": "crossref",
-      "title": "European Commission Legal Service\n                    ,\n                    Exploring the New Frontiers of EU Law\n                    , Luxembourg: Publications Office of the European Union, 2026, 472 pp.",
+      "title": "European Commission Legal Service\n                    , Exploring the New Frontiers of EU Law, Luxembourg: Publications Office of the European Union, 2026, 472 pp.",
       "url": "https://doi.org/10.1111/1468-2230.70071"
     },
     {
@@ -13983,6 +13908,20 @@
       "url": "https://doi.org/10.1093/monist/onag034"
     },
     {
+      "abstract": "ABSTRACT This article argues that the Anthropocene should not be abandoned as an irredeemably compromised concept, caught between questionable scientific claims and competing ideological agendas. Its continued life beyond the stratigraphic debate instead offers an opportunity to recover its critical potential. Doing so, however, requires us to clarify what we are asking when we invoke the Anthropocene. One of the main difficulties surrounding the concept is that the debate rarely specifies the question being asked of it. I therefore propose to reorganize its principal theoretical positions around two distinct questions: the question of origin and the question of condition. The question of origin asks: “Where does the current planetary ecological crisis come from? Who caused it? When did it begin?” The question of condition asks instead: “What does the planetary ecological crisis reveal? What is our present historical‐natural condition? In light of this geological transformation, what is the current relationship between human societies and the Earth?” The question of origin is a genealogical one: It seeks to identify the processes and agents that brought the present crisis into being. The question of condition is systemic and ontological: It asks what kind of situation those processes have produced and how the relationship between human societies and the natural world has consequently been transformed.",
+      "authors": [
+        "Paolo Missiroli"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1111/1467-8675.70085",
+      "first_seen_jst": "2026-10-29",
+      "journal": "Constellations",
+      "journal_id": "J049",
+      "origin": "crossref",
+      "title": "Origin and Condition: A Critical Theory of the Anthropocene",
+      "url": "https://doi.org/10.1111/1467-8675.70085"
+    },
+    {
       "abstract": "",
       "authors": [
         "Diana C. Nicholls Mutter"
@@ -13995,6 +13934,34 @@
       "origin": "crossref",
       "title": "KevinWerbach, EvaMicheler and BiancaKremer (eds), Foundations of Decentralized Organizations: Blockchain and the Future of Corporate Law, Oxford, Oxford University Press, 2026, 352 pp, hb, £125.00",
       "url": "https://doi.org/10.1111/1468-2230.70072"
+    },
+    {
+      "abstract": "ABSTRACT This paper asks what, if anything, people who die after they have been looked after by a paid care worker might owe to that worker, discussing a topic that has so far been neglected in the literature on the ethics of inheritance. Although previously ignored, this issue is especially interesting if one considers the number of historical examples of inheritance claims made by paid care workers, whose discussion called for more work. Moreover, it is worth considering that the challenges raised in this paper will, in all likelihood, become more common, especially if one considers the increasing care needs stemming from demographic aging. I use the case of Lourdes Maria Cambra (1922–1999) and Carlota Pereira de Queiroz (1892–1982) as an example to guide the discussion. Lourdes worked for 24 years for the prominent Carlota, and saw her expectation to receive an inheritance from Carlota dismissed. I will show that this expectation was justified, first, by arguing that a caring relationship was nurtured and that through an inheritance, that relationship can be recognized. Second, that inheritance functions as overdue compensation for the sacrifices a care worker undertook for their care recipient. Hence, the arguments in this paper contribute to fill a gap in the literature, while hopefully helping when contemporary cases are discussed. Importantly, they vindicate someone like Lourdes. By discussing her story, I aim to contribute to rectify the injustice that was done, even if Lourdes' grievance cannot be resolved.",
+      "authors": [
+        "Catarina Neves"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1111/josp.70072",
+      "first_seen_jst": "2026-10-29",
+      "journal": "Journal of Social Philosophy",
+      "journal_id": "J035",
+      "origin": "crossref",
+      "title": "Vindicating Lourdes: In Defense of Paid Care Workers' Claims to Inheritance",
+      "url": "https://doi.org/10.1111/josp.70072"
+    },
+    {
+      "abstract": "ABSTRACT A respect‐based account of the role of accuracy in epistemic normativity claims that respect for accuracy is the attitude that accuracy fundamentally calls for. This paper argues that close inspection of the type of cases used to motivate that fundamentality claim reveals that respect for accuracy turns out to lack a normative feature it should possess in order for it to serve as the fundamental response to accuracy. The burden is on the advocates of respect‐based accounts to supply independent evidence that respect for accuracy is fundamental in the sense they intend it to be.",
+      "authors": [
+        "Miguel Ángel Fernández‐Vargas"
+      ],
+      "date": "2026-10-27",
+      "doi": "10.1111/phib.70024",
+      "first_seen_jst": "2026-10-29",
+      "journal": "Analytic Philosophy",
+      "journal_id": "J098",
+      "origin": "crossref",
+      "title": "The Fundamentality of Respect for Accuracy",
+      "url": "https://doi.org/10.1111/phib.70024"
     },
     {
       "abstract": "This essay reads the 2003 Broadway musical Caroline, or Change to articulate a relationship between Black feminist aesthetics and the dreamwork of freedom struggle. Reading the I-want song ‘I Hate the Bus,' which the character Emmie Thibadeaux sings in the musical’s second act, I show that dreamwork—the term I use to describe the cultural work of representations of Black dreams that refract Black political longings through aesthetic and representational practices—reconciles fraught and contradictory longings for freedom. Through close analysis of the song, its staging, and scoring, I read the dreamwork performed in this moment as a form of defiance, one in which Emmie rejects the mandates circumscribing Black girls who dream of freedom. In short, I show that the Black feminist musical is a key site for thinking through the political possibilities of dreaming, through which we might reimagine political and social meanings of freedom, justice, and protest.",
@@ -14037,9 +14004,51 @@
       "origin": "crossref",
       "title": "Traditions and Perspectives",
       "url": "https://doi.org/10.16995/fe.25873"
+    },
+    {
+      "abstract": "Résumé En 2026, dans les provinces et états d’Amérique du Nord où les relations de travail sont fondées sur le modèle du Wagner Act de 1935, la grève politique ou sociale est, la plupart du temps, interdite. Qu’il s’agisse de préserver la santé des travailleurs et des travailleuses, de défendre la dignité, les services publics, l’état de droit, la démocratie ou l’environnement n’importe pas. À contre-courant et en s’appuyant sur les travaux de l’Organisation internationale du travail en particulier, ce texte défend le droit à la grève politique pour faire face, notamment, aux « dérives autoritaires » et destructrices du capitalisme contemporain.",
+      "authors": [
+        "Martin Gallié"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1017/cls.2026.10052",
+      "first_seen_jst": "2026-10-29",
+      "journal": "Canadian Journal of Law and Society / Revue Canadienne Droit et Société",
+      "journal_id": "J015",
+      "origin": "crossref",
+      "title": "Les limites du droit à la grève politique en Amérique du Nord et la contribution de l’Organisation internationale du travail",
+      "url": "https://doi.org/10.1017/cls.2026.10052"
+    },
+    {
+      "abstract": "Abstract Virtue epistemology has richly theorized the traits that regulate belief, inquiry, and epistemic responsibility, but it has largely neglected a more basic condition of epistemic life: how agents come to count as epistemic participants at all. This paper argues that recognition constitutes a distinctive intellectual virtue that governs this condition. I develop an account of intellectual recognition as a threshold-governing virtue concerned with epistemic standing, understood as an agent’s intelligibility as a reason-giver, visibility as having epistemic needs and capacities, and eligibility for uptake within shared epistemic practices. Failures of recognition help explain why epistemic injustice, exclusion, and epistemic oppression persist even in contexts oriented toward truth and fairness, since some agents are never fully taken up as participants in inquiry in the first place. Recognition is not reducible to epistemic justice or to familiar intellectual virtues such as open-mindedness or intellectual autonomy. Rather, it plays an architectural role by regulating entry into epistemic participation and thereby conditioning the successful exercise of other intellectual virtues. Treating recognition as an intellectual virtue clarifies how epistemic communities are sustained and why epistemic failure so often begins not with error, but with epistemic invisibility under conditions of structural distortion.",
+      "authors": [
+        "Kazi A. S. M. Nurul Huda"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1017/epi.2026.10159",
+      "first_seen_jst": "2026-10-29",
+      "journal": "Episteme",
+      "journal_id": "J095",
+      "origin": "crossref",
+      "title": "Recognition as an Intellectual Virtue",
+      "url": "https://doi.org/10.1017/epi.2026.10159"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Stephen R Milford"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1136/jme-2026-112247",
+      "first_seen_jst": "2026-10-29",
+      "journal": "Journal of Medical Ethics",
+      "journal_id": "J067",
+      "origin": "crossref",
+      "title": "The moral labour of dirty work: why we should not outsource certain care duties to robots",
+      "url": "https://doi.org/10.1136/jme-2026-112247"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-28",
-  "window_start": "2026-09-13"
+  "window_end": "2026-10-29",
+  "window_start": "2026-09-14"
 }

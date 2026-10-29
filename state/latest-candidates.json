@@ -1,635 +1,6 @@
 {
-  "collected_on": "2026-10-29",
+  "collected_on": "2026-10-30",
   "items": [
-    {
-      "abstract": "Abstract Global sporting events, such as the Olympics, often highlight a delicate tension between universal ideals of corporate social responsibility (CSR) and nationalistic appeals to local pride. Against this backdrop, the present study investigates how moral foundations (fairness vs. loyalty) and national attachment shape stakeholder perceptions of nationalism-infused CSR motives and CSR authenticity. Building on moral foundation theory and attribution-based CSR research, we tested hypotheses regarding the interplay between these variables. Conducting a survey (N = 755) through Dynata, we found that fairness-oriented individuals attributed egoistic- and strategic-driven motives, while people with in-group/loyalty foundation perceived value-driven motives from the initiatives.",
-      "authors": [
-        "Keonyoung Park",
-        "Jeongwon Yang"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s10551-026-06467-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "National Pride vs. Global Unity: Exploring Nationalism-Infused CSR and Stakeholder Perceptions in Global Sports Events",
-      "url": "https://doi.org/10.1007/s10551-026-06467-6"
-    },
-    {
-      "abstract": "Abstract This paper proposes an account of artifact function that applies equally to artworks, everyday artifacts, and highly specialized technical artifacts. This unified account of artifact function centers on the notion of proper function and combines reproduction history (etiology) with careful attention to an artifact’s cultural niche (ecology). I explain an etiological-ecological account of proper function and demonstrate its centrality to long-standing art historical methodology. One thing that an etiological-ecological account would seem unable to account for is artifacts considered highly original. I argue, however, that an etiological-ecological account can in fact account for originality and, further, that an etiological-ecological account actually leads to a better understanding of originality than other accounts. I make this case by considering examples from the discipline of art history.",
-      "authors": [
-        "A. W. Eaton"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05702-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Originality in art and other artifacts: an etiological-ecological approach",
-      "url": "https://doi.org/10.1007/s11229-026-05702-x"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Juliusz Doboszewski",
-        "Jamee Elder"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05751-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Black boxes in black hole imaging",
-      "url": "https://doi.org/10.1007/s11229-026-05751-2"
-    },
-    {
-      "abstract": "Abstract Evidential discordance, or the situation where scientific evidence supports contrary hypotheses, claims or theories about a given phenomenon, is common in scientific inquiry (Franklin, 2002; Boyd, 2018; Stegenga, 2009, 2012). Although in many ways useful for scientific progress, discordance also poses distinct epistemic and methodological challenges for science, as it hinders building consensus and causes problems for decision making (Collins, 1985; Hey, 2015a; Maziarz, 2024; Reijula and Blanco Sequeiros, 2024). To address these challenges, philosophers of science have discussed episodes of disagreement in scientific evidence and presented strategies for dealing with discordance (Bokulich, 2020; Ohnesorge, 2021; Reijula & Blanco Sequeiros, 2024). Despite this discussion, the concept of evidential discordance itself has remained overlooked. In this paper, I clarify the concept of discordant evidence, and propose a novel explanation for the emergence of evidential discordance into scientific evidence. I argue that evidential discordance can be explained by disagreement between inferences from data to phenomena between various lines of evidence. The data-to-phenomenon inferences conflict because of how they conceptualize the causal tracks of the phenomenon of interest within data. This explanation for discordance is useful because it unifies a variety of empirical explanations for discordance, including error, noise and bias. I use examples from the social sciences to showcase my arguments but the lessons extend to other areas of philosophy of science as well.",
-      "authors": [
-        "Sofia Blanco Sequeiros"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05761-0",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Explaining evidential discordance",
-      "url": "https://doi.org/10.1007/s11229-026-05761-0"
-    },
-    {
-      "abstract": "Abstract Jennifer Lackey has argued that victims of gross violations and injustices are owed epistemic reparations and have the right to be known. This is roughly the right for these victims to have their stories heard and to be givers of knowledge. Recent work in the field has focused on ways we fail to listen to the stories of victims. Less attention has been paid to the ways in which oppressive systems, like colonialism, distort victims’ self-understandings and the narratives they convey. I argue that genuine epistemic reparations within oppressive contexts require conditions that enable victims to come to know themselves on their own terms . I call the process of individual and collective self-recognition made possible by those conditions making oneself known . Drawing on critiques of the colonial politics of recognition, I show why this self-knowledge must precede being known by others. Only by establishing this epistemic foundation can genuine reparative work begin, rather than reproducing the very epistemic violence such reparations are meant to repair.",
-      "authors": [
-        "Nicolas Nicola"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05794-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Making oneself known and the ethics of epistemic reparations",
-      "url": "https://doi.org/10.1007/s11229-026-05794-5"
-    },
-    {
-      "abstract": "Abstract Many regard conspiracy theories as intrinsically epistemically suspicious. Generalists defend this view, holding that there is something epistemically wrong with conspiracy theories as a class. Particularists deny it, contending that conspiracy theories must be evaluated on a case-by-case basis. This paper invokes a norm of theory choice from the philosophy of science and metaphysics to defend a weak form of generalism. According to the norm, we should prima facie disbelieve theories that posit undetectable entities. I develop a graded notion of undetectability, such that the more undetectable the posited structure, the greater the epistemic penalty a theory incurs. Conspiracy theorists, then, face a dilemma: either (1) posit a highly detectable (but undetected) conspiracy that should be rejected on evidential grounds or (2) posit a highly undetectable conspiracy that should be rejected on anti-undetectability grounds. Most conspiracy theories posit a high degree of secrecy, running into the second horn. This is illustrated through a range of examples, from “lizard people” to 9/11 “truthers.”",
-      "authors": [
-        "James H. McIntyre"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05797-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Conspiracy theories and the hidden evidence penalty",
-      "url": "https://doi.org/10.1007/s11229-026-05797-2"
-    },
-    {
-      "abstract": "Abstract This paper examines “the analytic tethering thesis”, according to which adopting a summative or non-summative approach to one group-level phenomenon rationally requires adopting the same approach to others. We argue that the strong version of this thesis is untenable, given the heterogeneity of group phenomena, and that the weak version defended by Jessica Brown fails as well. Through a formal reconstruction of Brown’s arguments, we show that they instantiate a unified argumentative strategy that faces a dilemma: the derivations are either deductively invalid or question-begging. We then identify the source of this failure and argue that analytic tethering can succeed only under highly restrictive conditions. This result preserves analytic tethering in a principled but significantly constrained form.",
-      "authors": [
-        "Kok Yong Lee",
-        "Hao-Pu Kang"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05798-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "On the analytic tethering of group phenomena",
-      "url": "https://doi.org/10.1007/s11229-026-05798-1"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Siyu Yao"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05799-0",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Why is it (still) difficult to understand black-box models? Explainable artificial intelligence and the experimenters’ regress",
-      "url": "https://doi.org/10.1007/s11229-026-05799-0"
-    },
-    {
-      "abstract": "Abstract Following Dewar (2019), ‘reduction’ and ‘sophistication’ are supposed to be two different ways of articulating the shared content of symmetry-related models of physical theories. And yet: there does not exist in the literature a maximally clear, maximally general statement as to what the distinction between reduction and sophistication amounts to. In this article, we present a proposal in order to redress this issue: the proposal is to understand reduction and sophistication not as intrinsic properties of physical theories, but rather as four-place relations between two theories, a map between those theories, and a set of symmetries of the former theory. We go on to extol various virtues of this way of thinking about the reduction/sophistication distinction.",
-      "authors": [
-        "Eleanor March",
-        "James Read"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05803-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "What is this sophistication thing anyway?",
-      "url": "https://doi.org/10.1007/s11229-026-05803-7"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Wenjing Cai"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05810-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Freedom and shame revisited: a phenomenological perspective",
-      "url": "https://doi.org/10.1007/s11229-026-05810-8"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "John Alton Christmann"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05812-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Moral inconsistency for error theorists: dissolving Cowie’s dilemma",
-      "url": "https://doi.org/10.1007/s11229-026-05812-6"
-    },
-    {
-      "abstract": "Abstract Philip Goff raises an ingenious objection to David Chalmers’s (2009) two-dimensional zombie argument in his 2014 paper (co-authored by David Papineau) ‘What’s wrong with strong necessities?’ The objection aims to defeat the conceivability-possibility thesis by arguing that strong necessities, necessary truths that can be conceived to be false, can be constructed by putting an identity sign between two co-referring radically opaque concepts, concepts that refer but reveal nothing about their referents. If Goff’s strategy succeeds, not only is the two-dimensional zombie argument defeated, but Chalmers’s modal monism must also be rejected. This paper aims to defend Chalmers’s zombie argument and modal monism against Goff’s objection. If internalism about reference fixing is true, I argue that no radically opaque concept can exist. If externalism about reference fixing is true, I argue that although radically opaque concepts can exist, strong necessities cannot be constructed by putting an identity sign between two such concepts. In conclusion, Goff’s attack fails to provide any further evidence for the existence of strong necessities, and, as a result, fails to pose any genuine threat to the two-dimensional zombie argument and modal monism.",
-      "authors": [
-        "Jiahao Wu"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05813-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "No strong necessities from radically opaque concepts",
-      "url": "https://doi.org/10.1007/s11229-026-05813-5"
-    },
-    {
-      "abstract": "Abstract Open society liberalism has experienced a revival in the 21st century, prominently led by Gerald Gaus. Despite its growing popularity, however, the boundaries of whose moral and political perspectives ought to be included remain underspecified. Its most famous early defender, Popper, thought that unreasonable individuals, such as those who hold to beliefs dogmatically, should be excluded from the open society. A belief not unusual among other liberal theorists. However, what these open society theorists miss is a possible underutilized resource that comes from Popper’s philosophy of science. Within science, Popper believed that dogmatic individuals were necessary and important for scientific progress. Using this resource, I argue that Popper himself and other open society theorists in general should be more inclusive and tolerant of closed society individuals, including dogmatic religious individuals, because they allow for liberal progress and the sustainment of the open society.",
-      "authors": [
-        "Noah Jee-yoon Kim"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s11229-026-05815-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Sustaining the open society: resources from Popperian science",
-      "url": "https://doi.org/10.1007/s11229-026-05815-3"
-    },
-    {
-      "abstract": "Abstract This article examines the main features of the metaphysical understanding of progress. Drawing on Georg Simmel’s concept, the article identifies five core components of this perspective: history is purposive; this purpose is valuable; it emerges immanently from historical development; it presupposes a universal subject of history; and it assumes continuity between historical epochs. The article then discusses several major critiques of the idea of progress as formulated by Jacob Burckhardt, Oswald Spengler, Arnold J. Toynbee, and Feliks Koneczny. Subsequently, it analyses the ontological and axiological criticism of the idea of progress developed within the philosophy of Nicolai Hartmann. Finally, the paper highlights the characteristics and advantages of a non-metaphysical conception of progress, encapsulated in the formula: There is no progress “of” history, but there is progress “in” history. The main aim of this article is to present this interpretation. Historical positions are analysed solely to identify arguments within them that support this systematic thesis.",
-      "authors": [
-        "Leszek Kopciuch"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s42439-026-00132-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Jus Cogens",
-      "journal_id": "J024",
-      "origin": "crossref",
-      "title": "The Negative and Positive Criticism of the Metaphysical Idea of Progress",
-      "url": "https://doi.org/10.1007/s42439-026-00132-2"
-    },
-    {
-      "abstract": "Abstract This paper reports a descriptive, process-oriented case study of the application of Z-Inspection®, an ethically aligned co-design methodology, in the early design phase of an artificial intelligence (AI) system for healthcare. The methodology was applied within the Horizon Europe project VALIDATE [1], which develops and validates a prognostic clinical decision support system (CDSS) to support treatment decisions in acute ischaemic stroke. An interdisciplinary team of Z-Inspection® experts, AI developers, and clinical stakeholders jointly identified ethical, legal, and technical issues relevant to the planned system. The assessment resulted in 22 ethical issues, 12 dilemmas, 18 risks, and 48 derived requirements, each mapped to the European Commission’s trustworthy AI principles. The identified issues, dilemmas, risks, and derived requirements constitute the primary findings of this descriptive case study and document how general trustworthy-AI principles were translated into context-specific technical, clinical, governance, and organisational requirements. By documenting the process and publishing the complete requirements, the study provides a detailed case for critical scrutiny and potential uptake in other healthcare AI projects, though its transferability and scalability remain to be established in further studies.",
-      "authors": [
-        "Elizabeth Hofvenschioeld",
-        "Adam Hilbert",
-        "Cathrine K. T. Bui",
-        "Susanne Bonekamp",
-        "Tess Buckley",
-        "Roberta Calegari",
-        "Luca A. Cappellini",
-        "Megan Coffee",
-        "Giorgio Colangelo",
-        "Boris Düdder",
-        "Francesco Di Tano",
-        "Dietmar Frey",
-        "John D. Kelleher",
-        "Pedro Kringen",
-        "Andreane Sabourin Laflamme",
-        "Emma Moorhead",
-        "Pedro A. Moreno-Sánchez",
-        "Gabriele Pluktaite",
-        "Marta Rubiera",
-        "Giovanni Sartor",
-        "Jesmin Jahan Tithi",
-        "Malte von Tottleben",
-        "Ingo Werren",
-        "Magnus Westerlund",
-        "Renee Wurth",
-        "Roberto V. Zicari",
-        "Vince I. Madai"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01337-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Co-design of a trustworthy AI-based prognostic tool for predicting patient outcome in acute stroke",
-      "url": "https://doi.org/10.1007/s43681-026-01337-3"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ahmet Göçen",
-        "Mete Han Arıtürk",
-        "Mohannad Alhanahnah"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01356-0",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Human-weighted ethical pluralism in AI decision support: introducing the weighted meta-decision engine (WMDE) through the Omelas dilemma",
-      "url": "https://doi.org/10.1007/s43681-026-01356-0"
-    },
-    {
-      "abstract": "Abstract Evaluating whether large language models (LLMs) reason about morality in human-like ways requires more than measuring whether they produce the right outputs in isolated cases. Existing approaches – including scalar agreement, distributional analysis, rationale classification, and consistency testing – compare model and human responses one case at a time and cannot detect how a model structures its moral judgments. This paper applies and extends Peterson and Gärdenfors's (2024) geometric moral space framework to evaluate structural value alignment in LLMs, that is, whether the relational structure reconstructed from a model's responses matches the structure reconstructed from human respondents on the same task. Sixteen LLMs across three scale tiers (small, medium, and large) were evaluated on ten moral cases under both zero-shot and chain-of-thought (CoT) prompting. The results reveal phenomena invisible to case-by-case metrics. First, all five large models achieve full geometric alignment on these cases (moral space overlap, MSO = 1.00) in at least one prompting condition, and three do so in both; two medium models also reach MSO = 1.00. Second, structural alignment is bimodal in the sense that models either replicate the human moral space or fall substantially short, with no intermediate cases. Third, smaller models systematically lack a distinct fairness region, a failure of moral categorization rather than of labeling. Fourth, CoT prompting simultaneously improves case-by-case similarity correlations and worsens geometric alignment in smaller models, showing that the two can move in opposite directions. Because structural alignment is measured from model responses, it does not by itself establish that a model holds the values in question. It is, however, a more demanding test than case-by-case agreement, and a better motivated and more informative basis for value alignment measurement.",
-      "authors": [
-        "Yexiang Tang"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01368-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Measuring structural value alignment in sixteen models: LLMs have human-like moral spaces",
-      "url": "https://doi.org/10.1007/s43681-026-01368-w"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Alex Chengyu Li"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01369-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Accountability arbitrage: ethical tensions in AI agent accountability infrastructure",
-      "url": "https://doi.org/10.1007/s43681-026-01369-9"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Michael Lissack"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01372-0",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Anticipatory agency and the ecology of causal bubbles: a pragmatic constructivist framework for human-AI collaboration",
-      "url": "https://doi.org/10.1007/s43681-026-01372-0"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Oğuz Onat"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01378-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Whose future is coded? A decolonial-feminist interrogation of the right to collective dreaming in AI governance",
-      "url": "https://doi.org/10.1007/s43681-026-01378-8"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Connor Nitchals"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01379-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Designing for disagreement: epistemic friction, sycophancy, and the ethics of human–AI advice—a critical integrative review",
-      "url": "https://doi.org/10.1007/s43681-026-01379-7"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Boon-Seng Tan"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01382-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "A Searlean perspective on using LLM in scholarly work",
-      "url": "https://doi.org/10.1007/s43681-026-01382-y"
-    },
-    {
-      "abstract": "Abstract A growing literature on “agentic AI” — autonomous software agents that plan and execute multi-step actions on a principal’s behalf — has revived the thesis that such systems open a responsibility gap : because the deploying principal neither intends, foresees, nor controls the specific actions an autonomous agent selects, no human can be held fully responsible for resulting harms. This paper argues that the responsibility-gap thesis, as applied to principal-deployed AI agents, rests on a conflation called here the delegation illusion : the inference from a principal’s causal and epistemic remoteness from an outcome to a diminution of her answerability for it. Distinguishing attributability, answerability, and accountability, the paper argues that autonomy, opacity, and adaptivity bear on attributability while leaving intact an answerability grounded, through a standard tracing structure, in the deployer’s guidance control over the prior act of delegation. It defends a principle of responsibility conservation under delegation and operationalises that principle’s central criterion — foreseeability of harmful dispositions at the level of types — by specifying an epistemic base, a standard of diligence, and a constraint on type individuation that blocks vacuous redescription. Answerability is argued to be epistemically graded, but indexed to the deployer’s ex ante access to the dispositional profile of the deployment specification rather than to the particular act. The method is conceptual analysis and normative argumentation; the scope and limitations of the claims are stated explicitly.",
-      "authors": [
-        "Kennedy Chun Yin Kong"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01383-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "The delegation illusion: why deploying autonomous AI agents does not diminish principal responsibility",
-      "url": "https://doi.org/10.1007/s43681-026-01383-x"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sam Miller"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01386-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "A postphenomenology of care: ecstatic temporality in generative music",
-      "url": "https://doi.org/10.1007/s43681-026-01386-8"
-    },
-    {
-      "abstract": "Abstract A person relying on a system has a right to know what it is; disclosure secures that right but only while the object of reliance remains materially stable. Under AI, the object does not stay still, and a model’s integrity can change without warning. A moment after disclosure is issued, the system described may have evolved, drifted, or been compromised while the user continues relying on it unaware of its current state. A person’s interest in what they rely on is continuous, but disclosure is episodic, and that epistemic mismatch is not closed by repeating the notice. This paper reconceives AI transparency around a single claim: A person relying on an AI system holds a moral right to continuous awareness of the system’s status, grounded in the same autonomy that informed consent protects. How continuous awareness is delivered is the corollary of that right. The status signal that delivers it must be continuous and vouched from outside the system, since a captured system cannot certify its own integrity. Shaping that signal is therefore an ethical act, not an engineering detail.",
-      "authors": [
-        "Khaled Sawaf"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01387-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Knowing whether to rely: continuous awareness as a moral right in human-AI interaction",
-      "url": "https://doi.org/10.1007/s43681-026-01387-7"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Adegoke O. Adefolalu"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1007/s43681-026-01393-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "When is AI-mediated institutional action ethically warranted? A feasibility-first framework for admissible-state reasoning",
-      "url": "https://doi.org/10.1007/s43681-026-01393-9"
-    },
-    {
-      "abstract": "Abstract Fifty years ago, the US Supreme Court decided Estelle v. Gamble — a landmark case commonly known for establishing a duty on the government to provide health services to incarcerated people, whether before or after conviction. In this column, we offer a brief critical reappraisal of Estelle by reviewing its demanding legal standard and identifying a set of related litigation barriers that stymie the availability of relief in federal court. Given these constraints, we argue for a carceral health law paradigm that moves beyond the current, dominant focus on litigation. We use Medicaid law and policy as a case study to explore the potential and drawbacks of a broader administrative structure for carceral health care.",
-      "authors": [
-        "James René Jolin",
-        "Jenean Docter",
-        "Benjamin A. Barsky"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1017/jme.2026.10273",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Law, Medicine &amp; Ethics",
-      "journal_id": "J068",
-      "origin": "crossref",
-      "title": "Fifty Years After\n                    Estelle v. Gamble\n                    — Where Does Carceral Health Law Go from Here?",
-      "url": "https://doi.org/10.1017/jme.2026.10273"
-    },
-    {
-      "abstract": "Abstract Collaboration between physician Key Opinion Leaders (KOLs) and the health care industry accelerates the adoption of new therapies, but public awareness of industry payments and research linking such payments to prescribing behaviors has fueled a sharp decline in trust. Meanwhile, for-profit, industry-aligned credentialing programs have begun to define and train KOLs with little public accountability. Without independent alternatives, these models may entrench standards that serve corporate interests over the public good. We review the evolution of the KOL role, from early communication theory to its integration into pharmaceutical marketing and examine the rise of Public Scholarship (PS) as an academic movement grounded in beneficence, transparency, and civic accountability. From this analysis, we propose a Key Opinion Leader Public Scholarship Certification (KOL-PSC) program, governed jointly by academics and patient advocates, to align KOL influence with public interests. The KOL-PSC model includes a skills-based curriculum in ethical science communication, patient engagement, and conflict-of-interest management, culminating in a public-facing capstone project. Governance safeguards will ensure independence from commercial influence while offering industry the reputational benefits of working with certified experts. This voluntary, non-regulatory credential offers a proactive means to restore public trust in physician–industry collaboration, thereby benefitting patients, physicians, academia, and industry.",
-      "authors": [
-        "Kim Thompson",
-        "Ryan Masotti",
-        "Kenneth Carter",
-        "Deepa Das Acevedo",
-        "Gerard Vong",
-        "Michael Winkler"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1017/jme.2026.10279",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Law, Medicine &amp; Ethics",
-      "journal_id": "J068",
-      "origin": "crossref",
-      "title": "Restoring Trust in Health Care: Public Scholarship Based Certification of Key Opinion Leaders with Non-Profit Shared Academic-Patient Governance",
-      "url": "https://doi.org/10.1017/jme.2026.10279"
-    },
-    {
-      "abstract": "Abstract This article examines how litigation reshapes civil rights mobilization under authoritarianism through a study of married-out women’s struggles for land rights in rural China over more than three decades. Drawing on in-depth empirical observations, it develops the concept of cooptation justice to explain how litigation shifted from a pressure-building tactic within a broader repertoire of contention to a mechanism of institutional closure. In the earlier period, litigation operated alongside petitioning, protest, media exposure, and support from lawyers and civic actors to generate leverage over local authorities. In the later period, however, shrinking political opportunities and the promotion of formally accessible but politically bounded legal opportunities redirected grievances into courts. Under these conditions, judicial proceedings did not simply fail to remedy discrimination. They absorbed contentious claims into authoritative processes that validated exclusion, weakened alternative avenues of mobilization, and increased the costs of continued contention. The article argues that cooptation justice is a mode of authoritarian governance in which law functions not only as an instrument of legitimacy and dispute management but also as a mechanism for containing civil rights mobilization.",
-      "authors": [
-        "Huina Xiao",
-        "Peter C.H. Chan"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1017/lsr.2026.10116",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law &amp; Society Review",
-      "journal_id": "J020",
-      "origin": "crossref",
-      "title": "Cooptation justice: how litigation weakened the position of married-out women in China",
-      "url": "https://doi.org/10.1017/lsr.2026.10116"
-    },
-    {
-      "abstract": "Abstract Prosecutors in England and Wales may start or continue a prosecution only if to do so is in the public interest. No general account has previously been given, however, of what the public interest consists in. This paper aims to provide such an account, drawing on a study of all policies and guidance published by the Crown Prosecution Service (CPS). Its principal conclusion is that, in most cases, CPS guidance imposes on prosecutors an obligation to seek an appropriate penalty for those against whom there is sufficient evidence. In more serious cases, this obligation effectively renders prosecution mandatory. In less serious cases, it may be outweighed by countervailing factors, and out-of-court disposals may constitute an appropriate penalty. However, only a limited range of factors are clearly recognised as counting against prosecution. CPS guidance also lacks clear principles regarding when prosecutors may exceptionally pursue non-punitive aims.",
-      "authors": [
-        "Andrew Cornford"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1017/lst.2026.10137",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Legal Studies",
-      "journal_id": "J019",
-      "origin": "crossref",
-      "title": "When is prosecution in the public interest?",
-      "url": "https://doi.org/10.1017/lst.2026.10137"
-    },
-    {
-      "abstract": "Abstract This article takes a closer look at the creation of the Royal Decree of 11 October 1916, which regulated the state of war and the state of siege during World War I. It gave the government the power to restrict certain fundamental rights to such an extent that it effectively amounted to a suspension of those rights. It is notable that the Belgian Constitution prohibits this through Article 187 (formerly Article 130), which states that the Constitution can never, as a whole or partially, be suspended. Nevertheless, was the decree-law justified under the notion of necessity, without giving a proper explanation of what necessity actually meant? Using a socio-legal-historical approach, this article finds that necessity should be understood not only as a factual situation requiring certain measures to survive the war, but also in relation to specific (postwar) political objectives.",
-      "authors": [
-        "Elias Roberto Dessantis"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1017/s1744552326100640",
-      "first_seen_jst": "2026-10-21",
-      "journal": "International Journal of Law in Context",
-      "journal_id": "J125",
-      "origin": "crossref",
-      "title": "Necessity and exception: rethinking the Belgian state of siege in World War I",
-      "url": "https://doi.org/10.1017/s1744552326100640"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Dana Schmalz"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1093/icon/moag103",
-      "first_seen_jst": "2026-10-21",
-      "journal": "International Journal of Constitutional Law",
-      "journal_id": "J124",
-      "origin": "crossref",
-      "title": "Daphne Barak-Erez.\n                    Biblical Judgments: New Legal Readings in the Hebrew Bible",
-      "url": "https://doi.org/10.1093/icon/moag103"
-    },
-    {
-      "abstract": "Abstract Many experts are modest—they are uncertain whether their opinions are deference-worthy. We can’t defer to such experts by adopting their probabilities as our own, on pain of inconsistency. So how should we defer to them? This paper proposes a new deference principle for modest experts, which I call Total Certainty. Roughly, it says: If you are certain that the expert prefers option X to option Y given your total evidence, then you should prefer X to Y. I give three different characterizations of this principle and compare it with other existing deference principles.",
-      "authors": [
-        "Snow Zhang"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1093/pq/pqag058",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Deference done with certainty",
-      "url": "https://doi.org/10.1093/pq/pqag058"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Yijia Liu"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1111/1468-2230.70066",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "Ignacio de laRasilla, JiangyuWang and CongyanCai\n                    (eds)\n                    , Histories of International Law in China: All Under Heaven?Oxford, Oxford University Press, 2026, 670 pp, hb £170.",
-      "url": "https://doi.org/10.1111/1468-2230.70066"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Angela Daly"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1111/1468-2230.70067",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "StergiosAidinlis, Big Data for the Public Good: Regulating Access to Public Sector Big Data for Research and Innovation, New York, NY and Oxford, Hart Publishing, 2025, 240pp, hb, £90.00.",
-      "url": "https://doi.org/10.1111/1468-2230.70067"
-    },
-    {
-      "abstract": "ABSTRACT Mini‐publics, which constitute a microcosmic public deliberation process, are increasingly being used in addressing broad policy decisions. Following the trend of applying mini‐publics in diverse policy decisions, the Korean National Health Insurance System experimentally held 16 public deliberation workshops since 2012. This study discusses the 5th and 10th workshops among the 16 conducted, using them as a case example to evaluate the utility and informativeness of mini‐publics in health policy making. After briefly explaining the method and results of the two workshops, this study reviews the main arguments that call for the use of public deliberation in societal decisions. Based on these arguments, the study concludes that the results of the two workshops are insufficient to serve as useful information for relevant health policy making and the reasons therefor. The study posits that similar to the two workshops, mini‐publics sometimes fail to provide informative results for technically oriented questions, result in serious disagreements and fall short of achieving some deliberative ideals, such as equal participation, reasonableness, and fairness. Given that running a public deliberation process is generally cost‐consuming, despite its potential benefits, the current widespread applications of mini‐publics should be carefully examined.",
-      "authors": [
-        "Kyungdo Lee"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1111/bioe.70190",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "A Critical Assessment of the Two Previous Public Deliberation Workshops in South Korea",
-      "url": "https://doi.org/10.1111/bioe.70190"
-    },
-    {
-      "abstract": "ABSTRACT On one common way of distinguishing forms of protest, civil disobedience is a communicative act that aims to achieve its goals through moral persuasion, whereas direct action has as its goal to directly obstruct or deter a perceived injustice. In this paper, we'll argue that this distinction does not do justice to a wide range of protest tactics, including encampments, riots, and strikes, that combine a symbolic element with an element of material contestation. Instead, we'll argue that, for a range of protest tactics we call “world‐making projects,” the communicative or persuasive value of the action depends on the parts of the action often deemed violent or uncivil. In particular, we'll suggest that actions that employ material contestation have the ability to undermine the justification for certain ideological beliefs by changing, even just temporarily and in small ways, what the world is like. We cannot accurately describe the function of these protests, evaluate their effectiveness, or assess their justification without first recognizing how their communicative function is bound up with the ways they intervene into public spaces.",
-      "authors": [
-        "Lidal Dror",
-        "Sukaina Hirji"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1111/nous.70068",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Noûs",
-      "journal_id": "J086",
-      "origin": "crossref",
-      "title": "Protests as World‐Making Projects",
-      "url": "https://doi.org/10.1111/nous.70068"
-    },
-    {
-      "abstract": "Abstract This paper builds on Wendel's significant contribution to legal ethics, specifically his concept of the “moral remainders” arising from lawyers’ conduct. Wendel presents his theory using simplified cases, some of which help clarify his thesis, while others leave important complexities unaddressed. The paper has two main goals: First, it expands Wendel's framework to incorporate complex scenarios involving multiple conflicting moral requirements, revealing “invisible remainders” that simpler cases overlook. Second, it addresses Wendel's omission of situations where conflicting demands of fidelity to the law create distinct “legal remainders.” By introducing this category, the paper aims to refine and deepen Wendel's theory to better reflect the complexities of legal ethics.",
-      "authors": [
-        "Hugo Omar Seleme"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.1111/raju.70034",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ratio Juris",
-      "journal_id": "J005",
-      "origin": "crossref",
-      "title": "The Invisible Remainders of Lawyers’ Fidelity to the Law",
-      "url": "https://doi.org/10.1111/raju.70034"
-    },
-    {
-      "abstract": "This paper discusses the four main elements of a theory of manipulation which I call the Mistake Account, and which I defend in my 2025 book on manipulation. This theory claims that manipulation is influence that operates by inducing a mistake into the target’s psychological states or processes. It is often effective due to imperfections in human reasoning, including the shortcuts we use to make good decisions rapidly most of the time. It is often bad because it harms or undermines the autonomy of the target, but it is always bad because it induces mistakes, and mistakes are bad.",
-      "authors": [
-        "Robert Noggle"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.3998/jpe.9951",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Practical Ethics",
-      "journal_id": "J076",
-      "origin": "crossref",
-      "title": "The Mistake Account of Manipulation",
-      "url": "https://doi.org/10.3998/jpe.9951"
-    },
-    {
-      "abstract": "Drawing on the broader theoretical framework that I developed in The Concept and Ethics of Manipulation, this paper examines the question of the basic moral status of manipulation, challenging the prevailing assumption that manipulation is inherently morally problematic. I first argue that we may conclude that manipulation is not pro tanto wrong by showing that no relevant wrong-making feature—such as deception, exploitation, or disrespect for autonomy—is necessarily present in all cases of manipulation. I then address a stronger claim: that manipulation may be inherently morally bad even if not strictly wrong. Against this view, I illustrate the central role of manipulation in the good human life, especially emphasizing its function as a “social lubricant” that enables cooperation, alleviates psychological barriers, and facilitates interpersonal understanding in contexts where rational persuasion is ineffective or counterproductive. I argue that once we appreciate how pervasively manipulation is integral to and indispensable for the human good, it becomes implausible to view it as pro tanto bad. I conclude with a note on “metaethical humanism”: the indispensability of philosophical anthropology for determining moral valence.",
-      "authors": [
-        "Shlomo Cohen"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.3998/jpe.9952",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Practical Ethics",
-      "journal_id": "J076",
-      "origin": "crossref",
-      "title": "How to Think about the Basic Moral Status of Manipulation",
-      "url": "https://doi.org/10.3998/jpe.9952"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Robert Noggle"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.3998/jpe.9953",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Practical Ethics",
-      "journal_id": "J076",
-      "origin": "crossref",
-      "title": "Reflections on Cohen on Manipulation",
-      "url": "https://doi.org/10.3998/jpe.9953"
-    },
-    {
-      "abstract": "This is a critical discussion of Noggle's \"Mistake Account\" of manipulation. I first raise doubts as to whether all manipulations are indeed cases of intentionally inducing mistakes. Secondly, I argue that even if all manipulations are cases of intentionally inducing mistakes, this does not necessarily show that manipulations are as such pro tanto wrong. Finally, I raise the question of whether my disagreement with Noggle regarding the pro tanto wrongness of manipulation rests ultimately on different conceptions in philosophical anthropology.",
-      "authors": [
-        "Shlomo Cohen"
-      ],
-      "date": "2026-09-14",
-      "doi": "10.3998/jpe.9954",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Practical Ethics",
-      "journal_id": "J076",
-      "origin": "crossref",
-      "title": "On Noggle’s “Mistake Account”",
-      "url": "https://doi.org/10.3998/jpe.9954"
-    },
     {
       "abstract": "",
       "authors": [
@@ -14006,6 +13377,150 @@
       "url": "https://doi.org/10.16995/fe.25873"
     },
     {
+      "abstract": "",
+      "authors": [
+        "Aaron M. Griffith"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1002/japp.70144",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Journal of Applied Philosophy",
+      "journal_id": "J053",
+      "origin": "crossref",
+      "title": "The Race Illusion: On the Reality of Racialization and the Myth of Race. A.Hochman, 2025. Oxford, Oxford University Press. xiv + 224 pp, $40 (hb)",
+      "url": "https://doi.org/10.1002/japp.70144"
+    },
+    {
+      "abstract": "Abstract According to objectivists, what we objectively ought to do depends on the facts. According to defenders of metaphysical indeterminacy, there are cases in which no determinate facts exist. What, then, ought we objectively to do when there are no determinate facts? This paper pursues two objectives in response to this question. The first is constructive: on behalf of the objectivist, we present two proposals for addressing what we call the ‘problem from metaphysical indeterminacy’. The second is critical: we argue that, despite their intuitive appeal and close alignment with prominent positions in the literature, neither proposal succeeds. We conclude that objectivists still owe us an account of what we objectively ought to do when no determinate facts obtain.",
+      "authors": [
+        "Alessandra Marra",
+        "Christine Tiefensee"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1007/s11098-026-02615-w",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "No determinate facts, no objective oughts?",
+      "url": "https://doi.org/10.1007/s11098-026-02615-w"
+    },
+    {
+      "abstract": "Abstract On Kripke’s causal-historical view of reference, the reference of a proper name is fixed in a baptism and transmitted through a communication chain, provided that each speaker intends to use the name as prior speakers did. A challenge for this view arises from cases – such as the Madagascar case – in which this condition is met, yet the name nonetheless undergoes a reference shift. We defend a solution that appeals to the independently plausible idea, emphasized in action theory by Bratman, that speakers can have conflicting intentions. We argue that, in such cases, the involved intentions may differ in relative strengths and that these can change over time. When a speaker unknowingly harbors conflicting name-using intentions, a reference shift in their idiolect occurs once a previously non-dominant intention becomes dominant. Deferential relations among speakers may then help propagate this shift within a linguistic community. This account explains the reference shift of “Madagascar” while remaining faithful to the core commitments of the causal-historical view. We also show how the notion of a dominant name-using intention can be explicated in terms of a speaker’s (second-order) dispositions to conform their credences to new information and how the core idea of our proposal helps to illuminate the distinction between semantic reference and speaker’s reference.",
+      "authors": [
+        "Steffen Koch",
+        "Andrea Raimondi"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1007/s11098-026-02622-x",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Reference, conflicting intentions, and the Madagascar problem",
+      "url": "https://doi.org/10.1007/s11098-026-02622-x"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "John M. Monteleone"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1007/s11098-026-02630-x",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Integrity as a loyalty-exhibiting trait",
+      "url": "https://doi.org/10.1007/s11098-026-02630-x"
+    },
+    {
+      "abstract": "Abstract It has been argued that multidimensionalism about normative support is a promising theory of the latitude exemplified by practical norms governing actions. One might, thus, suspect that a similar form of multidimensionalism might be an adequate explanation of the kind of latitude exemplified in one’s doxastic attitudes and provide further resources to epistemic permissivists regarding epistemic norms governing beliefs. In this paper, I raise some concerns regarding this contention. First, I provide a general theory of how multidimensionalism about normative support can be applied to the so-called right kind of reasons for attitudes, given that the former is commonly coated in contrastivist terms. Second, I offer a theory of how right kind of reasons for intentions could have different dimensions of strength, depending on how they relate to the fittingness and unfittingness of the attitudes in question. Finally, I show that this straightforward way to allow for multiple dimensions of normative strength of right kind of reasons does not translate well to the case of doxastic attitudes.",
+      "authors": [
+        "Michael Vollmer"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1007/s11098-026-02634-7",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "On latitude in attitude. Multidimensionalism and the right kind of reasons for belief",
+      "url": "https://doi.org/10.1007/s11098-026-02634-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Daniel Muñoz"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1007/s11098-026-02637-4",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Epistemic supererogation and the right to believe",
+      "url": "https://doi.org/10.1007/s11098-026-02637-4"
+    },
+    {
+      "abstract": "Abstract In ethics, some reasons for action have more justifying force (tending to render an action permissible) than requiring force (tending to render an action obligatory). Notably, the fact that a socially beneficial action would entail significant self-sacrifice often provides one with a justification to refrain, without producing any requirement to refrain. At the same time, in similar circumstances, the fact that a socially beneficial action would require imposing significant sacrifices on others may produce a moral requirement to refrain. I offer a rule utilitarian account of this, according to which the recognition of justifying reasons to refrain from self-sacrifice functions as a kind of concession that an optimal system of social rules must make to human partiality to avoid widespread resistance and circumvention of the rules. In such a system, we also have justifications for sacrificing third parties for the sake of maximizing utility in just those situations in which a practice of so sacrificing third parties would create benign rather than perverse incentives. I go on to consider why there are limits to how low the demands of morality may be (for extremely selfish people), as well as limits to how much personal sacrifice one may make for the sake of others (for extremely altruistic people).",
+      "authors": [
+        "Michael Huemer"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1007/s11098-026-02652-5",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Duty and permission for utilitarians",
+      "url": "https://doi.org/10.1007/s11098-026-02652-5"
+    },
+    {
+      "abstract": "Abstract This paper compares my simple account of practical reasons and rationality with the more complex accounts of Mark Schroeder and Josh Gert. On my Humean account, all reasons derive from desires, indicating ways to satisfy them. Stronger or more central desires generate stronger reasons (proportionalism). Rational agents are required to act on the strongest reasons they are aware of. But only agents who are morally (aesthetically, legally, etc.) minded have moral reasons or reasons in particular domains they care about. Irrationality consists in likely self-defeat: defeating more central desires by satisfying more peripheral ones that oppose them or acting in ignorance of what it will be like to satisfy a desire. The aim of practical reason is the satisfaction of prioritized desires over time. Schroeder’s more complex account grants more reasons than mine, including second-level reasons to assign weights to first-level reasons. He distinguishes agent neutral from agent relative reasons, all agents sharing agent neutral moral reasons. He denies proportionalism. Gert’s more complex account distinguishes justifying from requiring normative strength of reasons and holds that altruistic reasons are always rationally justifying but never requiring. I contrast my simpler account on all these grounds.",
+      "authors": [
+        "Alan H. Goldman"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1007/s11098-026-02653-4",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "A simple account of practical reasons and some of its rivals",
+      "url": "https://doi.org/10.1007/s11098-026-02653-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Carlos Aguilera-Ventura",
+        "Jonathan Ben-Naim",
+        "Andreas Herzig"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1007/s11229-026-05729-0",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Minimal change, modal logic, and relevance",
+      "url": "https://doi.org/10.1007/s11229-026-05729-0"
+    },
+    {
+      "abstract": "Abstract The success of Google DeepMind’s AlphaFold in predicting protein structures has profound implications for the debate between microstructuralism and functionalism in the philosophy of biochemistry. This paper addresses whether protein kinds are distinguished by their internal microstructure, their functional role, or both: a question complicated by moonlighting proteins that perform multiple functions and adopt various shapes. While Tobin (2010) argues that moonlighting proteins challenge microstructuralism due to their lack of a single, stable tertiary structure, this paper defends Goodwin’s (2011) counterargument. Goodwin contends that a protein’s stable primary amino acid sequence defines its conformation space - the finite set of physically stable structural states accessible to it. Recent advancements in artificial intelligence lend significant weight to this view. In successfully predicting over 200 million protein structures, AlphaFold demonstrates that structural outcomes are rule-based and follow from the primary sequence. I argue that the potential for AI to map a protein’s conformation space from its sequence alone suggests that functional versatility is encoded within fundamental primary structure. This supports a form of ontological monism: despite their complexity, proteins are defined by one essential property - their primary structure. Finally, I contend that this microstructuralist framework remains robust even when faced with the erratic behaviour of pathological amyloids, which are better classified as distinct proteinaceous deposits rather than protein kinds.",
+      "authors": [
+        "Jodi Norris"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1007/s11229-026-05855-9",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Protein microstructuralism after AlphaFold",
+      "url": "https://doi.org/10.1007/s11229-026-05855-9"
+    },
+    {
       "abstract": "Résumé En 2026, dans les provinces et états d’Amérique du Nord où les relations de travail sont fondées sur le modèle du Wagner Act de 1935, la grève politique ou sociale est, la plupart du temps, interdite. Qu’il s’agisse de préserver la santé des travailleurs et des travailleuses, de défendre la dignité, les services publics, l’état de droit, la démocratie ou l’environnement n’importe pas. À contre-courant et en s’appuyant sur les travaux de l’Organisation internationale du travail en particulier, ce texte défend le droit à la grève politique pour faire face, notamment, aux « dérives autoritaires » et destructrices du capitalisme contemporain.",
       "authors": [
         "Martin Gallié"
@@ -14034,6 +13549,34 @@
       "url": "https://doi.org/10.1017/epi.2026.10159"
     },
     {
+      "abstract": "Abstract Minimalism is the view that the mark of action is object‐causation, rather than intentionality, voluntariness or goal‐directedness. Actions, on this view, are instances of objects causing change. Despite a recent surge of interest in the view, it is still seldom regarded as a serious alternative to orthodox theories of action, according to which action is, by its nature, intentional, voluntary, or, more broadly, a psychological phenomenon. This paper argues that it should. It provides a simple argument for regarding minimalism as the default view of the nature of action.",
+      "authors": [
+        "Robin T. Bianchi"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1111/ejop.70131",
+      "first_seen_jst": "2026-10-30",
+      "journal": "European Journal of Philosophy",
+      "journal_id": "J102",
+      "origin": "crossref",
+      "title": "An Argument for Minimalism about Action",
+      "url": "https://doi.org/10.1111/ejop.70131"
+    },
+    {
+      "abstract": "ABSTRACT Hinge epistemology maintains that certain propositions must stand fast for our epistemic practices to be possible. Yet the notion of ‘practice’ and its relation to hinges remains undeveloped. This paper offers a Wittgensteinian reading of practices and develops more explicitly their connection with hinge propositions. On this view, hinges are understood as rules that give epistemic practices their own internal structure, motivating a contextualist account of hinges. The paper then considers some prominent critiques of hinge contextualism and suggests that they can be avoided. The aim is to develop a systematic connection between hinge epistemology and Wittgenstein's conception of practice, extending the application of hinges beyond quotidian certainties to the propositions that structure different epistemic practices.",
+      "authors": [
+        "Juan Cruz García Vallejos"
+      ],
+      "date": "2026-10-28",
+      "doi": "10.1111/theo.70132",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Theoria",
+      "journal_id": "J094",
+      "origin": "crossref",
+      "title": "The Relationship Between Hinge Propositions and Epistemic Practices: A Wittgensteinian Approach",
+      "url": "https://doi.org/10.1111/theo.70132"
+    },
+    {
       "abstract": "",
       "authors": [
         "Stephen R Milford"
@@ -14046,9 +13589,273 @@
       "origin": "crossref",
       "title": "The moral labour of dirty work: why we should not outsource certain care duties to robots",
       "url": "https://doi.org/10.1136/jme-2026-112247"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jing Hao",
+        "Feng He",
+        "Chunyang Wei",
+        "Xiong Xiong"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s10551-026-06487-2",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Corporate Ethical Dilemma under Judicial Pressure: Environmental Judicial Enforcement and Corporate Biodiversity Risk Exposure",
+      "url": "https://doi.org/10.1007/s10551-026-06487-2"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jared Nai",
+        "Grace Ching Chi Ho",
+        "Yamon Min Ye",
+        "Daniel Z. Mack",
+        "Abhijeet K. Vadera"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s10551-026-06498-z",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Hushed Whispers or Watchful Eyes? How Employees’ Source of Misconduct Information Differentially Affects Employees’ Whistle-Blowing and Managers’ Corrective Actions",
+      "url": "https://doi.org/10.1007/s10551-026-06498-z"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Marco Tamborini"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s10670-026-01183-z",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "When Objects Rewrite the Rules of the Game: Biohybrid Robots and the Transformation of Experimental Grammar",
+      "url": "https://doi.org/10.1007/s10670-026-01183-z"
+    },
+    {
+      "abstract": "Abstract Current efforts for online hate speech regulation mostly focus on explicit forms of harmful speech. This paper argues that harmful speech does not operate only at an explicit level, but that there are other forms of speech capable of producing serious harms through mechanisms that differ from those characteristic of overt harmful speech and that are overlooked in the current regulatory paradigm: dogwhistles, figleaves and other forms of more implicit sexist, racist or homophobic speech fall outside the usual scope of what is deemed harmful, thus easily slipping under the radar. I argue that no single mechanism approach can adequately address the distinct mechanisms through which harmful speech produces and sustains harm. Since current content moderation practice alone is insufficient to detect the full range of harmful speech, the paper proposes three strategies to online speech governance: 1) swift platform-based responses to explicit harmful content, 2) counterspeech strategies based on perspective-taking, including a novel proposal of Kantian Maxim Mirroring, 3) preemptive institutional and group measures that can help mitigate the conditions under which harmful speech can arise.",
+      "authors": [
+        "Julija Perhat"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s10676-026-09926-w",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Ethics and Information Technology",
+      "journal_id": "J064",
+      "origin": "crossref",
+      "title": "A three-tier approach to online harmful speech",
+      "url": "https://doi.org/10.1007/s10676-026-09926-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yun Tang"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s10677-026-10588-2",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Ethical Theory and Moral Practice",
+      "journal_id": "J054",
+      "origin": "crossref",
+      "title": "The Uptake Problem and Beyond: Rethinking Belief Formation in Radical Political Realism",
+      "url": "https://doi.org/10.1007/s10677-026-10588-2"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ido Hartogsohn",
+        "Chloe Pronovost-Morgan",
+        "Jan Ramaekers"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s12152-026-09678-w",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
+      "origin": "crossref",
+      "title": "Set and Setting Beyond Reductionism: A Response to Patch and Smith",
+      "url": "https://doi.org/10.1007/s12152-026-09678-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mirgul Amirova",
+        "Alisher Mirsakhatov",
+        "Zauresh Akhmetova"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s43681-026-01430-7",
+      "first_seen_jst": "2026-10-30",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "An ethical framework for generative AI in marketing to vulnerable audiences",
+      "url": "https://doi.org/10.1007/s43681-026-01430-7"
+    },
+    {
+      "abstract": "Abstract Ethical guidance for healthcare artificial intelligence is abundant, but it is expressed as principles rather than as measurements. Organisations are therefore left to judge whether a given system is ready for deployment without an instrument that states what is being measured, how responses are combined, and how much confidence the resulting judgement warrants. Existing self-assessment tools inherit three measurement defects that are rarely made explicit: they treat unevidenced assertions as equivalent to audited evidence, they weight ethical dimensions equally irrespective of how the system will be used, and they aggregate additively, so that strength in one area can silently offset a disqualifying weakness in another. This paper specifies an ethical readiness assessment framework for United Kingdom healthcare AI that addresses these three defects directly. The framework retains a twenty-item instrument covering Bias and Fairness and Transparency and Explainability, and adds an explicit measurement model: each response is discounted by the tier of evidence supporting it; dimension weights are derived from the system’s intended purpose using the two axes of the international risk-categorisation framework that the national regulator has committed to align with; responses are combined by a weighted power mean whose compensability is a declared parameter rather than an unstated assumption; and four items anchored to United Kingdom statutory duties act as gates that cap the reported band when the corresponding safeguard is absent. Every item is mapped to the specific legal duty or assurance standard it evidences. The framework is demonstrated on three constructed, fully specified system profiles, with all item-level responses published so that every reported figure is reproducible. The demonstration shows that a system with strong documentation but weak fairness safeguards is classified as Moderate readiness under equal-weight additive scoring and as Low readiness under the specified model, with the two new mechanisms catching it independently. A Monte Carlo study over response and weight uncertainty (20,000 replicates) reproduces the nominal band in 84 and 100 per cent of replicates for the two profiles whose scores lie away from a band boundary, and in 82 per cent for the profile sitting half a percentage point below one, which is reported rather than concealed. Sensitivity analyses over the aggregation parameter, over departures from the equal-interval assumption, over all twenty-seven codings of the intended-use risk profile, and over the full range of the two stipulated parameters leave the deficient system’s classification unchanged in every case, while showing that the mature system’s band turns on whichever of those choices is moved. The framework is presented as a governance-support instrument with a stated measurement model and a stated uncertainty, not as an assurance or certification mechanism, and its psychometric validation with United Kingdom stakeholders remains outstanding.",
+      "authors": [
+        "Sanugi Gunasekera",
+        "Khoa Phung"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s43681-026-01442-3",
+      "first_seen_jst": "2026-10-30",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "From principles to measurement: a risk-proportionate, evidence-weighted framework for assessing bias and explainability readiness of healthcare AI in the United Kingdom",
+      "url": "https://doi.org/10.1007/s43681-026-01442-3"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Meghana Bhange",
+        "Mina Alfaghih",
+        "Elliot Creager",
+        "Annie Pullen Sansfaçon",
+        "Ulrich Aïvodji"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s43681-026-01445-0",
+      "first_seen_jst": "2026-10-30",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Algorithmic exclusions, collective inclusions: surveying algorithmic harms and collective action in LGBTQIA2S+ communities",
+      "url": "https://doi.org/10.1007/s43681-026-01445-0"
+    },
+    {
+      "abstract": "Abstract Research on large language model failure predominantly assesses models in single exchanges and isolation: a prompted model, a scored output, and a reported error rate. The focus on single exchanges and isolation belies these current models’ professional use. Clinicians, attorneys, analysts, educators, and researchers work across extended sessions, and each output becomes the context for the next, while the final product carries a human signature. A test that scores a single response most likely will not reveal the behaviors that emerge under those conditions. This paper describes seven candidate failure patterns identified in exploratory, single-author observation of extended sessions on three commercial AI platforms: recognition without correction, compounding rather than isolation of errors, halo effect from real anchors, unreliable self-explanation, degradation across long sessions, exculpatory framing under confrontation, and sycophancy and confirmation bias amplification. Several are consistent with findings already established in the machine learning literature. Overall, the patterns describe a systemic failure profile that lower hallucination rates do not address because the concern lies in how the system handles errors once they exist. The systemic failure profile carries significant ethical consequences and concerns, since failures cascade to final approval; the duty to verify applies to any domain where a person approves LLM output.",
+      "authors": [
+        "Hector Ramos"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s43681-026-01478-5",
+      "first_seen_jst": "2026-10-30",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Fluent and wrong: seven failure patterns in extended AI use",
+      "url": "https://doi.org/10.1007/s43681-026-01478-5"
+    },
+    {
+      "abstract": "Abstract This article aims to offer a systematic account of pathologies of collective attention. It reconstructs attention, salience, and affordance as interlocking notions through which both subjects and collectives become oriented toward the world in specific ways, before turning to ideology, propaganda, and conspiracism as cases of pernicious attentional dysfunction. Drawing on both analytic epistemology and the tradition of critical theory, I argue that these phenomena are distortions in the way groups pay attention and saliences are misvalued. Taking up the notion of social pathology from the tradition of critical theory, the paper reinterprets it as a metaphor for those modes of collective life that obstruct attuned responsiveness to reality and brings it into dialogue with more recent debates on “negative” epistemic properties in (analytic) epistemology.",
+      "authors": [
+        "Thomas J. Spiegel"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1017/epi.2026.10153",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Episteme",
+      "journal_id": "J095",
+      "origin": "crossref",
+      "title": "Pathologies of Collective Attention",
+      "url": "https://doi.org/10.1017/epi.2026.10153"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Manu Samnotra"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1086/743917",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Polity",
+      "journal_id": "J033",
+      "origin": "crossref",
+      "title": "Millian Dignity: Flourishing and Equality",
+      "url": "https://doi.org/10.1086/743917"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Hyemin Park"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1086/743920",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Polity",
+      "journal_id": "J033",
+      "origin": "crossref",
+      "title": "Inventing the Grammar of Liberty: Yan Fu and the Translation of\n                    Ziyou",
+      "url": "https://doi.org/10.1086/743920"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Robert Sparling"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1086/744068",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Polity",
+      "journal_id": "J033",
+      "origin": "crossref",
+      "title": "“As With the Stroke of an Enchanter’s Wand”: Marx on National Debt and the State",
+      "url": "https://doi.org/10.1086/744068"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "date": "2026-10-29",
+      "doi": "10.1086/744069",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Polity",
+      "journal_id": "J033",
+      "origin": "crossref",
+      "title": "Ask a Political Scientist: A Conversation with Fredrick C. Harris on Race, Politics, and University Leadership",
+      "url": "https://doi.org/10.1086/744069"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "date": "2026-10-29",
+      "doi": "10.1093/pq/pqag081",
+      "first_seen_jst": "2026-10-30",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
+      "origin": "crossref",
+      "title": "Editor’s Note: Testing abductions from uncertain evidence",
+      "url": "https://doi.org/10.1093/pq/pqag081"
+    },
+    {
+      "abstract": "There is a crisis of state theory in British legal thought because both philosophers of law and public law theorists reject or avoid thinking about legal order in terms of the state as a personne morale , an entity in whose name officials act and which the individuals subject to its power have reason to regard as legitimate. The position is quite different in German legal thought in which state theory is central. I rely on Weimar legal theorist Hermann Heller's explanation that a crisis of state theory results when one neglects one of the two dimensions of the modern legal state that interact with each other in sustaining it and maintaining its legitimacy – the social dimension or how the facts of social life affect the content of legal norms and the legal dimension or how those norms shape the facts of social life. I show that this kind of crisis manifests itself in Britain because the topic of the state and its legitimacy is displaced onto other topics in ways that result in the same neglect, including by Heller revivalists at the LSE. This neglect explains the strange character of contemporary public law debate.",
+      "authors": [
+        "David Dyzenhaus"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1111/1468-2230.70077",
+      "first_seen_jst": "2026-10-30",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "The Crisis of British State Theory",
+      "url": "https://doi.org/10.1111/1468-2230.70077"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Aditi Bagchi"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.16995/pp.27873",
+      "first_seen_jst": "2026-10-30",
+      "journal": "Political Philosophy",
+      "journal_id": "J027",
+      "origin": "crossref",
+      "title": "Legitimization is a Normative Power",
+      "url": "https://doi.org/10.16995/pp.27873"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-29",
-  "window_start": "2026-09-14"
+  "window_end": "2026-10-30",
+  "window_start": "2026-09-15"
 }

@@ -58,6 +58,14 @@ jobs:
           fake = '<meta name="citation_doi" content="10.1007/test"><meta name="citation_online_date" content="2026/10/20"><meta name="citation_abstract" content="' + ('A sample of a publisher abstract. ' * 15) + '">'
           assert extract_publisher(fake, '10.1007/test')['online_date'] == '2026-10-20'
           assert not extract_publisher(fake, '10.1007/different')['doi_matched']
+          from build_daily import publisher_urls, abstract_review
+          wiley = '<meta name="citation_doi" content="10.1111/test"><p>First published: 29 October 2026</p>'
+          assert extract_publisher(wiley, '10.1111/test')['online_date'] == '2026-10-29'
+          assert extract_publisher(wiley, '10.1111/wrong')['doi_matched'] is False
+          assert len(publisher_urls('https://doi.org/10.1111/test', '10.1111/test', '2026-10-29')) >= 2
+          assert '/2026/10/27/' in ' '.join(publisher_urls('https://doi.org/10.1136/test', '10.1136/test', '2026-10-28'))
+          assert abstract_review('https://example.org/figure.png') == 'suspect_media_link'
+          assert abstract_review('This essay argues that social structures shape normative practices through institutional action and public participation.') == 'present_needs_content_review'
           print('Daily extraction safeguards passed')
           PY
       - name: Collect metadata for all 145 journals (major 90 first)

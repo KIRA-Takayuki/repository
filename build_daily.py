@@ -63,6 +63,39 @@ def meta_content(soup, names):
     return ""
 
 
+def publisher_urls(item_url, doi, date):
+    """Use a small set of official alternative paths before declaring HTML inaccessible."""
+    urls = [item_url]
+    if doi.lower().startswith("10.1111/"):
+        urls += [f"https://onlinelibrary.wiley.com/doi/full/{doi}",
+                 f"https://onlinelibrary.wiley.com/doi/abs/{doi}"]
+    elif doi.lower().startswith("10.1086/"):
+        urls += [f"https://www.journals.uchicago.edu/doi/full/{doi}",
+                 f"https://www.journals.uchicago.edu/doi/abs/{doi}"]
+    elif doi.lower().startswith("10.1136/") and date:
+        try:
+            published = dt.date.fromisoformat(date)
+            slug = doi.rsplit("/", 1)[-1]
+            for shift in (-1, 0):
+                day = published + dt.timedelta(days=shift)
+                urls.append(f"https://jme.bmj.com/content/early/{day:%Y/%m/%d}/{slug}.info")
+        except ValueError:
+            pass
+    return list(dict.fromkeys(urls))
+
+
+def abstract_review(value):
+    """Warning flag, not automatic exclusion: suspicious text needs human review."""
+    s = text_clean(value)
+    if not s:
+        return "missing"
+    if re.match(r"^https?://", s, re.I) or re.search(r"\.(?:png|jpe?g|gif|svg)(?:\?|$)", s, re.I):
+        return "suspect_media_link"
+    if re.match(r"^(?:footnotes|author affiliations?|correspondence|department of|faculty of|university of)\b", s, re.I):
+        return "suspect_nonabstract"
+    return "present_needs_content_review"
+
+
 def extract_publisher(html_text, doi):
     """Return only DOI-matched metadata; never infer an abstract from a title."""
     soup = BeautifulSoup(html_text, "html.parser")
@@ -84,6 +117,13 @@ def extract_publisher(html_text, doi):
         if len(description) >= 350 and not re.search(r"(browse|subscribe|sign up|read more)", description[:120], re.I):
             abstract = description
     direct_date = date_parse(meta_content(soup, ["citation_online_date", "citation_date_online"]))
+    if not direct_date:
+        # Wiley and other publishers sometimes print the first date as visible text.
+        # Only consider it after citation_doi on this very page matches the candidate.
+        first_text = soup.get_text(" ", strip=True)[:20000]
+        matched = re.search(r"\b(?:First published(?: online)?|Published online)\s*:\s*(\d{1,2}\s+[A-Za-z]+\s+\d{4}|\d{4}-\d{2}-\d{2})", first_text, re.I)
+        if matched:
+            direct_date = date_parse(matched.group(1))
     return {"doi_matched": True,
             "abstract": abstract[:9000] if len(abstract) >= 100 else "",
             "online_date": direct_date}
@@ -117,25 +157,45 @@ def enrich(item, session, start, end):
         work["publisher_check_status"] = ("skipped_prior_publication" if work["previously_published_by_publisher"] else "skipped_likely_nonresearch")
         return work
     doi = work.get("doi", "")
-    try:
-        response = session.get(work["url"], timeout=12, headers={"Accept": "text/html,application/xhtml+xml"})
-        response.raise_for_status()
-        if "html" in response.headers.get("Content-Type", "").lower():
+    work["publisher_pages_attempted"] = []
+    work["crossref_online_date"] = None  # Publisher-deposited metadata, NOT first-publication verification.
+    for page_url in publisher_urls(work["url"], doi, work.get("date")):
+        work["publisher_pages_attempted"].append(page_url)
+        try:
+            response = session.get(page_url, timeout=8, headers={"Accept": "text/html,application/xhtml+xml"})
+            response.raise_for_status()
+            if "html" not in response.headers.get("Content-Type", "").lower():
+                work["publisher_check_status"] = "publisher_non_html"
+                continue
             result = extract_publisher(response.text[:1300000], doi)
-            work["publisher_doi_matched"] = result["doi_matched"]
-            work["publisher_check_status"] = "doi_matched" if result["doi_matched"] else "publisher_doi_not_confirmed"
-            if result["doi_matched"]:
-                work["publisher_online_date"] = result["online_date"]
-                if result["online_date"]:
-                    work["publisher_date_verified_in_window"] = start <= result["online_date"] <= end
-                    work["publisher_date_conflict"] = not work["publisher_date_verified_in_window"]
-                if result["abstract"] and not text_clean(work.get("abstract", "")):
-                    work["abstract"] = result["abstract"]
-                    work["abstract_source"] = "publisher_doi_matched_page"
-        else:
-            work["publisher_check_status"] = "publisher_non_html"
-    except requests.RequestException as exc:
-        work["publisher_check_status"] = "publisher_request_failed_" + type(exc).__name__
+            if not result["doi_matched"]:
+                work["publisher_check_status"] = "publisher_doi_not_confirmed"
+                continue
+            work["publisher_doi_matched"] = True
+            work["publisher_check_status"] = "doi_matched"
+            work["publisher_evidence_url"] = page_url
+            work["publisher_online_date"] = result["online_date"]
+            if result["online_date"]:
+                work["publisher_date_verified_in_window"] = start <= result["online_date"] <= end
+                work["publisher_date_conflict"] = not work["publisher_date_verified_in_window"]
+            if result["abstract"] and not text_clean(work.get("abstract", "")):
+                work["abstract"] = result["abstract"]
+                work["abstract_source"] = "publisher_doi_matched_page"
+            if result["online_date"] and text_clean(work.get("abstract", "")):
+                break
+        except requests.RequestException as exc:
+            work["publisher_check_status"] = "publisher_request_failed_" + type(exc).__name__
+    if not work["publisher_online_date"]:
+        # Crossref published-online is useful as a fallback lead but not proof of FIRST view.
+        try:
+            api = session.get("https://api.crossref.org/works/" + doi, timeout=8)
+            api.raise_for_status()
+            meta = api.json().get("message", {})
+            parts = (meta.get("published-online") or {}).get("date-parts", [[]])[0]
+            if len(parts) >= 3:
+                work["crossref_online_date"] = dt.date(*parts[:3]).isoformat()
+        except (requests.RequestException, ValueError, TypeError, KeyError, OverflowError):
+            pass
     if not text_clean(work.get("abstract", "")):
         try:
             params = {}
@@ -149,6 +209,7 @@ def enrich(item, session, start, end):
                 work["abstract_source"] = "openalex"
         except (requests.RequestException, ValueError, TypeError):
             pass
+    work["abstract_review_status"] = abstract_review(work.get("abstract", ""))
     return work
 
 
@@ -182,6 +243,7 @@ def build():
         "excluded_older_publications_count": excluded_older,
         "research_candidate_abstracts_available": sum(bool(text_clean(x.get("abstract", ""))) for x in likely),
         "research_candidate_abstracts_missing": sum(not bool(text_clean(x.get("abstract", ""))) for x in likely),
+        "research_candidate_suspect_abstracts": sum(x.get("abstract_review_status", "").startswith("suspect") for x in likely),
         "publisher_first_online_in_window_verified_count": sum(x["publisher_date_verified_in_window"] for x in likely),
         "publisher_first_online_date_conflict_count": sum(x["publisher_date_conflict"] for x in likely),
         "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",

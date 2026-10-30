@@ -1,7 +1,7 @@
 {
   "candidate_count": 952,
   "candidate_count_scope": "Lookback cache, NOT verified new research papers",
-  "checked_at_utc": "2026-10-29T21:51:14.375040+00:00",
+  "checked_at_utc": "2026-10-30T00:09:09.197250+00:00",
   "counts": {
     "checked": 135,
     "failed": 1,
@@ -12,7 +12,7 @@
   "daily_candidate_count": 18,
   "daily_unverified_research_candidate_count": 18,
   "dry_run": false,
-  "first_observed_doi_count": 30,
+  "first_observed_doi_count": 0,
   "journal_status": {
     "J001": {
       "candidate_count": 5,

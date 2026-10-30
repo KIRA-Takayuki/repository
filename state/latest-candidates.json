@@ -1,279 +1,6 @@
 {
-  "collected_on": "2026-10-30",
+  "collected_on": "2026-10-31",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Roxan Degeyter"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1007/s10551-026-06463-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Toward a Democratic Theory of Corporate Political Activism",
-      "url": "https://doi.org/10.1007/s10551-026-06463-w"
-    },
-    {
-      "abstract": "Abstract How should the preferences of future people be considered in today’s decision making? Two challenges arise. First, there is uncertainty regarding the content of future preferences: the epistemic challenge lies in eliciting these preferences correctly. Second, present people must be motivated to respect these preferences: the psychological challenge is to induce incorporation of future people into present-day decisions. I compare two methods of intergenerational procedural justice. The first takes a generation-first approach: it considers future individuals primarily as members of their respective generations and seeks to represent their interests through generational ombudspersons. The second focuses on the social group to which a future person belongs. This community-first approach makes room for an individual’s preferences by giving a voice to present members of her transgenerational community. Existing theories of intergenerational justice by and large implicitly follow the generation-first method. However, the community-first approach better addresses both the epistemic and the psychological challenge.",
-      "authors": [
-        "Colin von Negenborn"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1007/s10677-026-10582-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ethical Theory and Moral Practice",
-      "journal_id": "J054",
-      "origin": "crossref",
-      "title": "How to Consider Future People’s Preferences: Generations vs. Transgenerational Communities as Proxies for Preference Aggregation",
-      "url": "https://doi.org/10.1007/s10677-026-10582-8"
-    },
-    {
-      "abstract": "Abstract In this article we explore the potential and significance of community constitutionalisation as a resource for resistance to ‘nice’ development programmes. Our case study is a recent development in the Lacandon region of Mexico where communities have created a community ‘Life Plan’, the Plan de Vida (PDV), as a means of contesting state-led environmental management programmes. Drawing on the long history of indigenous resistance in Mexico and examining the Life Plan through the lens of constitutionalism from below, we find that the PDV is a powerful example of grassroots constitutionalism that advances community resistance to green development projects and further destablises the ‘schizophrenic’ constitutional order in Mexico, thereby fortifying subaltern legalities.",
-      "authors": [
-        "Anna Chadwick",
-        "Julia McClure",
-        "Alberto Vallejo Reyna",
-        "Franklin Velasco"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1007/s10978-026-09440-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Critique",
-      "journal_id": "J012",
-      "origin": "crossref",
-      "title": "Constitutionalising Resistance? The ‘Plan De Vida’, Bienes Comunales, and the Long History of Green Grabbing in the Lacandon",
-      "url": "https://doi.org/10.1007/s10978-026-09440-4"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Drew Johnson"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1007/s11229-026-05776-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Taken for granted: on hinges and what matters",
-      "url": "https://doi.org/10.1007/s11229-026-05776-7"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Mohamed El Louadi",
-        "Maher Kallel"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1007/s43681-026-01341-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Calculated inefficiency: sustaining human supervisory competence as an ethical design objective for hybrid human-AI systems",
-      "url": "https://doi.org/10.1007/s43681-026-01341-7"
-    },
-    {
-      "abstract": "Abstract Automated decision-making systems in the welfare state have produced discriminatory outcomes at scale, as critical scholarship has extensively documented. This article examines the mechanisms through which such outcomes are produced by tracing the cultural, institutional, and technical determinants embedded in their design and use. Drawing on qualitative research conducted in the Netherlands between 2023 and 2024, it combines semi-structured interviews, ethnographic observation, and documentary analysis across three cases: SyRI, the childcare benefits scandal (Toeslagenaffaire), and Rotterdam’s welfare fraud detection system. Rather than asking whether automated systems discriminate, the article asks how discriminatory social classifications become translated into algorithmic risk and acquire the authority of seemingly objective decisions. The analysis identifies four recurring mechanisms: manual pre-selection of groups for scrutiny, the use of records of past suspicion as training data, proxy substitution for sensitive attributes, and the cumulative, intersectional layering of risk indicators. To conceptualize these dynamics, the article develops the notion of network determinism: the practical closure produced when administrative institutions, databases, policy objectives, statistical categories, organizational routines, and computational systems repeatedly reinforce one another, turning contingent classifications into effectively deterministic outcomes for those subjected to them. The findings show that discrimination cannot be attributed to algorithms alone, but emerges from chains of human and institutional choices that distribute both decision-making and responsibility. The Dutch cases therefore demonstrate why technical or legal corrections are insufficient without addressing the socio-cultural assumptions that automated systems are built to operationalize.",
-      "authors": [
-        "Diletta Huyskes"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1007/s43681-026-01350-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "“Unprecedented Injustice”: network determinism in the Dutch digital welfare state",
-      "url": "https://doi.org/10.1007/s43681-026-01350-6"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Blaine Garfolo"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1007/s43681-026-01377-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "The synthetic moral agent (SMA) framework: navigating the ontological void and the crisis of stewardship in the age of generative AI",
-      "url": "https://doi.org/10.1007/s43681-026-01377-9"
-    },
-    {
-      "abstract": "Abstract In 1982, Stephen Toulmin famously argued that medicine “saved the life of ethics.” This article asks whether AI is now doing something similar—and finds that the answer splits. Working from a broadly Toulminian conception of ethics as a discipline that responds to societal demand for normative orientation by providing analyses and reasoned recommendations, the article develops its argument in two stages. The first is diagnostic. AI is undeniably revitalizing ethics: it generates unprecedented demand for normative orientation and brings ethical questions to the center of public and academic debate. Yet AI appears to be on a trajectory toward becoming increasingly capable of supplying the very outputs for which ethicists have traditionally been consulted. If it can provide these outputs faster, more cheaply, and, in some respects, better, demand for ethics and demand for ethicists may increasingly come apart: ethics as a discipline may flourish even as ethicists as a profession face the prospect of becoming obsolete. In light of this diagnosis, the second stage asks how ethicists might respond. Four strategies are reconstructed: (1) defense and counterattack, (2) adaptive specialization, (3) ethics as an activity, and (4) cooperative transformation. Each strategy is critically assessed, culminating in a reflective appraisal of their respective strengths and limitations. The article concludes by arguing that ethicists must fundamentally reconsider the nature of their expertise and the role they can still claim for themselves in an age increasingly shaped by AI.",
-      "authors": [
-        "Max Tretter"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1007/s43681-026-01384-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Will AI save ethics—and make ethicists obsolete?",
-      "url": "https://doi.org/10.1007/s43681-026-01384-w"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jeffrey M. Brown"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1080/13698230.2026.2729955",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Critical Review of International Social and Political Philosophy",
-      "journal_id": "J038",
-      "origin": "crossref",
-      "title": "Structural injustice and disability: a relational egalitarian account",
-      "url": "https://doi.org/10.1080/13698230.2026.2729955"
-    },
-    {
-      "abstract": "ABSTRACT Critics of neoliberalism increasingly examine its corrosive effects on democracy. Scholars often turn to Friedrich Hayek's political theory, arguing that it produces citizens who passively conform to spontaneous social orders. Yet insufficient attention has been paid to the normative conception of the human individual underlying his neoliberalism. This article demonstrates that Hayek's theory actively rejects individuality, understood as the cultivation and expression of one's distinct personal character. Individuality requires an experimental approach toward social action and critical reflection on whether social rules express one's character, yet such attitudes are systematically stifled in Hayek's account because they threaten the unequivocal obedience his spontaneous orders demand. My reading suggests that by suppressing individuality in favor of unreflective conformity, Hayek's neoliberalism produces citizens who are particularly ill‐equipped to identify and resist threats to their freedom and sustain liberal democracy.",
-      "authors": [
-        "Tal Tzur"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1111/1467-8675.70081",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Constellations",
-      "journal_id": "J049",
-      "origin": "crossref",
-      "title": "Individualism Without Individuality: Friedrich Hayek and the Neoliberal Citizen",
-      "url": "https://doi.org/10.1111/1467-8675.70081"
-    },
-    {
-      "abstract": "Abstract This essay examines Heidegger's interpretation of the Aristotelian concept of life in his 1924 lecture Basic Concepts of Aristotelian Philosophy . While scholars have emphasized the text's decisive role in the preparation of Being and Time , their readings have largely centered on the notions of praxis and human existence. Departing from this conventional focus, the article brings attention to a neglected aspect of the lecture: the question of animality and its deep ontological connection to human Dasein . I argue that, in contrast to his later works, especially the 1929–1930 lecture The Fundamental Concepts of Metaphysics. World, Finitude, Solitude , where an ontological abyss separates the world‐forming human from the poor‐in‐world animal, the Heidegger of 1924 maintains an unexpected ontological continuity between the two. The essay first shows how the generic category of zoe establishes both humans and animals as ‘being‐in‐the‐world’ ( In‐der‐Welt‐sein ) who share an originary mode of ‘being‐with‐one‐another’ ( Miteinandersein ). It then analyzes how this continuity is grounded in a shared affective ‘disposition’ ( Befindlichkeit ), through which the animal exercises a primordial form of ‘having‐oneself’ ( Sich‐selbst‐Habens ). By revisiting this formative moment in Heidegger's thought, the essay challenges the prevailing view of an absolute divide between animal life and human existence as the definitive paradigm of Heidegger's conception of animality.",
-      "authors": [
-        "Antonino Firenze"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1111/ejop.70120",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Journal of Philosophy",
-      "journal_id": "J102",
-      "origin": "crossref",
-      "title": "Was there ever an Animal Dasein? Heidegger's Concept of Life in the 1924 Aristotle Lecture",
-      "url": "https://doi.org/10.1111/ejop.70120"
-    },
-    {
-      "abstract": "Unintended and unwanted outcomes are an inherent aspect of healthcare practice, posing significant moral challenges for organisations on how to do justice to the situation and the people involved, aimed at strengthening safety and preventing future harm. How an organisation responds to these outcomes is crucial, as this affects the quality of care, public trust and can have a profound impact on both patients and healthcare professionals. This paper develops a conceptual framework delineating three distinct moral logics for responding to unintended and unwanted outcomes: norm enforcement (1), learning (2) and repair (3). Enforcement logic (1) emphasises safeguarding patients by dealing with unprofessional or unlawful actions; learning logic (2) seeks to prevent recurrence by improving systems and practices; and repair logic (3) focuses on addressing harm to patients and restoring trust. Our analysis reveals that, while analytically distinct and potentially complementary, these moral logics often overlap in practice and may generate tensions because they rely on different understandings of justice, accountability and appropriate organisational response. Our analysis underscores both the distinctions between these logics and a selected set of tensions that arise when they intersect, focusing on three central configurations of tension while recognising that other combinations are also possible. We identify three key causes of tension: first, norm enforcement (1) allows little room for doubt or reflection, which is essential for learning (2) and repair (3); second, current quality and regulatory systems pay relatively little attention to repair (3); and third, societal demands for publicity and transparency put pressure on learning (2) and repair processes (3). Our study’s key contribution is recognising and understanding such moral logics and tensions. This can guide the development of more coherent and effective responses that ultimately enhance the quality of care and sustain trust in healthcare systems.",
-      "authors": [
-        "Laura Hartman",
-        "Geranne Lautenbach",
-        "CEG",
-        "Eva van Baarle"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1136/jme-2026-111894",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "Norm enforcement, learning and repair: three moral logics in organisational responses to unintended and unwanted healthcare outcomes",
-      "url": "https://doi.org/10.1136/jme-2026-111894"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "John D Lantos"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1136/jme-2026-112333",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "Generative AI and\n                    Chariots of Fire",
-      "url": "https://doi.org/10.1136/jme-2026-112333"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Veljko Dubljevic"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1136/jme-2026-112354",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "On scholarly neutrality with AI use",
-      "url": "https://doi.org/10.1136/jme-2026-112354"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Angela Wentz Faulconer"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1136/jme-2026-112366",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "Pregnancy and mereology: when there is no analogy",
-      "url": "https://doi.org/10.1136/jme-2026-112366"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Hongnan Ye"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1136/jme-2026-112375",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "Generative AI use declarations require accompanying reviewer guidelines",
-      "url": "https://doi.org/10.1136/jme-2026-112375"
-    },
-    {
-      "abstract": "Bair’s recent article ( J Med Ethics , 2026) offers a thoughtful Wittgensteinian analysis of ‘understanding’ in informed consent which proposes that comprehension should be evaluated through demonstrated capacity rather than passive reception. However, the author’s choice to frame this conceptual clarification as a ‘Wittgensteinian diagnosis’ introduces significant terminological confusion. In clinical medicine, a ‘diagnosis’ represents a rigorous, empirical and consequential judgement derived from systematic assessment and differential analysis, with consequences for subsequent management. Borrowing this clinical term as an unmarked metaphorical transfer of clinical terminology for philosophical conceptual analysis risks misleading clinician-readers into expecting a novel diagnostic instrument, psychological scale or psychiatric evaluation framework. In an interdisciplinary journal dedicated to medical ethics like the Journal of Medical Ethics , precision in terminology is essential. Humanistic inquiries intersecting with clinical medicine must respect the specific weight and established operational definitions of clinical vocabulary. This response argues that referring to a purely philosophical clarification as a ‘diagnosis’ undermines clear communication between philosophers and clinicians. Conceptual errors are best designated as conceptual errors—not medical conditions requiring ‘diagnosis.’",
-      "authors": [
-        "Takeo Saio"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1136/jme-2026-112540",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "Terminology matters in medical ethics: on the use of ‘diagnosis’ in philosophical analysis",
-      "url": "https://doi.org/10.1136/jme-2026-112540"
-    },
-    {
-      "abstract": "Do political parties shape where International Climate Funds are allocated? We examine this question in the context of India, where International Climate Funds create opportunities for the central government to leverage externally funded resources to advance domestic political interests. Drawing on a novel geo-coded dataset of project locations from the Kyoto Protocol’s Clean Development Mechanism, we show that projects are more likely to be allocated to constituencies represented by co-partisans of the Prime Minister’s party, and that this effect is strongest in competitive constituencies within states governed by opposition parties, where the central government has the sharpest incentives to build new support. This is surprising because existing literature on the Clean Development Mechanism suggests that decisions on project allocations are depoliticized. By demonstrating otherwise, this article contributes to the literature on International Climate Funds by demonstrating the importance of domestic politics in shaping its distribution.",
-      "authors": [
-        "Soham Banerjee",
-        "Dishil Shrimankar",
-        "Matthew Paterson"
-      ],
-      "date": "2026-09-15",
-      "doi": "10.1177/00323217261484352",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Political Studies",
-      "journal_id": "J032",
-      "origin": "crossref",
-      "title": "The spatial politics of International Climate Finance: A case of India",
-      "url": "https://doi.org/10.1177/00323217261484352"
-    },
-    {
-      "abstract": "",
-      "authors": [],
-      "date": "2026-09-15",
-      "doi": "10.1177/00323217261490244",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Political Studies",
-      "journal_id": "J032",
-      "origin": "crossref",
-      "title": "Corrigendum to “Trust in civil servants: A cross-national dataset for public policy research, 1986–2022”",
-      "url": "https://doi.org/10.1177/00323217261490244"
-    },
     {
       "abstract": "ABSTRACT Many existing states, including the US and the UK, promote a particular housing tenure, owner‐occupation. Yet liberalism is commonly associated with commitment to a principle of state neutrality which holds that states ought to be neutral regarding different ideas of the good life. This raises important questions, and ones that have received little philosophical attention. Does a commitment to liberal state neutrality rule out the promotion of owner‐occupation? More broadly, what follows from a commitment to the neutrality principle for state action around housing tenure? In this article, I argue that a weaker neutrality principle, neutrality of justification, allows states wide latitude to promote particular housing tenures, including owner‐occupation. However, on a stronger and, I argue, more tenable reading of the neutrality principle, state promotion of owner‐occupation is plausibly ruled out. What is not ruled out, however, is state promotion of a different tenure: renting. Before making these arguments, I defend the application of the neutrality principle to state action around housing tenure.",
       "authors": [
@@ -13733,6 +13460,21 @@
       "url": "https://doi.org/10.1007/s43681-026-01445-0"
     },
     {
+      "abstract": "Abstract Recent developments in cybersecurity, scientific discovery and AI-assisted research suggest that the central challenge is shifting from whether frontier AI can be slowed to what ethical obligations follow as its capabilities diffuse. We organise these obligations around four ethical loci, the four As (4As): Action (operational control), Access (capability access), Authority (delegated authority) and Allocation (systemic distribution). Each locus captures a distinct ethical problem and therefore calls for a different family of governance responses. Drawing on Asilomar, CRISPR-Cas governance, nuclear arms control and scholarship on responsible innovation and meaningful human control, we develop a framework for governance matching, linking ethical diagnosis to locus-specific constraints, control authorities, failure signals and corrective responses. Because multiple loci may be implicated simultaneously, the framework also identifies governance mismatch and cross-locus effects. We conclude by proposing an AI stability framework that preserves competition and innovation while establishing minimum safeguards around high-consequence capabilities and uses that could cause severe or irreversible harm.",
+      "authors": [
+        "Kirti Prakash",
+        "Ian van der Linde"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s43681-026-01449-w",
+      "first_seen_jst": "2026-10-31",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Beyond the AI slowdown: the four As for governing frontier AI",
+      "url": "https://doi.org/10.1007/s43681-026-01449-w"
+    },
+    {
       "abstract": "Abstract Research on large language model failure predominantly assesses models in single exchanges and isolation: a prompted model, a scored output, and a reported error rate. The focus on single exchanges and isolation belies these current models’ professional use. Clinicians, attorneys, analysts, educators, and researchers work across extended sessions, and each output becomes the context for the next, while the final product carries a human signature. A test that scores a single response most likely will not reveal the behaviors that emerge under those conditions. This paper describes seven candidate failure patterns identified in exploratory, single-author observation of extended sessions on three commercial AI platforms: recognition without correction, compounding rather than isolation of errors, halo effect from real anchors, unreliable self-explanation, degradation across long sessions, exculpatory framing under confrontation, and sycophancy and confirmation bias amplification. Several are consistent with findings already established in the machine learning literature. Overall, the patterns describe a systemic failure profile that lower hallucination rates do not address because the concern lies in how the system handles errors once they exist. The systemic failure profile carries significant ethical consequences and concerns, since failures cascade to final approval; the duty to verify applies to any domain where a person approves LLM output.",
       "authors": [
         "Hector Ramos"
@@ -13759,6 +13501,20 @@
       "origin": "crossref",
       "title": "Pathologies of Collective Attention",
       "url": "https://doi.org/10.1017/epi.2026.10153"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Xi Zhang"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1080/20403313.2026.2750659",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Jurisprudence",
+      "journal_id": "J006",
+      "origin": "crossref",
+      "title": "On Greenyssey: Leslie Green’s voyage of jurisprudence",
+      "url": "https://doi.org/10.1080/20403313.2026.2750659"
     },
     {
       "abstract": "",
@@ -13841,6 +13597,37 @@
       "url": "https://doi.org/10.1111/1468-2230.70077"
     },
     {
+      "abstract": "Research shows that affluent citizens see more of their preferred policies realized than the less affluent. If indicative of unequal influence over decisions, then this poses a problem for democratic equality. But one theory suggests that the affluent are better informed and therefore prefer policies that were going to be implemented anyway. If so, it would be a question of unequal information, not influence. We test this theory on the case of monetary policy in the United Kingdom, where information effects are especially likely: The policy-maker (the Bank of England) has a well-defined goal of price stability, there is broad expert agreement on how to achieve this, and the general public is not well informed of inflation dynamics. Survey data from more than 120,000 UK respondents from 2001 to 2026 reveal that monetary policy aligns more with the preferences of high-income earners, who are better informed about monetary policy and the state of the economy. Nevertheless, information can only explain about a quarter of the gap in preference–policy alignment between income groups, even in this most-likely setting. The unequal policy alignment identified in previous research is therefore unlikely to be a mere artifact of informational asymmetry and remains an important problem for political equality.",
+      "authors": [
+        "Sirus Håfström Dehdari",
+        "Jesper Lindqvist",
+        "Anders Sundell"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1177/00323217261494411",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Political Studies",
+      "journal_id": "J032",
+      "origin": "crossref",
+      "title": "Does policy align with the preferences of the affluent because they are better informed? An empirical test",
+      "url": "https://doi.org/10.1177/00323217261494411"
+    },
+    {
+      "abstract": "In democracies, protests can challenge public policy reforms, raising questions on how governments should respond. Our study examines how citizens in the Netherlands would prefer their governments to respond to social protests. Using a pre-registered survey experiment (N = 1262), we varied the level of government implementing a reform and the level of public support for a reform. We used observational data to assess respondents’ views on the reforms and their trust in the government. While our findings reveal relatively strong support for accommodating social protests, citizens are more likely to back governments that ignore protests when these reforms have majority support and align with their own views. Trust in the government also plays a role, but the level of government does not matter for citizens’ attitudes. Overall, our findings highlight that citizens expect governments to listen to social protests but their attitudes are further contingent upon instrumental reasoning and majoritarian views of democracy.",
+      "authors": [
+        "Lars Brummel",
+        "Dimiter Toshkov"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1177/00323217261497306",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Political Studies",
+      "journal_id": "J032",
+      "origin": "crossref",
+      "title": "When do citizens support government decisions to ignore social protests? The role of instrumental considerations and majoritarian preferences",
+      "url": "https://doi.org/10.1177/00323217261497306"
+    },
+    {
       "abstract": "",
       "authors": [
         "Aditi Bagchi"
@@ -13853,9 +13640,392 @@
       "origin": "crossref",
       "title": "Legitimization is a Normative Power",
       "url": "https://doi.org/10.16995/pp.27873"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sophie Bacq",
+        "Florian Hoos",
+        "Georgios Polychronopoulos"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s10551-026-06484-5",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Who Decides What to Measure? Social Entrepreneurs’ Ethical Decision-Making Dilemmas in the New Era of Mandatory Sustainability Reporting",
+      "url": "https://doi.org/10.1007/s10551-026-06484-5"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Nadia Smaili",
+        "Gulliver Lux"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s10551-026-06503-5",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Whistleblowing and Gender: Conceptualizing Organizational Support for Women",
+      "url": "https://doi.org/10.1007/s10551-026-06503-5"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Joongol Kim"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s11229-026-05818-0",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "The Kripke-Miller puzzle",
+      "url": "https://doi.org/10.1007/s11229-026-05818-0"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Filippo Costantini"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s11229-026-05842-0",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "The varieties of identity in HoTT and the sense–reference distinction",
+      "url": "https://doi.org/10.1007/s11229-026-05842-0"
+    },
+    {
+      "abstract": "Abstract In a recent essay, Anna Boncompagni (2024) argues that prejudices are hinges that play a normative role of evidential significance. This is meant to account for why prejudices are resistant to counterevidence and difficult to overcome, while clarifying their epistemic role in undermining testimonial justification. I argue that prejudices are not like hinges and motivate my own view of the epistemic role of prejudices. In §2, I discuss the view that prejudices comprise generic generalizations and illustrate two key features of prejudices: resistance to counterevidence and accommodation of counterevidence. In §3, I reiterate two virtues of the hinge account but then show that it suffers from explanatory redundancy. To explain why prejudices are resistant to counterevidence, either we accept that prejudices play a hinge-like normative role of evidential significance, or we appeal to the generic content of prejudices. To avoid explanatory redundancy and account for evidential accommodation, I argue that we should reject the thesis that prejudices play a normative role of evidential significance. In §4, I present my view that prejudices (as generic generalizations) are misleading evidence about properties of the relevant target group, while defending it against some objections. In §5, I present a distinct argument about the rational evaluability and epistemic criticizability of prejudices, to show that local de facto hinges and prejudices differ epistemically. The essay ends with some suggestions for applying the hinge framework to social phenomena.",
+      "authors": [
+        "Tanuj Raut"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s11229-026-05858-6",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Prejudices are not like hinges",
+      "url": "https://doi.org/10.1007/s11229-026-05858-6"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Dan Zeman"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s11229-026-05868-4",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Expressives, Expressive-Relativism, and assessment-sensitivity",
+      "url": "https://doi.org/10.1007/s11229-026-05868-4"
+    },
+    {
+      "abstract": "Abstract The reliabilist sometimes, contrary to our intuitions, has to confer justification on beliefs acquired via brain lesions or clairvoyance. This is the problem of strange and fleeting processes. Here, I attempt to find a solution to the problem. After rejecting a few attempts that seemingly lead us astray, I posit that strangeness has to do with mysterious ascriptions of propensities to produce true beliefs. Then, once we adopt a more appropriate understanding of strangeness, I argue that fleetingness becomes a non-issue. If correct, the approach taken in this article allows the reliabilist to forgo adding a necessary condition on justification that specifies a reliable belief-forming process’s circumstances, the type of world it belongs to, or its evolutionary origins.",
+      "authors": [
+        "Balder Edmund Ask Zaar"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s11229-026-05869-3",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "The problem of strange and fleeting processes",
+      "url": "https://doi.org/10.1007/s11229-026-05869-3"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yifan Sun"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s11229-026-05870-w",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Are there too many reasons?",
+      "url": "https://doi.org/10.1007/s11229-026-05870-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Aarthi Sundaram",
+        "Nynke van Uffelen",
+        "Yilin Huang",
+        "Igor Nikolic",
+        "Eefje Cuppen"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s11948-026-00638-4",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Science and Engineering Ethics",
+      "journal_id": "J072",
+      "origin": "crossref",
+      "title": "Making the invisible visible: a reflection method to uncover justice-related design choices in energy models with model developers and users",
+      "url": "https://doi.org/10.1007/s11948-026-00638-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Viggo Tellefsen Wivestad"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s43681-026-01435-2",
+      "first_seen_jst": "2026-10-31",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "The Digital Demon: a Cartesian challenge for AI alignment",
+      "url": "https://doi.org/10.1007/s43681-026-01435-2"
+    },
+    {
+      "abstract": "Abstract Using a legally obtained dataset of 34 copyrighted O’Reilly Media books (13,962 paragraphs), we apply the DE-COP membership inference attack to test whether OpenAI models show recognition of non-public (pay-walled) content they were not licensed to train on. Our main contribution is examining non-public books, which allows us to consider potential access violations and not just training inclusion. Our results suggest that GPT-4o, OpenAI’s more recent and capable model in our sample, exhibits patterns consistent with recognition of non-public books, with an AUROC score of 0.82 (95% bootstrapped CI: 0.60−0.96)—where above 50% is better than random chance. GPT-3.5 Turbo (trained two years prior) and the smaller GPT-4o Mini both score near chance recognition on non-public data (0.54 and 0.56, respectively). Results are robust to independent paraphrasers (Gemma and Qwen) and leave-one-book-out sensitivity analyses. We also test both GPT-4o and GPT-4o mini, with the same October 2023 training cutoff date, to ensure the model is not simply identifying language shifts over time. These findings support disclosure requirements for pre-training data provenance and formal licensing markets for training content. Results remain preliminary given the small book sample, possible contamination of post-cutoff controls, and differences across models in size, architecture, and training composition.",
+      "authors": [
+        "Sruly Rosenblat",
+        "Tim O’Reilly",
+        "Ilan Strauss"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s43681-026-01438-z",
+      "first_seen_jst": "2026-10-31",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Beyond public access in LLM pre-training data",
+      "url": "https://doi.org/10.1007/s43681-026-01438-z"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ryusho Nemoto"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s43681-026-01457-w",
+      "first_seen_jst": "2026-10-31",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Subjectivity without a subject: structural agency and ethical attribution in artificial intelligence",
+      "url": "https://doi.org/10.1007/s43681-026-01457-w"
+    },
+    {
+      "abstract": "Abstract Context While artificial intelligence offers transformative potential for disaster risk reduction, its ethical deployment raises critical concerns when life-critical decisions depend on algorithmic systems with varying levels of accessibility across responsible organizations. This study quantifies AI adoption disparities across Australian DRR stakeholders and identifies institutional factors driving the adoption gap between innovation and operational deployment. A mixed-methods approach combined systematic review of 217 global AI-DRR publications (1999–2024) with qualitative analysis of 14 Australian organizations across government, academic, and NGO/private sectors (February-March 2025). Semi-structured interviews and document analysis examined AI technique adoption, data integration, and downscaling applications, with implementation levels systematically coded on a 1–5 scale following an inter-coder validated protocol. Government agencies demonstrate lower AI adoption (mean score 2.1/5) compared to academic institutions (4.0/5) and NGO/private organizations (3.4/5), representing a 47.5% adoption gap between government and academic sectors (Cohen’s d ≈ 2.0, indicating large practical difference despite small sample size). While academic institutions deploy advanced techniques including GANs and hybrid AI-physics models achieving 45% accuracy improvements, government agencies remain anchored to traditional systems like ACCESS with minimal AI integration. Critical barriers include procurement constraints (18–24-month cycles), computational limitations (10x below requirements), and regulatory mandates for explainable decisions. Academic innovations in AI-based downscaling, improving spatial resolution from 60 km to 10 km, remain inaccessible to operational agencies due to absence of knowledge transfer mechanisms. The study reveals an ethical adoption disparity where organizations with greatest responsibility for community safety show lowest AI adoption, creating accountability voids and equity concerns in disaster protection. This misalignment raises fundamental ethical questions about algorithmic justice, distributive justice, and procedural fairness in public safety contexts. Bridging this gap requires ethical governance frameworks addressing transparency, accountability, and equitable access to life-saving technologies, alongside institutional reforms enabling cross-sector knowledge transfer.",
+      "authors": [
+        "Jude Nilantha Randeniya",
+        "Krisanthi Seneviratne",
+        "Sameera Wijesiri Pathirana",
+        "Richard Haigh",
+        "Dilanthi Amaratunga",
+        "Srinath Perera"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1007/s43681-026-01474-9",
+      "first_seen_jst": "2026-10-31",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "The ethical implementation gap in AI-driven disaster risk reduction: empirical evidence from Australia’s multi-sector analysis",
+      "url": "https://doi.org/10.1007/s43681-026-01474-9"
+    },
+    {
+      "abstract": "Abstract This article examines the dynamics of inquiry under conditions of oppression. It presents an account of unjust zetetic exclusion , which arises when prejudice limits access to inquiry and the epistemic goods it yields. Unlike other forms of epistemic injustice, unjust zetetic exclusion need not result from a prejudicial credibility attribution. Instead, it may manifest even if one is perceived to be a highly competent and trustworthy inquirer, or even if one makes no judgment whatsoever regarding one’s zetetic capabilities. Unjust zetetic exclusion may result from prejudicial evaluations concerning who belongs within specific communities of inquiry and who should have access to, or possess knowledge about, a particular domain. Theories of epistemic injustice must account not only for how prejudice impacts credibility attributions but also how it regulates access to inquiry and shapes the conditions under which knowledge and other epistemic goods are acquired in the first place.",
+      "authors": [
+        "Arianna Falbo"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1017/epi.2026.10162",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Episteme",
+      "journal_id": "J095",
+      "origin": "crossref",
+      "title": "Zetetic Exclusion",
+      "url": "https://doi.org/10.1017/epi.2026.10162"
+    },
+    {
+      "abstract": "Abstract This article examines the relationship between judicial dissent, participation, and authority at the Inter-American Court of Human Rights (IACtHR) in the highly complex and contentious field of environmental and climate litigation, with particular attention to Advisory Opinion OC-32/25. It proposes the analytical category of “competence resistance” to identify dissenting opinions that challenge the Court’s authority to progressively develop new rights and conventional standards. Drawing on informational, attitudinal, and interest-group models, the article empirically examines the influence of amicus curiae participation. The analysis shows that broad, diverse, and technically specialized participation does not necessarily eliminate internal resistance within the IACtHR but can contribute to reshaping and moderating the argumentative and institutional conditions in which such resistance unfolds, thereby strengthening the Court’s judicial authority.",
+      "authors": [
+        "Sofía Reca Milanta",
+        "Digno Montalván-Zambrano"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1093/icon/moag109",
+      "first_seen_jst": "2026-10-31",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
+      "origin": "crossref",
+      "title": "De la resistencia a la participación: El impacto de los amicus curiae en el litigio ambiental y climático interamericano",
+      "url": "https://doi.org/10.1093/icon/moag109"
+    },
+    {
+      "abstract": "Abstract How is progress in the academic discipline of ethics related to improvements in people’s ethical thoughts and behaviors? We propose that there is disciplinary ethical progress on some phenomenon to the extent that the discipline puts people in a position to increase their understanding of that phenomenon. Even though progress, thus construed, does not guarantee improved thoughts and behaviors, progressive ethical theorizing nonetheless enables these improvements. Our account thus has the resources with which to substantiate and shed light on concerns that academic work in ethics is too isolated, obtuse, or trivial.",
+      "authors": [
+        "James Norton",
+        "Finnur Dellsén"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1093/monist/onag033",
+      "first_seen_jst": "2026-10-31",
+      "journal": "The Monist",
+      "journal_id": "J090",
+      "origin": "crossref",
+      "title": "Progress in Ethics: Out of the Ivory Tower",
+      "url": "https://doi.org/10.1093/monist/onag033"
+    },
+    {
+      "abstract": "ABSTRACT Climate change is a 21st century problem, and we must be ready to adapt our practices in order to confront it. Current philosophical efforts to reconcile our obligations to make healthcare sustainable with important principles of patient care have been successful up to a point, but do not go far enough. We consider a specific novel intervention that could be adopted by doctors as part of healthcare systems' efforts to reduce carbon emissions, which is an extension of the Pendleton consultation model asking General Practitioners (GPs) to explore patients' Ideas, Concerns, and Expectations (ICE). Our model, which we call ICE2, includes wider questions in which GPs also ask patients about how they might adapt their lifestyle to reduce its environmental impact. We consider the moral‐theoretical underpinning of this new model and argue for its consistency with patient‐centred care. We also consider specific objections to the adoption of ICE2: that there will be a backlash from patients that will lead to their being hesitant to seek healthcare going forward; that it will open the door to doctors moralising about other issues that are inappropriate; and that clinicians do not have the training or expertise required to discuss climate change. We discuss our responses to these objections, finding that they all fail to provide a knockdown reason against at least embarking upon a trial of the ICE2 model in settings where an individual doctor deems it appropriate to discuss it with a particular patient.",
+      "authors": [
+        "Simon Paul Jenkins",
+        "Sati Heer‐Stavert"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1111/bioe.70209",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "General Practitioners Should Ask Patients to Reduce Their Carbon Footprints",
+      "url": "https://doi.org/10.1111/bioe.70209"
+    },
+    {
+      "abstract": "ABSTRACT This paper aims to address a lingering misconception about an ethics of care: that it is simply a form of virtue ethics that includes the straightforward virtue of care. Care cannot be a standard virtue of character, I argue, because care is a necessary precondition of virtue. Virtue ethics sets itself apart from consequentialist or deontological ethical theories by explaining ‘the good’ in terms of virtues, as opposed to outcome or right action. Superficially, there would seem to be nothing very unusual about accommodating care within a virtue ethical framework. In ordinary discourse we talk of the virtuous person as being caring in the same way that we might talk of them as being charitable, kind, courageous or witty. Nevertheless, over the course of this paper I argue that care is not a virtue like courage or wit but something more ethically fundamental that makes courage, wit and other virtues intelligible.",
+      "authors": [
+        "Jasmine Shaban‐Potter"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1111/josp.70076",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Journal of Social Philosophy",
+      "journal_id": "J035",
+      "origin": "crossref",
+      "title": "Is Care a Virtue? A New Account of Care's Relationship With Virtue Ethics",
+      "url": "https://doi.org/10.1111/josp.70076"
+    },
+    {
+      "abstract": "ABSTRACT Thomas Nagel highlighted a puzzle in accommodating the subjective fact that I am TN within an objective, centerless conception of reality. He rejected the “semantic diagnosis,” which treats “I” as an indexical as trivial, and proposed instead the concept of the “objective self.” In this paper, I do two things: first, I defend the semantic diagnosis against Nagel's objections; second, I vindicate Nagel's positive proposal involving the objective self by demonstrating that it is not a genuine alternative to the semantic diagnosis but is recoverable from within a Lewisian centered‐worlds version of it. I show how the Lewisian framework, through factorizing centered content into objective, and subjective components provides the conceptual resources to model the phenomenology of first‐person thought Nagel describes.",
+      "authors": [
+        "Clas Weber"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1111/phib.70026",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Analytic Philosophy",
+      "journal_id": "J098",
+      "origin": "crossref",
+      "title": "The View From the Centre: Recovering Nagel's Objective Self",
+      "url": "https://doi.org/10.1111/phib.70026"
+    },
+    {
+      "abstract": "In this virtual roundtable, scholars Victoria Hesford, Vivian Huang, Michael Hardt, and Natasha Zaretsky discuss Ramzi Fawaz's Queer Forms (New York University Press 2002).",
+      "authors": [
+        "Justin L. Mann"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1177/14647001261489127",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Feminist Theory",
+      "journal_id": "J074",
+      "origin": "crossref",
+      "title": "Queer forms\n                    : A forum",
+      "url": "https://doi.org/10.1177/14647001261489127"
+    },
+    {
+      "abstract": "Should care be understood exclusively as the work done to meet the basic needs of dependents such as children or as a broader set of practices in which people in different kinds of relationships partake? If the latter, what makes care distinctive and distinct from other values, ideals, and practices? Despite the growing attention of political philosophy to issues of care, I argue that we still lack an account of care suitable to address these questions from a political perspective. One of the problems is that existing proposals are either too narrow, as they exclusively focus on dependency care, or too broad, such that they fail to capture the distinctiveness of care. In this article, I address this challenge by presenting an account of care that captures a wide-ranging set of politically relevant practices of care while at the same time making sense of its distinctiveness. What makes care distinctive, I argue, is that it takes place in the context of relationships of care characterized by specific attitudes.",
+      "authors": [
+        "Costanza Porro"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.26556/jesp.v31i6.6262",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Journal of Ethics and Social Philosophy",
+      "journal_id": "J071",
+      "origin": "crossref",
+      "title": "Care and Caring Relationships: A Political Account",
+      "url": "https://doi.org/10.26556/jesp.v31i6.6262"
+    },
+    {
+      "abstract": "People sometimes attempt to avoid blame with the following excuse: “I didn’t know I was doing anything wrong; I was just doing my job.” I argue that this excuse points towards a distinctive form of genuinely exculpatory ignorance. Complying with social role norms involves following deliberative norms that can explain agents’ claims of ignorance and mitigate their blameworthiness. My account of this experience makes a surprising contribution to the debate over when ignorance excuses. If we accept that nonculpable moral ignorance excuses, my argument highlights a novel form of ignorance that can be experienced by role occupants. On some views, however, what matters is being motivated by the right reasons (having a “good will”), so even nonculpably morally ignorant agents are blameworthy because they are not appropriately responsive to moral considerations. My account challenges the accepted view that having a good will just is responsiveness to moral reasons. I offer role occupants as a case study of moral ignorance with a good will. The fact that our social roles can lead to exculpatory ignorance in this ordinary and pervasive way opens up new territory for theories of moral responsibility.",
+      "authors": [
+        "Eliza Wells"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.26556/jesp.v31i6.6264",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Journal of Ethics and Social Philosophy",
+      "journal_id": "J071",
+      "origin": "crossref",
+      "title": "Social Roles and Exculpatory Ignorance",
+      "url": "https://doi.org/10.26556/jesp.v31i6.6264"
+    },
+    {
+      "abstract": "The just savings principle is the centerpiece of John Rawls’s account of intergenerational justice. Yet it is hard to see why the parties in the original position could accept it, for it imposes net costs on the worst-off first generation. Many attempt to solve this “problem of the first generation” by offering explanations as to why the parties could accept Rawls’s principle. Here I take a different approach. I show that most of these attempts neglect a crucial consideration; there is an alternative savings principle that the parties should prefer to Rawls’s own. According to the compensated savings principle, the first generation should be compensated for the cost of their savings by younger generations with whom they overlap. I defend this principle as the most promising explanation yet of why the parties could rationally choose a savings principle that generates the accumulation required for a just basic structure.",
+      "authors": [
+        "Matthew Wiseman"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.26556/jesp.v31i6.6265",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Journal of Ethics and Social Philosophy",
+      "journal_id": "J071",
+      "origin": "crossref",
+      "title": "Just Savings, Compensation, and the First Generation",
+      "url": "https://doi.org/10.26556/jesp.v31i6.6265"
+    },
+    {
+      "abstract": "Disability self-ascriptions could be treated as descriptive claims: assertions that one satisfies the conditions for counting as disabled. This article focuses on a different function that such ascriptions can serve. Drawing on Quill Kukla and Mark Lance’s account of gender ascriptions, we argue that first-person disability ascriptions often function as speech acts that position the speaker within social space. More precisely, we argue that self-ascribing disability can serve as a request or demand that the speaker not be held to certain capability norms, or norms about what people are expected to be able to do. Not only that, but these self-ascriptions often also serve as demands for access, specifically access to what the speakers need in order to manifest valued capabilities. We use this account to explain three common sources of ambivalence that individuals experience around claiming disability.",
+      "authors": [
+        "Sara Purinton",
+        "Audrey Yap"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.26556/jesp.v31i6.6269",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Journal of Ethics and Social Philosophy",
+      "journal_id": "J071",
+      "origin": "crossref",
+      "title": "The Pragmatics of Disability Self-Ascriptions",
+      "url": "https://doi.org/10.26556/jesp.v31i6.6269"
+    },
+    {
+      "abstract": "Manipulation is widely regarded as a presumptively impermissible method of influence, in contrast to persuasion, which is usually presented as presumptively permissible. Calling something manipulative is typically a moral criticism; calling it persuasive is not. Although there is a flourishing philosophical literature on manipulation, that on persuasion is comparatively underdeveloped despite persuasion being one of the most common and important ways in which people influence one another. This article begins to remedy that situation. We present a novel account of persuasion, drawing on and explicating the distinction from manipulation. The aim is to show what persuasion is in such a way that explains why it is presumptively permissible, whereas manipulation is not. We first develop an account of manipulation by adapting an account recently defended by Robert Noggle. We then define nonmanipulative influence in general, then carve out persuasion therefrom. Throughout, we assume that persuasion is not manipulative. However, we are open to the possibility that there is in fact overlap between persuasion and manipulation, in which case the account we present is of specifically nonmanipulative persuasion, which we still take to be an interesting and important category of influence. We are also not concerned specifically with rational persuasion; our account allows for persuasion that need not be fully rational. The result is a holistic account that is useful in considering the nature and ethics of influence.",
+      "authors": [
+        "Thomas Mitchell",
+        "Thomas Douglas"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.26556/jesp.v31i6.6271",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Journal of Ethics and Social Philosophy",
+      "journal_id": "J071",
+      "origin": "crossref",
+      "title": "Distinguishing Persuasion from Manipulation",
+      "url": "https://doi.org/10.26556/jesp.v31i6.6271"
+    },
+    {
+      "abstract": "Suppose that you must choose between killing an innocent person or letting others die. Moderate deontology says that when the stakes are high enough in such a case, killing the innocent person becomes right, but the stakes must be very high for this to happen—much higher than standard forms of consequentialism take them to be. Critics object that moderate deontology is committed to arbitrary cutoffs, and this feature makes the theory arbitrary in a way that competing theories are not. I refute this objection.",
+      "authors": [
+        "Nathan Hanna"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.26556/jesp.v31i6.6272",
+      "first_seen_jst": "2026-10-31",
+      "journal": "Journal of Ethics and Social Philosophy",
+      "journal_id": "J071",
+      "origin": "crossref",
+      "title": "Refuting the Arbitrary Cutoff Objection to Moderate Deontology",
+      "url": "https://doi.org/10.26556/jesp.v31i6.6272"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-30",
-  "window_start": "2026-09-15"
+  "window_end": "2026-10-31",
+  "window_start": "2026-09-16"
 }

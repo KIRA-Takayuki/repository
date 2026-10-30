@@ -33,7 +33,7 @@ def save(name, value):
 
 def kind_guess(title):
     s = " ".join(html.unescape(title or "").split())
-    if re.search(r"^(?:book review|publisher correction|correction|retraction|erratum|editorial|announcement)\b", s, re.I):
+    if re.search(r"^(?:book review|publisher correction|correction|corrigendum|retraction|erratum|editorial|editor['’]?s note|announcement|ask a political scientist)\b", s, re.I):
         return "likely_nonresearch"
     if re.search(r"\bwritten by\b|\beds?\.\s|\bTo Our Guest Reviewers\b|\.\s*By\s+[A-Z][A-Za-z-]+", s, re.I):
         return "likely_nonresearch"

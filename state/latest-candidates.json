@@ -1,204 +1,6 @@
 {
-  "collected_on": "2026-10-31",
+  "collected_on": "2026-11-01",
   "items": [
-    {
-      "abstract": "ABSTRACT Many existing states, including the US and the UK, promote a particular housing tenure, owner‐occupation. Yet liberalism is commonly associated with commitment to a principle of state neutrality which holds that states ought to be neutral regarding different ideas of the good life. This raises important questions, and ones that have received little philosophical attention. Does a commitment to liberal state neutrality rule out the promotion of owner‐occupation? More broadly, what follows from a commitment to the neutrality principle for state action around housing tenure? In this article, I argue that a weaker neutrality principle, neutrality of justification, allows states wide latitude to promote particular housing tenures, including owner‐occupation. However, on a stronger and, I argue, more tenable reading of the neutrality principle, state promotion of owner‐occupation is plausibly ruled out. What is not ruled out, however, is state promotion of a different tenure: renting. Before making these arguments, I defend the application of the neutrality principle to state action around housing tenure.",
-      "authors": [
-        "Katy Wells"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1002/japp.70128",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Applied Philosophy",
-      "journal_id": "J053",
-      "origin": "crossref",
-      "title": "State Neutrality and Housing Tenure: What Can States Promote?",
-      "url": "https://doi.org/10.1002/japp.70128"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Seungchul Yang"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1007/s10670-026-01171-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "Reasons as First-Order Evidence",
-      "url": "https://doi.org/10.1007/s10670-026-01171-3"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Japa Pallikkathayil"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1007/s10982-026-09593-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Philosophy",
-      "journal_id": "J001",
-      "origin": "crossref",
-      "title": "Claims and Complaints",
-      "url": "https://doi.org/10.1007/s10982-026-09593-4"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jason Brennan",
-        "Christopher Freiman"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1007/s11098-026-02614-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "More representative or smarter, but not both: the democratic dilemma in lottocracy",
-      "url": "https://doi.org/10.1007/s11098-026-02614-x"
-    },
-    {
-      "abstract": "Abstract This paper bridges two distinct traditions – philosophy of mathematics and proof theory – to provide a formal framework for explanatory proofs in mathematics. We focus on explanatory proofs that uncover the grounds of mathematical theorems, and we formalize their structure using a new “axioms-as-rules” approach. Our method ensures the transformation of axioms into inference rules while preserving key logical properties such as soundness, completeness, and cut-admissibility. Two classical examples, the Quadrangle Theorem and Pythagoras’ Theorem, are revisited to show how explanatory steps can be systematically isolated and formalized. This framework not only offers novel proof-theoretic insights but also enhances our understanding of mathematical explanations by bridging informal intuition with rigorous formalism.",
-      "authors": [
-        "Elaine Pimentel",
-        "Francesca Poggiolesi"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1007/s11245-026-10406-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "Mathematical Explanations and Axioms as Rules",
-      "url": "https://doi.org/10.1007/s11245-026-10406-5"
-    },
-    {
-      "abstract": "Abstract Increasing polarization across many contexts raises the question of whether justice measures exacerbate or mitigate social divisions. To develop hypotheses about how justice operates in divided contexts, this article draws on theoretical perspectives from the interdisciplinary field of transitional justice. It examines convergence and divergence in fairness evaluations using a fully randomized conjoint experiment. The experiment was embedded in nationally stratified online surveys in Japan ( n = 2,700) and South Korea ( n = 3,000). The bilateral setting provided a useful research site for a study of a divided context: contested colonial legacies and a variety of justice measures for addressing the past, which were suitable for experimental manipulation. The results show that most justice measures elicit opposing responses in the two countries while simultaneously reducing differences between them. This reveals a paradox of justice: even divisive justice measures can, under certain conditions, bring groups closer together. This framework enables to classify the effects of justice measures into convergent, divergent, and paradoxical configurations and to consider the theoretical and empirical implications for existing and future experimental research on social conflict and divided societies across disciplines.",
-      "authors": [
-        "Roman David"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1017/lsr.2026.10115",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law &amp; Society Review",
-      "journal_id": "J020",
-      "origin": "crossref",
-      "title": "The paradox of justice in divided settings",
-      "url": "https://doi.org/10.1017/lsr.2026.10115"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "David J. Chalmers"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1080/0020174x.2026.2727582",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "What we talk to when we talk to language models",
-      "url": "https://doi.org/10.1080/0020174x.2026.2727582"
-    },
-    {
-      "abstract": "Abstract In this paper, I analyze the responses of three emblematic continental European legal philosophers associated with Thomistic legal philosophy—namely, Francesco Viola, Michel Villey, and Javier Hervada—to the main arguments regarding the nature of law advanced by the new classical natural law theory of law, more precisely, by the main proponent of this theory, John Finnis. While Viola’s arguments largely overlap with Finnis’s account of the nature of law, according to which all human law is necessarily posited, Villey and Hervada, in their direct or indirect dialogue with Finnis, ground their theories on the essence of law in phenomena or features such as the thingness of law and law’s radical dependence on the virtue of justice, which enable them to establish the existence of elements of real juridicity outside of the scope of humanly posited law. I argue that it is possible to unify these various Thomistic attempts to elucidate law’s nature within Aquinas’s broad idea of law, which necessarily includes (1) a reference to law’s thingness, (2) law’s conceptual dependence on the virtue of justice, (3) law’s essential reliance on the phenomena of legal norms (both natural and positive), and (4) the connection between the nature of law and human good.",
-      "authors": [
-        "Petar Popović"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1093/ajj/auag017",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Jurisprudence",
-      "journal_id": "J007",
-      "origin": "crossref",
-      "title": "The Responses to the New Classical Natural Law Theory of Law in Continental European Thomistic Legal Philosophy",
-      "url": "https://doi.org/10.1093/ajj/auag017"
-    },
-    {
-      "abstract": "Abstract This essay makes the case for an alternative approach to the interpretation of the European Convention of Human Rights, one rooted in the classical natural law tradition. The foundation of the alternative approach is a reconstruction of the jurisprudence of one of the European Court of Human Rights’ most heterodox judges, Sir Gerald Fitzmaurice, who was the United Kingdom’s nominated judge between 1974 and 1980. In his dissents, concurrences, and extrajudicial writings, I argue, are the conceptual and normative seeds from which a more promising approach to interpreting the Convention can be grown. My alternative approach does not represent a repudiation of the moral purpose or point of the Convention but is in keeping with one of the principal moral impetuses behind its creation: the desire to protect the most basic and fundamental human rights that are owed as a matter of justice to all persons. I also suggest this alternative method would, if adopted, deflate a great deal of the legal and political critique directed toward the Court.",
-      "authors": [
-        "Conor Casey"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1093/ajj/auag018",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Jurisprudence",
-      "journal_id": "J007",
-      "origin": "crossref",
-      "title": "The Sir Gerald Fitzmaurice Option: A Classical Natural Law Method for Interpreting the European Convention on Human Rights",
-      "url": "https://doi.org/10.1093/ajj/auag018"
-    },
-    {
-      "abstract": "Abstract The principle of sufficient reason (PSR) implies that everything has a sufficient reason. Yet its role in ethics has gone undertheorized. A stark historical exception is found in Christian Wolff, the most influential German philosopher between Leibniz and Kant. I argue that the PSR has indispensable non-normative and normative uses in ethics for Wolff—uses without which ethics would not be possible at all. In sketching these uses, I highlight how Wolff aspires to skirt two Humean challenges. The first concerns how the PSR, which concerns what is, can imply anything about what ought to be. The second concerns how the reasons established through the PSR can be morally motivating. Although hardly unproblematic or uncontroversial, Wolff’s discussion of the PSR in ethics offers both a welcome exception to centuries of undertheorizing and a potential challenge to opponents of the PSR.",
-      "authors": [
-        "Joe Stratmann"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1093/mind/fzag043",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Mind",
-      "journal_id": "J091",
-      "origin": "crossref",
-      "title": "The Principle of Sufficient Reason in Ethics: Lessons from Wolff",
-      "url": "https://doi.org/10.1093/mind/fzag043"
-    },
-    {
-      "abstract": "Understanding how voters use the left-right scale is essential, as it is not only related to vote choice but also underpins how political scientists study ideology. This article finds that the way voters use the left-right scale is variable. Using British Election Study Internet Panel data from 2014 to 2024, I find that while economic and cultural values are both related to left-right self-placement, this varies both between individuals and over time. Those on the left of the self-placement scale can best be differentiated from one another by the strength of their economic values. For those on the right, cultural values are more useful in separating between different self-placement levels. Over time, left-right self-placement has become increasingly related to cultural values alongside economic values, driven by movements by people on both sides of the left-right scale. These findings indicate that even within one country, the meanings of ‘left’ and ‘right’ vary.",
-      "authors": [
-        "Joelle Tasker"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1177/00323217261481637",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Political Studies",
-      "journal_id": "J032",
-      "origin": "crossref",
-      "title": "The changing meaning of left-right self-placement in the United Kingdom",
-      "url": "https://doi.org/10.1177/00323217261481637"
-    },
-    {
-      "abstract": "This article examines the tension between sociology and history as a methodological problem of reconciling general concepts with historical specificity. It assesses evolutionary theory as one influential attempt to address this challenge. Focusing on Neo-Darwinian social evolutionism, in particular on W. G. Runciman’s selectionist framework, the article argues that evolutionary theory does not establish the general causal mechanisms it claims to identify, but instead, provides a vocabulary for describing recurrent features of historical processes. The argument therefore proposes a reconceptualization of evolutionary theory as a Weberian ideal-typical framework whose value is heuristic, descriptive, and comparative rather than causal.",
-      "authors": [
-        "Eszter Pál"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1177/00483931261489617",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophy of the Social Sciences",
-      "journal_id": "J108",
-      "origin": "crossref",
-      "title": "History, Sociology, and Evolutionary Thinking: Epistemic Limits Reconsidered",
-      "url": "https://doi.org/10.1177/00483931261489617"
-    },
-    {
-      "abstract": "Abstract Most people have a need to regard their significant life choices as justified. More than that, they want to be able to give acceptable justificatory reasons to the people in their social milieu. In this paper, I argue that structural disadvantage can lock people into a situation in which they struggle to appeal to their best reasons. I start out with a paradigmatic example inspired by Jennifer Morton’s work on disadvantaged students aiming at upwards mobility and identify a struggle that has more than one cause but amounts to a distinctive experience: that you have objectively good reasons for a life choice, which, however, are not available to you because of your social position. I analyse this ‘unavailability’ of a reason with the help of existing literature on epistemic injustice, in particular hermeneutical injustice, and coin the new term ‘justificatory injustice’. While it can be described as epistemic injustice broadly conceived, justificatory injustice goes beyond epistemic access in a narrow sense and is entangled with features distinctive of practical justification taking place in a concrete social milieu. Justificatory injustice, I argue, can only be remedied in a more integrated justificatory community, which requires equality of condition, also in economic terms.",
-      "authors": [
-        "Gloria Mähringer"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1515/mopp-2025-0001",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Moral Philosophy and Politics",
-      "journal_id": "J041",
-      "origin": "crossref",
-      "title": "Justificatory Injustice: Epistemic Injustice in the Availability of Reasons",
-      "url": "https://doi.org/10.1515/mopp-2025-0001"
-    },
-    {
-      "abstract": "Abstract This article examines the viability of framing intergenerational power asymmetries in terms of sovereignty, particularly in non-overlapping contexts. It is divided into four parts. First, it surveys the different dimensions of sovereignty, focusing in particular on absoluteness, self-justification, and perpetuity. Second, it applies these dimensions to the concept of generation within constitutional theory. From the perspective of McTaggart’s A-series of time, this analysis shows that intermediate generations do not satisfy the criteria for sovereignty, thereby raising questions about the asymmetric distribution of power in relation to the founding generation. Third, the article adopts McTaggart’s B-series of time and examines fully constituent generations (such as the generation responsible for establishing the first historical constitution), concluding that the concept of sovereignty remains inapplicable. Finally, it considers the conceptual and normative implications of this conclusion. It examines the consequences of simply replacing sovereignty with related concepts (such as independence) in discussions of generations, as well as the possibility of reconciling sovereignty with limits on the power exercised by each generation. Such a reconciliation may draw on arguments from intergenerational justice and political liberalism, but ultimately depends primarily on an argument from cross-temporal popular sovereignty.",
-      "authors": [
-        "Andre Santos Campos"
-      ],
-      "date": "2026-09-16",
-      "doi": "10.1515/mopp-2025-0072",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Moral Philosophy and Politics",
-      "journal_id": "J041",
-      "origin": "crossref",
-      "title": "Decoupling Generational Sovereignty: The Cross-Temporal Role of the Sovereign People",
-      "url": "https://doi.org/10.1515/mopp-2025-0072"
-    },
     {
       "abstract": "Abstract As millions of Muslims worldwide turn to LLMs like GPT, Claude, and DeepSeek for religious guidance, a critical question emerges: Can these AI systems reliably reason about Islamic law? This paper introduces , the first multi-school benchmark for evaluating LLM performance across a broad range of Islamic jurisprudence ( fiqh ). Drawing from 37 foundational legal texts spanning 1,200 years and seven schools of jurisprudence, we create 718 evaluation instances across 13 tasks, manually collected and organized by complexity, from basic recall to sophisticated reasoning including legal rationale identification ( ‘illah ), analogical application ( qiyās ), and cross-school synthesis. Our evaluation of nine state-of-the-art LLMs reveals significant limitations. Even the best model achieves only 67.65% correctness with 21.25% hallucination; several models achieved correctness below 35% and hallucination exceeding 55%. Furthermore, few-shot prompting yields no consistent benefit; per-model changes range from -3.64 to +4.16 points, with gains concentrated in already-weak models, consistent with insufficient Islamic legal knowledge in current training data that prompting, under closed-book conditions, could not compensate for . Our analysis reveals why: moderate-complexity tasks (from a human expert’s perspective) requiring exact, verbatim knowledge (e.g., enumerating contract conditions, synthesizing statutory articles) show consistently high error rates and hallucination rates up to 73%, whereas high-complexity tasks show better performance because models rely on semantic generalization and verbose reasoning, projecting competence while lacking precise textual understanding. False premise detection reveals risky sycophantic behavior: under few-shot prompting, 5 of 9 models accept misleading assumptions at rates exceeding 40% (worst: 86.27%). Critically, few-shot prompting worsens sycophancy by 3.49 percentage points. The strong and statistically significant negative correlation (Pearson’s r = –0.91, n = 9, p < 0.01) between the false premise acceptance rate and overall performance indicates that models with higher false Islamic query acceptance rates tend to exhibit lower overall reasoning accuracy. Our findings carry important implications: the path forward for Islamic NLP lies not in lightweight post-hoc techniques such as prompt or instruction tuning but in enriching knowledge. The Islamic NLP community must prioritize training models on comprehensive, large-scale Islamic legal corpora that span classical Hadith collections, jurisprudential works from the major Islamic law schools ( madhabs ), and codified legal compendia.  provides the first systematic evaluation framework for Islamic legal AI systems, revealing critical limitations in platforms that Muslims increasingly rely on for spiritual guidance.",
       "authors": [
@@ -13475,6 +13277,20 @@
       "url": "https://doi.org/10.1007/s43681-026-01449-w"
     },
     {
+      "abstract": "",
+      "authors": [
+        "Georg Mein"
+      ],
+      "date": "2026-10-29",
+      "doi": "10.1007/s43681-026-01461-0",
+      "first_seen_jst": "2026-11-01",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "From principles to operations: a grammar of digital-ethical constellations",
+      "url": "https://doi.org/10.1007/s43681-026-01461-0"
+    },
+    {
       "abstract": "Abstract Research on large language model failure predominantly assesses models in single exchanges and isolation: a prompted model, a scored output, and a reported error rate. The focus on single exchanges and isolation belies these current models’ professional use. Clinicians, attorneys, analysts, educators, and researchers work across extended sessions, and each output becomes the context for the next, while the final product carries a human signature. A test that scores a single response most likely will not reveal the behaviors that emerge under those conditions. This paper describes seven candidate failure patterns identified in exploratory, single-author observation of extended sessions on three commercial AI platforms: recognition without correction, compounding rather than isolation of errors, halo effect from real anchors, unreliable self-explanation, degradation across long sessions, exculpatory framing under confrontation, and sycophancy and confirmation bias amplification. Several are consistent with findings already established in the machine learning literature. Overall, the patterns describe a systemic failure profile that lower hallucination rates do not address because the concern lies in how the system handles errors once they exist. The systemic failure profile carries significant ethical consequences and concerns, since failures cascade to final approval; the duty to verify applies to any domain where a person approves LLM output.",
       "authors": [
         "Hector Ramos"
@@ -13867,6 +13683,21 @@
       "url": "https://doi.org/10.1093/icon/moag109"
     },
     {
+      "abstract": "Abstract From 2020 to 2024, the European Centre for Law and Justice (ECLJ), a conservative NGO backed by US evangelical Christians, secured certain procedural reforms to the practices of the European Court of Human Rights. The rules and guidance governing the recusal of judges were elaborated, and third-party intervention was made more transparent. These reforms were intended to constrain judicial discretion and possibly limit the liberal human rights community’s influence over the Court’s substantive jurisprudence and the Council of Europe’s (CoE) policies toward its member states and the public at large. Given the liberals’ predominance in strategic supranational litigation and their institutional incumbency, this is a puzzling outcome. The challenge to Strasbourg’s democratic legitimacy took place in the teeth of a tightly closed political opportunity structure for conservative Christians. Relying on process tracing and abductive inference to the best explanation known, within an actor-centered institutionalist framework, we show how the ECLJ, acting as a norm entrepreneur, controverted certain possible conflicts of interest involving named judges and prominent liberal NGOs and their private donors. In the process, it mobilized conservative member state governments and delegates to national and supranational parliaments to prevail on the CoE committee system (comitology) and the Court to undertake limited reforms. These concessions demonstrate the potential of a new elite transnational network of ­conservative Christians to challenge Strasbourg’s incumbents against a political background of rising populism.",
+      "authors": [
+        "Cristina E Parau",
+        "Gaëtan Cliquennois"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1093/icon/moag113",
+      "first_seen_jst": "2026-11-01",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
+      "origin": "crossref",
+      "title": "Disrupting Strasbourg: Conservative Christian challengers\n                    versus\n                    liberal incumbents",
+      "url": "https://doi.org/10.1093/icon/moag113"
+    },
+    {
       "abstract": "Abstract How is progress in the academic discipline of ethics related to improvements in people’s ethical thoughts and behaviors? We propose that there is disciplinary ethical progress on some phenomenon to the extent that the discipline puts people in a position to increase their understanding of that phenomenon. Even though progress, thus construed, does not guarantee improved thoughts and behaviors, progressive ethical theorizing nonetheless enables these improvements. Our account thus has the resources with which to substantiate and shed light on concerns that academic work in ethics is too isolated, obtuse, or trivial.",
       "authors": [
         "James Norton",
@@ -13923,6 +13754,20 @@
       "origin": "crossref",
       "title": "The View From the Centre: Recovering Nagel's Objective Self",
       "url": "https://doi.org/10.1111/phib.70026"
+    },
+    {
+      "abstract": "ABSTRACT ‘Propositions’ are or include truths and falsehoods—potential points of agreement and disagreement. On the question of when it's a case of different propositions, or instead a case of the same proposition differently expressed, conflicting philosophical positions are canvassed and a Fregean conclusion drawn.",
+      "authors": [
+        "D. Goldstick"
+      ],
+      "date": "2026-10-30",
+      "doi": "10.1111/theo.70131",
+      "first_seen_jst": "2026-11-01",
+      "journal": "Theoria",
+      "journal_id": "J094",
+      "origin": "crossref",
+      "title": "Distinct Propositions/Same Proposition",
+      "url": "https://doi.org/10.1111/theo.70131"
     },
     {
       "abstract": "In this virtual roundtable, scholars Victoria Hesford, Vivian Huang, Michael Hardt, and Natasha Zaretsky discuss Ramzi Fawaz's Queer Forms (New York University Press 2002).",
@@ -14023,9 +13868,54 @@
       "origin": "crossref",
       "title": "Refuting the Arbitrary Cutoff Objection to Moderate Deontology",
       "url": "https://doi.org/10.26556/jesp.v31i6.6272"
+    },
+    {
+      "abstract": "Abstract Across societies and over time, the social control of objects deemed “dangerous”—i.e., as threats to public order, morality, or physical and psychological well-being—varies, from regulation to prohibition, with implications for responsibility, potential harm, and affected communities. Drawing on U.S. Congressional hearings on the issue of cannabis regulation and prohibition (1906–1951), we examine how shifts in social control track changing configurations of discursive institutional work. Our work demonstrates how configurations of rationalization, moralization, and syncretization shaped the meaning of cannabis as a dangerous object: rationalization calculates the risk, supporting calibrated regulation; moralization absolutizes the danger, promoting prohibition; and syncretization balances these two. We refer to this reciprocal dynamic as an epistemic ratchet, whereby rationalization and moralization each weaken the epistemic foundations of the alternative regime, making movement between regulation and prohibition difficult in either direction. Our study makes three contributions: (a) it extends the organizing-of-risk account of how danger is rendered governable to the form and reversibility of control; (b) it adds to research on discursive institutional work by identifying epistemology, complexity, and responsibility as the object-level qualities through which discourse becomes consequential for governance; and (c) it contributes to debates on responsibility, ethics, and harm by showing how the discursive redistribution of responsibility shapes the scope and coerciveness of control.",
+      "authors": [
+        "Eva Schlindwein",
+        "Thomas B. Lawrence",
+        "Claudio Biscaro",
+        "Markus A. Höllerer"
+      ],
+      "date": "2026-10-31",
+      "doi": "10.1007/s10551-026-06502-6",
+      "first_seen_jst": "2026-11-01",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Discursive Institutional Work and the Social Control of Dangerous Objects",
+      "url": "https://doi.org/10.1007/s10551-026-06502-6"
+    },
+    {
+      "abstract": "Private rights have returned to play a central role in public law. In the last few years alone, courts have invoked private rights to elaborate the elements of Article III standing, interpret the scope of 42 U.S.C. § 1983’s cause of action, articulate the limits of the administrative state, and give meaning to enumerated constitutional rights. But unlike private law—which has confronted a similar fall and rise of private rights with wide-ranging discussion over their meaning—public law has not been subjected to a fulsome debate about what exactly private rights are. Both proponents and critics of the return of a private rights model of public law adjudication share a basic understanding of private rights rooted in William Blackstone’s eighteenthcentury writings. But Blackstone’s view fails to capture the full significance of private rights in the common law. Overemphasizing it muddles the stakes of the return of private rights in public law.\n\nThis Article articulates the historical and doctrinal limits of the default Blackstonian view of private rights. Blackstone’s conception of private rights was based on an underlying view of liberty as noninterference that was controversial even when he was writing in the 1760s. Instead, the dominant view of liberty in the common law at the time was the republican view of liberty as independence. That view of liberty supported a distinct republican conception of private rights, which has coexisted in the common law tradition alongside the Blackstonian conception.\n\nAfter outlining the oft-elided republican conception of private rights and tracing its influence on legal discourse, rhetoric, and case law, this Article illustrates its possible implications for public law doctrine. Recognizing the distinction between these two conceptions of private rights casts new light on Article III standing, damages, Section 1983, and adjudication outside Article III courts. This distinction also provides a corrective to the scholarly debates over private and public rights: Just as it is a mistake to suppose there was a single unified historical conception of private rights, it is also a mistake to dismiss private rights altogether as inherently confused or obfuscatory.",
+      "authors": [
+        "J. Bradley"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.36644/mlr125.2.private",
+      "first_seen_jst": "2026-11-01",
+      "journal": "Michigan Law Review",
+      "journal_id": "J119",
+      "origin": "crossref",
+      "title": "“Private Rights” in Public Law",
+      "url": "https://doi.org/10.36644/mlr125.2.private"
+    },
+    {
+      "abstract": "Federalism has long been celebrated for its ability to foster policy innovation, transforming states into “laboratories of democracy.” Yet, federalism discourse has largely neglected Indian tribes, the third sovereign in the American constitutional order. Tribes regularly implement novel policies. However, tribal policy innovation is hindered by uncertainty over whether tribes or states govern Indian country activities.\n\nThe most influential framework for determining the scope of tribal versus state regulatory power in Indian country is derived from the Supreme Court’s opinion in California v. Cabazon Band of Mission Indians—the case that launched Indian gaming. Cabazon held that tribes cannot permit an activity if the surrounding state prohibits it, but they can permit an activity if the surrounding state regulates it. For example, tribes in California can authorize gaming because California regulates it. However, Utah’s gaming ban prevents tribes within its borders from permitting casinos. The distinction between regulatory and prohibitory is often ambiguous; thus, state specificity invites endless litigation that stifles tribal policy experimentation.\n\nTo remedy this uncertainty and fully integrate tribes into the federal system, this Article proposes a “Cabazon-plus” paradigm. Under Cabazon-plus, if any state regulates an activity, all tribes would have exclusive regulatory authority over that activity. This paradigm provides the jurisdictional certainty vital for tribal self-determination and policy innovation. Furthermore, this Article argues Cabazon-plus will ignite tribal economies and benefit state economies, validating tribal sovereignty as a feature—not a bug—of a dynamic federal system.",
+      "authors": [
+        "Adam Crepelle"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.36644/mlr125.2.tribal",
+      "first_seen_jst": "2026-11-01",
+      "journal": "Michigan Law Review",
+      "journal_id": "J119",
+      "origin": "crossref",
+      "title": "Tribal Federalism: Expanding the Indian Gaming Paradigm",
+      "url": "https://doi.org/10.36644/mlr125.2.tribal"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-10-31",
-  "window_start": "2026-09-16"
+  "window_end": "2026-11-01",
+  "window_start": "2026-09-17"
 }

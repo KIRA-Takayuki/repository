@@ -1,272 +1,6 @@
 {
-  "collected_on": "2026-11-01",
+  "collected_on": "2026-11-02",
   "items": [
-    {
-      "abstract": "Abstract As millions of Muslims worldwide turn to LLMs like GPT, Claude, and DeepSeek for religious guidance, a critical question emerges: Can these AI systems reliably reason about Islamic law? This paper introduces , the first multi-school benchmark for evaluating LLM performance across a broad range of Islamic jurisprudence ( fiqh ). Drawing from 37 foundational legal texts spanning 1,200 years and seven schools of jurisprudence, we create 718 evaluation instances across 13 tasks, manually collected and organized by complexity, from basic recall to sophisticated reasoning including legal rationale identification ( ‘illah ), analogical application ( qiyās ), and cross-school synthesis. Our evaluation of nine state-of-the-art LLMs reveals significant limitations. Even the best model achieves only 67.65% correctness with 21.25% hallucination; several models achieved correctness below 35% and hallucination exceeding 55%. Furthermore, few-shot prompting yields no consistent benefit; per-model changes range from -3.64 to +4.16 points, with gains concentrated in already-weak models, consistent with insufficient Islamic legal knowledge in current training data that prompting, under closed-book conditions, could not compensate for . Our analysis reveals why: moderate-complexity tasks (from a human expert’s perspective) requiring exact, verbatim knowledge (e.g., enumerating contract conditions, synthesizing statutory articles) show consistently high error rates and hallucination rates up to 73%, whereas high-complexity tasks show better performance because models rely on semantic generalization and verbose reasoning, projecting competence while lacking precise textual understanding. False premise detection reveals risky sycophantic behavior: under few-shot prompting, 5 of 9 models accept misleading assumptions at rates exceeding 40% (worst: 86.27%). Critically, few-shot prompting worsens sycophancy by 3.49 percentage points. The strong and statistically significant negative correlation (Pearson’s r = –0.91, n = 9, p < 0.01) between the false premise acceptance rate and overall performance indicates that models with higher false Islamic query acceptance rates tend to exhibit lower overall reasoning accuracy. Our findings carry important implications: the path forward for Islamic NLP lies not in lightweight post-hoc techniques such as prompt or instruction tuning but in enriching knowledge. The Islamic NLP community must prioritize training models on comprehensive, large-scale Islamic legal corpora that span classical Hadith collections, jurisprudential works from the major Islamic law schools ( madhabs ), and codified legal compendia.  provides the first systematic evaluation framework for Islamic legal AI systems, revealing critical limitations in platforms that Muslims increasingly rely on for spiritual guidance.",
-      "authors": [
-        "Ezieddin Elmahjub",
-        "Junaid Qadir",
-        "Abdullah Mushtaq",
-        "Rafay Naeem",
-        "Ibrahim Ghaznavi",
-        "Waleed Iqbal"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s10506-026-09535-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Artificial Intelligence and Law",
-      "journal_id": "J022",
-      "origin": "crossref",
-      "title": "IslamicLegalBench: Evaluating LLMs knowledge and reasoning of islamic law across 1,200 years of Islamic pluralist legal traditions",
-      "url": "https://doi.org/10.1007/s10506-026-09535-4"
-    },
-    {
-      "abstract": "Abstract The interlinked climate and ecological crises have profound implications for future human success. Temperatures are set to rise by 3–4 0 C by the end of the century and there is already a sixty-nine per cent global average biodiversity abundance loss since 1970. Most of our business and management literature continues to rely on traditional, anthropocentric, leadership and strategy theories as a route to change without considering the embedded, systemic, heterogeneous, and future-orientated nature of the problem. Given this multifaceted grand challenge, and the compounding lack of adequate business and management theoretical foundations for such research investigations, we propose six strategic leadership types (and their underpinning values and capabilities) that help to differentiate leadership for the complex climate and ecological crises we face. The leadership types, greenwash, resilience, eco-innovation, ecocentric visionary (sustainability), degrowth and regenerative leadership, are calibrated against known ontological and strategic perspectives, which provide plurality and fluidity of thought, allowing connection between the natural and social sciences, to aid understanding of research towards sustainability and climate change. We reframe the leadership literature by locating our theoretical contribution within environmental ethics, linking our understanding of the natural world, human ethics, and related business ethics, identifying regenerative leadership as the most ethical and most promising type.",
-      "authors": [
-        "Helen Borland",
-        "Véronique Ambrosini",
-        "Michael Butler"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s10551-026-06382-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Theoretical Foundations for a Sustainability and Climate Change Strategic Leadership Typology: Towards Regenerative Leadership",
-      "url": "https://doi.org/10.1007/s10551-026-06382-w"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Hui Lin",
-        "Haiyan Jiang",
-        "Gary Tian",
-        "Jiaxing You"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s10551-026-06469-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "When Oversight Falters: Ethical Opportunism and Corporate Tax Avoidance under Governance Failure",
-      "url": "https://doi.org/10.1007/s10551-026-06469-4"
-    },
-    {
-      "abstract": "Abstract To foster trustworthy Artificial Intelligence (AI) within the European Union, the AI Act requires providers to mark and detect the outputs of their general-purpose models. The Article 50 and Recital 133 call for marking methods that are \"sufficiently reliable, interoperable, effective and robust\". Yet, the rapidly evolving and heterogeneous landscape of watermarks for Large Language Models (LLMs) makes it difficult to determine how these four standards can be translated into concrete and measurable evaluations. Our paper addresses this challenge, anchoring the normativity of European requirements in the multiplicity of watermarking techniques. Introducing clear and distinct concepts on LLM watermarking, our contribution is threefold: (i) Watermarking Categorisation: We propose an accessible taxonomy of watermarking methods according to the stage of the LLM lifecycle at which they are applied — before, during, or after training, and during next-token distribution or sampling. (ii) Watermarking Evaluation: We interpret the EU AI Act’s requirements by mapping each criterion with state-of-the-art evaluations on robustness and detectability of the watermark, and of quality of the LLM. Since interoperability remains largely untheorised in LLM watermarking research, we propose three normative dimensions to frame its assessment. (iii) Watermarking Comparison: We compare current watermarking methods for LLMs against the operationalised European criteria and show that no approach yet satisfies all four standards. Encouraged by emerging empirical tests, we recommend further research into watermarking directly embedded within the low-level architecture of LLMs.",
-      "authors": [
-        "Thomas Souverain"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s10676-026-09918-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ethics and Information Technology",
-      "journal_id": "J064",
-      "origin": "crossref",
-      "title": "Watermarking large language models in Europe: interpreting the AI act in light of technology",
-      "url": "https://doi.org/10.1007/s10676-026-09918-w"
-    },
-    {
-      "abstract": "Abstract This article examines the protests of blueberry workers in Peru in 2020 against an agrarian labour regime that legalizes precarious labour conditions, as well as the aftermath of that mobilization. It investigates whether the legal change demanded and achieved can be categorized as resistance, understood as oppositional acts seeking rupture with the system, or as its opposite, accommodation, meaning reformist acts of opposition, acceptance and co-option. The analysis of the workers' mobilization in Peru tells a straightforward story about the function of law in constituting the rules of agrarian capitalism by distributing resources, such as land, into the hands of a few and legitimating unequal bargaining power to the detriment of workers. The findings suggest that the workers' protest constituted an act of accommodation: while it aimed to improve working conditions, it did not seek to overcome the underlying features and dynamics of the agrarian economic model that led to the entrenchment of precarity, unfreedom, and low levels of unionisation. While the mobilization did achieve legal change, its aftermath indicates that workers' actions were accommodating because they reinforced dynamics of co-option that curtail their capacity to organize and engage with projects of rupture.",
-      "authors": [
-        "Natalia Torres Zúñiga"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s10978-026-09439-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Critique",
-      "journal_id": "J012",
-      "origin": "crossref",
-      "title": "Blueberry Workers, Legal Change, Resistance, and Accommodation in the Coastal North of Peru",
-      "url": "https://doi.org/10.1007/s10978-026-09439-x"
-    },
-    {
-      "abstract": "Abstract This article describes and diagnoses a major shift in the modalities, uses and legal forms of the international role of the US dollar. Drawing from the work of Ranajit Guha, we argue that the balance between coercion and persuasion has shifted in comparison to the neoliberal era of dollar hegemony (early 1980s to early 2010s) and that this shift has reshaped the legal forms through which the currency power of the USA is articulated. Starting from the position that hegemony does not preclude the existence of coercion, we show that during the neoliberal era dollar hegemony enjoyed the consent of ruling classes around the world. Even when it was used to further geopolitical goals of the US, the US used international institutions, international law-making and co-operation amongst legal authorities in order to socialise its views and interests amongst political and legal elites. In contrast, the Trump administration exacerbated an already unfolding trend of openly coercive usages of currency power and the concomitant adoption of unilateral, highly visible executive or legislative action as the predominant legal forms through which the international role of the dollar is sustained and mobilised. We describe this shift as a transition from dollar hegemony to dollar dominance and argue that it has triggered less visible but equally consequential efforts by other states to hedge, rather than outright abandon, the dollar as the dominant currency of global capitalism.",
-      "authors": [
-        "Ntina Tzouvala",
-        "Jessica Whyte"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s10978-026-09444-0",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Critique",
-      "journal_id": "J012",
-      "origin": "crossref",
-      "title": "From Dollar Hegemony to Dollar Dominance",
-      "url": "https://doi.org/10.1007/s10978-026-09444-0"
-    },
-    {
-      "abstract": "Abstract A growing chorus of AI researchers and philosophers posit internal representations in large language models (LLMs). But how do these representations relate to the kinds of mental states we routinely ascribe to our fellow humans? While some research has focused on belief- or knowledge-like states in LLMs, there has been comparatively little focus on the question of whether LLMs have intentions . I survey five properties that have been associated with intentions in the philosophical literature, and assess two candidate classes of LLM representations against this set of features. The result is mixed: current evidence suggests that LLMs have representations that are intention-like in many—perhaps surprising—respects, but they differ from human intentions in important ways. Deciding whether to classify these representations as intentions will require careful consideration of the costs and pay-offs of extending the concept beyond the paradigm human case.",
-      "authors": [
-        "Iwan Williams"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s11098-026-02605-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "Intention-like representations in language models?",
-      "url": "https://doi.org/10.1007/s11098-026-02605-y"
-    },
-    {
-      "abstract": "Abstract The Continuity axiom implies that no catastrophe is so bad that one should not be willing to accept a gamble that might result in that catastrophe, as long as the gamble is sufficiently likely to instead result in some improvement on one’s status quo. The axiom is implied by most normative decision theories, including risk averse alternatives to expected utility theory. We argue that Continuity should be abandoned when evaluating policy options where (a) there is sufficient uncertainty about the correct probabilities, and (b) some options could be catastrophic. However, unlike Bartha and DesRoches (2021) and Steel and Bartha (2023), we argue that there are examples of policy evaluation where, although the outcome could be catastrophic, the relevant probabilities are sufficiently well-grounded such that Continuity should be satisfied.",
-      "authors": [
-        "Joe Roussos",
-        "H. Orri Stefánsson"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s11098-026-02610-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "Continuity, catastrophic risk, and severe uncertainty",
-      "url": "https://doi.org/10.1007/s11098-026-02610-1"
-    },
-    {
-      "abstract": "Abstract While logical expressivism and logical conventionalism share many commitments, the most prominent versions of these positions diverge in the kind of logical inferentialism they endorse. Jared Warren’s logical conventionalism adopts a form of unrestricted inferentialism, whereas logical expressivism naturally supports restricted inferentialism. This contrast is most evident in their respective treatments of the ‘tonk’ problem. This paper develops an expressivist defense of restricted inferentialism in light of Warren’s recent arguments for unrestricted inferentialism. I argue that the restricted inferentialist can accept Warren’s ‘Translation Mistake’ diagnosis of Unilateralist Tonklish, given that it interprets the addition of ‘tonk’ as yielding a semantically conservative extension of the original language. In the case of Bilateralist Tonklish, I argue that the restricted inferentialist can accept Warren’s verdict that it is a meaningless language because it is unfollowable, but that this unfollowability, in turn, is to be given a principled explanation in terms of constraints on inference rules. I contend that Warren’s discussion of ‘tonk’ reinforces the idea that logical connectives must play the expressive role that logical expressivists attribute to them, and that this role motivates restricted inferentialism.",
-      "authors": [
-        "Sybren Heyndels"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s11245-026-10477-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "Logic as Elaboration, not Pure Convention",
-      "url": "https://doi.org/10.1007/s11245-026-10477-4"
-    },
-    {
-      "abstract": "Abstract Conceptual disruption is typically theorised as a consequence of technological innovation: a new artefact or practice unsettles an entrenched category, and a conceptual gap, overlap, or misalignment results. This paper argues that disruption also occurs when conceptual schemes collide, that is, when concepts travel across geopolitical boundaries and moral frameworks. It introduces Intercultural Conceptual Disruption (ICD) to theorise this second source of disruption. By using the example of the concept of PRIVACY in the African relational ontology of Ubuntu, the paper illustrates that conceptual disruption is not uniform across contexts. What counts as severe in one conceptual scheme may be mild or unremarkable in another, depending on the flexibility of that scheme and its ontological commitments, and the movement of concepts is shaped by asymmetries of epistemic and political power rather than by conceptual need alone. ICD is articulated as three interlinked processes: (1) identifying the type, level, and severity of disruption within a given conceptual scheme; (2) decentering dominant frameworks by addressing the epistemic injustices that privilege some conceptual resources over others; and (3) decolonising concepts that carry undue colonial influence in postcolonial contexts.",
-      "authors": [
-        "Kristy Claassen"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s11948-026-00624-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science and Engineering Ethics",
-      "journal_id": "J072",
-      "origin": "crossref",
-      "title": "Decentering Disruption: Toward a Framework for Intercultural Conceptual Disruption",
-      "url": "https://doi.org/10.1007/s11948-026-00624-w"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Lya Bulov",
-        "Dmitriy Zhukov"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1007/s12136-026-00707-0",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Acta Analytica",
-      "journal_id": "J099",
-      "origin": "crossref",
-      "title": "Can Normativity Be Fictional?",
-      "url": "https://doi.org/10.1007/s12136-026-00707-0"
-    },
-    {
-      "abstract": "Abstract This article advances a doctrinal reinterpretation of the social dimension of the 1951 Convention Relating to the Status of Refugees. It challenges the assumption that bilateral social security coordination mechanisms operate as neutral instruments of transnational administration, arguing that, in situations of forced migration, they may instead function as structural barriers to the effective enjoyment of refugee rights. It argues that Articles 24 and 25 of the Refugee Convention require host states to ensure effective access to social security through functional substitution. The article concludes that refugee protection requires protection-sensitive social security coordination consistent with international and European legal obligations.",
-      "authors": [
-        "Anna Maria Siwierska"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1017/cel.2026.10036",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Cambridge Yearbook of European Legal Studies",
-      "journal_id": "J014",
-      "origin": "crossref",
-      "title": "The Social Dimension of the 1951 Refugee Convention: Balancing International Protection and Social Security Coordination in Central and Eastern Europe",
-      "url": "https://doi.org/10.1017/cel.2026.10036"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sara Toffanin"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1017/hyp.2026.10103",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Hypatia",
-      "journal_id": "J075",
-      "origin": "crossref",
-      "title": "Intimate Borders: Feminist Migration Ethics by Amy Reed-Sandoval (Oxford: Oxford University Press, 2025), pp. 1–180, £22.99, ISBN: 9781478026235",
-      "url": "https://doi.org/10.1017/hyp.2026.10103"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Roman Zinigrad"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1093/icon/moag105",
-      "first_seen_jst": "2026-10-21",
-      "journal": "International Journal of Constitutional Law",
-      "journal_id": "J124",
-      "origin": "crossref",
-      "title": "Astrid von Busekist.\n                    Religion on Trial: An Essay on Deliberalism",
-      "url": "https://doi.org/10.1093/icon/moag105"
-    },
-    {
-      "abstract": "Abstract Wang Yangming 王陽明 (1472–1529) has provoked controversy from his day to our own with his teachings about varieties of knowing ( zhi 知). A notable dimension of Wang's theoretical philosophy is his repeated insistence that the inherent reality of both the heartmind itself, and of knowing, is deeply affective in nature. While scholars have often noted Wang's emphasis on affect, we argue that affect is more fundamental to his view than previous interpretations have generally recognized. We develop an affect‐first interpretation of Wang's view of knowing in three steps. First, we show how joy, sorrow, and stillness jointly characterize the inherent reality of the heartmind. Second, we argue that the affective nature of our heartminds was important to Wang for two reasons, namely that it explains how the heartmind can be self‐sustaining and self‐correcting. Finally, we make explicit how Wang's innovative notion of good knowing ( liangzhi 良知) relates to the heartmind's affective inherent reality and fits together with other varieties of knowing. On our account, liangzhi is the heartmind's inherent reality as viewed through the lens of its responsiveness to the myriad things in the world. We argue that Wang's concepts of “extended knowing” or “genuine knowing”—which are the same thing—are nothing more than pure episodes of liangzhi. Taken as a whole, Wang's account of the heartmind's ways of knowing is consistent and distinctive, notable both for its influence within Neo‐Confucianism and its potential to catalyze new lines of thinking today.",
-      "authors": [
-        "Stephen C. Angle",
-        "Chi‐keung Chan"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1111/ejop.70122",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Journal of Philosophy",
-      "journal_id": "J102",
-      "origin": "crossref",
-      "title": "Affective Knowing in Wang Yangming",
-      "url": "https://doi.org/10.1111/ejop.70122"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "ELEANOR PETERS"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1111/jols.70080",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Law and Society",
-      "journal_id": "J018",
-      "origin": "crossref",
-      "title": "Law and Justice in Song: Murder Ballads and Popular Music\n                    By DanielNewman, London: Routledge, 2026, 310 pp., £171.99",
-      "url": "https://doi.org/10.1111/jols.70080"
-    },
-    {
-      "abstract": "Normative political theorists typically view displacement as a phenomenon that entails forced movement. In this article, I challenge this orthodoxy by arguing that displacement is fundamentally a loss of one's place and/or home that may occur either with or without such movement. After developing a series of conditions to explain when place-based changes precipitate ‘displacement without movement’, I contend that there are at least two key theoretical, ethical and political advantages to introducing this notion into normative political theory. First, the notion allows us to identify a common condition that unites the experiences of those who lose their place and/or home through forced movement and those who lose it in their habitual locations. Second, recognising this common condition may serve as a pathway to much-needed forms of solidarity among not only these two groups, but also non-displaced populations. I then discuss how the idea of displacement without movement may dilute the normative status that is often ascribed to displacement, while arguing that this implication is not problematic for my account. I conclude that displacement without movement should be viewed as a pressing global harm which deserves far greater attention by normative political theorists.",
-      "authors": [
-        "James Souter"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.1177/14748851261477196",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Journal of Political Theory",
-      "journal_id": "J034",
-      "origin": "crossref",
-      "title": "When home isn’t home anymore: Towards a political theory of displacement without movement",
-      "url": "https://doi.org/10.1177/14748851261477196"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sophie Gibert"
-      ],
-      "date": "2026-09-17",
-      "doi": "10.16995/fe.25684",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Free &amp; Equal: A Journal of Ethics and Public Affairs",
-      "journal_id": "J028",
-      "origin": "crossref",
-      "title": "Manipulation and the Demands of Agency",
-      "url": "https://doi.org/10.16995/fe.25684"
-    },
     {
       "abstract": "ABSTRACT Longtermists assign great moral importance to making the long‐term future as good as possible, especially by ensuring the survival of humanity. We argue, to the contrary, that on assumptions that are plausible, conservative, or shared by leading longtermists, human extinction will likely augment total utility among human and non‐human animals on Earth. The reason for this surprising conclusion is that our extinction would increase the number of sentient non‐human animals, which in turn would dramatically increase total utility. Possible responses by longtermists leave them with a difficult quadrilemma. They must either (a) welcome human extinction; or (b) welcome the extinction of most non‐human animals; or (c) tolerate continued human existence and related animal suffering as mere means to ushering in high‐tech transformations of the animal kingdom, space colonization, or digital sentience – relatively esoteric, unpopular, and speculative parts of longtermism; or (d) reject key tenets of longtermism like anti‐speciesism or the equal evaluation of making beings happy and of making happy beings. Embracing any horn of this quadrilemma would cut deep into longtermists' current commitments and/or dash central longtermists' hopes of popular appeal.",
       "authors": [
@@ -5482,20 +5216,6 @@
       "url": "https://doi.org/10.1007/s10790-026-10118-4"
     },
     {
-      "abstract": "Abstract Moral agents often act under conditions of informational asymmetry: while they may know that their actions are permissible, observers may lack the information needed to reach the same conclusion. This paper explores the ethical significance of such asymmetries. Drawing inspiration from Signalling Theory, I introduce the concept of normative signalling : the idea that agents have moral reasons to choose actions that not only are permissible but also appear unambiguously so to others. I argue that morally ambiguous actions can generate anxiety and undermine trust, allow or demand harmful and unnecessary interventions, and undermine moral education. By analysing a range of cases, I show that reducing moral ambiguity through normative signalling can be a matter of moral responsibility. Further, I show that the strength and scope of this responsibility—like other moral responsibilities for example to be beneficent or kind—is dependent on context, sensitive to costs and so lies on a spectrum from the supererogatory to the morally obligatory. Highlighting the informational value of ethical action, I demonstrate that, in a world where our actions are not—and never can be—completely transparent to others, ethics is fundamentally incomplete if it fails to take into account how our actions play the role of evidence of our moral commitments rather than the mere fulfilment of them. It is therefore of moral importance that not only are our actions permissible but that they are seen to be permissible.",
-      "authors": [
-        "Claire Benn"
-      ],
-      "date": "2026-10-01",
-      "doi": "10.1007/s10892-026-09576-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Ethics",
-      "journal_id": "J055",
-      "origin": "crossref",
-      "title": "Signalling and Moral Ambiguity",
-      "url": "https://doi.org/10.1007/s10892-026-09576-6"
-    },
-    {
       "abstract": "",
       "authors": [
         "Nicholas Dunn"
@@ -5522,20 +5242,6 @@
       "origin": "crossref",
       "title": "Philosophical Pessimism and the Heterogeneity of Suffering",
       "url": "https://doi.org/10.1007/s10892-026-09579-3"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Azret Ponezhev"
-      ],
-      "date": "2026-10-01",
-      "doi": "10.1007/s10892-026-09584-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Ethics",
-      "journal_id": "J055",
-      "origin": "crossref",
-      "title": "Stability for the Right Reasons Beyond Liberalism: Rawls and Kazanistan",
-      "url": "https://doi.org/10.1007/s10892-026-09584-6"
     },
     {
       "abstract": "",
@@ -8279,20 +7985,6 @@
       "origin": "crossref",
       "title": "Deep Learning Discovery Algorithms in High-Energy Physics and the Conflict Between Model-Independence and Robustness",
       "url": "https://doi.org/10.1007/s10670-026-01179-9"
-    },
-    {
-      "abstract": "Abstract The ‘Now What?’ Problem for error theorists concerns what we should do with moral discourse, if it transpires to be systematically untrue. The recommendation that we abolish moral discourse (abolitionism) is often attacked on the basis that it sacrifices the useful functions morality performs. One such function is morality’s use as an intrapersonal commitment-device – it (supposedly) bolsters self-control and prevents us from frustrating our future goals, despite our momentary temptations to do so. Abolitionists attack this argument by claiming that error theorists lack the means to preserve moral judgements as a commitment-device, arguing that (for example) whatever attitudes error theorists could have towards moral claims, they could not be robust enough to inspire the required motivational change (to sustain a commitment-device). Few abolitionists, however, have considered the range of effective amoral commitment-devices at their disposal. In fact, there are good reasons to suspect that these might be as effective as, if not more effective than, moral commitment-devices. If this is true, it demonstrates that preservationists have seriously overestimated the indispensability of moral judgements as commitment-devices.",
-      "authors": [
-        "Ethan Moore"
-      ],
-      "date": "2026-10-09",
-      "doi": "10.1007/s10892-026-09580-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Ethics",
-      "journal_id": "J055",
-      "origin": "crossref",
-      "title": "Why Error Theorists Don’t Need Moral Commitment-Devices",
-      "url": "https://doi.org/10.1007/s10892-026-09580-w"
     },
     {
       "abstract": "",
@@ -13887,6 +13579,576 @@
       "url": "https://doi.org/10.1007/s10551-026-06502-6"
     },
     {
+      "abstract": "",
+      "authors": [
+        "Daniel M. Phoenix",
+        "Alexandra Bejarano",
+        "Deborah Mower",
+        "Qin Zhu"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1007/s10676-026-09933-x",
+      "first_seen_jst": "2026-11-02",
+      "journal": "Ethics and Information Technology",
+      "journal_id": "J064",
+      "origin": "crossref",
+      "title": "When human narratives meet artificial intelligence: exploring a framework for AI ethics",
+      "url": "https://doi.org/10.1007/s10676-026-09933-x"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Bilal Irfan",
+        "Julpohng Vilai",
+        "J. Wesley Boyd"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2740439",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Both/And: Advocacy and Evidence-Based Analysis Are Not Mutually Exclusive for Experts in Asylum Cases",
+      "url": "https://doi.org/10.1080/15265161.2026.2740439"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Anika Heuberger",
+        "Lauren B. Solberg"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2740440",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Documenting Immigration Status in Routine Pediatric Care: An Ethical Framework",
+      "url": "https://doi.org/10.1080/15265161.2026.2740440"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Meaghann S. Weaver",
+        "Maureen Kelley"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2740442",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Fixing the Fulcrum of Care: Centering the Child in Pediatric Asylum Evaluations",
+      "url": "https://doi.org/10.1080/15265161.2026.2740442"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Brian Tuohy",
+        "Amanda Telfer",
+        "Olivia Gong",
+        "Francesca Rossi",
+        "Reece Gorrie"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2740444",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "The Right Not to Be Rewritten: Epistemic Mediation in Pediatric Asylum Evaluations",
+      "url": "https://doi.org/10.1080/15265161.2026.2740444"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Adam Braddock",
+        "Janine Young"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2740450",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Access and Equity in Pediatric Forensic Asylum Evaluations",
+      "url": "https://doi.org/10.1080/15265161.2026.2740450"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Casey Hall"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741284",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "The Different Kinds of Agency in Clinician-AI “Disagreement”",
+      "url": "https://doi.org/10.1080/15265161.2026.2741284"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yoshiyasu Takefuji"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741286",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Separating AI Prediction Accuracy from Feature-Importance Reliability in Clinical Decision-Making",
+      "url": "https://doi.org/10.1080/15265161.2026.2741286"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jelena Roganović"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741289",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Epistemic Acceptance with Normative Non-Adoption: Beyond Clinician–AI Disagreement",
+      "url": "https://doi.org/10.1080/15265161.2026.2741289"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Hafez Ismaili M’hamdi"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741290",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Coercion, Solidarity, and the Burden of Justification",
+      "url": "https://doi.org/10.1080/15265161.2026.2741290"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Maxwell Ahiafor",
+        "Mon Yee Htet Paing",
+        "Jinyun Wang",
+        "Yash Jain",
+        "Wang Zhong",
+        "Boda Zhou"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741291",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "The Patient in the Room: Why Clinician–AI Disagreement Needs a Third Voice",
+      "url": "https://doi.org/10.1080/15265161.2026.2741291"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jurgen De Wispelaere",
+        "Dominik Gerber"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741292",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "The Thin Normativity of Solidarity in Public Health",
+      "url": "https://doi.org/10.1080/15265161.2026.2741292"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Zhicong Liu",
+        "Yukai Weng",
+        "Bowen Han",
+        "Yubiao Yu",
+        "Tianhao Hu",
+        "Bo Pang",
+        "Hao Jiang",
+        "Xuesong Li"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741295",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Disagreement Is Manufactured: How Medical AI Output Formats Reshape Clinicians’ Decision-Making Authority",
+      "url": "https://doi.org/10.1080/15265161.2026.2741295"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Søren Holm"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741296",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Solidarity Forever—or How Not to Deconstruct a Bioethical Concept",
+      "url": "https://doi.org/10.1080/15265161.2026.2741296"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mirko Farina"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741297",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Disagreement Without Believers: Rethinking the Ethics and Epistemology of Clinician–AI Conflict",
+      "url": "https://doi.org/10.1080/15265161.2026.2741297"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Benjamin Gregg"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741299",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "When Agreement Is the Wrong Goal: Governing Clinician–AI Disagreement in Medicine",
+      "url": "https://doi.org/10.1080/15265161.2026.2741299"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Maxwell J. Smith"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741300",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Against Neutralizing Coercion",
+      "url": "https://doi.org/10.1080/15265161.2026.2741300"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Y. Tony Yang"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741301",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Manufactured Dissent: Clinician–AI Discordance as an Artifact of Design",
+      "url": "https://doi.org/10.1080/15265161.2026.2741301"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sabine Salloch"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741302",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Human-AI “Disagreement”: Keeping the Epistemic Authority",
+      "url": "https://doi.org/10.1080/15265161.2026.2741302"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ana Komparic",
+        "Michael Montess"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741303",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Solidarity, Relationality and Affect in Public Health: A Modest Proposal",
+      "url": "https://doi.org/10.1080/15265161.2026.2741303"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Daniel T. Kim",
+        "Bharat Ranganathan"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741305",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "A Thick Ethical Concept: Defending Solidarity’s Normativity for Public Health",
+      "url": "https://doi.org/10.1080/15265161.2026.2741305"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Kelso Cratsley",
+        "Ulrich Koch"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741306",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Solidarity and Coercion as Critical Moral Concepts",
+      "url": "https://doi.org/10.1080/15265161.2026.2741306"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Joseph Metcalf",
+        "Charles E. Binkley"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741307",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "From Disagreement to Teamwork: The Surgical Team as a Model for Clinician-AI Collaboration",
+      "url": "https://doi.org/10.1080/15265161.2026.2741307"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Daniel Nabil Maroun"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741309",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "What Justice-Talk Misses About Solidarity",
+      "url": "https://doi.org/10.1080/15265161.2026.2741309"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Rosamond Rhodes"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741313",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Understanding Moral Analysis and Moving Beyond Terms’ Moral Valence",
+      "url": "https://doi.org/10.1080/15265161.2026.2741313"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Danton Char",
+        "Michael Abramoff"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741315",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Practical Matters Informing the Ethical Debate on Clinician-AI Disagreement: Patient Outcomes, Performance Metrics, and Determining Responsibility for Adverse Events",
+      "url": "https://doi.org/10.1080/15265161.2026.2741315"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Daniel Shussett",
+        "Veljko Dubljević"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741317",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Toward Nurturing Productive Clinician-AI Disagreement in Medicine",
+      "url": "https://doi.org/10.1080/15265161.2026.2741317"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jennifer Flynn"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741318",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "The Descriptive Account of Coercion",
+      "url": "https://doi.org/10.1080/15265161.2026.2741318"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Gerard Vong"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741319",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Coercion, Moral Neutrality, and Public Health Ethics",
+      "url": "https://doi.org/10.1080/15265161.2026.2741319"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Rachel Gur-Arie"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741320",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Demoralizing Solidarity and Coercion in Public Health: The Way Forward?",
+      "url": "https://doi.org/10.1080/15265161.2026.2741320"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Daniel W. Tigard"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741321",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Answerable to Whom? Bringing the Patient into Clinician-AI Disagreement",
+      "url": "https://doi.org/10.1080/15265161.2026.2741321"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mark Kuczewski"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741322",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Radical Acts of Professionalism: Medicine’s Call to Respect the Dignity of Immigrants",
+      "url": "https://doi.org/10.1080/15265161.2026.2741322"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Kadija S. Ferryman"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741323",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Beyond Disagreement: Performativity and the Production of Clinical Judgment",
+      "url": "https://doi.org/10.1080/15265161.2026.2741323"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Remziye Zaim",
+        "Anita Ho",
+        "Ross E. Upshur"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741324",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Whose Values Does the AI Convey? Normative Provenance in Clinician-AI Disagreement",
+      "url": "https://doi.org/10.1080/15265161.2026.2741324"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Julia Kolak"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741325",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "The Professional Norms of Opposition: Medical Authority and AI-Physician Disagreement",
+      "url": "https://doi.org/10.1080/15265161.2026.2741325"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Lynette Hammond Gerido",
+        "Olivia Masse",
+        "Yash Mishra",
+        "Melinda Laine Hsu"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741327",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Rethinking Disagreement and Disclosure: Patients, Clinicians, and AI Considerations for Medical Decision-Making",
+      "url": "https://doi.org/10.1080/15265161.2026.2741327"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Peter G. N. West-Oram"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1080/15265161.2026.2741328",
+      "first_seen_jst": "2026-11-02",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Is Solidarity Good or Bad? The Importance of Accurate Taxonomy For Ethical Public Health Policy and Practice",
+      "url": "https://doi.org/10.1080/15265161.2026.2741328"
+    },
+    {
+      "abstract": "ABSTRACT The purpose of a first‐in‐human (FIH) clinical trial is to gather safety, side effects, and (potential) dosage information, which is to say, information about how an intervention affects and interacts with the human body. Although participants in FIH trials may personally benefit, the primary goal is to obtain participant baseline human safety knowledge or knowledge of intervention efficacy. Some FIH clinical trials carry significant foreseeable risk to participants with little to no foreseeable participant benefit. As the potential risk is high and personal benefit unlikely, there is consensus that participants in risky FIH trials should consent to participate, which entails that children should not be included in a risky FIH trial that could enroll only adults. We take aim at this view and argue that risky FIH trials planned for adults should be open also to including children in some circumstances. Specifically, and focusing primarily on solid organ xenotransplant research, we argue that considerations of generalizability, fair inclusion, differential risk‐benefit, parental authority, and children's interest are ethically salient, and that concerns of exploitation, instrumentalization, and upper‐limits of harm can be effectively addressed.",
+      "authors": [
+        "Christopher Bobier",
+        "Anthony Merlocco",
+        "Daniel J. Hurst"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1111/bioe.70206",
+      "first_seen_jst": "2026-11-02",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "The Case for Pediatric Participation in Risky First‐In‐Human Clinical Trials",
+      "url": "https://doi.org/10.1111/bioe.70206"
+    },
+    {
       "abstract": "Private rights have returned to play a central role in public law. In the last few years alone, courts have invoked private rights to elaborate the elements of Article III standing, interpret the scope of 42 U.S.C. § 1983’s cause of action, articulate the limits of the administrative state, and give meaning to enumerated constitutional rights. But unlike private law—which has confronted a similar fall and rise of private rights with wide-ranging discussion over their meaning—public law has not been subjected to a fulsome debate about what exactly private rights are. Both proponents and critics of the return of a private rights model of public law adjudication share a basic understanding of private rights rooted in William Blackstone’s eighteenthcentury writings. But Blackstone’s view fails to capture the full significance of private rights in the common law. Overemphasizing it muddles the stakes of the return of private rights in public law.\n\nThis Article articulates the historical and doctrinal limits of the default Blackstonian view of private rights. Blackstone’s conception of private rights was based on an underlying view of liberty as noninterference that was controversial even when he was writing in the 1760s. Instead, the dominant view of liberty in the common law at the time was the republican view of liberty as independence. That view of liberty supported a distinct republican conception of private rights, which has coexisted in the common law tradition alongside the Blackstonian conception.\n\nAfter outlining the oft-elided republican conception of private rights and tracing its influence on legal discourse, rhetoric, and case law, this Article illustrates its possible implications for public law doctrine. Recognizing the distinction between these two conceptions of private rights casts new light on Article III standing, damages, Section 1983, and adjudication outside Article III courts. This distinction also provides a corrective to the scholarly debates over private and public rights: Just as it is a mistake to suppose there was a single unified historical conception of private rights, it is also a mistake to dismiss private rights altogether as inherently confused or obfuscatory.",
       "authors": [
         "J. Bradley"
@@ -13916,6 +14178,6 @@
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-01",
-  "window_start": "2026-09-17"
+  "window_end": "2026-11-02",
+  "window_start": "2026-09-18"
 }

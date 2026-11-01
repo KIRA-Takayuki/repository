@@ -1,18 +1,18 @@
 {
-  "candidate_count": 955,
+  "candidate_count": 972,
   "candidate_count_scope": "Lookback cache, NOT verified new research papers",
-  "checked_at_utc": "2026-10-31T20:28:51.726741+00:00",
+  "checked_at_utc": "2026-11-01T21:13:00.158436+00:00",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "daily_abstracts_missing": 0,
-  "daily_candidate_count": 3,
-  "daily_unverified_research_candidate_count": 3,
+  "daily_abstracts_missing": 36,
+  "daily_candidate_count": 40,
+  "daily_unverified_research_candidate_count": 40,
   "dry_run": false,
-  "first_observed_doi_count": 6,
+  "first_observed_doi_count": 38,
   "journal_status": {
     "J001": {
       "candidate_count": 4,
@@ -72,7 +72,7 @@
       "status": "checked"
     },
     "J012": {
-      "candidate_count": 6,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
@@ -82,7 +82,7 @@
       "status": "checked"
     },
     "J014": {
-      "candidate_count": 5,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
@@ -102,7 +102,7 @@
       "status": "checked"
     },
     "J018": {
-      "candidate_count": 3,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -122,7 +122,7 @@
       "status": "checked"
     },
     "J022": {
-      "candidate_count": 5,
+      "candidate_count": 4,
       "errors": [],
       "status": "checked"
     },
@@ -152,7 +152,7 @@
       "status": "checked"
     },
     "J028": {
-      "candidate_count": 4,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
@@ -182,7 +182,7 @@
       "status": "checked"
     },
     "J034": {
-      "candidate_count": 3,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -292,7 +292,7 @@
       "status": "checked"
     },
     "J055": {
-      "candidate_count": 12,
+      "candidate_count": 9,
       "errors": [],
       "status": "checked"
     },
@@ -302,7 +302,7 @@
       "status": "checked"
     },
     "J057": {
-      "candidate_count": 35,
+      "candidate_count": 33,
       "errors": [],
       "status": "checked"
     },
@@ -327,12 +327,12 @@
       "status": "checked"
     },
     "J062": {
-      "candidate_count": 35,
+      "candidate_count": 71,
       "errors": [],
       "status": "checked"
     },
     "J063": {
-      "candidate_count": 17,
+      "candidate_count": 18,
       "errors": [],
       "status": "checked"
     },
@@ -377,7 +377,7 @@
       "status": "checked"
     },
     "J072": {
-      "candidate_count": 8,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -392,7 +392,7 @@
       "status": "checked"
     },
     "J075": {
-      "candidate_count": 12,
+      "candidate_count": 11,
       "errors": [],
       "status": "checked"
     },
@@ -455,7 +455,7 @@
       "status": "checked"
     },
     "J088": {
-      "candidate_count": 23,
+      "candidate_count": 22,
       "errors": [],
       "status": "checked"
     },
@@ -510,12 +510,12 @@
       "status": "checked"
     },
     "J099": {
-      "candidate_count": 3,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
     "J100": {
-      "candidate_count": 28,
+      "candidate_count": 26,
       "errors": [],
       "status": "checked"
     },
@@ -525,7 +525,7 @@
       "status": "checked"
     },
     "J102": {
-      "candidate_count": 7,
+      "candidate_count": 6,
       "errors": [],
       "status": "checked"
     },
@@ -644,7 +644,7 @@
       "status": "checked"
     },
     "J124": {
-      "candidate_count": 8,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -761,8 +761,8 @@
   },
   "major_unchecked": [],
   "mode": "metadata_only_no_OpenAI_API_no_Gmail",
-  "possible_new_count": 955,
+  "possible_new_count": 972,
   "publisher_pages_verified": false,
-  "window_end": "2026-11-01",
-  "window_start": "2026-09-17"
+  "window_end": "2026-11-02",
+  "window_start": "2026-09-18"
 }

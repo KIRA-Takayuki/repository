@@ -225,6 +225,13 @@ def build():
     session = requests.Session()
     session.headers.update({"User-Agent": "JournalDigest-Metadata/1.1 (academic monitoring; contact: " + os.getenv("CROSSREF_MAILTO", "journal-monitor@example.org") + ")"})
     enriched = [enrich(x, session, start, end) for x in data]
+    # The introduced ledger records completed ChatGPT introductions, not mere discovery.
+    # Annotate rather than delete records so candidate counts remain auditable.
+    ledger_path = STATE / "introduced-dois.json"
+    ledger = json.loads(ledger_path.read_text(encoding="utf-8")) if ledger_path.exists() else {}
+    introduced = {d.lower().removeprefix("https://doi.org/") for d in ledger.get("introduced_dois", {})}
+    for item in enriched:
+        item["already_introduced"] = (item.get("doi", "").lower().removeprefix("https://doi.org/") in introduced)
     likely = [e for e in enriched if e["article_type_guess"] == "research_candidate_unverified"]
     excluded_nonresearch = sum(e["article_type_guess"] == "likely_nonresearch" for e in enriched)
     excluded_older = sum(e["article_type_guess"] == "prior_publication_not_new" for e in enriched)
@@ -238,6 +245,8 @@ def build():
         "counts": report.get("counts", {}),
         "major_publishers": report.get("major_publishers", {}),
         "raw_candidate_count": len(data),
+        "already_introduced_count": sum(x["already_introduced"] for x in enriched),
+        "eligible_candidate_count": sum(not x["already_introduced"] for x in enriched),
         "research_candidate_unverified_count": len(likely),
         "likely_nonresearch_count": excluded_nonresearch,
         "excluded_older_publications_count": excluded_older,

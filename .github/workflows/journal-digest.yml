@@ -148,7 +148,7 @@ jobs:
             state/latest-quality-gate.json
           if-no-files-found: ignore
       - name: Persist workflow stage diagnostics
-        if: always()
+        if: always() && env.RUN_COLLECTION != 'false'
         env:
           FALLBACK_OUTCOME: ${{ steps.fallback.outcome }}
           VALIDATE_OUTCOME: ${{ steps.validate.outcome }}
@@ -184,7 +184,7 @@ jobs:
           print(json.dumps(result))
           PY
       - name: Commit state and results
-        if: always()
+        if: always() && env.RUN_COLLECTION != 'false'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

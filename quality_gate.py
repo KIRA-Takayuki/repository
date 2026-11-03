@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 JST = dt.timezone(dt.timedelta(hours=9))
-DOI_PATTERN = re.compile(r"^10\\.\\d{4,9}/\\S+$", re.I)
+DOI_PATTERN = re.compile(r"^10\.\d{4,9}/\S+$", re.I)
 
 
 def load(path):

@@ -21,8 +21,8 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: journal-monitor-daily
-  cancel-in-progress: false
+  group: journal-monitor-${{ github.event_name == 'push' && 'validation' || 'daily' }}
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -40,7 +40,12 @@ jobs:
         env:
           EVENT_SCHEDULE: ${{ github.event.schedule }}
         run: |
-          echo 'RUN_COLLECTION=true' >> "$GITHUB_ENV"
+          if [ "${{ github.event_name }}" = 'push' ]; then
+            echo 'RUN_COLLECTION=false' >> "$GITHUB_ENV"
+            echo 'Push event: run code and registry validation only; do not rescan journals.'
+          else
+            echo 'RUN_COLLECTION=true' >> "$GITHUB_ENV"
+          fi
           if [ "$EVENT_SCHEDULE" = '17 20 * * *' ]; then
             python - <<'PY'
           import datetime as dt, json, os

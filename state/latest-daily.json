@@ -1,5 +1,6 @@
 {
-  "checked_at_utc": "2026-11-03T01:46:37.883430+00:00",
+  "already_introduced_count": 2,
+  "checked_at_utc": "2026-11-03T01:55:28.200217+00:00",
   "collected_on": "2026-11-03",
   "counts": {
     "checked": 135,
@@ -7,6 +8,7 @@
     "truncated": 0,
     "unresolved": 9
   },
+  "eligible_candidate_count": 15,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
@@ -14,6 +16,7 @@
       "abstract": "Extended interaction with large language models (LLMs) has been linked to the reinforcement of delusional beliefs, attracting clinical and public concern. Yet most empirical work evaluates model safety in brief interactions, which may not reflect how harms develop through sustained dialogue. Five LLMs were tested across three levels of accumulated context, using the same escalating delusional conversation history to isolate its effect on model behaviour. Responses were coded on risk and safety dimensions, and each model was analysed qualitatively. Models separated into two distinct tiers: GPT-4o, Grok 4.1 Fast, and Gemini 3 Pro exhibited high-risk, low-safety profiles; Claude Opus 4.5 and GPT-5.2 Instant displayed the opposite pattern. As context accumulated, performance degraded in the unsafe group, while the same material activated stronger safety interventions among safer models. Qualitative analysis identified distinct mechanisms of failure, including validating the user’s delusional premises, elaborating beyond them with new content, and attempting harm reduction from within the delusional frame. Safer models, however, often used the established relationship to support intervention, challenging delusional beliefs and directing the user to external support. These findings indicate that accumulated context functions as a stress test of safety architecture, revealing whether prior dialogue is treated as a worldview to inherit or evidence to evaluate. Short-context assessments may therefore mischaracterise model safety, underestimating danger in some systems while missing context-activated gains in others. The results suggest that delusion reinforcement is a tractable alignment failure, with safer models establishing a baseline that future systems should now be expected to meet.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Luke Nicholls",
@@ -49,6 +52,7 @@
       "abstract": "Proposals for governing artificial intelligence (AI) are often judged by completeness: how much risk they cover before deployment. This paper argues that the alignment problem is also a rate problem. Frontier AI capability, institutional governance capacity, and the supply of high-quality training data change at different rates. Waiting for complete governance before acting therefore carries its own risk, because the gap between capability and governance capacity can widen during the delay. The paper proposes the Nash-Pareto Hybrid Equilibrium (NPHE) as a deliberately incomplete and revisable governance counterweight. NPHE addresses one bounded governance function: real-time regulation of an AI system’s behavioral latitude against a human-ratified setpoint. A threat-weighting function blends defensive and cooperative posture vectors. A critical-integrity override prevents a severe single-axis failure from being averaged away. A bounded discrete proportional-integral-derivative (PID) controller adjusts the blend. The principal contribution is a computable specification of the alignment-error term that the controller requires, with an explicit account of which components are specified, unbuilt, or uncalibrated. NPHE is a conceptual architecture and research agenda, not a validated controller. The estimator, setpoint, and intervention-response dynamics remain unbuilt or unidentified. The controller gains are provisional, and the paper claims no stability proof.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Ryan Winterburg"
@@ -78,6 +82,7 @@
       "abstract": "Abstract This study examines how Responsible AI (RAI) principles are translated as they move from ethical discourse into governance, standards, and national policy contexts. Drawing on comparative analysis of influential AI ethics guidelines, policy syntheses, and technical glossaries, the research traces how widely cited principles are reformulated across domains, using transparency and fairness as cases of how institutional translation operates in practice. It shows that while these principles originate as broad normative commitments, they become progressively institutionalized as policy categories, procedural requirements, and measurable technical properties. The comparison shows that the underlying mechanism generalizes across principles, while the resulting institutional forms remain principle-specific. Focusing on national AI strategies as a key site of institutionalization, the study analyzes how RAI principles are embedded within state agendas, regulatory approaches, and oversight mechanisms. This analysis reveals variation in how principles are prioritized and operationalized, reflecting differences in governance priorities, administrative capacity, and political context. The findings highlight that principles most amenable to standardization and measurement tend to dominate policy implementation, while more expansive ethical concepts are less visible. By mapping these shifts across institutional settings, the paper contributes to a deeper understanding of how AI ethics is reconfigured in practice and offers insights for policymakers seeking to balance technical feasibility with normative ambition in the governance of AI.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Jesse Kirkpatrick",
@@ -108,6 +113,7 @@
       "abstract": "Ontology-based legal expert systems treat statutes as classes, properties and rules. In Vietnam’s civil-socialist order that treatment meets a difficulty the enacted text does not dissolve. Signs such as good faith and collective or state interest are culturally thick: their object includes relational and people-centred norms that judges are expected to hold in view, and that a rule base can omit without failing a consistency check. This article offers a semiotic reading of the published architecture of the Vietnam Legal Expert System (VNLES), an academic prototype scoped to the Penal Code and not a court system in use. Peirce’s triad and Greimas’s square are used to show where a white-box rule core remains silent—where inspectable inference is not the same as a complete legal object. The analysis is conceptual and illustrative. It does not evaluate operational judicial software. Once that formal limit is granted, the policy question shifts. Under Resolution 57 and the Law on Artificial Intelligence (Law 134/2025/QH15, in force 1 March 2026), the issue is no longer whether assistance is fast or locally accurate. It is whether a judicial tool can say the tacit norms of the system it serves, and what follows for design and risk classification when it cannot.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Hieu Doan",
@@ -141,6 +147,7 @@
       "abstract": "Artificial intelligence in healthcare promises to improve diagnostic quality, reduce variability, and support clinical judgment under uncertainty. Yet the value of clinical AI depends not only on technical performance, but also on the ethical, legal, organizational, and interactional conditions that shape its use. This article examines an underexplored risk: whether medico-legal exposure may discourage clinicians from consulting AI systems even when doing so could benefit patients. Here we develop an ethical, normative and socio-technical analysis of “AI-avoidant defensive medicine,” defined as the defensive non-use of clinical AI driven by concern that algorithmic output may later be used against physicians in malpractice litigation. We frame defensive non-use as an AI ethics problem in which accountability mechanisms intended to protect patients may inadvertently undermine professional agency, responsible innovation, and patient welfare. We argue that clinicians may face a double bind: following AI advice too closely may be criticized as uncritical reliance, whereas rejecting it may later be framed as unreasonable deviation. Although evidentiary invisibility for AI consultation may appear attractive, we show that it conflicts with transparency, accountability, the right of the patient to informed consent, and the evidentiary functions of the medical record. To address this problem, we propose the Clinical AI Reliance Protection Framework, a transparency-based architecture which organizes mitigation strategies across legal, governance and interaction-design levels,in accordance with the principles of value-sensitive design. We argue that safe-harbor consultation protection, reason-based documentation, and non-oracular AI design offer an ethical path toward accountable and usable human–AI collaboration in clinical care.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Federico Cabitza",
@@ -173,6 +180,7 @@
       "abstract": "",
       "abstract_review_status": "missing",
       "abstract_source": "missing",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Aman"
@@ -201,6 +209,7 @@
       "abstract": "",
       "abstract_review_status": "missing",
       "abstract_source": "missing",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Richard Brown"
@@ -229,6 +238,7 @@
       "abstract": "Abstract Control over the information ecosystem and the public narrative is a hallmark of authoritarian governments. In the digital age, social media created new vulnerabilities within information ecosystems that can be exploited by different actors to undermine democracy: particularly the ease of deploying disinformation at scale, and the economic weakening of independent media. This article documents how the government of Gustavo Petro in Colombia exploited both vulnerabilities simultaneously and systematically through four tactics: the opaque use of state-funded influencers, the political mobilization of institutional social media accounts, the redirection of government advertising spending to the detriment of independent media, and editorial control over public radio and television. The article argues that, together, the simultaneous and systematic exploitation of these vulnerabilities can be characterized of authoritarian tendency. Finally, the article identifies several areas for intervention to mitigate these risks in the future.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Beatriz Botero Arcila"
@@ -257,6 +267,7 @@
       "abstract": "ABSTRACT This article addresses the question whether arguments about the badness of death can offer useful analogies for understanding the badness of extinction. The two main lines of argumentation, the Epicurean approach and the deprivation view, are analyzed from this perspective. The analogies offer some interesting viewpoints to killing and anthropogenic mass extinction, for example. Nevertheless, we conclude that the analogy to death fails to explain badness of extinction. As the major (Western) moral theories also seem to fail on this task, we propose that the badness of extinction should be understood as a tethered concept: extinction is then bad as a loss to someone who understands and experiences that loss.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Markku Oksanen",
@@ -286,6 +297,7 @@
       "abstract": "Abstract In this paper I will offer a detailed analysis of Bayesian species delimitation methods and the oversplitting problem. I will argue that when discussing oversplitting, two issues should be kept separate: the inference problem concerning the discovery of population structure and the labelling problem surrounding the classification of different lineages as distinct species. Understanding oversplitting as a methodological problem of Bayesian inference is the consequence of not separating the inferential problem from the labelling problem. While there is no intrinsic flaw with Bayesian inference of population structure revealed by oversplitting, treatments of the inference problem can benefit from some of the lessons learned in earlier discussions of Bayesian phylogenetic inference.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Bengt Autzen"
@@ -314,6 +326,7 @@
       "abstract": "",
       "abstract_review_status": "missing",
       "abstract_source": "missing",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Ian Robertson"
@@ -342,6 +355,7 @@
       "abstract": "Today, it is commonplace to claim that liberalism created the modern world. This paper examines how and why the rise-of-liberalism narrative first emerged by examining textbooks and surveys on the history of political thought published in Britain and the United States between 1890 and the 1990s. In doing so, it shows how, in the interwar period, a new conception of “liberalism” was invented, imagining it as a secular emancipatory movement that shaped the modern world in its image. Second, this paper highlights how this master narrative was created by liberalism’s self-professed enemies—by Marxists and conservative thinkers—as much as by its friends, to serve different polemical purposes. Finally, this paper offers some reflections on the implications of this account of the historiography of liberalism for its contemporary defenders. It concludes that liberals themselves might have good reason to relinquish overblown claims about the importance of liberalism in the making of the modern world.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Annelien de Dijn"
@@ -370,6 +384,7 @@
       "abstract": "Positions that link rights to sentience face an insect challenge: insects are plausibly sentient, yet recognizing individual insects as rights-bearers would problematize public health, veterinary, and agricultural benefits obtained by harming them. The most obvious responses seem inadequate. Indian animal ethics, which has always taken the idea of insect sentience seriously, is a promising place to look for further options. Of particular relevance is the idea of ahimsa (nonviolence, noninjury), but ahimsa in its ancient form has metaphysical commitments that secular animal ethics should not accept. More promising still is the progressive ahimsaism developed by Gandhi in the 1920s, on which duties of nonmaleficence can be overridden by duties of care, provided the duty of care is adopted, interpreted, and exercised in accordance with the guiding ideal of ahimsa. This article provides an exposition and analysis of the view and relates it to the insect challenge.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Jonathan Birch"
@@ -399,6 +414,7 @@
       "abstract": "Jonathan Birch's 'Ethics for a Large Sentient World' presents a novel approach to the challenges associated with granting sentient insects direct moral concern. The Gandhian-inspired ethic that Birch develops takes insect sentience seriously while maintaining that insects have no right not to be harmed when harming them is necessary to secure human and nonhuman animal health and agricultural benefits. This paper offers a critical response to Birch's framework. I begin by arguing that Birch misinterprets the challenge facing a robust rights-based theory. I then show that his Gandhian alternative is not a genuine departure from a robust rights-based view but rather a specific, and ultimately unappealing, version of it. I show that Birch's view is unattractive because it holds that duties of care can function as exceptions to rights, which has problematic implications for all sentient beings, including humans.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Angie Pepper"
@@ -428,6 +444,7 @@
       "abstract": "In his ‘Ethics for a Large Sentient World: Insects, Ahimsa, and Gandhi’s Progressive Ahimsaism’ Jonathan Birch attempts to provide a solution to one of the most difficult problems in animal ethics: the insect challenge. If insects are sentient, and if sentience is sufficient for the possession of robust rights not to be harmed, then much of our behavior is seriously wrong since it harms insects on a vast scale. Birch’s solution is based on Gandhi’s idea of Progressive Ahimsaism (PA). In this paper I argue that PA is unsuited to answer the challenges of animal suffering. First, though it emphasizes avoiding wrongdoing, the moral ideal proposed by PA makes it difficult to do positive good, tends toward antinatalism, and offers no pathway out of natural suffering. Second, PA’s duty of care model is incompatible with largescale beneficent action and precludes us from moving toward a genuinely harm-free world. Finally, I conclude by briefly suggesting that we could solve these problems by seeing humanity as a collective agent with a moral duty to care for all sentient beings and individual human actions as justified insofar as they are compatible with this mission.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Gary David O'Brien"
@@ -457,6 +474,7 @@
       "abstract": "The recognition of invertebrates as ‘plausibly sentient’ raises significant ethical questions in contexts where they are harmed. In response to Jonathan Birch’s presentation of Gandhi’s ahimsaism (nonviolence) as a potential means of navigating this ‘insect challenge’, we draw on fieldwork conducted at the Skanda Vale ashram to provide a comparative critique of, and potential alternative to, ahmsaism. For the community at Skanda Vale, the ethos of nonviolence cannot be separated from the wider metaphysical commitments of foundational South Asian religious traditions. Within such a context we come to question the prioritization of sentience as a marker of responsibility toward other living beings. Rather than seeking to justify harms to sentient others, we argue for an expanded circle of compassion that is more in line with traditional uses of ahimsa.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Samantha Hurn",
@@ -487,6 +505,7 @@
       "abstract": "The three commentaries on ‘Ethics for a large sentient world’ raise several problems for a Gandhian approach to animal ethics. In my responses, I defend my position that granting robust rights to individual insects is untenable, pushing us to look harder at alternative options. I explain how Gandhi’s commitment to nonviolence allows him to avoid the unwelcome implications his principles might otherwise have. I consider his nuanced position on the interplay between general principles and embedded responses to particular situations. I explain why he should not be read as an antinatalist. That said, his framework undeniably presents an austere ascetic ideal that calls on us to rethink the meaning of ‘progress’. The framework condemns many aspects of modern industrialized economies, not just their treatment of nonhuman animals.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Jonathan Birch"

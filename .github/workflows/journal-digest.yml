@@ -49,7 +49,10 @@ jobs:
           try:
               info = json.loads(p.read_text(encoding='utf-8'))
               today = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).date().isoformat()
-              valid = (info.get('collected_on') == today and info.get('fresh_today_jst') is True)
+              gate = json.loads(Path('state/latest-quality-gate.json').read_text(encoding='utf-8'))
+              valid = (info.get('collected_on') == today and info.get('fresh_today_jst') is True
+                       and gate.get('checked_on_jst') == today
+                       and gate.get('status') == 'structurally_valid_not_semantically_verified')
           except (OSError, ValueError, TypeError):
               pass
           if valid:

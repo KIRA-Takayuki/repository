@@ -5,6 +5,7 @@ on:
     paths:
       - 'monitor.py'
       - 'build_daily.py'
+      - 'quality_gate.py'
       - 'data/journals.json'
       - 'state/registry.json'
       - '.github/workflows/journal-digest.yml'
@@ -15,7 +16,8 @@ on:
         description: 'Collect metadata only (this workflow never sends mail)'
         default: false
   schedule:
-    - cron: '17 15 * * *'  # 00:17 JST; earlier start to buffer GitHub scheduling delays before 08:00 digest
+    - cron: '17 15 * * *'  # 00:17 JST; primary run before 08:00 digest
+    - cron: '17 20 * * *'  # 05:17 JST; fallback if primary did not produce today's file
 permissions:
   contents: write
 concurrency:
@@ -33,9 +35,34 @@ jobs:
           cache: pip
       - name: Install dependencies
         run: pip install -r requirements.txt
+      - name: Decide whether fallback scan is needed
+        env:
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          echo 'RUN_COLLECTION=true' >> "$GITHUB_ENV"
+          if [ "$EVENT_SCHEDULE" = '17 20 * * *' ]; then
+            python - <<'PY'
+          import datetime as dt, json, os
+          from pathlib import Path
+          p = Path('state/latest-daily.json')
+          valid = False
+          try:
+              info = json.loads(p.read_text(encoding='utf-8'))
+              today = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).date().isoformat()
+              valid = (info.get('collected_on') == today and info.get('fresh_today_jst') is True)
+          except (OSError, ValueError, TypeError):
+              pass
+          if valid:
+              with open(os.environ['GITHUB_ENV'], 'a') as out:
+                  out.write('RUN_COLLECTION=false\n')
+              print('Primary scan already produced current-day data; skip fallback.')
+          else:
+              print('Primary scan missing/stale; fallback collection required.')
+          PY
+          fi
       - name: Validate Python and priority registry
         run: |
-          python -m py_compile monitor.py build_daily.py
+          python -m py_compile monitor.py build_daily.py quality_gate.py
           python - <<'PY'
           import json
           from pathlib import Path
@@ -66,9 +93,16 @@ jobs:
           assert '/2026/10/27/' in ' '.join(publisher_urls('https://doi.org/10.1136/test', '10.1136/test', '2026-10-28'))
           assert abstract_review('https://example.org/figure.png') == 'suspect_media_link'
           assert abstract_review('This essay argues that social structures shape normative practices through institutional action and public participation.') == 'present_needs_content_review'
-          print('Daily extraction safeguards passed')
+          from quality_gate import validate
+          sample = {'checked_at_utc': '2026-11-03T00:01:00+00:00', 'collected_on': '2026-11-03', 'journal_total': 145, 'counts': {'checked': 135, 'failed': 1, 'unresolved': 9, 'truncated': 0}, 'raw_candidate_count': 1, 'already_introduced_count': 1, 'eligible_candidate_count': 0, 'items': [{'doi': '10.1234/abc', 'title': 'Test', 'authors': ['Author'], 'already_introduced': True, 'abstract': 'A test abstract.', 'abstract_review_status': 'present_needs_content_review'}]}
+          intro = {'introduced_dois': {'10.1234/abc': 'test'}}
+          assert validate(sample, {'checked_at_utc': sample['checked_at_utc'], 'journal_total': 145}, intro, today='2026-11-03')['status'] == 'structurally_valid_not_semantically_verified'
+          sample['already_introduced_count'] = 0
+          assert validate(sample, {'checked_at_utc': sample['checked_at_utc'], 'journal_total': 145}, intro, today='2026-11-03')['status'] == 'failed'
+          print('Daily extraction and gate regression checks passed')
           PY
       - name: Collect metadata for all 145 journals (major 90 first)
+        if: env.RUN_COLLECTION != 'false'
         env:
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
@@ -78,11 +112,14 @@ jobs:
           echo "MONITOR_EXIT=$?" >> "$GITHUB_ENV"
           exit 0
       - name: Build yesterday/today shortlist and recover missing abstracts
-        if: env.MONITOR_EXIT == '0'
+        if: env.MONITOR_EXIT == '0' && env.RUN_COLLECTION != 'false'
         env:
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: python build_daily.py
+      - name: Verify daily counts, recency and introduced DOI exclusions
+        if: always() && env.MONITOR_EXIT == '0' && env.RUN_COLLECTION != 'false'
+        run: python quality_gate.py
       - name: Preserve daily diagnostic report
         if: always()
         uses: actions/upload-artifact@v4
@@ -93,6 +130,7 @@ jobs:
             state/latest-digest.txt
             state/latest-candidates.json
             state/latest-daily.json
+            state/latest-quality-gate.json
           if-no-files-found: ignore
       - name: Commit state and results
         if: always()

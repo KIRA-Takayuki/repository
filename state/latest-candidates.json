@@ -1,927 +1,6 @@
 {
-  "collected_on": "2026-11-02",
+  "collected_on": "2026-11-03",
   "items": [
-    {
-      "abstract": "ABSTRACT Longtermists assign great moral importance to making the long‐term future as good as possible, especially by ensuring the survival of humanity. We argue, to the contrary, that on assumptions that are plausible, conservative, or shared by leading longtermists, human extinction will likely augment total utility among human and non‐human animals on Earth. The reason for this surprising conclusion is that our extinction would increase the number of sentient non‐human animals, which in turn would dramatically increase total utility. Possible responses by longtermists leave them with a difficult quadrilemma. They must either (a) welcome human extinction; or (b) welcome the extinction of most non‐human animals; or (c) tolerate continued human existence and related animal suffering as mere means to ushering in high‐tech transformations of the animal kingdom, space colonization, or digital sentience – relatively esoteric, unpopular, and speculative parts of longtermism; or (d) reject key tenets of longtermism like anti‐speciesism or the equal evaluation of making beings happy and of making happy beings. Embracing any horn of this quadrilemma would cut deep into longtermists' current commitments and/or dash central longtermists' hopes of popular appeal.",
-      "authors": [
-        "Nir Eyal",
-        "Bastian Steuwer",
-        "Shai Meiri"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1002/japp.70129",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Applied Philosophy",
-      "journal_id": "J053",
-      "origin": "crossref",
-      "title": "Must Longtermists Wish Us All Dead? A Quadrilemma",
-      "url": "https://doi.org/10.1002/japp.70129"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Weijun Shi"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s10670-026-01152-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "Russell on Structuralism",
-      "url": "https://doi.org/10.1007/s10670-026-01152-6"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jonathan Caleb Kendrick"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s10670-026-01156-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "Reasons and Restrictors",
-      "url": "https://doi.org/10.1007/s10670-026-01156-2"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Filipe Antunes Madeira da Silva"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s10978-026-09438-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Critique",
-      "journal_id": "J012",
-      "origin": "crossref",
-      "title": "Remembering the Rubber Ethnocide: Using Law and the Past to Move Beyond Development",
-      "url": "https://doi.org/10.1007/s10978-026-09438-y"
-    },
-    {
-      "abstract": "Abstract With the increase of social housing deaths and crisis of housing conditions in Britain, it is imperative to understand the role of law and state-led forms of privatisation in making this situation possible. This article will focus on the historical and political context of the recent death of Awaab Ishak, who died in his socially-rented home due to mould overexposure. I argue that the law was not lacking here but will show how the juridification of housing governance through ownership mechanisms has been key in protecting the legitimacy of the state and capital accumulation more broadly in a British society ridden with economic crisis and social immiseration. To do this, I will theorise the development of a juridical framework that maintains the link between housing, the state, and capital by interpolating ownership and citizenship, in turn making social housing tenants responsible for unliveable social assets through the relocation of risk into their everyday lives. Going beyond critiques of housing privatisation and individualisation within contemporary accumulation strategies that depart from spatial forms of social organisation, I will argue that the link between law and capital needs to be understood temporally to account for the ongoing structural presence of non-accountability in the sector, that will not be simply remedied with incoming legislation. As such, renewed entwinements of property and racialisation that break with modern norms of individualistic ownership practices produce the conditions for the Ishak family’s experience of the sector and, ultimately and maddeningly, Awaab’s death.",
-      "authors": [
-        "Rosie Woodhouse"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s10978-026-09441-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Critique",
-      "journal_id": "J012",
-      "origin": "crossref",
-      "title": "The Juridification of Unliveable Social Housing: Ownership, Citizenship, and Responsibility",
-      "url": "https://doi.org/10.1007/s10978-026-09441-3"
-    },
-    {
-      "abstract": "Abstract The rapid integration of artificial intelligence (AI) into various aspects of society has raised pressing ethical concerns, from privacy and fairness to autonomy and safety. In response, the field of AI ethics has grown significantly, with a particular focus on developing guidelines to support the responsible development and use of AI. However, this trend has faced criticism, with concerns about “ethics washing” and skepticism regarding the overall value of AI ethics. In this paper, we argue that such criticisms often rely on an incomplete understanding of AI ethics. To address this, we propose an understanding of AI ethics that distinguishes between diverse instances of AI ethics (viz., research, education, practice, and governance instruments) and the purposes they serve (viz., knowledge, communication, and application). By disentangling these elements, we can illuminate different ways of doing AI ethics and provide a structured way to assess their value. Our arguments highlight that critiques of specific instances and purposes of AI ethics do not justify dismissing AI ethics altogether. We conclude by demonstrating how our proposed distinctions can reconcile existing defenses of AI ethics and guide future discourse, ensuring that the field remains both robust and relevant in addressing the ethical challenges posed by AI.",
-      "authors": [
-        "Astrid Schomäcker",
-        "Timo Speith",
-        "Luca Deck",
-        "Thorsten Helfer",
-        "Hanwei Zhang",
-        "Lena Kästner"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01326-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "What is AI ethics, and what is it good for? Clarifying debates on AI ethics",
-      "url": "https://doi.org/10.1007/s43681-026-01326-6"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Andrej Miklosik",
-        "Tanja Rosenbaum"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01344-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Workplace AI ethics through a multi-stakeholder lens: a qualitative inquiry into responsibility, trust, and the limits of principles",
-      "url": "https://doi.org/10.1007/s43681-026-01344-4"
-    },
-    {
-      "abstract": "Abstract The ongoing developments in Artificial Intelligence (AI) are introducing new technologies, initiatives, and applications. To assure that these developments do not translate into potential risks that are not captured, understood, measured, and managed, a trustworthiness approach is necessary. AI trustworthiness is treated as a multidimensional construct that spans transparency, safety, security, privacy, robustness, and fairness. We argue that these properties they should be translated into explicit, testable criteria. This article aims to synthesize evaluation approaches that make AI trustworthiness observable and measurable, enabling stakeholders to identify gaps, prioritize improvements, and align system behaviour with ethical, social, and legal values. A scoping review (resulting in 27 papers) is augmented with knowledge of 6 experts to map (i) the main trustworthy AI aspects, (ii) the evaluation methods used to assess these aspects, (iii) the metrics applied within them, and (iv) recommendations proposed to strengthen trustworthiness. The results suggest that current evaluation practices interpret and operationalize trustworthy AI in diverse ways. They often rely on established methods or benchmarks that may imply bias, limited comparability, or provide limited insight into the reasoning quality. We recommend to design evaluation frameworks that explicitly target trustworthiness aspects from a multidisciplinary angle and being instantiated to specific contexts or problems.",
-      "authors": [
-        "Catharina Margaretha van Leersum",
-        "Clara Maathuis"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01349-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Evaluation methods and metrics towards trustworthy AI",
-      "url": "https://doi.org/10.1007/s43681-026-01349-z"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Yanyi Chen",
-        "Samad Zare"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01363-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Exploring latent heterogeneity in AI responsibility: a person-centered analysis of ethical dispositions",
-      "url": "https://doi.org/10.1007/s43681-026-01363-1"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Julianna Costanzo",
-        "Hasse Hällström"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01365-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Informed consent and AI driven depression screening systems",
-      "url": "https://doi.org/10.1007/s43681-026-01365-z"
-    },
-    {
-      "abstract": "Abstract AI technologies in healthcare are increasingly subject to ethical scrutiny, often structured around high‑level ethical principles such as fairness, transparency, and accountability. While these principles are widely endorsed, their application frequently remains abstract, underspecified, and detached from the empirical contexts in which AI systems are developed and used. This paper argues that empirical ethics provides a necessary foundation for applied AI ethics in healthcare by enabling the ethically relevant contextualisation of normative principles through a reciprocal relationship between empirical and normative ethical analysis. In doing so, the paper addresses a persistent gap between ethical principles and empirical research in AI ethics by showing how these domains can be methodologically integrated rather than treated as separate or sequential. Drawing on empirical examples and our own experience from medical AI research and stakeholder engagement, we illustrate how empirical inquiry and normative ethical analysis, can work together to clarify the meaning of ethical values such as fairness, identify ethically salient risks and trade‑offs, and support ethically robust decision‑making across the AI lifecycle, including research, development, and procurement. We argue that without systematic and methodologically grounded empirical engagement, AI ethics risks becoming either toothless or merely procedural, or sliding into forms of ethical relativism in which empirical findings are treated as normatively sufficient. The article contributes to ongoing debates on how to operationalise AI ethics and highlights the role that empirical ethics can play in bridging ethical theory, law, and practice.",
-      "authors": [
-        "Jennifer Viberg Johansson",
-        "Jessica Nihlén Fahlquist"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01370-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Why applied AI ethics in healthcare requires the integration of empirical inquiry and normative ethical analysis",
-      "url": "https://doi.org/10.1007/s43681-026-01370-2"
-    },
-    {
-      "abstract": "Abstract Our study investigates the inter-dependencies between the technical components of AI-based fraud detection systems and fairness approaches. Here, fairness approaches refer to any method or process to address, specify, measure or mitigate unfairness in AI systems. Despite extensive research on both AI-based fraud detection systems and AI fairness, these domains are often treated separately, leading to a fragmented understanding of both domains. This fragmentation leads to inconsistent terminologies and concepts, and fails to identify the inter-dependencies between technical components of fraud detection systems and fairness approaches. These are the research gaps we address in this study. Through a literature review of 78 papers, we synthesize existing concepts and terminologies into two structured taxonomies that allow to document these inter-dependencies. One taxonomy describes the technical components of AI fraud detection systems and another describes fairness approaches. A joint evaluation of the taxonomies reveals how technical components are impacting fairness, and how fairness considerations should govern the design and implementation of these technical components. Our findings show that four technical components (regarding class imbalance, overlapping class distributions, data quality, and adaptive learning) are intertwined with fairness approaches in fraud detection. The proposed taxonomies, and the inter-dependencies we identify, support AI practitioners and decision-makers in designing fair fraud detection systems. Additionally, the taxonomies provide structure to research investigating how technical components and technical decisions impact fairness and, vice versa, investigating how fairness approaches impact the technical design of fraud detection systems.",
-      "authors": [
-        "Sebastiaan Berendsen",
-        "Emma Beauxis-Aussalet"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01375-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Taxonomies for connecting technical components of AI-based fraud detection systems and fairness approaches",
-      "url": "https://doi.org/10.1007/s43681-026-01375-x"
-    },
-    {
-      "abstract": "Abstract AI-text detectors are increasingly used to police authorship in student assessment and scholarly publishing. This paper argues that they are the wrong instrument for that task. Its design combines a critical synthesis of empirical, information-theoretic, and policy evidence with an original documented exploratory multi-tool audit. The review synthesises empirical evaluations, information-theoretic results, and institutional policy decisions to develop a conceptual account of what detectors can directly observe: statistical or learned properties of submitted text, not provenance itself. Predictability-related properties such as low perplexity, reduced variation in local predictability, and formulaic density provide one mechanism through which both additional-language writing and highly conventional academic prose may become vulnerable to machine-authorship classification. While a growing number of universities across several national higher-education systems have disabled or restricted AI detection in high-stakes assessment, and a New York court has annulled a misconduct finding that rested on a detector score, detector reliance persists in three under-examined arenas: individual grading practice at scale, scholarly journal screening, and institutions without formal policy revision. The paper adds a documented exploratory multi-tool audit in which a single human-authored manuscript, submitted to five commercial detectors on the same day, received materially different classifications spanning from “0% human” to “Human Generated”, demonstrating substantial cross-tool inconsistency and limited independent verifiability of the underlying classifications. A paired exploratory comparison further found that extensive machine rewriting by a commercial “humanizer” materially degraded the manuscript while producing only a small change in the reported detection score. The paper distinguishes genuine false positives from definitional boundary cases involving AI-assisted translation and polishing, engages the counter-argument that AI-polished prose may itself flatten linguistic diversity in academic English, and proposes a concrete process-oriented assessment model based on declared starting points, versioned drafting, process artefacts, and targeted oral verification. The model predates generative AI in its component practices but acquires renewed relevance because final-text classification cannot establish authorship, understanding, or misconduct on its own.",
-      "authors": [
-        "Victor Angelier"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01376-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "The pitfalls of AI detection in academic writing: bias, false positives, and the need for inclusive assessment",
-      "url": "https://doi.org/10.1007/s43681-026-01376-w"
-    },
-    {
-      "abstract": "Abstract Efforts to promote “Trustworthy AI” have focused on operationalizing high-level ethical principles through tools, standards, and governance mechanisms. Yet a persistent gap remains between ethical guidance and day-to-day development practice. We conducted semi-structured interviews with ten experts in AI ethics, healthcare AI, and socio-technical research to examine how ethical principles are operationalized in real-world AI development. Participants described several ways in which efforts to operationalize ethical principles break down in practice. While existing operationalization approaches were viewed as useful, participants discussed conceptual, epistemic, institutional, and socio-technical conditions that constrain their effectiveness. Our findings suggest that the operationalization gap cannot be understood independently of the broader contexts in which AI systems are designed, developed, and governed.",
-      "authors": [
-        "Riana Minocher",
-        "Isabel Velarde",
-        "Valerie Buerger",
-        "Gabriele Pluktaite",
-        "Vince I. Madai"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01381-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "How ethics operationalization breaks down in practice: expert perspectives from healthcare AI",
-      "url": "https://doi.org/10.1007/s43681-026-01381-z"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Madeleine Ransom",
-        "Nicole Menard"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01388-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "A dilemma for skeptics of trustworthy AI",
-      "url": "https://doi.org/10.1007/s43681-026-01388-6"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ehsan Jozaghi"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01394-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Generative AI in peer review: evolving policies and regulatory pathways for scientific rigour",
-      "url": "https://doi.org/10.1007/s43681-026-01394-8"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Rizwan Tanveer"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1007/s43681-026-01402-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Compiling governance into enforcement: risk-tiered, confidence-aware fairness gates for machine-learning pipelines",
-      "url": "https://doi.org/10.1007/s43681-026-01402-x"
-    },
-    {
-      "abstract": "Abstract Epistemic injustice happens when a subject is wronged in their “capacity as a knower.” This paper argues that speakers/writers and hearers/readers suffer epistemic injustice under two scenarios: idea appropriation and bullshitting. Epistemic injustice happens when a speaker or writer suffers idea appropriation, where they are deprived of the credit and benefits of their cognitive labor, or when epistemic agents consume bullshit that exploits their limited access to the institutional resources required to interrogate and resist it, treating them as a mere means to an end, e.g., when a politician bullshits voters to secure their vote at election time. These unsavory practices are incentivized by reputational boosts and other social goods with the risk of reputational damage if detected. This paper ends by reviewing how widespread epistemic injustice hampers the epistemic marketplace.",
-      "authors": [
-        "Jimmy Alfonso Licon"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1017/epi.2026.10134",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "Unjust Aspects of the Epistemic Marketplace: Idea Appropriation, Bullshit, and Epistemic Injustice",
-      "url": "https://doi.org/10.1017/epi.2026.10134"
-    },
-    {
-      "abstract": "Abstract This article examines the work of legal intermediaries in moving cases from the border to the court, focusing on pushbacks from Italy and Austria to Slovenia and along the Balkan corridor. It demonstrates that these practices occurred within a hostile transnational setting that, from the outset, dispersed and destabilized potential claimants, traces, and the litigation path. Confronted with this immediate condition of misalignment, it shows that intermediaries engaged in constitutive and collaborative work across borders. The article conceptualizes this work as “case assembly” and analyzes it from a comparative perspective.",
-      "authors": [
-        "Alice Lacchei",
-        "Adel-Naim Reyhani"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1017/lsr.2026.10117",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law &amp; Society Review",
-      "journal_id": "J020",
-      "origin": "crossref",
-      "title": "From borders to courts: assembling pushback cases in a hostile transnational setting",
-      "url": "https://doi.org/10.1017/lsr.2026.10117"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Kritika Maheshwari"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1017/s0953820826100430",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Utilitas",
-      "journal_id": "J052",
-      "origin": "crossref",
-      "title": "Theron Pummer, The Rules of Rescue: Cost, Distance, and Effective Altruism (Oxford University Press, 2025), pp. 264",
-      "url": "https://doi.org/10.1017/s0953820826100430"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Michalle Gal"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/0020174x.2026.2733556",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "Metaphors and visual knowledge: visualism and externalism",
-      "url": "https://doi.org/10.1080/0020174x.2026.2733556"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ugur Azizoglu"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/13698230.2026.2734978",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Critical Review of International Social and Political Philosophy",
-      "journal_id": "J038",
-      "origin": "crossref",
-      "title": "Constitutional patriotism and its social carriers: a functional ecology of democratic membership",
-      "url": "https://doi.org/10.1080/13698230.2026.2734978"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Shajuana D. McMillan",
-        "Leslie A. Morland",
-        "Jake Earl"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717098",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Employment-Related Risks and Ethical Enrollment of Military Personnel in Psychedelics Research",
-      "url": "https://doi.org/10.1080/15265161.2026.2717098"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Rachel J. Topazian",
-        "Michael J. DiStefano",
-        "Gianna Morales",
-        "Matthew DeCamp"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717100",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Factors for Assessing Employment-Based Risks of Participation in Psychedelic Research",
-      "url": "https://doi.org/10.1080/15265161.2026.2717100"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Vanessa Carbonell"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717105",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Ageism, Ableism, and Agency",
-      "url": "https://doi.org/10.1080/15265161.2026.2717105"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Gabriela Olmedo",
-        "Arthur Caplan",
-        "Gwendolyn P. Quinn"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717108",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Beyond Credibility Deficits: Credibility Excesses and Epistemic Justice in Older Adulthood",
-      "url": "https://doi.org/10.1080/15265161.2026.2717108"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Willyanne DeCormier Plosky",
-        "Barbara E. Bierer"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717109",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Inclusion Beyond, And Not Limited To, Consent Discussions",
-      "url": "https://doi.org/10.1080/15265161.2026.2717109"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Joseph DeLuca",
-        "Tobias Wasser",
-        "Rocksheng Zhong"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717110",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "The Reasonable Person is Not the Average Person",
-      "url": "https://doi.org/10.1080/15265161.2026.2717110"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Liza Dawson"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717111",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Psychedelics Exceptionalism and Employment-Related Risk in a Clinical Trial",
-      "url": "https://doi.org/10.1080/15265161.2026.2717111"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Michelle Bach"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717113",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Employment-Related Risk Is Reasonable to Disclose—Even to the Unemployed",
-      "url": "https://doi.org/10.1080/15265161.2026.2717113"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jake Beardsley"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717114",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Non-Ideal Epistemic Justice: Distinguishing Between Prejudice and Rational Inference in Elder Care",
-      "url": "https://doi.org/10.1080/15265161.2026.2717114"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Havi Carel"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717115",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Population-Level Epistemic Injustice: A New Approach",
-      "url": "https://doi.org/10.1080/15265161.2026.2717115"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Hana Abbasian",
-        "J. Wesley Boyd"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717116",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Beyond the Reasonable Person Standard for Providing Informed Consent in Neurodiversity Research",
-      "url": "https://doi.org/10.1080/15265161.2026.2717116"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Leslie Pickering Francis",
-        "John G. Francis"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717120",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Overburdening Informed Consent",
-      "url": "https://doi.org/10.1080/15265161.2026.2717120"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Amanda M. Wilson",
-        "Benjamin S. Wilfond"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717128",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Engaging Employees and Employers to Better Manage Employment Risk in Clinical Trials",
-      "url": "https://doi.org/10.1080/15265161.2026.2717128"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Patrick Dwyer",
-        "Gerard Atkinson"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717132",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "“Reasonable” is Not “Average”: Normality, Normativity, and the Pathology Paradigm",
-      "url": "https://doi.org/10.1080/15265161.2026.2717132"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Liza Dawson",
-        "Abagail D. Cohen",
-        "Benjamin Wilfond",
-        "Liza-Marie Johnson"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717133",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Employment-Related Risks in a Clinical Trial of Psychedelic Treatment for Chronic Pain",
-      "url": "https://doi.org/10.1080/15265161.2026.2717133"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Rakhshanda Ramzan",
-        "Meaghann S. Weaver"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717134",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Ageism Goes Both Ways: Bi-Directionally Tracing Absence and Construction in Bioethics and Pediatrics",
-      "url": "https://doi.org/10.1080/15265161.2026.2717134"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "M. Ariel Cascio"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717137",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Disclosure, Discussion, and Discovery: Process Consent and Addressing Informational Needs",
-      "url": "https://doi.org/10.1080/15265161.2026.2717137"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Thaddeus Mason Pope"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717139",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Informed Consent Disclosure Duties in Both Clinical and Research Contexts: Clarifying the Reasonable Person Standard",
-      "url": "https://doi.org/10.1080/15265161.2026.2717139"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Tom A. Doyle"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717140",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Is Epistemic Justice Implementable?",
-      "url": "https://doi.org/10.1080/15265161.2026.2717140"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ariane Lewis",
-        "Michael J. Young"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717142",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Aligning Consent with Context: Common Consent Elements for Persons with Disorders of Consciousness (CCE-DoC)",
-      "url": "https://doi.org/10.1080/15265161.2026.2717142"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Y. Tony Yang"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717143",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "The Reasonable Researcher, Not the Reasonable Person: Relocating the Burden of Disclosure",
-      "url": "https://doi.org/10.1080/15265161.2026.2717143"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Denise Wallat",
-        "Eva Maria Hille"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717145",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Extending Epistemic Injustice in Bioethics: Why Language Matters",
-      "url": "https://doi.org/10.1080/15265161.2026.2717145"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sara Goering",
-        "Erica Bigelow"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717147",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Beyond “Reasonable” Person Informed Consent: Diversifying Research Teams and Using Question Prompt Lists",
-      "url": "https://doi.org/10.1080/15265161.2026.2717147"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Debjani Mukherjee",
-        "Kristi L. Kirschner"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717148",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Connection Without Conflation: Aging and Disability as a Venn Diagram",
-      "url": "https://doi.org/10.1080/15265161.2026.2717148"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ju Zhang"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2717150",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "From Absence to Corrective Trust: Repairing Ageist-Ableist Epistemic Injustice in Healthcare",
-      "url": "https://doi.org/10.1080/15265161.2026.2717150"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Els van Wijngaarden",
-        "Liat Ayalon",
-        "Nancy Berlinger",
-        "Stephen Connor",
-        "Liesbeth De Donder",
-        "Lydia S. Dugdale",
-        "Vânia de la Fuente-Núñez",
-        "Rowan Harwood",
-        "Jaco Hoffman",
-        "Alejandro Klein",
-        "Carla Kotzé",
-        "Christian Ntizimira",
-        "Libby Sallnow",
-        "Aagje Swinnen",
-        "Irene Tuffrey-Wijne",
-        "Alberto Vásquez Encalada"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2718380",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "From Epistemic Injustice to Epistemic Imagination: Reframing Older Age, Disability, and Dying in Bioethics",
-      "url": "https://doi.org/10.1080/15265161.2026.2718380"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Isabel Reardon",
-        "Rachel Abraham",
-        "Luke Hanson",
-        "Jennifer Blumenthal-Barby"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2720369",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Individualizing Informed Consent: For Whom, and How Far?",
-      "url": "https://doi.org/10.1080/15265161.2026.2720369"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Rosemarie Garland-Thomson"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/15265161.2026.2725520",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Justice, Recognition, Equality and Knowledge: How Can We Bring These Forms to People Marginalized by Ageism and Ableism?",
-      "url": "https://doi.org/10.1080/15265161.2026.2725520"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Paolo Astorri"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/2049677x.2026.2726704",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Comparative Legal History",
-      "journal_id": "J082",
-      "origin": "crossref",
-      "title": "Between usury and legitimate profit: confessional normative frameworks and the five per cent contract in early modern Germany",
-      "url": "https://doi.org/10.1080/2049677x.2026.2726704"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Christophe Maes"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1080/2049677x.2026.2732669",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Comparative Legal History",
-      "journal_id": "J082",
-      "origin": "crossref",
-      "title": "Faces of the Rule of Law in Europe; The Rule of Law: A Very Short Introduction",
-      "url": "https://doi.org/10.1080/2049677x.2026.2732669"
-    },
-    {
-      "abstract": "Abstract This paper presents Paul Roth’s Paradox of Historical Narratives and three options: reject the paradox, accept the paradox, or resolve the paradox. I show how the paradox motivates a view called ‘narrativism’ in the philosophy of history, and that narrativists must either accept or resolve the paradox. I argue that narrativists should resolve the paradox.",
-      "authors": [
-        "Jack Morgan Jones"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1093/analys/anag073",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "title": "Revisiting Roth’s Paradox of Historical Narratives",
-      "url": "https://doi.org/10.1093/analys/anag073"
-    },
-    {
-      "abstract": "Abstract Generative AI threatens knowledge online not merely by producing falsehoods, but by changing the epistemic environment in which online beliefs are formed. I argue that the spread of convincing AI-generated counterfeits creates a local sceptical challenge to digital testimony. The challenge is not that ordinary subjects must rule out every sceptical possibility. Rather, for many beliefs formed solely from unauthenticated online materials, ordinary subjects are situated among nearby, method-indistinguishable bad cases. In such environments, even true beliefs formed from genuine digital items may fail to satisfy a familiar anti-luck condition on knowledge. This does not show that we never know from online sources. It shows instead that digital-only uptake often falls short of knowledge unless supported by provenance, corroboration, or other independent checks. I close by suggesting that this narrowing of online knowledge may reinforce existing patterns of epistemic injustice.",
-      "authors": [
-        "Ian M Church"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1093/analys/anag074",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "title": "Generative AI and a Sceptical Challenge to Digital Testimony",
-      "url": "https://doi.org/10.1093/analys/anag074"
-    },
-    {
-      "abstract": "ABSTRACT This article examines contemporary digital governance through a dialogue between Shoshana Zuboff's theory of surveillance capitalism and Michel Foucault's analysis of power and governmentality. Although Zuboff offers a compelling account of the economic logics underlying digital domination, her framework tends to locate resistance primarily in external regulation and legal reform. This article argues that such an approach overlooks the subjectifying effects through which digital governance shapes compliant and predictable subjects. Drawing on Foucault, it reconceptualizes surveillance capitalism as an intensification of existing governmental rationalities and advances the notion of counter‐conduct to analyze how subjects negotiate and resist digital power from within.",
-      "authors": [
-        "Ruiqi Yin"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1111/1467-8675.70082",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Constellations",
-      "journal_id": "J049",
-      "origin": "crossref",
-      "title": "Surveillance Capitalism and Governmentality Foucault in the Age of Digitization",
-      "url": "https://doi.org/10.1111/1467-8675.70082"
-    },
-    {
-      "abstract": "ABSTRACT According to veritism, your epistemic goal is to believe what's true. According to actualist veritism, your epistemic goal is to believe what's actually true. At first glance, it seems that the pursuit of truth and the pursuit of actual truth will lead to the same destination. This will follow for evidential decision theorists; but if we are causal decision theorists (as I am), then pursuing truth and pursuing actual truth will lead us to different destinations. In this paper, I assume causal decision theory and argue for actualist veritism over veritism. My argument is that veritism does not respect the direction of fit of belief, since it incentivizes changing the world to match your beliefs, rather than changing your beliefs to match the world as it is. In contrast, actualist veritism honors the direction of fit of belief, and only incentivizes changing your beliefs to match the world as it is. For this reason, actualist veritism allows epistemic teleologists to escape “epistemic bribery” objections, to doubt self‐verifying propositions like “someone believes this proposition,” and to maintain coherence in the face of self‐falsifying propositions like “I don't believe this proposition.”",
-      "authors": [
-        "J. Dmitri Gallow"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1111/nous.70067",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Noûs",
-      "journal_id": "J086",
-      "origin": "crossref",
-      "title": "Epistemic Actualism",
-      "url": "https://doi.org/10.1111/nous.70067"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Honghui Zhu"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1111/theo.70122",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Theoria",
-      "journal_id": "J094",
-      "origin": "crossref",
-      "title": "Mathematical Pluralism. By GrahamPriest, Cambridge: Cambridge University Press, 2024. 82 pp. $77.00 (hbk); $22.00 (pbk).\n                    ISBN:\n                    978‐1‐00‐950096‐8 (hbk), 978‐1‐00‐909541‐9 (pbk)",
-      "url": "https://doi.org/10.1111/theo.70122"
-    },
-    {
-      "abstract": "Human infection challenge (HIC) studies where healthy volunteers are deliberately infected expedite vaccine development. However, agreement on fair compensation that avoids both exploitation and undue inducement remains elusive. Without clear compensation policies or guidelines, implementation of HIC studies remains a challenge in Zambia. We conducted 5 focus group discussions and 15 in-depth interviews on compensation prior to initiation of a typhoid HIC study among healthy adults from higher learning institutions in Lusaka, Zambia. Thematic analysis revealed HIC-specific considerations for compensation, including compensation allocated to research participants and their families for potential risk of immediate and long-term side effects from deliberate infection. Preferences for compensation timing varied, with some advocating for upfront compensation and others favouring compensation after participation to account for lived experiences of side-effects, time commitment and emotional burden. Compensation preferences included monetary and non-monetary compensation in the form of long-term medical coverage and tuition for university/college education. However, views on the value of the compensation varied, highlighting the complexity of determining appropriate compensation that balances voluntariness with fair recognition of risks and sacrifices. Sustained engagement of ethics and regulatory authorities with potential research participants must be encouraged to ensure ethically responsive research and to build public trust in HIC studies.",
-      "authors": [
-        "Chanda Mwamba",
-        "Evelyn Muleba Kunda-Ng’andu",
-        "Masuzyo Chirwa",
-        "Herbert Chabwera Nyirenda",
-        "Stanley Mwale",
-        "Seke G Y Muzazu",
-        "Michelo Simuyandi",
-        "Anjali Sharma"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1136/jme-2024-110510",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "“This is human life, so I don’t know what compensation I can attach to it”: perceptions on compensation in human infection challenge studies in Lusaka, Zambia",
-      "url": "https://doi.org/10.1136/jme-2024-110510"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Arjun Devanesan"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1136/jme-2026-112573",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "Ethical implications of the mereology of pregnancy: a response to commentaries",
-      "url": "https://doi.org/10.1136/jme-2026-112573"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Arianne Shahvisi",
-        "Patricia Kingori"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1136/jme-2026-112619",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "Humanitarianism or toxic colonialism? The burdens of unusable drug donations during crises",
-      "url": "https://doi.org/10.1136/jme-2026-112619"
-    },
-    {
-      "abstract": "Recent philosophers of secularization have given religion a more central place in their thinking about secular modernity and liberal democracy. This article argues that such theories have overlooked an important dimension of the contemporary social and political landscape, namely how the framework of separating ‘religious’ and ‘secular’ spheres can paradoxically affirm the hegemonic position of Christianity and marginalize non-Christian minorities. Drawing on the work of Gil Anidjar, the article instead develops a critical narrative of secularization which points to continuations of Christian hegemony in the ‘secular’ realm, despite and through the religion-secular binary. Bringing this to the forefront is crucial for understanding how secularism can be compatible with the rise in Christian nationalist politics in Europe and North America, as well as the marginalization of racial and religious minorities. Moreover, the article argues, rethinking secularization raises important new questions for normative theory about religion and politics.",
-      "authors": [
-        "A. Sophie Lauwers"
-      ],
-      "date": "2026-09-18",
-      "doi": "10.1177/01914537261481258",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophy &amp; Social Criticism",
-      "journal_id": "J037",
-      "origin": "crossref",
-      "title": "Rethinking Secularization: The Religion-Secular Binary, Christianity, and the Politics of Exclusion",
-      "url": "https://doi.org/10.1177/01914537261481258"
-    },
     {
       "abstract": "",
       "authors": [
@@ -13581,6 +12660,20 @@
     {
       "abstract": "",
       "authors": [
+        "Lars J.K. Moen"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1002/japp.70146",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Applied Philosophy",
+      "journal_id": "J053",
+      "origin": "crossref",
+      "title": "The Limits of Liberty. S.Conly, 2025. Oxford, Oxford University Press. 224 pp, £19.99 (hb)",
+      "url": "https://doi.org/10.1002/japp.70146"
+    },
+    {
+      "abstract": "",
+      "authors": [
         "Daniel M. Phoenix",
         "Alexandra Bejarano",
         "Deborah Mower",
@@ -14149,6 +13242,73 @@
       "url": "https://doi.org/10.1111/bioe.70206"
     },
     {
+      "abstract": "",
+      "authors": [
+        "GORDON HUGHES"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1111/jols.70083",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "Garland, sociological criminology, and the United States’ penal exceptionalism\n                    Law and Order Leviathan: America's Extraordinary Regime of Policing and Punishment\n                    By DavidGarland, Princeton: Princeton University Press, 2025, 232 pp., £28.00",
+      "url": "https://doi.org/10.1111/jols.70083"
+    },
+    {
+      "abstract": "ABSTRACT Algorithmically managed platform labor transforms the organization of employment, but the lived experience of this emerging form of labor has not yet received much attention in the philosophy of work. Starting from the assumption that work shapes individuals as citizens and therefore needs to be evaluated from a democratic perspective, this article explores how delivery riders in Buenos Aires experience this form of employment. Based on qualitative research, it explores two dimensions of the riders' perspective: to whom they ascribe agency and responsibility, and whether they experience spaces for deliberation in the context of their work. We show, in particular, how their ascriptions of responsibility for structural problems often focus on customers, while the company disappears behind the technical affordance of the app, and how the organizational model of platform work minimizes opportunities for deliberation. Our discussion sheds light on the interplay between subjective experiences of work and the broader structural forces shaping contemporary labor markets, and thereby the conditions of democratic politics.",
+      "authors": [
+        "Lisa Herzog",
+        "Agustín Prestifilippo"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1111/josp.70075",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Social Philosophy",
+      "journal_id": "J035",
+      "origin": "crossref",
+      "title": "“… You Realize How You Can Use the App and Not Let the App Use You.” The Moral Universe of Latin American Delivery Riders From the Perspective of Democratic Citizenship",
+      "url": "https://doi.org/10.1111/josp.70075"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "date": "2026-11-01",
+      "doi": "10.1111/nous.70075",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Noûs",
+      "journal_id": "J086",
+      "origin": "crossref",
+      "title": "Issue Information",
+      "url": "https://doi.org/10.1111/nous.70075"
+    },
+    {
+      "abstract": "ABSTRACT Suppose some uncoordinated group of agents causes tremendous harm, but none of the individuals could have meaningfully changed this result by acting differently. These “collective harm” cases have been the subject of extended philosophical discussion, but this paper argues that there are really two different, if connected, puzzles presented by such cases: (1) a puzzle about how to characterize the moral injury to those who suffer this harm (the “wrongness puzzle”) and (2) a puzzle about why agents may do something wrong in participating in producing this harm (the “participation puzzle”). This paper elaborates these puzzles, defends the idea that they are different from each other, and offers solutions to them both. The core idea is that an application of the distinction between ideal and nonideal theory can shed light on both puzzles; the injury experienced by the victims of collective harm is to be understood in terms of the shortfall they suffer from how they would fare if ideal circumstances obtained, and participation in collective harm is wrong when it involves reasoning that fails to appropriately apply ideal moral rules to nonideal situations.",
+      "authors": [
+        "Taylor Koles"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.1111/nous.70076",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Noûs",
+      "journal_id": "J086",
+      "origin": "crossref",
+      "title": "Solving the Dual Puzzles of Collective Harm",
+      "url": "https://doi.org/10.1111/nous.70076"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "date": "2026-11-01",
+      "doi": "10.1111/phib.70027",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Analytic Philosophy",
+      "journal_id": "J098",
+      "origin": "crossref",
+      "title": "Issue Information",
+      "url": "https://doi.org/10.1111/phib.70027"
+    },
+    {
       "abstract": "Private rights have returned to play a central role in public law. In the last few years alone, courts have invoked private rights to elaborate the elements of Article III standing, interpret the scope of 42 U.S.C. § 1983’s cause of action, articulate the limits of the administrative state, and give meaning to enumerated constitutional rights. But unlike private law—which has confronted a similar fall and rise of private rights with wide-ranging discussion over their meaning—public law has not been subjected to a fulsome debate about what exactly private rights are. Both proponents and critics of the return of a private rights model of public law adjudication share a basic understanding of private rights rooted in William Blackstone’s eighteenthcentury writings. But Blackstone’s view fails to capture the full significance of private rights in the common law. Overemphasizing it muddles the stakes of the return of private rights in public law.\n\nThis Article articulates the historical and doctrinal limits of the default Blackstonian view of private rights. Blackstone’s conception of private rights was based on an underlying view of liberty as noninterference that was controversial even when he was writing in the 1760s. Instead, the dominant view of liberty in the common law at the time was the republican view of liberty as independence. That view of liberty supported a distinct republican conception of private rights, which has coexisted in the common law tradition alongside the Blackstonian conception.\n\nAfter outlining the oft-elided republican conception of private rights and tracing its influence on legal discourse, rhetoric, and case law, this Article illustrates its possible implications for public law doctrine. Recognizing the distinction between these two conceptions of private rights casts new light on Article III standing, damages, Section 1983, and adjudication outside Article III courts. This distinction also provides a corrective to the scholarly debates over private and public rights: Just as it is a mistake to suppose there was a single unified historical conception of private rights, it is also a mistake to dismiss private rights altogether as inherently confused or obfuscatory.",
       "authors": [
         "J. Bradley"
@@ -14175,9 +13335,263 @@
       "origin": "crossref",
       "title": "Tribal Federalism: Expanding the Indian Gaming Paradigm",
       "url": "https://doi.org/10.36644/mlr125.2.tribal"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Luke Nicholls",
+        "Robert Hutto",
+        "Zephrah Soto",
+        "Hamilton Morrin",
+        "Thomas A. Pollak",
+        "Raj Korpan",
+        "Cheryl Carmichael"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1007/s43681-026-01450-3",
+      "first_seen_jst": "2026-11-03",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "“AI psychosis” in context: how conversation history shapes LLM responses to delusional beliefs",
+      "url": "https://doi.org/10.1007/s43681-026-01450-3"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ryan Winterburg"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1007/s43681-026-01470-z",
+      "first_seen_jst": "2026-11-03",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "The alignment problem is a rate problem: Why waiting for complete governance carries its own risk, and why a deliberate ~ 80% counterweight (NPHE) is a rational response",
+      "url": "https://doi.org/10.1007/s43681-026-01470-z"
+    },
+    {
+      "abstract": "Abstract This study examines how Responsible AI (RAI) principles are translated as they move from ethical discourse into governance, standards, and national policy contexts. Drawing on comparative analysis of influential AI ethics guidelines, policy syntheses, and technical glossaries, the research traces how widely cited principles are reformulated across domains, using transparency and fairness as cases of how institutional translation operates in practice. It shows that while these principles originate as broad normative commitments, they become progressively institutionalized as policy categories, procedural requirements, and measurable technical properties. The comparison shows that the underlying mechanism generalizes across principles, while the resulting institutional forms remain principle-specific. Focusing on national AI strategies as a key site of institutionalization, the study analyzes how RAI principles are embedded within state agendas, regulatory approaches, and oversight mechanisms. This analysis reveals variation in how principles are prioritized and operationalized, reflecting differences in governance priorities, administrative capacity, and political context. The findings highlight that principles most amenable to standardization and measurement tend to dominate policy implementation, while more expansive ethical concepts are less visible. By mapping these shifts across institutional settings, the paper contributes to a deeper understanding of how AI ethics is reconfigured in practice and offers insights for policymakers seeking to balance technical feasibility with normative ambition in the governance of AI.",
+      "authors": [
+        "Jesse Kirkpatrick",
+        "Manpriya Dua"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1007/s43681-026-01477-6",
+      "first_seen_jst": "2026-11-03",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "When principles become policy: the institutional translation of responsible AI in national AI ​strategies",
+      "url": "https://doi.org/10.1007/s43681-026-01477-6"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Hieu Doan",
+        "Huyen T. T. Tran",
+        "Phuong M. Ngo",
+        "Nga T. T. Nguyen",
+        "P. V. Nguyen"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1007/s43681-026-01479-4",
+      "first_seen_jst": "2026-11-03",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "What a rule base cannot say: a semiotic analysis of ontology-based legal reasoning in Vietnam",
+      "url": "https://doi.org/10.1007/s43681-026-01479-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Federico Cabitza",
+        "Michela De Felice",
+        "Eugenia Lancellotta",
+        "Enrico Maria Piras"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1007/s43681-026-01481-w",
+      "first_seen_jst": "2026-11-03",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Damned if you do, negligent if you don’t: defensive non-use, evidentiary risk, and the medico-legal double bind of clinical AI reliance",
+      "url": "https://doi.org/10.1007/s43681-026-01481-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Aman"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1080/1535685x.2026.2740970",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Law &amp; Literature",
+      "journal_id": "J021",
+      "origin": "crossref",
+      "title": "Ways of Remembering: Law, Cinema and Collective Memory in the New India",
+      "url": "https://doi.org/10.1080/1535685x.2026.2740970"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Richard Brown"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1093/analys/anag085",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "title": "The False Hope of Illusionism: Critical Notice of\n                    House of Mirrors\n                    by François Kammerer",
+      "url": "https://doi.org/10.1093/analys/anag085"
+    },
+    {
+      "abstract": "Abstract Control over the information ecosystem and the public narrative is a hallmark of authoritarian governments. In the digital age, social media created new vulnerabilities within information ecosystems that can be exploited by different actors to undermine democracy: particularly the ease of deploying disinformation at scale, and the economic weakening of independent media. This article documents how the government of Gustavo Petro in Colombia exploited both vulnerabilities simultaneously and systematically through four tactics: the opaque use of state-funded influencers, the political mobilization of institutional social media accounts, the redirection of government advertising spending to the detriment of independent media, and editorial control over public radio and television. The article argues that, together, the simultaneous and systematic exploitation of these vulnerabilities can be characterized of authoritarian tendency. Finally, the article identifies several areas for intervention to mitigate these risks in the future.",
+      "authors": [
+        "Beatriz Botero Arcila"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1093/icon/moag114",
+      "first_seen_jst": "2026-11-03",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
+      "origin": "crossref",
+      "title": "Cuando el Estado desinforma: Prácticas autoritarias en el ecosistema de información de Colombia y América Latina When the State Disinforms: Authoritarian Practices in the Information Ecosystem of Colombia and Latin America",
+      "url": "https://doi.org/10.1093/icon/moag114"
+    },
+    {
+      "abstract": "ABSTRACT This article addresses the question whether arguments about the badness of death can offer useful analogies for understanding the badness of extinction. The two main lines of argumentation, the Epicurean approach and the deprivation view, are analyzed from this perspective. The analogies offer some interesting viewpoints to killing and anthropogenic mass extinction, for example. Nevertheless, we conclude that the analogy to death fails to explain badness of extinction. As the major (Western) moral theories also seem to fail on this task, we propose that the badness of extinction should be understood as a tethered concept: extinction is then bad as a loss to someone who understands and experiences that loss.",
+      "authors": [
+        "Markku Oksanen",
+        "Helena Siipi"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1093/monist/onag025",
+      "first_seen_jst": "2026-11-03",
+      "journal": "The Monist",
+      "journal_id": "J090",
+      "origin": "crossref",
+      "title": "On Associating Extinction with Death: Fatal Implications for Conservation?",
+      "url": "https://doi.org/10.1093/monist/onag025"
+    },
+    {
+      "abstract": "Abstract In this paper I will offer a detailed analysis of Bayesian species delimitation methods and the oversplitting problem. I will argue that when discussing oversplitting, two issues should be kept separate: the inference problem concerning the discovery of population structure and the labelling problem surrounding the classification of different lineages as distinct species. Understanding oversplitting as a methodological problem of Bayesian inference is the consequence of not separating the inferential problem from the labelling problem. While there is no intrinsic flaw with Bayesian inference of population structure revealed by oversplitting, treatments of the inference problem can benefit from some of the lessons learned in earlier discussions of Bayesian phylogenetic inference.",
+      "authors": [
+        "Bengt Autzen"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1093/monist/onag031",
+      "first_seen_jst": "2026-11-03",
+      "journal": "The Monist",
+      "journal_id": "J090",
+      "origin": "crossref",
+      "title": "Oversplitting and Bayesian Inference",
+      "url": "https://doi.org/10.1093/monist/onag031"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ian Robertson"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1093/pq/pqag082",
+      "first_seen_jst": "2026-11-03",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
+      "origin": "crossref",
+      "title": "Minds in skilled performance: cognitive science and the wild west",
+      "url": "https://doi.org/10.1093/pq/pqag082"
+    },
+    {
+      "abstract": "Today, it is commonplace to claim that liberalism created the modern world. This paper examines how and why the rise-of-liberalism narrative first emerged by examining textbooks and surveys on the history of political thought published in Britain and the United States between 1890 and the 1990s. In doing so, it shows how, in the interwar period, a new conception of “liberalism” was invented, imagining it as a secular emancipatory movement that shaped the modern world in its image. Second, this paper highlights how this master narrative was created by liberalism’s self-professed enemies—by Marxists and conservative thinkers—as much as by its friends, to serve different polemical purposes. Finally, this paper offers some reflections on the implications of this account of the historiography of liberalism for its contemporary defenders. It concludes that liberals themselves might have good reason to relinquish overblown claims about the importance of liberalism in the making of the modern world.",
+      "authors": [
+        "Annelien de Dijn"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1177/00905917261501468",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Political Theory",
+      "journal_id": "J031",
+      "origin": "crossref",
+      "title": "The Invention of Liberalism",
+      "url": "https://doi.org/10.1177/00905917261501468"
+    },
+    {
+      "abstract": "Positions that link rights to sentience face an insect challenge: insects are plausibly sentient, yet recognizing individual insects as rights-bearers would problematize public health, veterinary, and agricultural benefits obtained by harming them. The most obvious responses seem inadequate. Indian animal ethics, which has always taken the idea of insect sentience seriously, is a promising place to look for further options. Of particular relevance is the idea of ahimsa (nonviolence, noninjury), but ahimsa in its ancient form has metaphysical commitments that secular animal ethics should not accept. More promising still is the progressive ahimsaism developed by Gandhi in the 1920s, on which duties of nonmaleficence can be overridden by duties of care, provided the duty of care is adopted, interpreted, and exercised in accordance with the guiding ideal of ahimsa. This article provides an exposition and analysis of the view and relates it to the insect challenge.",
+      "authors": [
+        "Jonathan Birch"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.3998/jpe.10745",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Practical Ethics",
+      "journal_id": "J076",
+      "origin": "crossref",
+      "title": "Ethics for a Large Sentient World: Insects, Ahimsa, and Gandhi’s Progressive Ahimsaism",
+      "url": "https://doi.org/10.3998/jpe.10745"
+    },
+    {
+      "abstract": "Jonathan Birch's 'Ethics for a Large Sentient World' presents a novel approach to the challenges associated with granting sentient insects direct moral concern. The Gandhian-inspired ethic that Birch develops takes insect sentience seriously while maintaining that insects have no right not to be harmed when harming them is necessary to secure human and nonhuman animal health and agricultural benefits. This paper offers a critical response to Birch's framework. I begin by arguing that Birch misinterprets the challenge facing a robust rights-based theory. I then show that his Gandhian alternative is not a genuine departure from a robust rights-based view but rather a specific, and ultimately unappealing, version of it. I show that Birch's view is unattractive because it holds that duties of care can function as exceptions to rights, which has problematic implications for all sentient beings, including humans.",
+      "authors": [
+        "Angie Pepper"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.3998/jpe.10746",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Practical Ethics",
+      "journal_id": "J076",
+      "origin": "crossref",
+      "title": "In Defence of Robust Rights for All Sentient Creatures",
+      "url": "https://doi.org/10.3998/jpe.10746"
+    },
+    {
+      "abstract": "In his ‘Ethics for a Large Sentient World: Insects, Ahimsa, and Gandhi’s Progressive Ahimsaism’ Jonathan Birch attempts to provide a solution to one of the most difficult problems in animal ethics: the insect challenge. If insects are sentient, and if sentience is sufficient for the possession of robust rights not to be harmed, then much of our behavior is seriously wrong since it harms insects on a vast scale. Birch’s solution is based on Gandhi’s idea of Progressive Ahimsaism (PA). In this paper I argue that PA is unsuited to answer the challenges of animal suffering. First, though it emphasizes avoiding wrongdoing, the moral ideal proposed by PA makes it difficult to do positive good, tends toward antinatalism, and offers no pathway out of natural suffering. Second, PA’s duty of care model is incompatible with largescale beneficent action and precludes us from moving toward a genuinely harm-free world. Finally, I conclude by briefly suggesting that we could solve these problems by seeing humanity as a collective agent with a moral duty to care for all sentient beings and individual human actions as justified insofar as they are compatible with this mission.",
+      "authors": [
+        "Gary David O'Brien"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.3998/jpe.10747",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Practical Ethics",
+      "journal_id": "J076",
+      "origin": "crossref",
+      "title": "Ethics for a Tragic World: Humanity, Insects, and Doing Good",
+      "url": "https://doi.org/10.3998/jpe.10747"
+    },
+    {
+      "abstract": "The recognition of invertebrates as ‘plausibly sentient’ raises significant ethical questions in contexts where they are harmed. In response to Jonathan Birch’s presentation of Gandhi’s ahimsaism (nonviolence) as a potential means of navigating this ‘insect challenge’, we draw on fieldwork conducted at the Skanda Vale ashram to provide a comparative critique of, and potential alternative to, ahmsaism. For the community at Skanda Vale, the ethos of nonviolence cannot be separated from the wider metaphysical commitments of foundational South Asian religious traditions. Within such a context we come to question the prioritization of sentience as a marker of responsibility toward other living beings. Rather than seeking to justify harms to sentient others, we argue for an expanded circle of compassion that is more in line with traditional uses of ahimsa.",
+      "authors": [
+        "Samantha Hurn",
+        "Alexander Badman-King"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.3998/jpe.10748",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Practical Ethics",
+      "journal_id": "J076",
+      "origin": "crossref",
+      "title": "The ‘Insect Challenge’ – A Response to Birch",
+      "url": "https://doi.org/10.3998/jpe.10748"
+    },
+    {
+      "abstract": "The three commentaries on ‘Ethics for a large sentient world’ raise several problems for a Gandhian approach to animal ethics. In my responses, I defend my position that granting robust rights to individual insects is untenable, pushing us to look harder at alternative options. I explain how Gandhi’s commitment to nonviolence allows him to avoid the unwelcome implications his principles might otherwise have. I consider his nuanced position on the interplay between general principles and embedded responses to particular situations. I explain why he should not be read as an antinatalist. That said, his framework undeniably presents an austere ascetic ideal that calls on us to rethink the meaning of ‘progress’. The framework condemns many aspects of modern industrialized economies, not just their treatment of nonhuman animals.",
+      "authors": [
+        "Jonathan Birch"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.3998/jpe.10749",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Practical Ethics",
+      "journal_id": "J076",
+      "origin": "crossref",
+      "title": "How to Live Nonviolently in a Large Sentient World: Replies to Pepper, Hurn and Badman-King, and O’Brien",
+      "url": "https://doi.org/10.3998/jpe.10749"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-02",
-  "window_start": "2026-09-18"
+  "window_end": "2026-11-03",
+  "window_start": "2026-09-19"
 }

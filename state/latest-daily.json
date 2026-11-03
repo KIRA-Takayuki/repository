@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-11-01T21:13:00.158436+00:00",
-  "collected_on": "2026-11-02",
+  "checked_at_utc": "2026-11-03T00:01:31.836457+00:00",
+  "collected_on": "2026-11-03",
   "counts": {
     "checked": 135,
     "failed": 1,
@@ -11,22 +11,25 @@
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "Artificial intelligence (AI) is reshaping decision-making processes and infrastructures. It is also changing how societies narrate risk, responsibility, and the future. Existing scholarship has examined these representations and their ethical implications. Yet it rarely offers comprehensive approaches to analyzing the functions narratives perform in shaping ethical debates. Understanding these functions is crucial for grasping how narratives influence ethical judgment and public discourse about AI. To address this gap, this paper proposes a conceptual framework for examining them. Rather than analyzing narrative content or audience reception, we focus on narrative structure. We ask how these structures shape normative assumptions and guide ethical evaluation. We grounded the analysis in a qualitative integrative review. We developed a typology linking three narrative functions to three waves of ethical concern about AI. The framework offers a heuristic tool for analyzing how ethical discourse around AI is formed, contested, and transformed. More broadly, the paper promotes reflective, context-sensitive approaches to AI governance and public understanding. This is especially important today, as AI’s disruption means that humans no longer shape narratives alone.",
+      "abstract": "Extended interaction with large language models (LLMs) has been linked to the reinforcement of delusional beliefs, attracting clinical and public concern. Yet most empirical work evaluates model safety in brief interactions, which may not reflect how harms develop through sustained dialogue. Five LLMs were tested across three levels of accumulated context, using the same escalating delusional conversation history to isolate its effect on model behaviour. Responses were coded on risk and safety dimensions, and each model was analysed qualitatively. Models separated into two distinct tiers: GPT-4o, Grok 4.1 Fast, and Gemini 3 Pro exhibited high-risk, low-safety profiles; Claude Opus 4.5 and GPT-5.2 Instant displayed the opposite pattern. As context accumulated, performance degraded in the unsafe group, while the same material activated stronger safety interventions among safer models. Qualitative analysis identified distinct mechanisms of failure, including validating the user’s delusional premises, elaborating beyond them with new content, and attempting harm reduction from within the delusional frame. Safer models, however, often used the established relationship to support intervention, challenging delusional beliefs and directing the user to external support. These findings indicate that accumulated context functions as a stress test of safety architecture, revealing whether prior dialogue is treated as a worldview to inherit or evidence to evaluate. Short-context assessments may therefore mischaracterise model safety, underestimating danger in some systems while missing context-activated gains in others. The results suggest that delusion reinforcement is a tractable alignment failure, with safer models establishing a baseline that future systems should now be expected to meet.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Daniel M. Phoenix",
-        "Alexandra Bejarano",
-        "Deborah Mower",
-        "Qin Zhu"
+        "Luke Nicholls",
+        "Robert Hutto",
+        "Zephrah Soto",
+        "Hamilton Morrin",
+        "Thomas A. Pollak",
+        "Raj Korpan",
+        "Cheryl Carmichael"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-01",
-      "doi": "10.1007/s10676-026-09933-x",
-      "first_seen_jst": "2026-11-02",
-      "journal": "Ethics and Information Technology",
-      "journal_id": "J064",
+      "date": "2026-11-02",
+      "doi": "10.1007/s43681-026-01450-3",
+      "first_seen_jst": "2026-11-03",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
@@ -34,1142 +37,480 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10676-026-09933-x",
-      "publisher_online_date": "2026-11-01",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01450-3",
+      "publisher_online_date": "2026-11-02",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10676-026-09933-x"
+        "https://doi.org/10.1007/s43681-026-01450-3"
       ],
-      "title": "When human narratives meet artificial intelligence: exploring a framework for AI ethics",
-      "url": "https://doi.org/10.1007/s10676-026-09933-x"
+      "title": "“AI psychosis” in context: how conversation history shapes LLM responses to delusional beliefs",
+      "url": "https://doi.org/10.1007/s43681-026-01450-3"
     },
     {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Bilal Irfan",
-        "Julpohng Vilai",
-        "J. Wesley Boyd"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2740439",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2740439"
-      ],
-      "title": "Both/And: Advocacy and Evidence-Based Analysis Are Not Mutually Exclusive for Experts in Asylum Cases",
-      "url": "https://doi.org/10.1080/15265161.2026.2740439"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Anika Heuberger",
-        "Lauren B. Solberg"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2740440",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2740440"
-      ],
-      "title": "Documenting Immigration Status in Routine Pediatric Care: An Ethical Framework",
-      "url": "https://doi.org/10.1080/15265161.2026.2740440"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Meaghann S. Weaver",
-        "Maureen Kelley"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2740442",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2740442"
-      ],
-      "title": "Fixing the Fulcrum of Care: Centering the Child in Pediatric Asylum Evaluations",
-      "url": "https://doi.org/10.1080/15265161.2026.2740442"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Brian Tuohy",
-        "Amanda Telfer",
-        "Olivia Gong",
-        "Francesca Rossi",
-        "Reece Gorrie"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2740444",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2740444"
-      ],
-      "title": "The Right Not to Be Rewritten: Epistemic Mediation in Pediatric Asylum Evaluations",
-      "url": "https://doi.org/10.1080/15265161.2026.2740444"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Adam Braddock",
-        "Janine Young"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2740450",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2740450"
-      ],
-      "title": "Access and Equity in Pediatric Forensic Asylum Evaluations",
-      "url": "https://doi.org/10.1080/15265161.2026.2740450"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Casey Hall"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741284",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741284"
-      ],
-      "title": "The Different Kinds of Agency in Clinician-AI “Disagreement”",
-      "url": "https://doi.org/10.1080/15265161.2026.2741284"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Yoshiyasu Takefuji"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741286",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741286"
-      ],
-      "title": "Separating AI Prediction Accuracy from Feature-Importance Reliability in Clinical Decision-Making",
-      "url": "https://doi.org/10.1080/15265161.2026.2741286"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Jelena Roganović"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741289",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741289"
-      ],
-      "title": "Epistemic Acceptance with Normative Non-Adoption: Beyond Clinician–AI Disagreement",
-      "url": "https://doi.org/10.1080/15265161.2026.2741289"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Hafez Ismaili M’hamdi"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741290",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741290"
-      ],
-      "title": "Coercion, Solidarity, and the Burden of Justification",
-      "url": "https://doi.org/10.1080/15265161.2026.2741290"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Maxwell Ahiafor",
-        "Mon Yee Htet Paing",
-        "Jinyun Wang",
-        "Yash Jain",
-        "Wang Zhong",
-        "Boda Zhou"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741291",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741291"
-      ],
-      "title": "The Patient in the Room: Why Clinician–AI Disagreement Needs a Third Voice",
-      "url": "https://doi.org/10.1080/15265161.2026.2741291"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Jurgen De Wispelaere",
-        "Dominik Gerber"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741292",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741292"
-      ],
-      "title": "The Thin Normativity of Solidarity in Public Health",
-      "url": "https://doi.org/10.1080/15265161.2026.2741292"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Zhicong Liu",
-        "Yukai Weng",
-        "Bowen Han",
-        "Yubiao Yu",
-        "Tianhao Hu",
-        "Bo Pang",
-        "Hao Jiang",
-        "Xuesong Li"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741295",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741295"
-      ],
-      "title": "Disagreement Is Manufactured: How Medical AI Output Formats Reshape Clinicians’ Decision-Making Authority",
-      "url": "https://doi.org/10.1080/15265161.2026.2741295"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Søren Holm"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741296",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741296"
-      ],
-      "title": "Solidarity Forever—or How Not to Deconstruct a Bioethical Concept",
-      "url": "https://doi.org/10.1080/15265161.2026.2741296"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Mirko Farina"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741297",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741297"
-      ],
-      "title": "Disagreement Without Believers: Rethinking the Ethics and Epistemology of Clinician–AI Conflict",
-      "url": "https://doi.org/10.1080/15265161.2026.2741297"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Benjamin Gregg"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741299",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741299"
-      ],
-      "title": "When Agreement Is the Wrong Goal: Governing Clinician–AI Disagreement in Medicine",
-      "url": "https://doi.org/10.1080/15265161.2026.2741299"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Maxwell J. Smith"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741300",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741300"
-      ],
-      "title": "Against Neutralizing Coercion",
-      "url": "https://doi.org/10.1080/15265161.2026.2741300"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Y. Tony Yang"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741301",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741301"
-      ],
-      "title": "Manufactured Dissent: Clinician–AI Discordance as an Artifact of Design",
-      "url": "https://doi.org/10.1080/15265161.2026.2741301"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Sabine Salloch"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741302",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741302"
-      ],
-      "title": "Human-AI “Disagreement”: Keeping the Epistemic Authority",
-      "url": "https://doi.org/10.1080/15265161.2026.2741302"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Ana Komparic",
-        "Michael Montess"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741303",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741303"
-      ],
-      "title": "Solidarity, Relationality and Affect in Public Health: A Modest Proposal",
-      "url": "https://doi.org/10.1080/15265161.2026.2741303"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Daniel T. Kim",
-        "Bharat Ranganathan"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741305",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741305"
-      ],
-      "title": "A Thick Ethical Concept: Defending Solidarity’s Normativity for Public Health",
-      "url": "https://doi.org/10.1080/15265161.2026.2741305"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Kelso Cratsley",
-        "Ulrich Koch"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741306",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741306"
-      ],
-      "title": "Solidarity and Coercion as Critical Moral Concepts",
-      "url": "https://doi.org/10.1080/15265161.2026.2741306"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Joseph Metcalf",
-        "Charles E. Binkley"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741307",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741307"
-      ],
-      "title": "From Disagreement to Teamwork: The Surgical Team as a Model for Clinician-AI Collaboration",
-      "url": "https://doi.org/10.1080/15265161.2026.2741307"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Daniel Nabil Maroun"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741309",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741309"
-      ],
-      "title": "What Justice-Talk Misses About Solidarity",
-      "url": "https://doi.org/10.1080/15265161.2026.2741309"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Rosamond Rhodes"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741313",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741313"
-      ],
-      "title": "Understanding Moral Analysis and Moving Beyond Terms’ Moral Valence",
-      "url": "https://doi.org/10.1080/15265161.2026.2741313"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Danton Char",
-        "Michael Abramoff"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741315",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741315"
-      ],
-      "title": "Practical Matters Informing the Ethical Debate on Clinician-AI Disagreement: Patient Outcomes, Performance Metrics, and Determining Responsibility for Adverse Events",
-      "url": "https://doi.org/10.1080/15265161.2026.2741315"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Daniel Shussett",
-        "Veljko Dubljević"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741317",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741317"
-      ],
-      "title": "Toward Nurturing Productive Clinician-AI Disagreement in Medicine",
-      "url": "https://doi.org/10.1080/15265161.2026.2741317"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Jennifer Flynn"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741318",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741318"
-      ],
-      "title": "The Descriptive Account of Coercion",
-      "url": "https://doi.org/10.1080/15265161.2026.2741318"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Gerard Vong"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741319",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741319"
-      ],
-      "title": "Coercion, Moral Neutrality, and Public Health Ethics",
-      "url": "https://doi.org/10.1080/15265161.2026.2741319"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Rachel Gur-Arie"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741320",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741320"
-      ],
-      "title": "Demoralizing Solidarity and Coercion in Public Health: The Way Forward?",
-      "url": "https://doi.org/10.1080/15265161.2026.2741320"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Daniel W. Tigard"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741321",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741321"
-      ],
-      "title": "Answerable to Whom? Bringing the Patient into Clinician-AI Disagreement",
-      "url": "https://doi.org/10.1080/15265161.2026.2741321"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Mark Kuczewski"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741322",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741322"
-      ],
-      "title": "Radical Acts of Professionalism: Medicine’s Call to Respect the Dignity of Immigrants",
-      "url": "https://doi.org/10.1080/15265161.2026.2741322"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Kadija S. Ferryman"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741323",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741323"
-      ],
-      "title": "Beyond Disagreement: Performativity and the Production of Clinical Judgment",
-      "url": "https://doi.org/10.1080/15265161.2026.2741323"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Remziye Zaim",
-        "Anita Ho",
-        "Ross E. Upshur"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741324",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741324"
-      ],
-      "title": "Whose Values Does the AI Convey? Normative Provenance in Clinician-AI Disagreement",
-      "url": "https://doi.org/10.1080/15265161.2026.2741324"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Julia Kolak"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741325",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741325"
-      ],
-      "title": "The Professional Norms of Opposition: Medical Authority and AI-Physician Disagreement",
-      "url": "https://doi.org/10.1080/15265161.2026.2741325"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Lynette Hammond Gerido",
-        "Olivia Masse",
-        "Yash Mishra",
-        "Melinda Laine Hsu"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741327",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741327"
-      ],
-      "title": "Rethinking Disagreement and Disclosure: Patients, Clinicians, and AI Considerations for Medical Decision-Making",
-      "url": "https://doi.org/10.1080/15265161.2026.2741327"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Peter G. N. West-Oram"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1080/15265161.2026.2741328",
-      "first_seen_jst": "2026-11-02",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2741328"
-      ],
-      "title": "Is Solidarity Good or Bad? The Importance of Accurate Taxonomy For Ethical Public Health Policy and Practice",
-      "url": "https://doi.org/10.1080/15265161.2026.2741328"
-    },
-    {
-      "abstract": "ABSTRACT The purpose of a first‐in‐human (FIH) clinical trial is to gather safety, side effects, and (potential) dosage information, which is to say, information about how an intervention affects and interacts with the human body. Although participants in FIH trials may personally benefit, the primary goal is to obtain participant baseline human safety knowledge or knowledge of intervention efficacy. Some FIH clinical trials carry significant foreseeable risk to participants with little to no foreseeable participant benefit. As the potential risk is high and personal benefit unlikely, there is consensus that participants in risky FIH trials should consent to participate, which entails that children should not be included in a risky FIH trial that could enroll only adults. We take aim at this view and argue that risky FIH trials planned for adults should be open also to including children in some circumstances. Specifically, and focusing primarily on solid organ xenotransplant research, we argue that considerations of generalizability, fair inclusion, differential risk‐benefit, parental authority, and children's interest are ethically salient, and that concerns of exploitation, instrumentalization, and upper‐limits of harm can be effectively addressed.",
+      "abstract": "Proposals for governing artificial intelligence (AI) are often judged by completeness: how much risk they cover before deployment. This paper argues that the alignment problem is also a rate problem. Frontier AI capability, institutional governance capacity, and the supply of high-quality training data change at different rates. Waiting for complete governance before acting therefore carries its own risk, because the gap between capability and governance capacity can widen during the delay. The paper proposes the Nash-Pareto Hybrid Equilibrium (NPHE) as a deliberately incomplete and revisable governance counterweight. NPHE addresses one bounded governance function: real-time regulation of an AI system’s behavioral latitude against a human-ratified setpoint. A threat-weighting function blends defensive and cooperative posture vectors. A critical-integrity override prevents a severe single-axis failure from being averaged away. A bounded discrete proportional-integral-derivative (PID) controller adjusts the blend. The principal contribution is a computable specification of the alignment-error term that the controller requires, with an explicit account of which components are specified, unbuilt, or uncalibrated. NPHE is a conceptual architecture and research agenda, not a validated controller. The estimator, setpoint, and intervention-response dynamics remain unbuilt or unidentified. The controller gains are provisional, and the paper claims no stability proof.",
       "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
+      "abstract_source": "publisher_doi_matched_page",
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Christopher Bobier",
-        "Anthony Merlocco",
-        "Daniel J. Hurst"
-      ],
-      "crossref_online_date": "2026-11-01",
-      "date": "2026-11-01",
-      "doi": "10.1111/bioe.70206",
-      "first_seen_jst": "2026-11-02",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1111/bioe.70206",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70206",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70206"
-      ],
-      "title": "The Case for Pediatric Participation in Risky First‐In‐Human Clinical Trials",
-      "url": "https://doi.org/10.1111/bioe.70206"
-    },
-    {
-      "abstract": "Private rights have returned to play a central role in public law. In the last few years alone, courts have invoked private rights to elaborate the elements of Article III standing, interpret the scope of 42 U.S.C. § 1983’s cause of action, articulate the limits of the administrative state, and give meaning to enumerated constitutional rights. But unlike private law—which has confronted a similar fall and rise of private rights with wide-ranging discussion over their meaning—public law has not been subjected to a fulsome debate about what exactly private rights are. Both proponents and critics of the return of a private rights model of public law adjudication share a basic understanding of private rights rooted in William Blackstone’s eighteenthcentury writings. But Blackstone’s view fails to capture the full significance of private rights in the common law. Overemphasizing it muddles the stakes of the return of private rights in public law.\n\nThis Article articulates the historical and doctrinal limits of the default Blackstonian view of private rights. Blackstone’s conception of private rights was based on an underlying view of liberty as noninterference that was controversial even when he was writing in the 1760s. Instead, the dominant view of liberty in the common law at the time was the republican view of liberty as independence. That view of liberty supported a distinct republican conception of private rights, which has coexisted in the common law tradition alongside the Blackstonian conception.\n\nAfter outlining the oft-elided republican conception of private rights and tracing its influence on legal discourse, rhetoric, and case law, this Article illustrates its possible implications for public law doctrine. Recognizing the distinction between these two conceptions of private rights casts new light on Article III standing, damages, Section 1983, and adjudication outside Article III courts. This distinction also provides a corrective to the scholarly debates over private and public rights: Just as it is a mistake to suppose there was a single unified historical conception of private rights, it is also a mistake to dismiss private rights altogether as inherently confused or obfuscatory.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "J. Bradley"
+        "Ryan Winterburg"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-01",
-      "doi": "10.36644/mlr125.2.private",
-      "first_seen_jst": "2026-11-01",
-      "journal": "Michigan Law Review",
-      "journal_id": "J119",
+      "date": "2026-11-02",
+      "doi": "10.1007/s43681-026-01470-z",
+      "first_seen_jst": "2026-11-03",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_doi_not_confirmed",
+      "publisher_check_status": "doi_matched",
       "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01470-z",
+      "publisher_online_date": "2026-11-02",
       "publisher_pages_attempted": [
-        "https://doi.org/10.36644/mlr125.2.private"
+        "https://doi.org/10.1007/s43681-026-01470-z"
       ],
-      "title": "“Private Rights” in Public Law",
-      "url": "https://doi.org/10.36644/mlr125.2.private"
+      "title": "The alignment problem is a rate problem: Why waiting for complete governance carries its own risk, and why a deliberate ~ 80% counterweight (NPHE) is a rational response",
+      "url": "https://doi.org/10.1007/s43681-026-01470-z"
     },
     {
-      "abstract": "Federalism has long been celebrated for its ability to foster policy innovation, transforming states into “laboratories of democracy.” Yet, federalism discourse has largely neglected Indian tribes, the third sovereign in the American constitutional order. Tribes regularly implement novel policies. However, tribal policy innovation is hindered by uncertainty over whether tribes or states govern Indian country activities.\n\nThe most influential framework for determining the scope of tribal versus state regulatory power in Indian country is derived from the Supreme Court’s opinion in California v. Cabazon Band of Mission Indians—the case that launched Indian gaming. Cabazon held that tribes cannot permit an activity if the surrounding state prohibits it, but they can permit an activity if the surrounding state regulates it. For example, tribes in California can authorize gaming because California regulates it. However, Utah’s gaming ban prevents tribes within its borders from permitting casinos. The distinction between regulatory and prohibitory is often ambiguous; thus, state specificity invites endless litigation that stifles tribal policy experimentation.\n\nTo remedy this uncertainty and fully integrate tribes into the federal system, this Article proposes a “Cabazon-plus” paradigm. Under Cabazon-plus, if any state regulates an activity, all tribes would have exclusive regulatory authority over that activity. This paradigm provides the jurisdictional certainty vital for tribal self-determination and policy innovation. Furthermore, this Article argues Cabazon-plus will ignite tribal economies and benefit state economies, validating tribal sovereignty as a feature—not a bug—of a dynamic federal system.",
+      "abstract": "Abstract This study examines how Responsible AI (RAI) principles are translated as they move from ethical discourse into governance, standards, and national policy contexts. Drawing on comparative analysis of influential AI ethics guidelines, policy syntheses, and technical glossaries, the research traces how widely cited principles are reformulated across domains, using transparency and fairness as cases of how institutional translation operates in practice. It shows that while these principles originate as broad normative commitments, they become progressively institutionalized as policy categories, procedural requirements, and measurable technical properties. The comparison shows that the underlying mechanism generalizes across principles, while the resulting institutional forms remain principle-specific. Focusing on national AI strategies as a key site of institutionalization, the study analyzes how RAI principles are embedded within state agendas, regulatory approaches, and oversight mechanisms. This analysis reveals variation in how principles are prioritized and operationalized, reflecting differences in governance priorities, administrative capacity, and political context. The findings highlight that principles most amenable to standardization and measurement tend to dominate policy implementation, while more expansive ethical concepts are less visible. By mapping these shifts across institutional settings, the paper contributes to a deeper understanding of how AI ethics is reconfigured in practice and offers insights for policymakers seeking to balance technical feasibility with normative ambition in the governance of AI.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Adam Crepelle"
+        "Jesse Kirkpatrick",
+        "Manpriya Dua"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-01",
-      "doi": "10.36644/mlr125.2.tribal",
-      "first_seen_jst": "2026-11-01",
-      "journal": "Michigan Law Review",
-      "journal_id": "J119",
+      "date": "2026-11-02",
+      "doi": "10.1007/s43681-026-01477-6",
+      "first_seen_jst": "2026-11-03",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_doi_not_confirmed",
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01477-6",
+      "publisher_online_date": "2026-11-02",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01477-6"
+      ],
+      "title": "When principles become policy: the institutional translation of responsible AI in national AI ​strategies",
+      "url": "https://doi.org/10.1007/s43681-026-01477-6"
+    },
+    {
+      "abstract": "Ontology-based legal expert systems treat statutes as classes, properties and rules. In Vietnam’s civil-socialist order that treatment meets a difficulty the enacted text does not dissolve. Signs such as good faith and collective or state interest are culturally thick: their object includes relational and people-centred norms that judges are expected to hold in view, and that a rule base can omit without failing a consistency check. This article offers a semiotic reading of the published architecture of the Vietnam Legal Expert System (VNLES), an academic prototype scoped to the Penal Code and not a court system in use. Peirce’s triad and Greimas’s square are used to show where a white-box rule core remains silent—where inspectable inference is not the same as a complete legal object. The analysis is conceptual and illustrative. It does not evaluate operational judicial software. Once that formal limit is granted, the policy question shifts. Under Resolution 57 and the Law on Artificial Intelligence (Law 134/2025/QH15, in force 1 March 2026), the issue is no longer whether assistance is fast or locally accurate. It is whether a judicial tool can say the tacit norms of the system it serves, and what follows for design and risk classification when it cannot.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Hieu Doan",
+        "Huyen T. T. Tran",
+        "Phuong M. Ngo",
+        "Nga T. T. Nguyen",
+        "P. V. Nguyen"
+      ],
+      "crossref_online_date": null,
+      "date": "2026-11-02",
+      "doi": "10.1007/s43681-026-01479-4",
+      "first_seen_jst": "2026-11-03",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01479-4",
+      "publisher_online_date": "2026-11-02",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01479-4"
+      ],
+      "title": "What a rule base cannot say: a semiotic analysis of ontology-based legal reasoning in Vietnam",
+      "url": "https://doi.org/10.1007/s43681-026-01479-4"
+    },
+    {
+      "abstract": "Artificial intelligence in healthcare promises to improve diagnostic quality, reduce variability, and support clinical judgment under uncertainty. Yet the value of clinical AI depends not only on technical performance, but also on the ethical, legal, organizational, and interactional conditions that shape its use. This article examines an underexplored risk: whether medico-legal exposure may discourage clinicians from consulting AI systems even when doing so could benefit patients. Here we develop an ethical, normative and socio-technical analysis of “AI-avoidant defensive medicine,” defined as the defensive non-use of clinical AI driven by concern that algorithmic output may later be used against physicians in malpractice litigation. We frame defensive non-use as an AI ethics problem in which accountability mechanisms intended to protect patients may inadvertently undermine professional agency, responsible innovation, and patient welfare. We argue that clinicians may face a double bind: following AI advice too closely may be criticized as uncritical reliance, whereas rejecting it may later be framed as unreasonable deviation. Although evidentiary invisibility for AI consultation may appear attractive, we show that it conflicts with transparency, accountability, the right of the patient to informed consent, and the evidentiary functions of the medical record. To address this problem, we propose the Clinical AI Reliance Protection Framework, a transparency-based architecture which organizes mitigation strategies across legal, governance and interaction-design levels,in accordance with the principles of value-sensitive design. We argue that safe-harbor consultation protection, reason-based documentation, and non-oracular AI design offer an ethical path toward accountable and usable human–AI collaboration in clinical care.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Federico Cabitza",
+        "Michela De Felice",
+        "Eugenia Lancellotta",
+        "Enrico Maria Piras"
+      ],
+      "crossref_online_date": null,
+      "date": "2026-11-02",
+      "doi": "10.1007/s43681-026-01481-w",
+      "first_seen_jst": "2026-11-03",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01481-w",
+      "publisher_online_date": "2026-11-02",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01481-w"
+      ],
+      "title": "Damned if you do, negligent if you don’t: defensive non-use, evidentiary risk, and the medico-legal double bind of clinical AI reliance",
+      "url": "https://doi.org/10.1007/s43681-026-01481-w"
+    },
+    {
+      "abstract": "",
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Aman"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.1080/1535685x.2026.2740970",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Law &amp; Literature",
+      "journal_id": "J021",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": false,
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.36644/mlr125.2.tribal"
+        "https://doi.org/10.1080/1535685x.2026.2740970"
       ],
-      "title": "Tribal Federalism: Expanding the Indian Gaming Paradigm",
-      "url": "https://doi.org/10.36644/mlr125.2.tribal"
+      "title": "Ways of Remembering: Law, Cinema and Collective Memory in the New India",
+      "url": "https://doi.org/10.1080/1535685x.2026.2740970"
+    },
+    {
+      "abstract": "",
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Richard Brown"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.1093/analys/anag085",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1093/analys/anag085"
+      ],
+      "title": "The False Hope of Illusionism: Critical Notice of\n                    House of Mirrors\n                    by François Kammerer",
+      "url": "https://doi.org/10.1093/analys/anag085"
+    },
+    {
+      "abstract": "Abstract Control over the information ecosystem and the public narrative is a hallmark of authoritarian governments. In the digital age, social media created new vulnerabilities within information ecosystems that can be exploited by different actors to undermine democracy: particularly the ease of deploying disinformation at scale, and the economic weakening of independent media. This article documents how the government of Gustavo Petro in Colombia exploited both vulnerabilities simultaneously and systematically through four tactics: the opaque use of state-funded influencers, the political mobilization of institutional social media accounts, the redirection of government advertising spending to the detriment of independent media, and editorial control over public radio and television. The article argues that, together, the simultaneous and systematic exploitation of these vulnerabilities can be characterized of authoritarian tendency. Finally, the article identifies several areas for intervention to mitigate these risks in the future.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Beatriz Botero Arcila"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.1093/icon/moag114",
+      "first_seen_jst": "2026-11-03",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1093/icon/moag114"
+      ],
+      "title": "Cuando el Estado desinforma: Prácticas autoritarias en el ecosistema de información de Colombia y América Latina When the State Disinforms: Authoritarian Practices in the Information Ecosystem of Colombia and Latin America",
+      "url": "https://doi.org/10.1093/icon/moag114"
+    },
+    {
+      "abstract": "ABSTRACT This article addresses the question whether arguments about the badness of death can offer useful analogies for understanding the badness of extinction. The two main lines of argumentation, the Epicurean approach and the deprivation view, are analyzed from this perspective. The analogies offer some interesting viewpoints to killing and anthropogenic mass extinction, for example. Nevertheless, we conclude that the analogy to death fails to explain badness of extinction. As the major (Western) moral theories also seem to fail on this task, we propose that the badness of extinction should be understood as a tethered concept: extinction is then bad as a loss to someone who understands and experiences that loss.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Markku Oksanen",
+        "Helena Siipi"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.1093/monist/onag025",
+      "first_seen_jst": "2026-11-03",
+      "journal": "The Monist",
+      "journal_id": "J090",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1093/monist/onag025"
+      ],
+      "title": "On Associating Extinction with Death: Fatal Implications for Conservation?",
+      "url": "https://doi.org/10.1093/monist/onag025"
+    },
+    {
+      "abstract": "Abstract In this paper I will offer a detailed analysis of Bayesian species delimitation methods and the oversplitting problem. I will argue that when discussing oversplitting, two issues should be kept separate: the inference problem concerning the discovery of population structure and the labelling problem surrounding the classification of different lineages as distinct species. Understanding oversplitting as a methodological problem of Bayesian inference is the consequence of not separating the inferential problem from the labelling problem. While there is no intrinsic flaw with Bayesian inference of population structure revealed by oversplitting, treatments of the inference problem can benefit from some of the lessons learned in earlier discussions of Bayesian phylogenetic inference.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Bengt Autzen"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.1093/monist/onag031",
+      "first_seen_jst": "2026-11-03",
+      "journal": "The Monist",
+      "journal_id": "J090",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1093/monist/onag031"
+      ],
+      "title": "Oversplitting and Bayesian Inference",
+      "url": "https://doi.org/10.1093/monist/onag031"
+    },
+    {
+      "abstract": "",
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Ian Robertson"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.1093/pq/pqag082",
+      "first_seen_jst": "2026-11-03",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1093/pq/pqag082"
+      ],
+      "title": "Minds in skilled performance: cognitive science and the wild west",
+      "url": "https://doi.org/10.1093/pq/pqag082"
+    },
+    {
+      "abstract": "Today, it is commonplace to claim that liberalism created the modern world. This paper examines how and why the rise-of-liberalism narrative first emerged by examining textbooks and surveys on the history of political thought published in Britain and the United States between 1890 and the 1990s. In doing so, it shows how, in the interwar period, a new conception of “liberalism” was invented, imagining it as a secular emancipatory movement that shaped the modern world in its image. Second, this paper highlights how this master narrative was created by liberalism’s self-professed enemies—by Marxists and conservative thinkers—as much as by its friends, to serve different polemical purposes. Finally, this paper offers some reflections on the implications of this account of the historiography of liberalism for its contemporary defenders. It concludes that liberals themselves might have good reason to relinquish overblown claims about the importance of liberalism in the making of the modern world.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Annelien de Dijn"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.1177/00905917261501468",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Political Theory",
+      "journal_id": "J031",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1177/00905917261501468"
+      ],
+      "title": "The Invention of Liberalism",
+      "url": "https://doi.org/10.1177/00905917261501468"
+    },
+    {
+      "abstract": "Positions that link rights to sentience face an insect challenge: insects are plausibly sentient, yet recognizing individual insects as rights-bearers would problematize public health, veterinary, and agricultural benefits obtained by harming them. The most obvious responses seem inadequate. Indian animal ethics, which has always taken the idea of insect sentience seriously, is a promising place to look for further options. Of particular relevance is the idea of ahimsa (nonviolence, noninjury), but ahimsa in its ancient form has metaphysical commitments that secular animal ethics should not accept. More promising still is the progressive ahimsaism developed by Gandhi in the 1920s, on which duties of nonmaleficence can be overridden by duties of care, provided the duty of care is adopted, interpreted, and exercised in accordance with the guiding ideal of ahimsa. This article provides an exposition and analysis of the view and relates it to the insect challenge.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Jonathan Birch"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.3998/jpe.10745",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Practical Ethics",
+      "journal_id": "J076",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.3998/jpe.10745",
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.3998/jpe.10745"
+      ],
+      "title": "Ethics for a Large Sentient World: Insects, Ahimsa, and Gandhi’s Progressive Ahimsaism",
+      "url": "https://doi.org/10.3998/jpe.10745"
+    },
+    {
+      "abstract": "Jonathan Birch's 'Ethics for a Large Sentient World' presents a novel approach to the challenges associated with granting sentient insects direct moral concern. The Gandhian-inspired ethic that Birch develops takes insect sentience seriously while maintaining that insects have no right not to be harmed when harming them is necessary to secure human and nonhuman animal health and agricultural benefits. This paper offers a critical response to Birch's framework. I begin by arguing that Birch misinterprets the challenge facing a robust rights-based theory. I then show that his Gandhian alternative is not a genuine departure from a robust rights-based view but rather a specific, and ultimately unappealing, version of it. I show that Birch's view is unattractive because it holds that duties of care can function as exceptions to rights, which has problematic implications for all sentient beings, including humans.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Angie Pepper"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.3998/jpe.10746",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Practical Ethics",
+      "journal_id": "J076",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.3998/jpe.10746",
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.3998/jpe.10746"
+      ],
+      "title": "In Defence of Robust Rights for All Sentient Creatures",
+      "url": "https://doi.org/10.3998/jpe.10746"
+    },
+    {
+      "abstract": "In his ‘Ethics for a Large Sentient World: Insects, Ahimsa, and Gandhi’s Progressive Ahimsaism’ Jonathan Birch attempts to provide a solution to one of the most difficult problems in animal ethics: the insect challenge. If insects are sentient, and if sentience is sufficient for the possession of robust rights not to be harmed, then much of our behavior is seriously wrong since it harms insects on a vast scale. Birch’s solution is based on Gandhi’s idea of Progressive Ahimsaism (PA). In this paper I argue that PA is unsuited to answer the challenges of animal suffering. First, though it emphasizes avoiding wrongdoing, the moral ideal proposed by PA makes it difficult to do positive good, tends toward antinatalism, and offers no pathway out of natural suffering. Second, PA’s duty of care model is incompatible with largescale beneficent action and precludes us from moving toward a genuinely harm-free world. Finally, I conclude by briefly suggesting that we could solve these problems by seeing humanity as a collective agent with a moral duty to care for all sentient beings and individual human actions as justified insofar as they are compatible with this mission.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Gary David O'Brien"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.3998/jpe.10747",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Practical Ethics",
+      "journal_id": "J076",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.3998/jpe.10747",
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.3998/jpe.10747"
+      ],
+      "title": "Ethics for a Tragic World: Humanity, Insects, and Doing Good",
+      "url": "https://doi.org/10.3998/jpe.10747"
+    },
+    {
+      "abstract": "The recognition of invertebrates as ‘plausibly sentient’ raises significant ethical questions in contexts where they are harmed. In response to Jonathan Birch’s presentation of Gandhi’s ahimsaism (nonviolence) as a potential means of navigating this ‘insect challenge’, we draw on fieldwork conducted at the Skanda Vale ashram to provide a comparative critique of, and potential alternative to, ahmsaism. For the community at Skanda Vale, the ethos of nonviolence cannot be separated from the wider metaphysical commitments of foundational South Asian religious traditions. Within such a context we come to question the prioritization of sentience as a marker of responsibility toward other living beings. Rather than seeking to justify harms to sentient others, we argue for an expanded circle of compassion that is more in line with traditional uses of ahimsa.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Samantha Hurn",
+        "Alexander Badman-King"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.3998/jpe.10748",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Practical Ethics",
+      "journal_id": "J076",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.3998/jpe.10748",
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.3998/jpe.10748"
+      ],
+      "title": "The ‘Insect Challenge’ – A Response to Birch",
+      "url": "https://doi.org/10.3998/jpe.10748"
+    },
+    {
+      "abstract": "The three commentaries on ‘Ethics for a large sentient world’ raise several problems for a Gandhian approach to animal ethics. In my responses, I defend my position that granting robust rights to individual insects is untenable, pushing us to look harder at alternative options. I explain how Gandhi’s commitment to nonviolence allows him to avoid the unwelcome implications his principles might otherwise have. I consider his nuanced position on the interplay between general principles and embedded responses to particular situations. I explain why he should not be read as an antinatalist. That said, his framework undeniably presents an austere ascetic ideal that calls on us to rethink the meaning of ‘progress’. The framework condemns many aspects of modern industrialized economies, not just their treatment of nonhuman animals.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Jonathan Birch"
+      ],
+      "crossref_online_date": "2026-11-02",
+      "date": "2026-11-02",
+      "doi": "10.3998/jpe.10749",
+      "first_seen_jst": "2026-11-03",
+      "journal": "Journal of Practical Ethics",
+      "journal_id": "J076",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.3998/jpe.10749",
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.3998/jpe.10749"
+      ],
+      "title": "How to Live Nonviolently in a Large Sentient World: Replies to Pepper, Hurn and Badman-King, and O’Brien",
+      "url": "https://doi.org/10.3998/jpe.10749"
     }
   ],
   "journal_total": 145,
@@ -1182,13 +523,13 @@
     "unresolved": 0
   },
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 1,
-  "raw_candidate_count": 40,
-  "research_candidate_abstracts_available": 4,
-  "research_candidate_abstracts_missing": 36,
+  "publisher_first_online_in_window_verified_count": 5,
+  "raw_candidate_count": 17,
+  "research_candidate_abstracts_available": 14,
+  "research_candidate_abstracts_missing": 3,
   "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 40,
+  "research_candidate_unverified_count": 17,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-02",
-  "window_start_jst": "2026-11-01"
+  "window_end_jst": "2026-11-03",
+  "window_start_jst": "2026-11-02"
 }

@@ -1,9 +1,9 @@
 {
   "status": "structurally_valid_not_semantically_verified",
-  "checked_on_jst": "2026-11-03",
-  "raw_candidates": 17,
-  "already_introduced": 2,
-  "eligible_candidates": 15,
+  "checked_on_jst": "2026-11-04",
+  "raw_candidates": 27,
+  "already_introduced": 0,
+  "eligible_candidates": 27,
   "errors": [],
   "warnings": [
     "3 research candidates lack abstracts"

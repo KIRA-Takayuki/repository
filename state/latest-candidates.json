@@ -1,140 +1,6 @@
 {
-  "collected_on": "2026-11-03",
+  "collected_on": "2026-11-04",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Zhipeng Zhang",
-        "Shuxia Zhang",
-        "Haoyu Zhang",
-        "Fang Lee Cooke",
-        "Jun Liu"
-      ],
-      "date": "2026-09-19",
-      "doi": "10.1007/s10551-026-06470-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "From Sacred Spaces to the Workplace: How Religious Third-Place Participation Fosters Helping Behaviors Through Awe-Based Spillover",
-      "url": "https://doi.org/10.1007/s10551-026-06470-x"
-    },
-    {
-      "abstract": "Abstract Despite business ethics drawing on a wide range of philosophical perspectives, conservative thought remains strikingly underrepresented in the field. This paper addresses that absence by bringing the conservative philosophical tradition into conversation with business ethics. It first provides an overview of conservative thought, focussing in particular on Burke, Oakeshott, and Scruton. It then examines three strands of business ethics scholarship that appear to have affinities with conservative thought, namely libertarianism, the market failures approach, and virtue ethics, in order to identify possible points of dialogue with existing debates. Finally, the paper outlines a research agenda for conservative business ethics, highlighting issues such as conservative critiques of capitalism, environmental sustainability, and family business.",
-      "authors": [
-        "Matthew Sinnicks",
-        "Caleb Bernacchio"
-      ],
-      "date": "2026-09-19",
-      "doi": "10.1007/s10551-026-06472-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Whither Conservative Business Ethics? Addressing the Puzzling Absence of Conservative Thought in Business Ethics",
-      "url": "https://doi.org/10.1007/s10551-026-06472-9"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Isaac Wilhelm"
-      ],
-      "date": "2026-09-19",
-      "doi": "10.1007/s10670-026-01142-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "Gender Is Essential to Some, But Not All, Individuals",
-      "url": "https://doi.org/10.1007/s10670-026-01142-8"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Rowan Dorin"
-      ],
-      "date": "2026-09-19",
-      "doi": "10.1080/2049677x.2026.2732668",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Comparative Legal History",
-      "journal_id": "J082",
-      "origin": "crossref",
-      "title": "Lire le droit du Moyen Âge: comprendre et utiliser les sources juridiques (XII\n                    e\n                    -XV\n                    e\n                    siècles)",
-      "url": "https://doi.org/10.1080/2049677x.2026.2732668"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Janwillem (Pim) Oosterhuis"
-      ],
-      "date": "2026-09-19",
-      "doi": "10.1080/2049677x.2026.2732670",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Comparative Legal History",
-      "journal_id": "J082",
-      "origin": "crossref",
-      "title": "Les conflits doctrinaux du XIXe siècle: Une analyse des fondements politiques du droit; Die Erfindung des 19. Jahrhunderts: Ein wissens- und professionssoziologischer Beitrag zur Historiographie des westlichen Rechtsdenkens",
-      "url": "https://doi.org/10.1080/2049677x.2026.2732670"
-    },
-    {
-      "abstract": "This study assesses the impact of artificial intelligence (AI) on Indian economy. To do so, we first analyse the linkage between AI, employment and economic growth. Second, this study elaborates on the role of AI in shaping India’s Human Development Index (HDI) and compares it with three major economies. Finally, to supplement the analysis, the article makes a quantitative assessment of the effect of AI on economic growth in India. The analysis does not reveal that the displacement effect of AI on employment outweighs the complementary effect in the Indian context so far. However, from the demand side perspective, there might be a reduction in demand for non-AI-related jobs and an increase in AI-related jobs. Further, results show that an increase in AI vibrancy index support better performance of HDI in India in comparison to the China, Germany and the US. Finally, by employing an ARDL model, the results reveal that AI only positively affect the economic growth in the long-run but not in the short run. From a policy perspective, while the Government of India has taken proactive steps for AI-enabled schemes, greater emphasis on appropriate strategies is required to generate more employment through the adoption of AI.",
-      "authors": [
-        "Poulomi Bhattacharya",
-        "Badri Narayan Rath"
-      ],
-      "date": "2026-09-19",
-      "doi": "10.1177/09717218261480253",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science, Technology and Society",
-      "journal_id": "J043",
-      "origin": "crossref",
-      "title": "The Impact of Artificial Intelligence on Indian Economy: Prospects and Challenges",
-      "url": "https://doi.org/10.1177/09717218261480253"
-    },
-    {
-      "abstract": "Artificial intelligence (AI) and Industry 4.0 technologies are transforming manufacturing systems globally, with significant implications for labour markets in emerging economies. This article examines how AI adoption reshapes employment structures, skills demand, and training effectiveness in the automotive manufacturing sector in Vietnam. Drawing on the frameworks of skill-biased technological change and routine-biased technological change, the study develops an integrated model linking AI adoption to task reconfiguration, skills mismatch, and employment outcomes. Using labour force statistics, the findings show that AI adoption increases demand for high-skilled and hybrid technical workers while reducing demand for others. However, substantial skills mismatches persist, particularly among domestic firms and small and medium-sized enterprises. Training systems play a critical mediating role, with firms investing in workforce development experiencing better productivity and labour retention outcomes. The article argues that, without coordinated policies linking industrial upgrading, skills development, and social protection, AI-driven transformation may exacerbate inequality.",
-      "authors": [
-        "Truong Thi Chi Binh",
-        "Nguyen Thi Quynh Anh",
-        "Bach Tan Sinh"
-      ],
-      "date": "2026-09-19",
-      "doi": "10.1177/09717218261483822",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science, Technology and Society",
-      "journal_id": "J043",
-      "origin": "crossref",
-      "title": "Artificial Intelligence, Skills Mismatch and Inclusive Industrial Transformation: Evidence from Vietnam’s Automotive Sector",
-      "url": "https://doi.org/10.1177/09717218261483822"
-    },
-    {
-      "abstract": "This article introduces the concept of state culture to describe the subtle but profound ways in which the modern state shapes norms, values, language, and social conventions. Although property rights and formal freedoms may persist, cultural life is increasingly influenced—if not dominated—by state interventions. Through education, media control, financial incentives, and regulation, the state fosters a cultural environment that supports its own legitimacy and expansion. This has given rise to phenomena such as wokeness, environmental, social, and governance (ESG) compliance, and cancel culture, which are not spontaneous expressions of civil society but symptoms of a long-standing cultural distortion induced by state power. Many seemingly private decisions—such as corporate censorship and social ostracism—occur within this distorted cultural framework and cannot be interpreted as fully voluntary. As such, libertarians face a dilemma: While they must defend property rights, they must also recognize that culture itself can be corrupted through systematic violations of property rights. Drawing on insights from Murray Rothbard, the article proposes that state institutions, as long as they exist, should be operated in ways that align with the cultural norms that would emerge in a truly free society. The goal is not cultural neutrality—impossible under statism—but the active support of values conducive to liberty: private property, personal responsibility, truth, family, and voluntary cooperation.",
-      "authors": [
-        "Philipp Bagus"
-      ],
-      "date": "2026-09-19",
-      "doi": "10.35297/001c.167786",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Libertarian Studies",
-      "journal_id": "J045",
-      "origin": "crossref",
-      "title": "The Problem of State Culture",
-      "url": "https://doi.org/10.35297/001c.167786"
-    },
-    {
-      "abstract": "The main aspiration of the present article is to elucidate what it would mean for the paradox of blackmail to be solved rather than dissolved . We begin by increasing the sense of paradoxicality of blackmail. To this end, we formalize the paradox. We demonstrate that it relies on a certain prima facie plausible principle of closure (what we call disjunctive closure ). This principle is quite unlike the principle which holds that the permissibility of action A and the permissibility of action B render doing A and B together permissible. On the principle of disjunctive closure, the paradox of blackmail seems to breed a genuine contradiction. Having adequately formulated the paradox, we turn to a normative point: What would count as a satisfactory solution to the paradox of blackmail? Informed by the treatment of paradoxes in logic, we argue that to take the sting out of the paradox of blackmail, we must embrace its core commitments and still explain how apparently contradictory verdicts might nevertheless arise. The upshot of the above considerations only strengthens our contention that what we proposed as a solution to the paradox of blackmail in Dominiak and Wysocki (2026) is indeed an adequate solution rather than a mere dissolution .",
-      "authors": [
-        "Igor Wysocki"
-      ],
-      "date": "2026-09-19",
-      "doi": "10.35297/001c.168707",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Libertarian Studies",
-      "journal_id": "J045",
-      "origin": "crossref",
-      "title": "How Is the Paradox of Blackmail Paradoxical?",
-      "url": "https://doi.org/10.35297/001c.168707"
-    },
     {
       "abstract": "Abstract The legal field already uses various large language models (LLMs) in real-world applications. The practical use in the patent domain concentrates on general pre-trained and foundation models without domain specificity. However, little is known and documented about their performance; their limitations are poorly studied and documented. Quality control and any targeted improvement of natural language processing in patent law require such information. We evaluated several open-source and proprietary LLMs—including the GPT series, Anthropic, DeepSeek, and Llama-3 variants—on parts of the European qualifying examination (EQE) for future European patent attorneys. The chosen tests are intentionally technical and designed with little room for interpretation so that models cannot hide wrong associations and answers behind apparent eloquence. OpenAI o1 led with 0.82 accuracy and 0.81 F1 score, whereas AWS (Amazon Web Services) Llama 3.1 8B lagged at 0.50 accuracy, and a Python-deployed Llama 3.1 8B scored 0.55. The latter two are within the range of mere guessing for the two-option forced-choice design. None of the evaluated models could have fully passed the examination, as accuracy never exceeded the average threshold of 0.90 required for professional-level standards—also not models that are regularly promoted for their assumed beyond-PhD- and bar-admitted-lawyer-level performance. GPT-4o excelled at integrating text and graphics, whereas Claude 3 Opus often struggled to maintain formatting coherence. Human patent experts evaluated the textual justifications to identify and understand problems at the argument level. They uncovered various critical shortcomings of each model. They valued clarity and legal rationale over the raw correctness of the answers, which revealed misalignment between automatic metrics and expert judgment. Model outputs were sensitive to modest temperature changes and prompt wording, which underscores the continued necessity of expert oversight. Although the arguments and our analysis of the training corpora demonstrate that the relevant legal texts were part of pre-training, the models, e.g., their embeddings, demonstrated potential for improvement in domain-specific language aspects. Future work should target logical consistency, robust multimodality, and adaptive prompting to approach human-level patent proficiency. In summary, despite the outstanding performance of recent large models, the general public might overestimate their capabilities. The field has a long way to go to develop a virtual patent attorney. This paper aims to point out several specific limitations that need solutions.",
       "authors": [
@@ -13337,6 +13203,34 @@
       "url": "https://doi.org/10.36644/mlr125.2.tribal"
     },
     {
+      "abstract": "ABSTRACT This article considers the prerogatives that parents have to shape their children's identity by adopting a dietary regime that gives expression to the conception of the good embraced by parents. It examines Matthew Clayton's recent claim that respect for the independence of children requires that parents set aside religious, aesthetic, and gastronomic reasons to control the food that children eat and that parents wrong their children if they impose on them comprehensive views about what they should eat. Against Clayton, I argue that a modest form of parental perfectionism is consistent with respect for children's independence. On this view, parents may provisionally privilege a dietary regime in raising their children. Moreover, privileging a dietary regime does not involve the kind of comprehensive enrolment into a conception of the good that Clayton views as objectionable. A suitable form of privileging can contribute to autonomy development in children and manifests respect for them.",
+      "authors": [
+        "Colin M. Macleod"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1002/japp.70143",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Journal of Applied Philosophy",
+      "journal_id": "J053",
+      "origin": "crossref",
+      "title": "Food, Families, and Parental Perfectionism: A Rejoinder to Clayton",
+      "url": "https://doi.org/10.1002/japp.70143"
+    },
+    {
+      "abstract": "ABSTRACT In recent years, many political philosophers have made the case for thinking that achieving a fully just society will require some variety of mandatory civilian service. However, there is widespread agreement that mandatory service schemes are in significant tension with commitments to freedom of occupation. Correspondingly, support for mandatory service schemes is also taken to be in deep tension with the liberal tradition, with its emphasis on the fundamental importance of protecting basic liberties. The purpose of this article is to argue that there is far less tension between mandatory service schemes and freedom of occupation than this widely accepted picture supposes. Though liberalism does contain the resources to mount a case against mandatory service in certain circumstances, that case will not be a straightforward matter of principle, but rather a complex matter of balancing difficult empirical considerations. Moreover, liberalism may, in some circumstances, actually be committed to some forms of moderate mandatory service, not in spite of but, in part, because of its commitment to the special status of liberty.",
+      "authors": [
+        "Callum MacRae"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1002/japp.70145",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Journal of Applied Philosophy",
+      "journal_id": "J053",
+      "origin": "crossref",
+      "title": "Forced Labour for Liberals: Mandatory Service, Social Equality, and Freedom of Occupation",
+      "url": "https://doi.org/10.1002/japp.70145"
+    },
+    {
       "abstract": "",
       "authors": [
         "Luke Nicholls",
@@ -13506,6 +13400,34 @@
       "url": "https://doi.org/10.1093/pq/pqag082"
     },
     {
+      "abstract": "This article examines the first use of section 35 of the Scotland Act 1998, which prevented the Gender Recognition Reform (Scotland) Bill from receiving Royal Assent. It argues that the 2023 Order is constitutionally significant because it operationalised a previously unused form of executive control over devolved legislation. Section 35 permits intervention where the Secretary of State has reasonable grounds to believe that modifications made by a devolved Bill would adversely affect the operation of reserved law. It therefore separates legislative competence from legislative effectiveness: a Bill may fall within devolved competence yet be prevented from becoming law following a prospective ministerial assessment. Drawing on the statutory framework, the Statement of Reasons, and the Court of Session's judgment, the article characterises section 35 as a preventive executive power constrained by statutory conditions, parliamentary annulment, and judicial review, but one which affords substantial latitude to predictive ministerial judgement. It develops this arrangement as a statutory form of conditional autonomy, building on earlier accounts of politically conditioned devolution, and situates the provision within a broader pattern of UK executive constitutionalism. Its longer‐term significance will depend on whether section 35 remains exceptional or becomes a more regular instrument of territorial governance.",
+      "authors": [
+        "Darryn Nyatanga"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1111/1468-2230.70078",
+      "first_seen_jst": "2026-11-04",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "Section 35 of the Scotland Act 1998 and Executive Control of Devolved Legislation",
+      "url": "https://doi.org/10.1111/1468-2230.70078"
+    },
+    {
+      "abstract": "ABSTRACT Feminism opposes the unjust inequality and subjugation of women. Core feminist projects morally critique people, institutions, social practices, norms, and behaviors that contribute to or constitute the subordination of women. But such projects confront individual women and groups of women who participate in and endorse the practices being critiqued. A common response to this tension is to posit adaptive preferences in the form of “deformed desires” among participating women. But a standing alternative holds that participating women engage in trade‐offs among goods in nonideal situations. Here, I extend this “tradeoffs” alternative by arguing that simple ideas from game‐theoretic models support the possibility of trade‐off explanations that respect and illuminate the agency of participating women while allowing for feminist critique. And trade‐off accounts can avoid substantive assumptions regarding human flourishing or the nature of the good. Both features make trade‐off accounts normatively preferable to adaptive preference accounts of participation in unjust social arrangements.",
+      "authors": [
+        "Ron Mallon"
+      ],
+      "date": "2026-11-02",
+      "doi": "10.1111/josp.70073",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Journal of Social Philosophy",
+      "journal_id": "J035",
+      "origin": "crossref",
+      "title": "Participation Without Adaptive Preferences",
+      "url": "https://doi.org/10.1111/josp.70073"
+    },
+    {
       "abstract": "Today, it is commonplace to claim that liberalism created the modern world. This paper examines how and why the rise-of-liberalism narrative first emerged by examining textbooks and surveys on the history of political thought published in Britain and the United States between 1890 and the 1990s. In doing so, it shows how, in the interwar period, a new conception of “liberalism” was invented, imagining it as a secular emancipatory movement that shaped the modern world in its image. Second, this paper highlights how this master narrative was created by liberalism’s self-professed enemies—by Marxists and conservative thinkers—as much as by its friends, to serve different polemical purposes. Finally, this paper offers some reflections on the implications of this account of the historiography of liberalism for its contemporary defenders. It concludes that liberals themselves might have good reason to relinquish overblown claims about the importance of liberalism in the making of the modern world.",
       "authors": [
         "Annelien de Dijn"
@@ -13589,9 +13511,405 @@
       "origin": "crossref",
       "title": "How to Live Nonviolently in a Large Sentient World: Replies to Pepper, Hurn and Badman-King, and O’Brien",
       "url": "https://doi.org/10.3998/jpe.10749"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Anni Chen",
+        "Yue Wang",
+        "Weiguo Zhong"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s10551-026-06505-3",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "CEO Religiosity and Corporate Philanthropy: Navigating Institutional Pressures",
+      "url": "https://doi.org/10.1007/s10551-026-06505-3"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Marc Pilkington"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s10551-026-06509-z",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "A Sophiological Analogy for Business Ethics Achieving Unity-in-Diversity through the Wasserstein Barycenter",
+      "url": "https://doi.org/10.1007/s10551-026-06509-z"
+    },
+    {
+      "abstract": "Abstract Whenever you use apps, websites, or digital infrastructure owned by large platform companies, these companies collect data from your activity. They then use the data for various highly profitable purposes, e.g., by designing targeted advertising and selling it to third parties. This paper argues that such data collection should be considered a form of wrongful exploitation. We begin by defending the simple and relatively uncontroversial idea that to exploit is to extract excessive advantage from vulnerability. We then argue that platform companies’ data collection practices are exploitative in this sense. Many internet users are vulnerable because they have limited capacity to make an informed and voluntary decision about exchanging access to their data for access to the companies’ services, or because they have no reasonable alternative to doing so. Moreover, platform companies take advantage of these vulnerabilities to extract profits that they could not otherwise have extracted. The paper ends by discussing what governments and other third parties should do about this form of exploitation. We distinguish preventive measures, which remove or mitigate users’ vulnerabilities, from prohibition and regulation, which leave these vulnerabilities intact but block companies from taking advantage of them.",
+      "authors": [
+        "Elsa Magnell",
+        "Erik Malmqvist"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s10677-026-10589-1",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Ethical Theory and Moral Practice",
+      "journal_id": "J054",
+      "origin": "crossref",
+      "title": "Is Data Collection from Internet Users a Form of Exploitation?",
+      "url": "https://doi.org/10.1007/s10677-026-10589-1"
+    },
+    {
+      "abstract": "Abstract Inner speech is often said to be a by-product of motor control, the product of a forward model driven by an efference copy of a cancelled motor command to speak. The conscious auditory imagery of inner speech is said to arise when the product of this forward model becomes conscious. This conception of the genesis of inner speech founders on some basic questions about the consciousness of inner speech and about the interaction between inner speech and episodes of imagination. Further, the empirical evidence cited in support of this theory falls short. An alternative starts with a general conception of constructive imagination, which is our capacity to produce mental images (visual, auditory, etc.) in the course of practical problem-solving. Inner speech may be conceived as a species of constructive imagination in which we construct auditory images of episodes of speech. Inner speech is an imaginative representation of speech events that do not exist, which also represents the objects and events that the represented episodes of speech would represent if they existed.",
+      "authors": [
+        "Christopher Gauker"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s11098-026-02625-8",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "The genesis of inner speech: forward models or constructive imagination?",
+      "url": "https://doi.org/10.1007/s11098-026-02625-8"
+    },
+    {
+      "abstract": "Abstract In this paper, I discuss and explore two responses to problems that arise for a simple, weight monist version of reasons first in the practical domain. These responses—weight pluralism and threshold reasons first—attempt to provide a more nuanced account of reasons and all-things-considered deontic statuses. The first problem for weight monism is that it lacks the resources to predict the intuitively correct deontic statuses for the agent's options in cases of supererogation, of practical latitude, and of moral dilemmas. The second problem is that weight monism cannot distinguish requirements from oughts. I sketch how weight pluralists try to do justice to the problem cases, as well as to distinguish requirements and oughts, by introducing several independent dimensions of a reason's weight. However, as I argue, weight pluralism faces problems of its own—it cannot uphold the entailment from requirement to ought (on some variants); it problematically casts ought as an evaluative notion (on another variant); and it undermines the action-guidingness of reasons. In the end, I explore a more sophisticated weight monist alternative, threshold reasons first, that holds some promise to avoid all of these problems.",
+      "authors": [
+        "Eva Schmidt"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s11098-026-02646-3",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Quo vadis, reasons first? From weight monism to weight pluralism to thresholds",
+      "url": "https://doi.org/10.1007/s11098-026-02646-3"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Tamaki Komada",
+        "Kengo Miyazono"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s11098-026-02649-0",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "A pluralist account of mnemic accuracy",
+      "url": "https://doi.org/10.1007/s11098-026-02649-0"
+    },
+    {
+      "abstract": "Abstract Despite increasing legal emphasis on accessible language in contractual information, individuals continue to encounter legal documents, such as terms and conditions, imprints, and privacy statements, that remain difficult to understand. The emergence of large language models (LLMs) offers a new opportunity to translate legal jargon into accessible language and to support ongoing efforts to provide legal documents in accessible and inclusive languages. However, the use of LLMs for this purpose raises distinct ethical concerns, including hallucinations, personalization risks, and jurisdictional bias. This paper presents a preliminary ethics framework for evaluating LLM-based legal translation tools, grounded in EU regulations and aligned with the EU High-Level Expert Group’s Ethics Guidelines for Trustworthy AI. Building on the EU-funded AI4Pol project, which aims to develop an AI-powered tool for translating legal jargon into accessible language, we examine the ethical risks of such systems, focusing on their intended purpose and challenges related to technical robustness, privacy, algorithmic bias, and explainability.",
+      "authors": [
+        "Alexander Kriebitz",
+        "Caitlin C. Corrigan",
+        "Yuxiao Li",
+        "Gjergji Kasneci"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s43681-026-01466-9",
+      "first_seen_jst": "2026-11-04",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "The ethical dimension of AI systems in legal jargon translation: a preliminary assessment",
+      "url": "https://doi.org/10.1007/s43681-026-01466-9"
+    },
+    {
+      "abstract": "Abstract Artificial intelligence (AI) is evolving from a collection of discrete applications towards a technology increasingly embedded in the infrastructure of medicine. This development may improve diagnosis, prediction, monitoring, and the use of clinical information, but technological adoption is advancing faster than the governance structures needed to accompany it. At the level of the individual patient, this transformation creates a specific ethical problem. Patient information enters computational systems and emerges as probabilities, classifications, predictions, or recommendations that may influence care. The black box provides a metaphor for the intervening computational process when clinically relevant elements cannot be sufficiently examined. Yet opening the black box does not resolve the entire problem: an intelligible and validated prediction does not itself establish that a proposed intervention will benefit a particular patient. I propose a Patient-Level AI Code of Conduct governing the transition from AI output to clinical action. The Code requires examinability, validation, patient-level applicability, independent clinical justification, and meaningful human responsibility before an AI output materially influences care. Its purpose is to preserve a fundamental distinction as AI becomes increasingly infrastructural to medicine: computational capability can inform clinical decisions, but it cannot by itself justify action on a patient.",
+      "authors": [
+        "Matteo Maria Cati"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s43681-026-01469-6",
+      "first_seen_jst": "2026-11-04",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "When prediction is not explanation: AI and the ethical transformation of medicine",
+      "url": "https://doi.org/10.1007/s43681-026-01469-6"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Karl Patrick Mendoza"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s43681-026-01483-8",
+      "first_seen_jst": "2026-11-04",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "The conversation missing from the article: epistemic custody and authorship in human–AI writing",
+      "url": "https://doi.org/10.1007/s43681-026-01483-8"
+    },
+    {
+      "abstract": "Abstract Scholarship on responsibility and autonomous technology has extensively examined responsibility gaps, distributed agency, and the obligations of developers, manufacturers, regulators, and human operators. Yet the prospective normative position of users across repeated engagement with partially automated systems, and its relationship to responsibility after harm, remains comparatively underdeveloped. This paper argues that users of SAE Level 2 partial driving automation systems occupy a normatively distinctive position that generates two forms of obligation which have not been adequately theorized. Drawing on Conradie and Nagel’s [1] framework of taking versus holding responsibility and the concept of extended responsibility developed by Mason [2], this paper makes two-part argument. First, users of SAE Level 2 systems bear prospective responsibilities arising from their continuing supervisory role, including sustained supervisory engagement, reasonable trust calibration, appropriate knowledge-seeking about system limitations, and readiness for control intervention. Second, where harm occurs and the user’s involvement is morally significant but the conditions for ordinary blameworthiness remain uncertain, users may nevertheless be positioned to take extended retrospective responsibility. Extended responsibility therefore supplements rather than replaces ordinary responsibility.",
+      "authors": [
+        "Soumita Mukherjee"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s43681-026-01489-2",
+      "first_seen_jst": "2026-11-04",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Taking the wheel: user-side responsibility and the ethics of SAE level 2 driving automation",
+      "url": "https://doi.org/10.1007/s43681-026-01489-2"
+    },
+    {
+      "abstract": "Abstract Current generative AI systems increasingly elicit attributions of understanding, emotion, and even consciousness. This creates an evidential problem for AI sentience assessment, because the behavioural and linguistic markers that motivate these attributions may be generated by multiple underlying processes. One source of uncertainty is the gaming problem: AI systems may satisfy sentience indicators because they have learned the relevant behavioural regularities. A further observer-side concern is that anthropomorphic or socially responsive behaviour may influence how strongly these markers are weighted. This paper treats these as distinct sources of evidential uncertainty and focuses on the problem of evidential certification. Behavioural similarity and verbal self-report are not evidentially significant merely because they resemble human or animal expressions of sentience. Their evidential value depends on whether they can be connected to internal processes that causally explain why the relevant outputs are produced. Cross-validating multiple behavioural markers remains unreliable in the LLM case, since models may learn not only individual markers but also their patterns of co-occurrence. Moreover, even under controlled training conditions, verbal self-report remains vulnerable to alternative computational explanations. Since assessments of AI sentience may bear on questions of welfare and moral status, errors in evidential attribution can have ethically significant consequences. In response, I propose the Causal-Representational Corroboration Standard (CCS). The CCS directly evaluates whether behavioural or verbal markers are supported by a stable and causally relevant internal organization whose evidential role is not exhausted by training pressure that directly selects for the assessed marker. The corroborated mechanism becomes relevant to sentience if it also participates in an affectively structured organization and satisfies functional or architectural conditions independently motivated by a plausible theory of consciousness. Therefore, the CCS provides a more disciplined basis for managing the ethical risks of both over-attributing and under-attributing sentience to AI systems. Keywords: AI sentience; Causal-representational corroboration; Behavioural markers; Large language models; Gaming problem",
+      "authors": [
+        "Yiming Li"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1007/s43681-026-01495-4",
+      "first_seen_jst": "2026-11-04",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Beyond behavioural markers: causal-representational corroboration in AI sentience assessment",
+      "url": "https://doi.org/10.1007/s43681-026-01495-4"
+    },
+    {
+      "abstract": "Abstract We offer a theory of contrarians such as Socrates, Martin Luther, and Thoreau, and explain how contrarianism can function as an epistemic virtue. On our view, contrarians don’t just dissent from orthodoxy, but from a specific ingroup, and in a specific domain. Contrarians must also have some independent perspective that animates their dissent rather than parroting others, and they must express their dissent publicly, which will often produce alienation or reprisals. Finally, contrarianism isn’t bloodless inquiry; contrarians are animated by contempt for conformism and herd-behavior. The virtues of contrarianism include the ability to disrupt epistemic bubbles and echo-chambers that have formed among our ingroup, and contributing an adversarial element to our social epistemology, familiar from the legal system. But our account also has the resources to explain how contrarianism can spill over into a vice, since it is a trait like kindness or skepticism that requires judicious application.",
+      "authors": [
+        "Joe Gurrola",
+        "Dan Moller"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1017/epi.2026.10166",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Episteme",
+      "journal_id": "J095",
+      "origin": "crossref",
+      "title": "The Virtues (and Vices) of Contrarianism",
+      "url": "https://doi.org/10.1017/epi.2026.10166"
+    },
+    {
+      "abstract": "Abstract How should sociolegal scholarship understand sovereign citizens who contest state authority while remaining deeply invested in law? This article examines how Dutch sovereign citizens construct, enact, and negotiate understandings of legality in lived experience and institutional encounters. Drawing on in-depth interviews with four participants and six courtroom observations, and combining legal consciousness scholarship with narrative and relational perspectives, we identify three interrelated narrative stances through which sovereign legality is constructed and negotiated: legitimacy under contestation, re-authoring the normative order, and strategic navigation of institutional reality. These stances show that sovereign legality is neither a coherent alternative doctrine nor a straightforward rejection of state law. Rather, participants reinterpret legal authority, relocate legality in alternative normative foundations such as consent, natural law, and humanity, and adapt claims and strategies in response to institutional constraints. We conceptualize this configuration as counter-nomic legal consciousness: a narrative and relational mode of legal meaning-making through which individuals contest state authority while remaining invested in law’s language, procedures, and symbolic force. This study of Dutch sovereign citizens thus extends legal consciousness scholarship by showing how sovereign legality cuts across conventional distinctions between compliance and resistance and serves interpretive, practical, and affective functions.",
+      "authors": [
+        "Anne Jonker",
+        "Itai Siegel"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1017/lsr.2026.10123",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Law &amp; Society Review",
+      "journal_id": "J020",
+      "origin": "crossref",
+      "title": "(Re)writing the fiction: how Dutch sovereign citizens narrate legality",
+      "url": "https://doi.org/10.1017/lsr.2026.10123"
+    },
+    {
+      "abstract": "Abstract Consent – the organizing principle of legal responses to sexual harms – rests on a yes-versus-no binary. Yet, ambivalence is pervasive in sexual life, often eluding binary simplicity. This article assesses the implications of ambivalence for sexual consent jurisprudence. Drawing on interviews with Israeli gay and bisexual men regarding their experiences in (semi-)public sexual venues, it examines a context in which sexual norms have historically developed outside dominant cultural scripts, where ambivalence is particularly salient. Through the men’s testimonies, the conditions under which ambivalence leaves individuals uncertain of how to name sexual harms, identify boundary violations, or assign responsibility are mapped. Grounded in these findings, alongside sociological theories of ambivalence and socio-legal theories of sexual consent, the article adopts dialectical sensibility to capture what binary consent models tend to flatten: the simultaneous presence of agency/coercion, empowerment/vulnerability, and pleasure/danger within a single sexual interaction. Ambivalence in these “gray zones” is therefore reconceptualized here as neither anomaly nor individual failure but as a structuring – and even productive – feature of sexual life, complicating theories that cast ambivalence as primarily suppressive. Finally, the analysis underscores the limitations of prevailing consent paradigms and surfaces new questions about how criminal law might respond to the indeterminate realities of sex.",
+      "authors": [
+        "Noy Naaman",
+        "Ruthy Lowenstein Lazar"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1017/lsr.2026.10125",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Law &amp; Society Review",
+      "journal_id": "J020",
+      "origin": "crossref",
+      "title": "The ambivalence of sexual consent: a socio-legal inquiry",
+      "url": "https://doi.org/10.1017/lsr.2026.10125"
+    },
+    {
+      "abstract": "Abstract This paper examines rights consciousness (RC) in hospitals during emergencies, drawing on interviews with bereaved relatives and healthcare workers from isolated COVID-19 wards in Israel. It reveals that neither group framed visitation as a formal legal entitlement but rather as a privilege, gift, or luxury. While visitation is a routine and expected practice in ordinary times, the crisis exposed its fragility, transforming it into a discretionary allowance whose availability depended on institutional priorities and frontline discretion. Family responses ranged from compliance to selective resistance, with rights awareness often emerging retrospectively and collectively. The analysis advances few theoretical insights. First, it conceptualizes visitation as a “fragile right” robust in everyday practice yet weakly anchored in law and easily erased in crisis. Second, it shows how “de facto rights” can re-emerge from within institutions through professional ethics, norms, and informal organizational diffusion. Third, it demonstrates that RC is relational and spatial, suppressed inside hospitals by clinical hierarchies, yet reconstructed outside them through collective comparison and shared experience. These dynamics suggest that strengthening such fragile rights may depend not only on legal reform but on bottom-up participation of patient/family in hospital policymaking during crisis, which can cultivate rights awareness from within care itself.",
+      "authors": [
+        "Maayan Sudai"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1017/lsr.2026.10127",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Law &amp; Society Review",
+      "journal_id": "J020",
+      "origin": "crossref",
+      "title": "Fragile rights: rights consciousness in hospitals in times of crisis",
+      "url": "https://doi.org/10.1017/lsr.2026.10127"
+    },
+    {
+      "abstract": "Alexander Lewis-Ranwell killed three people while suffering a psychotic episode. He brought a claim against several defendants who failed to detain him prior to this tragic incident. Following the UK Supreme Court’s recent decision in Lewis-Ranwell v G4S Health Services , 1 his claim in negligence was barred for illegality. The case is significant because it is the first time the UK Supreme Court has confronted the effect of an acquittal for insanity on a tort claim for damages arising out of the crime. 2 Its answer to the question posed in the title of this case note – even if crime does not pay, does tort law? – was thus ‘no’.",
+      "authors": [
+        "Achas K Burin"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1017/lst.2026.10140",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Legal Studies",
+      "journal_id": "J019",
+      "origin": "crossref",
+      "title": "Crime does not pay, but does tort?\n                    Lewis-Ranwell v G4S Health Services (UK) Ltd\n                    [2026] UKSC 2",
+      "url": "https://doi.org/10.1017/lst.2026.10140"
+    },
+    {
+      "abstract": "Abstract This paper investigates the concept of the commons in the context of the emergence of convenience-based delivery drone networks around the world. It contends that the drone-facilitated commodification of our skies constitutes a modern form of enclosure, facilitated by a legal architecture that centres around questions of ownership. Additionally, and consistent with more traditional land-grabs, expropriation of the sky is supported by its characterisation as a vacant and unused resource. Drawing on historical, doctrinal, and socio-legal perspectives, this paper explores the powerful, countervailing implications of identifying this strategy, and reconceptualising the sky as a commons – for law, governance, and society.",
+      "authors": [
+        "Anna Zenz"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1017/lst.2026.10145",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Legal Studies",
+      "journal_id": "J019",
+      "origin": "crossref",
+      "title": "Reclaiming the commons of the sky: drones and the limits of property law",
+      "url": "https://doi.org/10.1017/lst.2026.10145"
+    },
+    {
+      "abstract": "Abstract Since the enactment of Criminal Justice Act 2003, Sched. 21, the average minimum term for murder in England and Wales has risen by more than 60 per cent. Very lengthy determinate terms are now the norm, subject only, in effect, to the Secretary of State’s discretion to release on compassionate grounds. This article asks whether there should be a mechanism for revisiting such terms, and, if so, on what principles. Although Hutchinson v United Kingdom holds lengthy minimum terms compatible with European Convention on Human Rights, art. 3, it is argued that the principles animating the court’s jurisprudence – shifting penological justifications, the centrality of rehabilitation across Europe and legal clarity – sit uneasily with domestic law. Taking Canada’s former “faint hope” clause as an institutional model, the article imagines a judicial mechanism for late tariff review, separate from parole and calibrated to the gravity of murder.",
+      "authors": [
+        "Richard Martin"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1017/s0008197326101767",
+      "first_seen_jst": "2026-11-04",
+      "journal": "The Cambridge Law Journal",
+      "journal_id": "J121",
+      "origin": "crossref",
+      "title": "REVISITING MURDER TARIFFS: MINIMUM TERMS, REVIEWABILITY AND COMPARATIVE LAW",
+      "url": "https://doi.org/10.1017/s0008197326101767"
+    },
+    {
+      "abstract": "Abstract Discrimination law is notoriously difficult to categorise. Depending on the context, discrimination law can be classified as human rights law, constitutional law or labour law. Notably, though, the UK Supreme Court has drawn significantly on the language of torts in its discrimination decisions. One prominent example is its use of the “but-for” test to determine the causative element of direct discrimination. This article explores the implications of relying on these tortious principles in discrimination jurisprudence. We argue that while the court’s use of the “but-for” test has been useful to claimants by removing the need for malice or intention to prove discrimination, it conflates factual causation with legal causation and misunderstands the analysis required to determine causation in a direct discrimination claim. As a result, the “but-for” test weakens the coherency of discrimination law, ignores its unique conceptual challenges and muddies its factual and normative inquiries.",
+      "authors": [
+        "Alice Taylor",
+        "Liam Elphick"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1017/s000819732610186x",
+      "first_seen_jst": "2026-11-04",
+      "journal": "The Cambridge Law Journal",
+      "journal_id": "J121",
+      "origin": "crossref",
+      "title": "CAUSATION IN DISCRIMINATION LAW: THE TORTIOUS “BUT-FOR” TEST",
+      "url": "https://doi.org/10.1017/s000819732610186x"
+    },
+    {
+      "abstract": "Abstract This article examines how Uzbek migrants become incorporated into Russian society under conditions of legal precarity, discretionary enforcement and pervasive informality. Drawing on multisited ethnographic fieldwork conducted between 2014 and 2026 among Uzbek migrants in Russia and their families and communities in Uzbekistan, it develops the concept of shadow legal integration to explain how social and economic incorporation can deepen without a corresponding movement towards legal security. The article argues that repeated encounters with migration authorities, police, employers, intermediaries and migrant networks generate practical legal knowledge that migrants test, revise and circulate over time. This process of legal adaptation enables migrants to navigate the interaction between formal rules and informal practices while rem aining vulnerable to detention, deportation and administrative uncertainty. Ethnographic analysis of deportation, migration bureaucracy, legal brokerage, document economies and changing migration governance after 2022 further demonstrates that such competence is not a fixed repertoire but requires continual recalibration as legal and enforcement environments change. Shadow legal integration thus identifies how learning to navigate the intersection of formal and informal practices can itself become a mode of incorporation. The article contributes to migration and socio-legal scholarship by showing that migrant integration and legal security need not develop in parallel.",
+      "authors": [
+        "Rustamjon Urinboyev",
+        "Albina Aidarkhankyzy"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1017/s1744552326100731",
+      "first_seen_jst": "2026-11-04",
+      "journal": "International Journal of Law in Context",
+      "journal_id": "J125",
+      "origin": "crossref",
+      "title": "Shadow legal integration: migrant legal integration, Russian style",
+      "url": "https://doi.org/10.1017/s1744552326100731"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "William Lucy"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1080/20403313.2026.2749967",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Jurisprudence",
+      "journal_id": "J006",
+      "origin": "crossref",
+      "title": "Algorithms instead of adjudication: why?",
+      "url": "https://doi.org/10.1080/20403313.2026.2749967"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Michele Mangini"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1080/20403313.2026.2751303",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Jurisprudence",
+      "journal_id": "J006",
+      "origin": "crossref",
+      "title": "All that it takes to be reasonable",
+      "url": "https://doi.org/10.1080/20403313.2026.2751303"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sarah E. Brown"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1086/744067",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Polity",
+      "journal_id": "J033",
+      "origin": "crossref",
+      "title": "Spatial Injustice and Political Placemaking in Slavery’s Wake",
+      "url": "https://doi.org/10.1086/744067"
+    },
+    {
+      "abstract": "Abstract This article argues that Nietzsche’s rejection of the doer/deed distinction in the famous lightning-flash passage in On the Genealogy of Morality 1:13 is more radical than Robert Pippin’s influential expressivist interpretation allows. Nietzsche’s target is not merely the causal conception of agency, but a metaphysical picture according to which a bearer of a capacity subsequently actualizes it in action, and thus ultimately the ontological distinction between potentiality and actuality itself. The conventional distinction between strength and expression presupposes a bearer of a capacity that can remain unactualized; Nietzsche’s criticism of precisely this distinction, together with his identification of force with activity and his rejection of the capacity-bearing ‘substratum’, is also directed against the metaphysical structure required by the potentiality/actuality distinction itself.",
+      "authors": [
+        "William Wood"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1093/pq/pqag079",
+      "first_seen_jst": "2026-11-04",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
+      "origin": "crossref",
+      "title": "Against the expressivist interpretation of Nietzsche’s lightning-flash analogy",
+      "url": "https://doi.org/10.1093/pq/pqag079"
+    },
+    {
+      "abstract": "ABSTRACT The project of Moral Bioenhancement (MBE)—biomedical interventions causing individuals to have better moral beliefs, motivations, or behaviours—is controversial, particularly as MBE relates to human freedom. Proponents argue that MBE is utility‐promoting and compatible with freedom. Conversely, critics charge that MBE—particularly when it bypasses or replaces rational moral deliberation, or when it is imposed compulsorily—threatens freedom of thought and action. I argue that much of the disagreement on this topic is due to conflation and obfuscation, resulting in conceptual confusion. Accordingly, I draw a distinction between two types of MBEs: those that incline individuals to moral action, and those that prohibit immoral action, by invoking the higher‐order desires of Harry Frankfurt's freedom of the will. Importantly, this distinction runs parallel to, rather than tracking, the familiar distinction between voluntary and compulsory MBE. Ultimately, I argue that inclining MBE interventions may not infringe, and may even enhance, freedom by allowing individuals to translate sincerely held moral beliefs into desired moral behaviours, enabling freedom as moral self‐mastery. Conversely, prohibitory MBEs necessarily restrict freedom, though this does not by itself entail that they are impermissible in all circumstances.",
+      "authors": [
+        "Daniel Lee"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1111/bioe.70204",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "Clarifying the Distinction Between Inclining Moral Bioenhancement and Prohibitory Moral Bioenhancement, and Their Effects on Freedom",
+      "url": "https://doi.org/10.1111/bioe.70204"
+    },
+    {
+      "abstract": "ABSTRACT In this paper, we argue for the adoption of algorithmic bioethics , which uses algorithms, in the form of decision trees, to articulate, understand, apply, and evaluate bioethical arguments. Algorithms bring many benefits to the study of bioethics: they clearly, precisely, and transparently articulate the decision procedure and facts relevant to an ethical decision; furthermore, they can be used to systematically discover, map out, and compare different ethical decision procedures concerning a practical issue. We then also outline and tackle potential limitations of algorithmic bioethics, and explore future directions for using decision trees in bioethics. Throughout, we illustrate our points using a case study of ethical decision trees, created with the help of large language models, about conscientious objection in medicine.",
+      "authors": [
+        "Shang Long Yeo",
+        "Sebastian Porsdam Mann",
+        "Brian D. Earp",
+        "Julian Savulescu"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1111/bioe.70211",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "Algorithmic Bioethics: A Defense and Demonstration",
+      "url": "https://doi.org/10.1111/bioe.70211"
+    },
+    {
+      "abstract": "ABSTRACT A popular indifference principle for self‐locating probability faces skeptical challenges, most notably a skeptical challenge concerning Boltzmann Brains. We examine the prospects for various views that prescribe some degree of bias in place of indifference. Although a bias view has attractive anti‐skeptical features, it turns out that bias leads to puzzles about deference to chance, reflection, and other related principles.",
+      "authors": [
+        "Sinan Dogramaci",
+        "Simon Goldstein",
+        "John Hawthorne",
+        "Miriam Schoenfield"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1111/nous.70077",
+      "first_seen_jst": "2026-11-04",
+      "journal": "Noûs",
+      "journal_id": "J086",
+      "origin": "crossref",
+      "title": "Bias Against Boltzmann Brains?",
+      "url": "https://doi.org/10.1111/nous.70077"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-03",
-  "window_start": "2026-09-19"
+  "window_end": "2026-11-04",
+  "window_start": "2026-09-20"
 }

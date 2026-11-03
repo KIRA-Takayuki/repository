@@ -39,8 +39,9 @@ jobs:
         id: fallback
         env:
           EVENT_SCHEDULE: ${{ github.event.schedule }}
+          FORCE_COLLECTION: ${{ contains(github.event.head_commit.message, '[test-full-collection]') }}
         run: |
-          if [ "${{ github.event_name }}" = 'push' ]; then
+          if [ "${{ github.event_name }}" = 'push' ] && [ "$FORCE_COLLECTION" != 'true' ]; then
             echo 'RUN_COLLECTION=false' >> "$GITHUB_ENV"
             echo 'Push event: run code and registry validation only; do not rescan journals.'
           else

@@ -1,12 +1,12 @@
 {
   "status": "structurally_valid_not_semantically_verified",
-  "checked_on_jst": "2026-11-04",
-  "raw_candidates": 27,
+  "checked_on_jst": "2026-11-05",
+  "raw_candidates": 13,
   "already_introduced": 0,
-  "eligible_candidates": 27,
+  "eligible_candidates": 13,
   "errors": [],
   "warnings": [
-    "3 research candidates lack abstracts"
+    "1 research candidates lack abstracts"
   ],
   "meaning": "Not an endorsement of publication dates, abstracts, paper types, or delivery."
 }

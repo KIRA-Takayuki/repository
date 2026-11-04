@@ -1,99 +1,6 @@
 {
-  "collected_on": "2026-11-04",
+  "collected_on": "2026-11-05",
   "items": [
-    {
-      "abstract": "Abstract The legal field already uses various large language models (LLMs) in real-world applications. The practical use in the patent domain concentrates on general pre-trained and foundation models without domain specificity. However, little is known and documented about their performance; their limitations are poorly studied and documented. Quality control and any targeted improvement of natural language processing in patent law require such information. We evaluated several open-source and proprietary LLMs—including the GPT series, Anthropic, DeepSeek, and Llama-3 variants—on parts of the European qualifying examination (EQE) for future European patent attorneys. The chosen tests are intentionally technical and designed with little room for interpretation so that models cannot hide wrong associations and answers behind apparent eloquence. OpenAI o1 led with 0.82 accuracy and 0.81 F1 score, whereas AWS (Amazon Web Services) Llama 3.1 8B lagged at 0.50 accuracy, and a Python-deployed Llama 3.1 8B scored 0.55. The latter two are within the range of mere guessing for the two-option forced-choice design. None of the evaluated models could have fully passed the examination, as accuracy never exceeded the average threshold of 0.90 required for professional-level standards—also not models that are regularly promoted for their assumed beyond-PhD- and bar-admitted-lawyer-level performance. GPT-4o excelled at integrating text and graphics, whereas Claude 3 Opus often struggled to maintain formatting coherence. Human patent experts evaluated the textual justifications to identify and understand problems at the argument level. They uncovered various critical shortcomings of each model. They valued clarity and legal rationale over the raw correctness of the answers, which revealed misalignment between automatic metrics and expert judgment. Model outputs were sensitive to modest temperature changes and prompt wording, which underscores the continued necessity of expert oversight. Although the arguments and our analysis of the training corpora demonstrate that the relevant legal texts were part of pre-training, the models, e.g., their embeddings, demonstrated potential for improvement in domain-specific language aspects. Future work should target logical consistency, robust multimodality, and adaptive prompting to approach human-level patent proficiency. In summary, despite the outstanding performance of recent large models, the general public might overestimate their capabilities. The field has a long way to go to develop a virtual patent attorney. This paper aims to point out several specific limitations that need solutions.",
-      "authors": [
-        "Bhakti Khera",
-        "Rezvan Alamian",
-        "Pascal A Scherz",
-        "Stephan M Goetz"
-      ],
-      "date": "2026-09-20",
-      "doi": "10.1007/s10506-026-09543-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Artificial Intelligence and Law",
-      "journal_id": "J022",
-      "origin": "crossref",
-      "title": "Can general large language models (LLM) pass a hands-on patent attorney test? A study on LLM capabilities",
-      "url": "https://doi.org/10.1007/s10506-026-09543-4"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Daniela Lup",
-        "Hanna Kopelman",
-        "Oana Lup"
-      ],
-      "date": "2026-09-20",
-      "doi": "10.1007/s10551-026-06454-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Equality in Practice: How Country-Level Leave Entitlements Shape Women’s Career Development Opportunities in Organizations",
-      "url": "https://doi.org/10.1007/s10551-026-06454-x"
-    },
-    {
-      "abstract": "Abstract This study examined how companies visually constructed intersectional gender representation in their social media posts and how Generative AI may reproduce or reshape these practices. Drawing on gender representation research in corporate communication, the Stereotype Content Model, and visual social semiotics, we analyzed 300 Instagram posts from the top 100 Fortune 500 B2C companies alongside 300 AI-generated images created to mirror them. Using mixed-methods visual social semiotic content analysis, we compared compositional, interactional, and representational meanings, positioning representation as distributive and recognitional justice. Findings indicated that corporate imagery often signaled performative inclusivity in compositional and interactional meanings, while reinforcing persistent hierarchies in representational meanings. In contrast, AI-generated imagery appeared anamorphic, sometimes reflecting dominant representational patterns and other times distorting or reversing them in ways that rendered identity markers ambiguous or exaggerated. These findings highlight ethical challenges in integrating AI into corporate communication and underscore the need for organizational reflexivity, transparency, and accountability in visual content creation. This study contributes to emerging scholarship on AI ethics and gender representation in corporate communication and offers practical guidance for managers seeking to ensure that the use of AI supports inclusivity and social justice.",
-      "authors": [
-        "Ganga S. Dhanesh",
-        "Mahinaz Saad",
-        "Sharath Sasidharan",
-        "Shuchismita Sarkar"
-      ],
-      "date": "2026-09-20",
-      "doi": "10.1007/s10551-026-06461-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Intersectional Gender Representation in Corporate Social Media and Corresponding AI-Generated Images: Hallucinatory AI or Anamorphic AI in a House of Illusions?",
-      "url": "https://doi.org/10.1007/s10551-026-06461-y"
-    },
-    {
-      "abstract": "Abstract It is one of the most frequent criticisms of regularity theories of causation that they cannot distinguish between causes and effects based on Boolean determination relations of sufficiency and necessity alone—jeopardizing their goal of reducing causation to Boolean determination. The criticism rests on the fact that determination relations can be symmetric but causation (in acyclic structures) cannot. Regularity theorists have countered by arguing that only simplistic determination structures are symmetric, and by insisting that structures with a minimal complexity of two alternative causes per effect exhibit non-symmetric determination relations. In this paper, we show that this regularity-theoretic response is insufficient to break symmetries of determination and, thus, to identify the direction of causation. To solve this problem, we introduce a new directionality criterion and demonstrate that it suffices to distinguish causes from effects solely on the basis of Boolean determination relations.",
-      "authors": [
-        "Michael Baumgartner",
-        "Timm Lampert"
-      ],
-      "date": "2026-09-20",
-      "doi": "10.1007/s10670-026-01150-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "Breaking Symmetry: A New Directionality Criterion for Regularity Theories of Causation",
-      "url": "https://doi.org/10.1007/s10670-026-01150-8"
-    },
-    {
-      "abstract": "Abstract This essay examines the theoretical relation between moral sentiments and the goodness of human nature in Mengzi's moral philosophy. Mengzi's claim that human nature is good is often understood through the heart of compassion and the sages' exemplary achievements. I argue that both approaches are incomplete: they show how the moral potential is actualized but insufficiently explains how the goodness of human nature itself is recognized or validated. Instead, I argue that Mengzi also suggests a spectatorial account of moral evaluation. From the spectator's standpoint, we discern goodness through shared sentiments of approbation, which are grounded in the hearts of shame and approval. Our approvals of virtuous agents function to indicate their goodness and provide empirical support for the claim that human nature contains an inherent potential for goodness. I show the merit of this spectatorial perspective with an enriched interpretation of 3A1, where the claim that human nature is good first appears. By combining agential and spectatorial perspectives, Mengzi develops a coherent account of the goodness of human nature that encourages agential moral self‐cultivation, strengthened from a spectatorial examination of goodness.",
-      "authors": [
-        "Dobin Choi"
-      ],
-      "date": "2026-09-20",
-      "doi": "10.1111/ejop.70121",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Journal of Philosophy",
-      "journal_id": "J102",
-      "origin": "crossref",
-      "title": "Why Does Mengzi Consider Human Nature Good?",
-      "url": "https://doi.org/10.1111/ejop.70121"
-    },
-    {
-      "abstract": "ABSTRACT Referential indeterminacy may seem to leave little room for de re or singular thoughts about ordinary objects. I argue that this impression is misleading. We can direct our thoughts at particular objects, even though there is no fact of the matter as to which objects are referred to by the singular terms purporting to stand for them. By distinguishing between weak and strong de re attitudes, I show that speakers can retain a weak form of de re belief despite the absence of determinate reference. I extend the same distinction to knowledge of reference, thereby explaining how linguistic understanding survives the indeterminacy of reference. I also briefly explore some broader implications of this picture for the theory of reference and for the status of genuine singular terms.",
-      "authors": [
-        "Bahram Assadian"
-      ],
-      "date": "2026-09-20",
-      "doi": "10.1111/nous.70066",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Noûs",
-      "journal_id": "J086",
-      "origin": "crossref",
-      "title": "Referential Indeterminacy and\n                    De Re\n                    Thoughts",
-      "url": "https://doi.org/10.1111/nous.70066"
-    },
     {
       "abstract": "Abstract This article examines the ethical and legal dimensions of corporate land grabbing in Bahia, Brazil, focusing on the forestry sector’s use of fraud, legal manipulation, and violence to acquire land. Through a case study of Veracel Celulose, a joint venture between the Swedish-Finnish corporation Stora Enso and the Brazilian company Suzano, we analyze how corporations exploit legal ambiguity and manipulate land registries to dispossess local populations. Drawing on archival data from federal and state land governance institutions, we develop the concept of corporate (il)legal enclosure, defined as the process through which corporations transform contested, public, or informally held land into de facto corporate property by mobilizing intertwined legal and illegal practices that exclude local populations from access, use, and control over land. Our findings show how title forgery, cadastral manipulation, administrative procedures, and legal regularization operate together to convert fraudulent land claims into seemingly legitimate corporate property. We demonstrate that land grabbing increasingly occurs not only through violence or outright illegality, but through the strategic mobilization of legal and bureaucratic institutions that render dispossession lawful in practice. By integrating insights from agrarian studies, sociolegal scholarship, and business ethics, the article advances a contextually grounded understanding of land-based injustice and challenges compliance-oriented approaches to business ethics. In doing so, it highlights the need for business ethics scholarship to engage more directly with the role of law in enabling and legitimizing corporate dispossession.",
       "authors": [
@@ -13203,6 +13110,105 @@
       "url": "https://doi.org/10.36644/mlr125.2.tribal"
     },
     {
+      "abstract": "A murder is an intentional killing, but some killings happen by mistake or accident. Although mistakes and accidents are unintended parts of an action, some jurisdictions prosecute unintended homicides as murder crimes in at least three patterns of cases. Together, these propositions present a puzzle that undermines a fundamental principle of criminal responsibility: An agent must unify the elements of a crime as a matter of their agency for criminal responsibility to attach. I examine five insightful ways to interpret this principle in the literature, and I argue that none can account for all three case patterns. Primarily, I offer a solution to the puzzle based on the intentional causation relation. According to this solution, although intentionally acting does not involve the intent to cause every change one makes as part of the action, it does involve intentionally causing all such changes, including the mistakes or accidents.",
+      "authors": [
+        "Saad Al-Obaidi"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.4337/jlp.2026.02.01",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Journal of Legal Philosophy",
+      "journal_id": "J010",
+      "origin": "crossref",
+      "title": "Unintended murder",
+      "url": "https://doi.org/10.4337/jlp.2026.02.01"
+    },
+    {
+      "abstract": "This paper addresses a question that has been overlooked by the growing body of literature on private law formalism: how are formalist private law categories constructed? I read Ernest Weinrib’s treatment of unjust enrichment in chapter 6 of his Corrective Justice not as a substantive theory of that doctrine but rather as an instance in which a formalist jurist appears to be constructing a private law category. I argue that in developing his account of unjust enrichment, Weinrib follows three consecutive methodological steps: compilation, characterization and determination. The article first distils these steps from Weinrib’s work and subsequently examines them in depth, proposing them as the building blocks of a preliminary theory of category construction within formalist private law theory.",
+      "authors": [
+        "Javier Habib"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.4337/jlp.2026.02.02",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Journal of Legal Philosophy",
+      "journal_id": "J010",
+      "origin": "crossref",
+      "title": "The construction of formalist categories",
+      "url": "https://doi.org/10.4337/jlp.2026.02.02"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Wojciech Sadurski",
+        "Ayesha Wijayalath"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.4337/jlp.2026.02.03",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Journal of Legal Philosophy",
+      "journal_id": "J010",
+      "origin": "crossref",
+      "title": "Introduction: a symposium on Sovereignty Across Generations",
+      "url": "https://doi.org/10.4337/jlp.2026.02.03"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Wojciech Sadurski"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.4337/jlp.2026.02.05",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Journal of Legal Philosophy",
+      "journal_id": "J010",
+      "origin": "crossref",
+      "title": "On extrapolating Rawls into intergenerational justice",
+      "url": "https://doi.org/10.4337/jlp.2026.02.05"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ayesha Wijayalath"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.4337/jlp.2026.02.06",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Journal of Legal Philosophy",
+      "journal_id": "J010",
+      "origin": "crossref",
+      "title": "Constituent power as messianic interruption",
+      "url": "https://doi.org/10.4337/jlp.2026.02.06"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ayaka Doyle"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.4337/jlp.2026.02.07",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Journal of Legal Philosophy",
+      "journal_id": "J010",
+      "origin": "crossref",
+      "title": "Ferrara’s Sovereignty Across Generations in conversation with Japanese constitutionalism",
+      "url": "https://doi.org/10.4337/jlp.2026.02.07"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Alessandro Ferrara"
+      ],
+      "date": "2026-11-01",
+      "doi": "10.4337/jlp.2026.02.08",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Journal of Legal Philosophy",
+      "journal_id": "J010",
+      "origin": "crossref",
+      "title": "Temporality, transformation, and co-authorship of the constitution: a reply",
+      "url": "https://doi.org/10.4337/jlp.2026.02.08"
+    },
+    {
       "abstract": "ABSTRACT This article considers the prerogatives that parents have to shape their children's identity by adopting a dietary regime that gives expression to the conception of the good embraced by parents. It examines Matthew Clayton's recent claim that respect for the independence of children requires that parents set aside religious, aesthetic, and gastronomic reasons to control the food that children eat and that parents wrong their children if they impose on them comprehensive views about what they should eat. Against Clayton, I argue that a modest form of parental perfectionism is consistent with respect for children's independence. On this view, parents may provisionally privilege a dietary regime in raising their children. Moreover, privileging a dietary regime does not involve the kind of comprehensive enrolment into a conception of the good that Clayton views as objectionable. A suitable form of privileging can contribute to autonomy development in children and manifests respect for them.",
       "authors": [
         "Colin M. Macleod"
@@ -13861,6 +13867,34 @@
       "url": "https://doi.org/10.1093/pq/pqag079"
     },
     {
+      "abstract": "",
+      "authors": [
+        "Laurence Lustgarten"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1111/1468-2230.70079",
+      "first_seen_jst": "2026-11-05",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "BernardKeenan, Interception: State Surveillance from Postal Systems to Global Networks, Cambridge, MA, MIT Press, 2025, 275pp, pb, US$45.00, C$65.00",
+      "url": "https://doi.org/10.1111/1468-2230.70079"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "C. R. G. Murray"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1111/1468-2230.70082",
+      "first_seen_jst": "2026-11-05",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "LewisGraham, Judicial Individuality on the UK Supreme Court, Oxford: Hart Publishing, 2025, 304 pp, hb, £85.00.",
+      "url": "https://doi.org/10.1111/1468-2230.70082"
+    },
+    {
       "abstract": "ABSTRACT The project of Moral Bioenhancement (MBE)—biomedical interventions causing individuals to have better moral beliefs, motivations, or behaviours—is controversial, particularly as MBE relates to human freedom. Proponents argue that MBE is utility‐promoting and compatible with freedom. Conversely, critics charge that MBE—particularly when it bypasses or replaces rational moral deliberation, or when it is imposed compulsorily—threatens freedom of thought and action. I argue that much of the disagreement on this topic is due to conflation and obfuscation, resulting in conceptual confusion. Accordingly, I draw a distinction between two types of MBEs: those that incline individuals to moral action, and those that prohibit immoral action, by invoking the higher‐order desires of Harry Frankfurt's freedom of the will. Importantly, this distinction runs parallel to, rather than tracking, the familiar distinction between voluntary and compulsory MBE. Ultimately, I argue that inclining MBE interventions may not infringe, and may even enhance, freedom by allowing individuals to translate sincerely held moral beliefs into desired moral behaviours, enabling freedom as moral self‐mastery. Conversely, prohibitory MBEs necessarily restrict freedom, though this does not by itself entail that they are impermissible in all circumstances.",
       "authors": [
         "Daniel Lee"
@@ -13892,6 +13926,20 @@
       "url": "https://doi.org/10.1111/bioe.70211"
     },
     {
+      "abstract": "ABSTRACT In the mid‐20th century, there was a debate about whether the quantifiers in first‐order logic should be understood objectually or substitutionally. This debate typically focused on ontology and assumed that we could use only one of these two types of quantification. After Kripke and others influentially argued that the two kinds of quantification were logically equivalent, defenses of substitutional quantification were rare. Following Gottlieb and Field, I argue that Kripke was wrong and that substitutional consequence is language‐bound and non‐compact. While of no help with ontology, I also argue that so‐understood, substitutional quantification can be applied to help explain our grasp of a determinate notion of arithmetical truth. To argue for this, I give an account of the metasemantics of the substitutional quantifiers and prove that adding a single, very natural, mixed axiom to weak theories of arithmetic results in a categorical theory. This approach promises to explain arithmetical truth on a less controversial basis than appeals to either second‐order logic or the omega rule, thus making progress on the project of explaining our grasp of arithmetic in a naturalistically acceptable fashion.",
+      "authors": [
+        "Jared Warren"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1111/nous.70072",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Noûs",
+      "journal_id": "J086",
+      "origin": "crossref",
+      "title": "Substitutional Quantification and Arithmetical Truth",
+      "url": "https://doi.org/10.1111/nous.70072"
+    },
+    {
       "abstract": "ABSTRACT A popular indifference principle for self‐locating probability faces skeptical challenges, most notably a skeptical challenge concerning Boltzmann Brains. We examine the prospects for various views that prescribe some degree of bias in place of indifference. Although a bias view has attractive anti‐skeptical features, it turns out that bias leads to puzzles about deference to chance, reflection, and other related principles.",
       "authors": [
         "Sinan Dogramaci",
@@ -13907,9 +13955,207 @@
       "origin": "crossref",
       "title": "Bias Against Boltzmann Brains?",
       "url": "https://doi.org/10.1111/nous.70077"
+    },
+    {
+      "abstract": "ABSTRACT Frankfurt's idea that bullshit is “fake,” “counterfeit,” and “phony” has been overshadowed in the later debate by his claim that the bullshitter is indifferent to truth. The former insight deserves to be taken more seriously. I begin by asking whether bullshit is a fake assertion and argue that it isn't. What makes it bullshit, rather, is that the speaker's performance is meant to raise the audience's credence in some proposition h by resembling genuine evidence for h , while simultaneously concealing that it lacks the features of genuine evidence. Bullshit, on this analysis, is best understood as a communicative act that the speaker intends to serve as “counterfeit evidence.” I then use the ideas of relevance theory to distinguish bullshit from plain lying. Since deception is a corollary of counterfeiture, it is also an intrinsic element of bullshit. This helps to contrast the present view with other accounts in the literature.",
+      "authors": [
+        "Y. Sandy Berkovski"
+      ],
+      "date": "2026-11-03",
+      "doi": "10.1111/rati.70048",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Ratio",
+      "journal_id": "J093",
+      "origin": "crossref",
+      "title": "Bullshit as Counterfeit Evidence",
+      "url": "https://doi.org/10.1111/rati.70048"
+    },
+    {
+      "abstract": "Abstract Recent years have seen a decisive turn in neuroscience toward embodiment, shifting focus from a brain-bound view of the mind to a more holistic one where the body is treated as constitutive of self and consciousness. While this turn has yielded valuable insights through studies on interoception, multisensory integration and bodily ownership, it also carries significant theoretical and ethical risks. This essay identifies the body problem: the risk of collapsing selfhood into bodyhood, with troubling consequences when applied to bodies that are marginalized or that otherwise do not meet the status quo. Tracing historical debates on mind–body relations, clarifying contemporary notions of the self and examining empirical findings on embodiment, it is argued that strong formulations of the embodied self risk reviving old reductions whereby “less body” implies “less self,” not because such formulations explicitly assert the inference, but because they leave it available for others to make. Such reductions threaten to undermine the value of persons whose bodies diverge from normative assumptions. Rather than rejecting embodiment research, this essay calls for caution against its uncritical extension, underscoring the need to guard against theoretical slippage that may entail harmful social consequences.",
+      "authors": [
+        "Leyla Loued-Khenissi"
+      ],
+      "date": "2026-11-04",
+      "doi": "10.1007/s12152-026-09683-z",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
+      "origin": "crossref",
+      "title": "The Body Problem: Cautionary Notes on the Embodied Self",
+      "url": "https://doi.org/10.1007/s12152-026-09683-z"
+    },
+    {
+      "abstract": "Abstract Sparse autoencoders (SAEs) can expose interpretable features in language-model activations, but public SAE resources such as GemmaScope and Llama Scope are trained on generic web text rather than cybersecurity evidence. CyberLens is a purpose-trained SAE and heuristic taxonomy-mapping pipeline for cybersecurity interpretability of an open-weight language model. Because cyber uplift is a foreseeable deployment risk, reasonable care requires developers of general-purpose language models to provide proportionate internal observability of cyber-relevant behaviour. We train a width-4096 JumpReLU SAE on layer 8 of EleutherAI/pythia-160 m, a 12-layer, 162-million-parameter model with a 768-dimensional residual stream, using 14,925 documents (approximately 1.85 million tokens) of MITRE ATT&CK descriptions and procedure examples, NVD vulnerability reports, CISA KEV records, CAPEC, malware reports, phishing emails, and Dolly-15k benign contrasts, with grouped splitting to prevent source-document leakage. The cybersecurity SAE achieves FVU 0.0435 (95.7% explained variance) versus 0.186 for a matched generic-text SAE—an absolute explained- variance gain of 14.2 percentage points on the reported activation sample. Its 4,096 feature rows are mapped heuristically to ATT&CK techniques and CISSP domains using local all-MiniLM-L6-v2 similarity, with confidence scores from 0.313 to 0.928; the top 50 remain pending hand-verification after a labelling pilot failed. Refusal is 0.000 in both arms (a Pythia-160 M base model without instruction tuning or RLHF). Suppressing 20 selected features increases keyword-flagged cyber content from 0.067 to 0.317 overall and from 0.050 to 0.800 for exploit items; phishing and malware are null, and 15 of 20 exploit placeholders contain “Exploit,” inflating this lexical metric. English-only, phishing-heavy corpus; one completed layer-8 width-4,096 SAE whose observed $$L_0=286$$ greatly exceeds the target 20; heuristic, unverified labels; keyword-based outcomes; a placeholder-heavy 60-prompt intervention set; no evidence about frontier models or effective cyber-content suppression. SAE weights, feature dictionary, loader, and an interactive demonstration are released for reproducible small-model research; scaling to larger models remains future work.",
+      "authors": [
+        "Fahad Hafeez"
+      ],
+      "date": "2026-11-04",
+      "doi": "10.1007/s43681-026-01480-x",
+      "first_seen_jst": "2026-11-05",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Cyberlens: taxonomy-mapped sparse autoencoders for cybersecurity interpretability of open-weight language models",
+      "url": "https://doi.org/10.1007/s43681-026-01480-x"
+    },
+    {
+      "abstract": "Abstract The Gettier problem suggests that the core challenge for theories of knowledge lies in eliminating knowledge-undermining epistemic luck. In response, two major approaches have emerged in contemporary epistemology: modalism and explanationism. However, both approaches have limitations and exhibit an interesting theoretical symmetry: while modalism effectively handles environmental luck, it struggles with certain cases of intervening luck; explanationism faces the reverse difficulty. This symmetrical limitation suggests that any theory of knowledge relying on a single dimension is likely to be inadequate. To address this, this paper presents a new, integrated approach – Modal Explanationism (ME). ME requires that a belief counts as knowledge just in case it is explained by the truth of the believed proposition in the actual world, and that this explanatory connection is preserved across a range of nearby possible worlds. It is argued that ME offers a more successful solution to the Gettier problem than either modalism or explanationism alone.",
+      "authors": [
+        "Ying Zhang",
+        "Haicheng Zhao"
+      ],
+      "date": "2026-11-04",
+      "doi": "10.1017/epi.2026.10165",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Episteme",
+      "journal_id": "J095",
+      "origin": "crossref",
+      "title": "A Modal Explanationist Solution to the Gettier Problem",
+      "url": "https://doi.org/10.1017/epi.2026.10165"
+    },
+    {
+      "abstract": "Abstract The Article analyzes how gender markers on passports are used to bolster the digital racial borders of the European Union (EU). It traces the history of gender markers on passports, showing that they increasingly emerged in the EU and elsewhere as part of border digitalization processes from the 1980s onward. It further investigates how gender markers on passports increasingly serve border-related risk assessments by examining the ongoing expansion of Advanced Passenger Information, Passenger Name Records, and the Visa Information System in the EU. While this analysis shows that gender markers help to identify the “unwanted” migrant—a deeply racialized concept—the Article also interrogates whether abolishing gender markers would necessarily render borders gender- or race-neutral. It therefore explores how border governance that relies on big data and biometric tools, rather than gender markers, may equally reinforce cisnormative and racialized borders.",
+      "authors": [
+        "Lena Holzer"
+      ],
+      "date": "2026-11-04",
+      "doi": "10.1017/glj.2026.10238",
+      "first_seen_jst": "2026-11-05",
+      "journal": "German Law Journal",
+      "journal_id": "J126",
+      "origin": "crossref",
+      "title": "Gender Markers in Passports and the Digital Racial Borders of the European Union",
+      "url": "https://doi.org/10.1017/glj.2026.10238"
+    },
+    {
+      "abstract": "Abstract This paper aims to advance current debates on gendered language reform by making explicit the assumptions in much of the philosophical literature, and by proposing a reorientation of how we theorize about pronoun reform and linguistic amelioration. While sympathetic to the normative aims of prominent proposals, I caution that prescriptions grounded in any single language risk overstating language-specific features and blurring the sources and dynamics of gender essentialism. Drawing on the case of Mandarin Chinese, where gendered pronouns were a modern invention, I clarify the limits of language-specific diagnoses and show how reform is mediated by social conditions of uptake. More broadly, I advocate a shift from language-specific proposals to a cross- and trans-linguistic perspective: cross-linguistic comparison identifies which claims generalize across languages, and a trans-linguistic lens highlights how reform ideas and practices travel across contexts and are reshaped through uptake and negotiation. This approach offers a more philosophically robust account of the prospects and limits of linguistic amelioration, and of language’s role in social change.",
+      "authors": [
+        "Hsiang-Yun Chen"
+      ],
+      "date": "2026-11-04",
+      "doi": "10.1017/hyp.2026.10106",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Hypatia",
+      "journal_id": "J075",
+      "origin": "crossref",
+      "title": "Pronouns and Linguistic Amelioration",
+      "url": "https://doi.org/10.1017/hyp.2026.10106"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Michael Blake"
+      ],
+      "date": "2026-11-04",
+      "doi": "10.1017/s0034670526101260",
+      "first_seen_jst": "2026-11-05",
+      "journal": "The Review of Politics",
+      "journal_id": "J050",
+      "origin": "crossref",
+      "title": "Shmuel Nili, Beyond the Law’s Reach? Powerful Criminals, Foreign Entanglement, and Justice in the Shadow of Violence. (New York: Oxford University Press, 2024.)",
+      "url": "https://doi.org/10.1017/s0034670526101260"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sabrina Ragone"
+      ],
+      "date": "2026-11-04",
+      "doi": "10.1093/icon/moag112",
+      "first_seen_jst": "2026-11-05",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
+      "origin": "crossref",
+      "title": "Una reflexión a doce años de “Comparative Matters”, de Ran Hirschl",
+      "url": "https://doi.org/10.1093/icon/moag112"
+    },
+    {
+      "abstract": "ABSTRACT This article focuses on the question of how to understand the role and use of ethical theories in bioethics. Work in bioethics often involves uses of ethical theory, but methodological developments such as the empirical turn and the growing insights into the plurality and contextuality of moral considerations challenge a traditional view of ethical theories as providing moral input into the value‐neutral descriptions offered by empirical studies. Nevertheless, bioethics is characterised by a relative neglect of questions related to the use of ethical theories. The article develops a number of desiderata that any understanding of the role of ethical theories should be able to address; to accommodate moral plurality and contextuality, to motivate choices and uses of specific theories, to minimise risks of theory‐driven attention and blindness, to allow for theoretical plurality, to address relations between theories and theoretical integrity. It then presents some challenges for existing accounts of theory‐use in bioethics, thus paving the way for an alternative understanding of the role of ethical theories in bioethics. The suggestion presented here is that ethical theories should be understood as descriptions or representations of moral grammars , implicit normative structures of thinking and action that constitute moral considerations. Furthermore, in relation to problems in bioethics, it is suggested that ethical theories are used as heuristic tools to illuminate and clarify moral grammars as they appear in specific bioethical poblems or studies.",
+      "authors": [
+        "Anne‐Marie Søndergaard Christensen"
+      ],
+      "date": "2026-11-04",
+      "doi": "10.1111/bioe.70208",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "Reconsidering the Role of Ethical Theories in Bioethics: Ethical Theories as Heuristic Descriptions of Moral Grammars",
+      "url": "https://doi.org/10.1111/bioe.70208"
+    },
+    {
+      "abstract": "Ulrike Kern (2016) unpacks the history of a concept, broken colors. Though it’s been in use since the early seventeenth century, and is even used today by painters, critics, and art theorists when discussing color, it hasn’t much influenced philosophy. Instead, it evolved independently, alongside the early modern philosophical discussions of color. This paper has two goals. First, work out a philosophical reconstruction of the concept whose early history Kern so ably traces. So, this paper is a philosophical contribution to the history of ideas. The paper’s second goal is to show how broken colors contribute to two contemporary issues. First, they help us understand the depiction of things as colored, and second, they can deepen our understanding of the nature of chromatic experience. Broken colors are thus relevant to contemporary philosophy of art and perception. Though there are historically informed contemporary accounts of color on the market—Adams (2016) stands out—they typically address the history of philosophical discussions of color. And there is comparatively little work in the philosophy of art about the depiction of things as colored.",
+      "authors": [
+        "John Kulvicki"
+      ],
+      "date": "2026-11-05",
+      "doi": "10.3998/phimp.7799",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Philosophers' Imprint",
+      "journal_id": "J106",
+      "origin": "crossref",
+      "title": "Understanding Broken Colors",
+      "url": "https://doi.org/10.3998/phimp.7799"
+    },
+    {
+      "abstract": "Can we offer a constitutive account of fittingness? Offering such an account has proven difficult because of the great diversity of fit-assessable responses—e.g., believing, desiring, fearing, blaming, apologizing, thanking, and laughing. Yet, when surveying such examples of fit-apt  responses, what's striking is that invariably each response-type has a job, a goal, an end, a telos. Believing, desiring, fearing, blaming, apologizing, thanking, and laughing are all plausible candidates for having proper functions. The account I aim to defend runs with this idea. Put roughly, fittingness is the relation that holds between a response and its object just when and because the object has the properties that an object of that response needs to possess for the response to non-deviantly fulfill its function.",
+      "authors": [
+        "Andrew T. Forcehimes"
+      ],
+      "date": "2026-11-05",
+      "doi": "10.3998/phimp.8494",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Philosophers' Imprint",
+      "journal_id": "J106",
+      "origin": "crossref",
+      "title": "A Function-Based Account of Fittingness",
+      "url": "https://doi.org/10.3998/phimp.8494"
+    },
+    {
+      "abstract": "The concept of essence is a paradigm case of a putatively hyperintensional concept in metaphysics, a concept that can draw distinctions between necessarily equivalent propositions. Yet as several authors have recently emphasized, fine-grained distinctions in metaphysics come with a substantial risk of inconsistency, due to the Russell-Myhill paradox and its variants. This concern is especially pressing for hyperintensionalists about essence because the hyperintensionality of essence has been motivated primarily by examples. This paper presents a novel, more systematic case for the hyperintensionality of essence that shows that the relevant distinctions can be systematically modeled in a natural theoretical framework. I start by offering a general heuristic to motivate a range of examples of fine-grained essentialist distinctions. I then present a higher-order logical framework for regimenting essentialist statements and provide a general argument for hyperintensionality on the basis of minimal assumptions about the logic of essence. Finally, I address the question of consistency by developing a semantic framework that demonstrates that the relevant fine-grained distinctions can indeed be consistently drawn.",
+      "authors": [
+        "Andreas Ditter"
+      ],
+      "date": "2026-11-05",
+      "doi": "10.3998/phimp.8528",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Philosophers' Imprint",
+      "journal_id": "J106",
+      "origin": "crossref",
+      "title": "Essence and Grain",
+      "url": "https://doi.org/10.3998/phimp.8528"
+    },
+    {
+      "abstract": "I propose a novel A-theory that attractively articulates our common-sense, pre-relativistic conception of time. This A-theory posits fundamental facts about how things were at a specific past times. It treats time’s passing by positing fundamental facts like: four hours passed from 8am today until noon. It allows fundamental cross-temporal relationships. I show that the presentism–eternalism dilemma does not embarrass the proposed A-theory. There are two notions of existence in play: existence at a time and ‘∃-existence’. Neither features in the fundamental facts. I define them up in a way that vindicates the claims of common sense. Past objects count as metaphysically ‘gone’, but there are fundamental facts about how they were. My account rejects presentism and eternalism (properly defined). I defend other aspects of the proposal elsewhere.",
+      "authors": [
+        "Alexander Jackson"
+      ],
+      "date": "2026-11-05",
+      "doi": "10.3998/phimp.8658",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Philosophers' Imprint",
+      "journal_id": "J106",
+      "origin": "crossref",
+      "title": "Escape the Presentism–Eternalism Dilemma: Towards A Common-Sense A-Theory",
+      "url": "https://doi.org/10.3998/phimp.8658"
+    },
+    {
+      "abstract": "Human cognition and behavior are guided by a myriad of norms which enable us to successfully navigate our social environment and our interactions with others. Many of these norms might be hard for us to articulate (e.g. how far to sit or stand from a stranger on the bus), and some of them differentiate between different hierarchies and roles, reflecting patterns of injustice. This paper addresses the fact that social norms, including gendered, ableist, adultist, and racist norms, influence our perception of action possibilities, or affordances, making some actions possible for some agents and not for others. In particular, we propose an account of these interactions in terms of scripts, that is, expected sequences of actions that shape the landscape of the possible ways to interact with one another. Scripts can be learned implicitly, they are dynamic and flexible, and can regulate complex interactions by prescribing permissible actions and responses in specific situations. A script-based account can explain the way norms regulate which actions we perceive as possible in a representationalist way, and can help us explain how norm change occurs.",
+      "authors": [
+        "Leda Berio",
+        "Kristina Musholt"
+      ],
+      "date": "2026-11-05",
+      "doi": "10.3998/phimp.8887",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Philosophers' Imprint",
+      "journal_id": "J106",
+      "origin": "crossref",
+      "title": "Seeing what to do: norms, scripts, and social affordances",
+      "url": "https://doi.org/10.3998/phimp.8887"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-04",
-  "window_start": "2026-09-20"
+  "window_end": "2026-11-05",
+  "window_start": "2026-09-21"
 }

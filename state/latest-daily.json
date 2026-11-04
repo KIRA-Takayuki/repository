@@ -1,217 +1,59 @@
 {
   "already_introduced_count": 0,
-  "checked_at_utc": "2026-11-03T21:07:16.971136+00:00",
-  "collected_on": "2026-11-04",
+  "checked_at_utc": "2026-11-04T21:23:06.691570+00:00",
+  "collected_on": "2026-11-05",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 27,
+  "eligible_candidate_count": 13,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "Religion, as a critical component in both personal value system and institutional order, is relatively under-investigated in strategic management. Drawing from the perspective of institutional logic, we propose that the minority identity of religious CEOs in China reconfigures the interface between religious logic and other salient logics, which shapes CEO’s distinctive perception of external institutional pressures and subsequent decision in practicing corporate philanthropy. Based on a survey of firms across multiple industries and regions in China, we find that religious CEOs perceive lower normative pressure from industry peers but higher regulative pressure from the government, which mediate the effect of CEO religiosity on corporate philanthropy. Furthermore, we find that when firms are positioned in the hub of a business ecosystem, the negative effect of religiosity on normative pressure becomes weaker; when firms are located in an environment with high financial constraints, the positive effect of religiosity on regulative pressure becomes stronger. We contribute by identifying a new explanatory pathway through which CEO religiosity affects corporate philanthropy and revealing the double-edged nature of identification with religious groups.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Anni Chen",
-        "Yue Wang",
-        "Weiguo Zhong"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s10551-026-06505-3",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06505-3",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10551-026-06505-3"
-      ],
-      "title": "CEO Religiosity and Corporate Philanthropy: Navigating Institutional Pressures",
-      "url": "https://doi.org/10.1007/s10551-026-06505-3"
-    },
-    {
-      "abstract": "This paper introduces a novel theoretical framework for business ethics by developing a structural analogy between the Wasserstein barycenter—a mathematical tool from optimal transport theory that achieves algorithmic fairness by finding a consensus among diverse groups—and Sophiology, a Russian theological concept of divine wisdom that unifies creation. We argue this pairing directly addresses the pervasive problem of economism: the reductive focus on material value that underpins critiques of shareholder primacy and algorithmic bias. The framework yields two core contributions. First, it provides a metaphysical interpretation of fairness, framing it not as a constraint but as a harmonizing process that actively respects and incorporates diversity. Second, it proposes a “sophiological political economy,” a normative model where business activity preserves local particularity and aligns with a transcendent common good through integrated ethical, liturgical, and esthetic practices. By formalizing this analogy, we offer business ethics a new lexicon and a constructive vision to design organizations and algorithms that actively foster unity-in-diversity, moving beyond critique toward a holistic theory of value and integration.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Marc Pilkington"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s10551-026-06509-z",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06509-z",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10551-026-06509-z"
-      ],
-      "title": "A Sophiological Analogy for Business Ethics Achieving Unity-in-Diversity through the Wasserstein Barycenter",
-      "url": "https://doi.org/10.1007/s10551-026-06509-z"
-    },
-    {
-      "abstract": "Abstract Whenever you use apps, websites, or digital infrastructure owned by large platform companies, these companies collect data from your activity. They then use the data for various highly profitable purposes, e.g., by designing targeted advertising and selling it to third parties. This paper argues that such data collection should be considered a form of wrongful exploitation. We begin by defending the simple and relatively uncontroversial idea that to exploit is to extract excessive advantage from vulnerability. We then argue that platform companies’ data collection practices are exploitative in this sense. Many internet users are vulnerable because they have limited capacity to make an informed and voluntary decision about exchanging access to their data for access to the companies’ services, or because they have no reasonable alternative to doing so. Moreover, platform companies take advantage of these vulnerabilities to extract profits that they could not otherwise have extracted. The paper ends by discussing what governments and other third parties should do about this form of exploitation. We distinguish preventive measures, which remove or mitigate users’ vulnerabilities, from prohibition and regulation, which leave these vulnerabilities intact but block companies from taking advantage of them.",
+      "abstract": "Abstract Recent years have seen a decisive turn in neuroscience toward embodiment, shifting focus from a brain-bound view of the mind to a more holistic one where the body is treated as constitutive of self and consciousness. While this turn has yielded valuable insights through studies on interoception, multisensory integration and bodily ownership, it also carries significant theoretical and ethical risks. This essay identifies the body problem: the risk of collapsing selfhood into bodyhood, with troubling consequences when applied to bodies that are marginalized or that otherwise do not meet the status quo. Tracing historical debates on mind–body relations, clarifying contemporary notions of the self and examining empirical findings on embodiment, it is argued that strong formulations of the embodied self risk reviving old reductions whereby “less body” implies “less self,” not because such formulations explicitly assert the inference, but because they leave it available for others to make. Such reductions threaten to undermine the value of persons whose bodies diverge from normative assumptions. Rather than rejecting embodiment research, this essay calls for caution against its uncritical extension, underscoring the need to guard against theoretical slippage that may entail harmful social consequences.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Elsa Magnell",
-        "Erik Malmqvist"
+        "Leyla Loued-Khenissi"
       ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s10677-026-10589-1",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Ethical Theory and Moral Practice",
-      "journal_id": "J054",
+      "crossref_online_date": "2026-11-04",
+      "date": "2026-11-04",
+      "doi": "10.1007/s12152-026-09683-z",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
+      "publisher_check_status": "publisher_request_failed_HTTPError",
       "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10677-026-10589-1",
-      "publisher_online_date": "2026-11-03",
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10677-026-10589-1"
+        "https://doi.org/10.1007/s12152-026-09683-z"
       ],
-      "title": "Is Data Collection from Internet Users a Form of Exploitation?",
-      "url": "https://doi.org/10.1007/s10677-026-10589-1"
+      "title": "The Body Problem: Cautionary Notes on the Embodied Self",
+      "url": "https://doi.org/10.1007/s12152-026-09683-z"
     },
     {
-      "abstract": "Abstract Inner speech is often said to be a by-product of motor control, the product of a forward model driven by an efference copy of a cancelled motor command to speak. The conscious auditory imagery of inner speech is said to arise when the product of this forward model becomes conscious. This conception of the genesis of inner speech founders on some basic questions about the consciousness of inner speech and about the interaction between inner speech and episodes of imagination. Further, the empirical evidence cited in support of this theory falls short. An alternative starts with a general conception of constructive imagination, which is our capacity to produce mental images (visual, auditory, etc.) in the course of practical problem-solving. Inner speech may be conceived as a species of constructive imagination in which we construct auditory images of episodes of speech. Inner speech is an imaginative representation of speech events that do not exist, which also represents the objects and events that the represented episodes of speech would represent if they existed.",
+      "abstract": "Abstract Sparse autoencoders (SAEs) can expose interpretable features in language-model activations, but public SAE resources such as GemmaScope and Llama Scope are trained on generic web text rather than cybersecurity evidence. CyberLens is a purpose-trained SAE and heuristic taxonomy-mapping pipeline for cybersecurity interpretability of an open-weight language model. Because cyber uplift is a foreseeable deployment risk, reasonable care requires developers of general-purpose language models to provide proportionate internal observability of cyber-relevant behaviour. We train a width-4096 JumpReLU SAE on layer 8 of EleutherAI/pythia-160 m, a 12-layer, 162-million-parameter model with a 768-dimensional residual stream, using 14,925 documents (approximately 1.85 million tokens) of MITRE ATT&CK descriptions and procedure examples, NVD vulnerability reports, CISA KEV records, CAPEC, malware reports, phishing emails, and Dolly-15k benign contrasts, with grouped splitting to prevent source-document leakage. The cybersecurity SAE achieves FVU 0.0435 (95.7% explained variance) versus 0.186 for a matched generic-text SAE—an absolute explained- variance gain of 14.2 percentage points on the reported activation sample. Its 4,096 feature rows are mapped heuristically to ATT&CK techniques and CISSP domains using local all-MiniLM-L6-v2 similarity, with confidence scores from 0.313 to 0.928; the top 50 remain pending hand-verification after a labelling pilot failed. Refusal is 0.000 in both arms (a Pythia-160 M base model without instruction tuning or RLHF). Suppressing 20 selected features increases keyword-flagged cyber content from 0.067 to 0.317 overall and from 0.050 to 0.800 for exploit items; phishing and malware are null, and 15 of 20 exploit placeholders contain “Exploit,” inflating this lexical metric. English-only, phishing-heavy corpus; one completed layer-8 width-4,096 SAE whose observed $$L_0=286$$ greatly exceeds the target 20; heuristic, unverified labels; keyword-based outcomes; a placeholder-heavy 60-prompt intervention set; no evidence about frontier models or effective cyber-content suppression. SAE weights, feature dictionary, loader, and an interactive demonstration are released for reproducible small-model research; scaling to larger models remains future work.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Christopher Gauker"
+        "Fahad Hafeez"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s11098-026-02625-8",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02625-8",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11098-026-02625-8"
-      ],
-      "title": "The genesis of inner speech: forward models or constructive imagination?",
-      "url": "https://doi.org/10.1007/s11098-026-02625-8"
-    },
-    {
-      "abstract": "Abstract In this paper, I discuss and explore two responses to problems that arise for a simple, weight monist version of reasons first in the practical domain. These responses—weight pluralism and threshold reasons first—attempt to provide a more nuanced account of reasons and all-things-considered deontic statuses. The first problem for weight monism is that it lacks the resources to predict the intuitively correct deontic statuses for the agent's options in cases of supererogation, of practical latitude, and of moral dilemmas. The second problem is that weight monism cannot distinguish requirements from oughts. I sketch how weight pluralists try to do justice to the problem cases, as well as to distinguish requirements and oughts, by introducing several independent dimensions of a reason's weight. However, as I argue, weight pluralism faces problems of its own—it cannot uphold the entailment from requirement to ought (on some variants); it problematically casts ought as an evaluative notion (on another variant); and it undermines the action-guidingness of reasons. In the end, I explore a more sophisticated weight monist alternative, threshold reasons first, that holds some promise to avoid all of these problems.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Eva Schmidt"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s11098-026-02646-3",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02646-3",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11098-026-02646-3"
-      ],
-      "title": "Quo vadis, reasons first? From weight monism to weight pluralism to thresholds",
-      "url": "https://doi.org/10.1007/s11098-026-02646-3"
-    },
-    {
-      "abstract": "This paper presents a pluralist account of mnemic accuracy by drawing an analogy to the established debate on pluralist accounts of truth. According to truth pluralism, different types of propositions can be true in different ways; by corresponding to facts, by cohering with other propositions, etc. Similarly, according to mnemic accuracy pluralism, different types of memories can be accurate in different ways; by being accurate with regard to the remembered event (“true”), by being accurate with regard to the experience of the events (“authentic”), etc. This paper will proceed by first providing an overview of existing work on truth pluralism (Sect. 2), followed by introducing mnemic accuracy pluralism (Sect. 3). The latter is structurally analogous to the former, motivated by similar considerations: monistic theories of truth/mnemic accuracy have a limited scope of explanation. We present a pluralist account of mnemic accuracy according to which the relevant accuracy property of a given memory is determined by the function of the memory in the specific context (Sects. 4 and 5). We then clarify the distinctive features of our pluralist proposal by comparing it with other pluralist (or contextualist) proposals in the memory literature (Sect. 6).",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Tamaki Komada",
-        "Kengo Miyazono"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s11098-026-02649-0",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02649-0",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11098-026-02649-0"
-      ],
-      "title": "A pluralist account of mnemic accuracy",
-      "url": "https://doi.org/10.1007/s11098-026-02649-0"
-    },
-    {
-      "abstract": "Abstract Despite increasing legal emphasis on accessible language in contractual information, individuals continue to encounter legal documents, such as terms and conditions, imprints, and privacy statements, that remain difficult to understand. The emergence of large language models (LLMs) offers a new opportunity to translate legal jargon into accessible language and to support ongoing efforts to provide legal documents in accessible and inclusive languages. However, the use of LLMs for this purpose raises distinct ethical concerns, including hallucinations, personalization risks, and jurisdictional bias. This paper presents a preliminary ethics framework for evaluating LLM-based legal translation tools, grounded in EU regulations and aligned with the EU High-Level Expert Group’s Ethics Guidelines for Trustworthy AI. Building on the EU-funded AI4Pol project, which aims to develop an AI-powered tool for translating legal jargon into accessible language, we examine the ethical risks of such systems, focusing on their intended purpose and challenges related to technical robustness, privacy, algorithmic bias, and explainability.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Alexander Kriebitz",
-        "Caitlin C. Corrigan",
-        "Yuxiao Li",
-        "Gjergji Kasneci"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s43681-026-01466-9",
-      "first_seen_jst": "2026-11-04",
+      "date": "2026-11-04",
+      "doi": "10.1007/s43681-026-01480-x",
+      "first_seen_jst": "2026-11-05",
       "journal": "AI and Ethics",
       "journal_id": "J023",
       "origin": "crossref",
@@ -221,148 +63,28 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01466-9",
-      "publisher_online_date": "2026-11-03",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01480-x",
+      "publisher_online_date": "2026-11-04",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01466-9"
+        "https://doi.org/10.1007/s43681-026-01480-x"
       ],
-      "title": "The ethical dimension of AI systems in legal jargon translation: a preliminary assessment",
-      "url": "https://doi.org/10.1007/s43681-026-01466-9"
+      "title": "Cyberlens: taxonomy-mapped sparse autoencoders for cybersecurity interpretability of open-weight language models",
+      "url": "https://doi.org/10.1007/s43681-026-01480-x"
     },
     {
-      "abstract": "Abstract Artificial intelligence (AI) is evolving from a collection of discrete applications towards a technology increasingly embedded in the infrastructure of medicine. This development may improve diagnosis, prediction, monitoring, and the use of clinical information, but technological adoption is advancing faster than the governance structures needed to accompany it. At the level of the individual patient, this transformation creates a specific ethical problem. Patient information enters computational systems and emerges as probabilities, classifications, predictions, or recommendations that may influence care. The black box provides a metaphor for the intervening computational process when clinically relevant elements cannot be sufficiently examined. Yet opening the black box does not resolve the entire problem: an intelligible and validated prediction does not itself establish that a proposed intervention will benefit a particular patient. I propose a Patient-Level AI Code of Conduct governing the transition from AI output to clinical action. The Code requires examinability, validation, patient-level applicability, independent clinical justification, and meaningful human responsibility before an AI output materially influences care. Its purpose is to preserve a fundamental distinction as AI becomes increasingly infrastructural to medicine: computational capability can inform clinical decisions, but it cannot by itself justify action on a patient.",
+      "abstract": "Abstract The Gettier problem suggests that the core challenge for theories of knowledge lies in eliminating knowledge-undermining epistemic luck. In response, two major approaches have emerged in contemporary epistemology: modalism and explanationism. However, both approaches have limitations and exhibit an interesting theoretical symmetry: while modalism effectively handles environmental luck, it struggles with certain cases of intervening luck; explanationism faces the reverse difficulty. This symmetrical limitation suggests that any theory of knowledge relying on a single dimension is likely to be inadequate. To address this, this paper presents a new, integrated approach – Modal Explanationism (ME). ME requires that a belief counts as knowledge just in case it is explained by the truth of the believed proposition in the actual world, and that this explanatory connection is preserved across a range of nearby possible worlds. It is argued that ME offers a more successful solution to the Gettier problem than either modalism or explanationism alone.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Matteo Maria Cati"
+        "Ying Zhang",
+        "Haicheng Zhao"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s43681-026-01469-6",
-      "first_seen_jst": "2026-11-04",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01469-6",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01469-6"
-      ],
-      "title": "When prediction is not explanation: AI and the ethical transformation of medicine",
-      "url": "https://doi.org/10.1007/s43681-026-01469-6"
-    },
-    {
-      "abstract": "When an article takes shape in conversation with generative artificial intelligence, where does authorship reside? The question is harder to answer than disclosure rules assume. I examine it through an archive-assisted critical autoethnography of my own writing with ChatGPT, drawing on a bounded corpus of conversations and distinguishing what the record shows from what I recall and how I interpret it. The exchanges show me clarifying experience, specifying voice, requesting restructuring, redirecting concepts, and requesting evidence and bibliographic correction. They also show the record’s limits: continuing a conversation does not prove that I scrutinized a proposal, and a proposed edit does not prove that it entered the text. I describe this movement of formulation and return as recursive epistemic composition , and I propose epistemic custody as a framework for asking whether direction, interpretation, verification, integration, and answerability remain demonstrable across a writing process. The case informs this normative framework; it does not validate a measure of authorship. As a neurodivergent and disabled scholar, I found conversational support valuable, but the account establishes no effects for other writers, and its benefits coexist with concerns about extraction, labor, and platform power. Disclosure alone cannot establish responsible use. I therefore propose functional documentation of consequential AI involvement as its supplement.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Karl Patrick Mendoza"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s43681-026-01483-8",
-      "first_seen_jst": "2026-11-04",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01483-8",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01483-8"
-      ],
-      "title": "The conversation missing from the article: epistemic custody and authorship in human–AI writing",
-      "url": "https://doi.org/10.1007/s43681-026-01483-8"
-    },
-    {
-      "abstract": "Abstract Scholarship on responsibility and autonomous technology has extensively examined responsibility gaps, distributed agency, and the obligations of developers, manufacturers, regulators, and human operators. Yet the prospective normative position of users across repeated engagement with partially automated systems, and its relationship to responsibility after harm, remains comparatively underdeveloped. This paper argues that users of SAE Level 2 partial driving automation systems occupy a normatively distinctive position that generates two forms of obligation which have not been adequately theorized. Drawing on Conradie and Nagel’s [1] framework of taking versus holding responsibility and the concept of extended responsibility developed by Mason [2], this paper makes two-part argument. First, users of SAE Level 2 systems bear prospective responsibilities arising from their continuing supervisory role, including sustained supervisory engagement, reasonable trust calibration, appropriate knowledge-seeking about system limitations, and readiness for control intervention. Second, where harm occurs and the user’s involvement is morally significant but the conditions for ordinary blameworthiness remain uncertain, users may nevertheless be positioned to take extended retrospective responsibility. Extended responsibility therefore supplements rather than replaces ordinary responsibility.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Soumita Mukherjee"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s43681-026-01489-2",
-      "first_seen_jst": "2026-11-04",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01489-2",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01489-2"
-      ],
-      "title": "Taking the wheel: user-side responsibility and the ethics of SAE level 2 driving automation",
-      "url": "https://doi.org/10.1007/s43681-026-01489-2"
-    },
-    {
-      "abstract": "Abstract Current generative AI systems increasingly elicit attributions of understanding, emotion, and even consciousness. This creates an evidential problem for AI sentience assessment, because the behavioural and linguistic markers that motivate these attributions may be generated by multiple underlying processes. One source of uncertainty is the gaming problem: AI systems may satisfy sentience indicators because they have learned the relevant behavioural regularities. A further observer-side concern is that anthropomorphic or socially responsive behaviour may influence how strongly these markers are weighted. This paper treats these as distinct sources of evidential uncertainty and focuses on the problem of evidential certification. Behavioural similarity and verbal self-report are not evidentially significant merely because they resemble human or animal expressions of sentience. Their evidential value depends on whether they can be connected to internal processes that causally explain why the relevant outputs are produced. Cross-validating multiple behavioural markers remains unreliable in the LLM case, since models may learn not only individual markers but also their patterns of co-occurrence. Moreover, even under controlled training conditions, verbal self-report remains vulnerable to alternative computational explanations. Since assessments of AI sentience may bear on questions of welfare and moral status, errors in evidential attribution can have ethically significant consequences. In response, I propose the Causal-Representational Corroboration Standard (CCS). The CCS directly evaluates whether behavioural or verbal markers are supported by a stable and causally relevant internal organization whose evidential role is not exhausted by training pressure that directly selects for the assessed marker. The corroborated mechanism becomes relevant to sentience if it also participates in an affectively structured organization and satisfies functional or architectural conditions independently motivated by a plausible theory of consciousness. Therefore, the CCS provides a more disciplined basis for managing the ethical risks of both over-attributing and under-attributing sentience to AI systems. Keywords: AI sentience; Causal-representational corroboration; Behavioural markers; Large language models; Gaming problem",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Yiming Li"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1007/s43681-026-01495-4",
-      "first_seen_jst": "2026-11-04",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01495-4",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01495-4"
-      ],
-      "title": "Beyond behavioural markers: causal-representational corroboration in AI sentience assessment",
-      "url": "https://doi.org/10.1007/s43681-026-01495-4"
-    },
-    {
-      "abstract": "Abstract We offer a theory of contrarians such as Socrates, Martin Luther, and Thoreau, and explain how contrarianism can function as an epistemic virtue. On our view, contrarians don’t just dissent from orthodoxy, but from a specific ingroup, and in a specific domain. Contrarians must also have some independent perspective that animates their dissent rather than parroting others, and they must express their dissent publicly, which will often produce alienation or reprisals. Finally, contrarianism isn’t bloodless inquiry; contrarians are animated by contempt for conformism and herd-behavior. The virtues of contrarianism include the ability to disrupt epistemic bubbles and echo-chambers that have formed among our ingroup, and contributing an adversarial element to our social epistemology, familiar from the legal system. But our account also has the resources to explain how contrarianism can spill over into a vice, since it is a trait like kindness or skepticism that requires judicious application.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Joe Gurrola",
-        "Dan Moller"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1017/epi.2026.10166",
-      "first_seen_jst": "2026-11-04",
+      "date": "2026-11-04",
+      "doi": "10.1017/epi.2026.10165",
+      "first_seen_jst": "2026-11-05",
       "journal": "Episteme",
       "journal_id": "J095",
       "origin": "crossref",
@@ -372,30 +94,29 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/epi.2026.10166",
-      "publisher_online_date": "2026-11-03",
+      "publisher_evidence_url": "https://doi.org/10.1017/epi.2026.10165",
+      "publisher_online_date": "2026-11-04",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/epi.2026.10166"
+        "https://doi.org/10.1017/epi.2026.10165"
       ],
-      "title": "The Virtues (and Vices) of Contrarianism",
-      "url": "https://doi.org/10.1017/epi.2026.10166"
+      "title": "A Modal Explanationist Solution to the Gettier Problem",
+      "url": "https://doi.org/10.1017/epi.2026.10165"
     },
     {
-      "abstract": "Abstract How should sociolegal scholarship understand sovereign citizens who contest state authority while remaining deeply invested in law? This article examines how Dutch sovereign citizens construct, enact, and negotiate understandings of legality in lived experience and institutional encounters. Drawing on in-depth interviews with four participants and six courtroom observations, and combining legal consciousness scholarship with narrative and relational perspectives, we identify three interrelated narrative stances through which sovereign legality is constructed and negotiated: legitimacy under contestation, re-authoring the normative order, and strategic navigation of institutional reality. These stances show that sovereign legality is neither a coherent alternative doctrine nor a straightforward rejection of state law. Rather, participants reinterpret legal authority, relocate legality in alternative normative foundations such as consent, natural law, and humanity, and adapt claims and strategies in response to institutional constraints. We conceptualize this configuration as counter-nomic legal consciousness: a narrative and relational mode of legal meaning-making through which individuals contest state authority while remaining invested in law’s language, procedures, and symbolic force. This study of Dutch sovereign citizens thus extends legal consciousness scholarship by showing how sovereign legality cuts across conventional distinctions between compliance and resistance and serves interpretive, practical, and affective functions.",
+      "abstract": "Abstract The Article analyzes how gender markers on passports are used to bolster the digital racial borders of the European Union (EU). It traces the history of gender markers on passports, showing that they increasingly emerged in the EU and elsewhere as part of border digitalization processes from the 1980s onward. It further investigates how gender markers on passports increasingly serve border-related risk assessments by examining the ongoing expansion of Advanced Passenger Information, Passenger Name Records, and the Visa Information System in the EU. While this analysis shows that gender markers help to identify the “unwanted” migrant—a deeply racialized concept—the Article also interrogates whether abolishing gender markers would necessarily render borders gender- or race-neutral. It therefore explores how border governance that relies on big data and biometric tools, rather than gender markers, may equally reinforce cisnormative and racialized borders.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Anne Jonker",
-        "Itai Siegel"
+        "Lena Holzer"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1017/lsr.2026.10123",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Law &amp; Society Review",
-      "journal_id": "J020",
+      "date": "2026-11-04",
+      "doi": "10.1017/glj.2026.10238",
+      "first_seen_jst": "2026-11-05",
+      "journal": "German Law Journal",
+      "journal_id": "J126",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
@@ -403,30 +124,29 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/lsr.2026.10123",
-      "publisher_online_date": "2026-11-03",
+      "publisher_evidence_url": "https://doi.org/10.1017/glj.2026.10238",
+      "publisher_online_date": "2026-11-04",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/lsr.2026.10123"
+        "https://doi.org/10.1017/glj.2026.10238"
       ],
-      "title": "(Re)writing the fiction: how Dutch sovereign citizens narrate legality",
-      "url": "https://doi.org/10.1017/lsr.2026.10123"
+      "title": "Gender Markers in Passports and the Digital Racial Borders of the European Union",
+      "url": "https://doi.org/10.1017/glj.2026.10238"
     },
     {
-      "abstract": "Abstract Consent – the organizing principle of legal responses to sexual harms – rests on a yes-versus-no binary. Yet, ambivalence is pervasive in sexual life, often eluding binary simplicity. This article assesses the implications of ambivalence for sexual consent jurisprudence. Drawing on interviews with Israeli gay and bisexual men regarding their experiences in (semi-)public sexual venues, it examines a context in which sexual norms have historically developed outside dominant cultural scripts, where ambivalence is particularly salient. Through the men’s testimonies, the conditions under which ambivalence leaves individuals uncertain of how to name sexual harms, identify boundary violations, or assign responsibility are mapped. Grounded in these findings, alongside sociological theories of ambivalence and socio-legal theories of sexual consent, the article adopts dialectical sensibility to capture what binary consent models tend to flatten: the simultaneous presence of agency/coercion, empowerment/vulnerability, and pleasure/danger within a single sexual interaction. Ambivalence in these “gray zones” is therefore reconceptualized here as neither anomaly nor individual failure but as a structuring – and even productive – feature of sexual life, complicating theories that cast ambivalence as primarily suppressive. Finally, the analysis underscores the limitations of prevailing consent paradigms and surfaces new questions about how criminal law might respond to the indeterminate realities of sex.",
+      "abstract": "Abstract This paper aims to advance current debates on gendered language reform by making explicit the assumptions in much of the philosophical literature, and by proposing a reorientation of how we theorize about pronoun reform and linguistic amelioration. While sympathetic to the normative aims of prominent proposals, I caution that prescriptions grounded in any single language risk overstating language-specific features and blurring the sources and dynamics of gender essentialism. Drawing on the case of Mandarin Chinese, where gendered pronouns were a modern invention, I clarify the limits of language-specific diagnoses and show how reform is mediated by social conditions of uptake. More broadly, I advocate a shift from language-specific proposals to a cross- and trans-linguistic perspective: cross-linguistic comparison identifies which claims generalize across languages, and a trans-linguistic lens highlights how reform ideas and practices travel across contexts and are reshaped through uptake and negotiation. This approach offers a more philosophically robust account of the prospects and limits of linguistic amelioration, and of language’s role in social change.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Noy Naaman",
-        "Ruthy Lowenstein Lazar"
+        "Hsiang-Yun Chen"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1017/lsr.2026.10125",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Law &amp; Society Review",
-      "journal_id": "J020",
+      "date": "2026-11-04",
+      "doi": "10.1017/hyp.2026.10106",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Hypatia",
+      "journal_id": "J075",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
@@ -434,29 +154,29 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/lsr.2026.10125",
-      "publisher_online_date": "2026-11-03",
+      "publisher_evidence_url": "https://doi.org/10.1017/hyp.2026.10106",
+      "publisher_online_date": "2026-11-04",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/lsr.2026.10125"
+        "https://doi.org/10.1017/hyp.2026.10106"
       ],
-      "title": "The ambivalence of sexual consent: a socio-legal inquiry",
-      "url": "https://doi.org/10.1017/lsr.2026.10125"
+      "title": "Pronouns and Linguistic Amelioration",
+      "url": "https://doi.org/10.1017/hyp.2026.10106"
     },
     {
-      "abstract": "Abstract This paper examines rights consciousness (RC) in hospitals during emergencies, drawing on interviews with bereaved relatives and healthcare workers from isolated COVID-19 wards in Israel. It reveals that neither group framed visitation as a formal legal entitlement but rather as a privilege, gift, or luxury. While visitation is a routine and expected practice in ordinary times, the crisis exposed its fragility, transforming it into a discretionary allowance whose availability depended on institutional priorities and frontline discretion. Family responses ranged from compliance to selective resistance, with rights awareness often emerging retrospectively and collectively. The analysis advances few theoretical insights. First, it conceptualizes visitation as a “fragile right” robust in everyday practice yet weakly anchored in law and easily erased in crisis. Second, it shows how “de facto rights” can re-emerge from within institutions through professional ethics, norms, and informal organizational diffusion. Third, it demonstrates that RC is relational and spatial, suppressed inside hospitals by clinical hierarchies, yet reconstructed outside them through collective comparison and shared experience. These dynamics suggest that strengthening such fragile rights may depend not only on legal reform but on bottom-up participation of patient/family in hospital policymaking during crisis, which can cultivate rights awareness from within care itself.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
+      "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0034670526101260/resource/name/firstPage-pdf-S0034670526101260a.jpg",
+      "abstract_review_status": "suspect_media_link",
+      "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Maayan Sudai"
+        "Michael Blake"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1017/lsr.2026.10127",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Law &amp; Society Review",
-      "journal_id": "J020",
+      "date": "2026-11-04",
+      "doi": "10.1017/s0034670526101260",
+      "first_seen_jst": "2026-11-05",
+      "journal": "The Review of Politics",
+      "journal_id": "J050",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
@@ -464,165 +184,13 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/lsr.2026.10127",
-      "publisher_online_date": "2026-11-03",
+      "publisher_evidence_url": "https://doi.org/10.1017/s0034670526101260",
+      "publisher_online_date": "2026-11-04",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/lsr.2026.10127"
+        "https://doi.org/10.1017/s0034670526101260"
       ],
-      "title": "Fragile rights: rights consciousness in hospitals in times of crisis",
-      "url": "https://doi.org/10.1017/lsr.2026.10127"
-    },
-    {
-      "abstract": "Alexander Lewis-Ranwell killed three people while suffering a psychotic episode. He brought a claim against several defendants who failed to detain him prior to this tragic incident. Following the UK Supreme Court’s recent decision in Lewis-Ranwell v G4S Health Services , 1 his claim in negligence was barred for illegality. The case is significant because it is the first time the UK Supreme Court has confronted the effect of an acquittal for insanity on a tort claim for damages arising out of the crime. 2 Its answer to the question posed in the title of this case note – even if crime does not pay, does tort law? – was thus ‘no’.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Achas K Burin"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1017/lst.2026.10140",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Legal Studies",
-      "journal_id": "J019",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/lst.2026.10140",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1017/lst.2026.10140"
-      ],
-      "title": "Crime does not pay, but does tort?\n                    Lewis-Ranwell v G4S Health Services (UK) Ltd\n                    [2026] UKSC 2",
-      "url": "https://doi.org/10.1017/lst.2026.10140"
-    },
-    {
-      "abstract": "Abstract This paper investigates the concept of the commons in the context of the emergence of convenience-based delivery drone networks around the world. It contends that the drone-facilitated commodification of our skies constitutes a modern form of enclosure, facilitated by a legal architecture that centres around questions of ownership. Additionally, and consistent with more traditional land-grabs, expropriation of the sky is supported by its characterisation as a vacant and unused resource. Drawing on historical, doctrinal, and socio-legal perspectives, this paper explores the powerful, countervailing implications of identifying this strategy, and reconceptualising the sky as a commons – for law, governance, and society.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Anna Zenz"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1017/lst.2026.10145",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Legal Studies",
-      "journal_id": "J019",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/lst.2026.10145",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1017/lst.2026.10145"
-      ],
-      "title": "Reclaiming the commons of the sky: drones and the limits of property law",
-      "url": "https://doi.org/10.1017/lst.2026.10145"
-    },
-    {
-      "abstract": "Abstract Since the enactment of Criminal Justice Act 2003, Sched. 21, the average minimum term for murder in England and Wales has risen by more than 60 per cent. Very lengthy determinate terms are now the norm, subject only, in effect, to the Secretary of State’s discretion to release on compassionate grounds. This article asks whether there should be a mechanism for revisiting such terms, and, if so, on what principles. Although Hutchinson v United Kingdom holds lengthy minimum terms compatible with European Convention on Human Rights, art. 3, it is argued that the principles animating the court’s jurisprudence – shifting penological justifications, the centrality of rehabilitation across Europe and legal clarity – sit uneasily with domestic law. Taking Canada’s former “faint hope” clause as an institutional model, the article imagines a judicial mechanism for late tariff review, separate from parole and calibrated to the gravity of murder.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Richard Martin"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1017/s0008197326101767",
-      "first_seen_jst": "2026-11-04",
-      "journal": "The Cambridge Law Journal",
-      "journal_id": "J121",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/s0008197326101767",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1017/s0008197326101767"
-      ],
-      "title": "REVISITING MURDER TARIFFS: MINIMUM TERMS, REVIEWABILITY AND COMPARATIVE LAW",
-      "url": "https://doi.org/10.1017/s0008197326101767"
-    },
-    {
-      "abstract": "Abstract Discrimination law is notoriously difficult to categorise. Depending on the context, discrimination law can be classified as human rights law, constitutional law or labour law. Notably, though, the UK Supreme Court has drawn significantly on the language of torts in its discrimination decisions. One prominent example is its use of the “but-for” test to determine the causative element of direct discrimination. This article explores the implications of relying on these tortious principles in discrimination jurisprudence. We argue that while the court’s use of the “but-for” test has been useful to claimants by removing the need for malice or intention to prove discrimination, it conflates factual causation with legal causation and misunderstands the analysis required to determine causation in a direct discrimination claim. As a result, the “but-for” test weakens the coherency of discrimination law, ignores its unique conceptual challenges and muddies its factual and normative inquiries.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Alice Taylor",
-        "Liam Elphick"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1017/s000819732610186x",
-      "first_seen_jst": "2026-11-04",
-      "journal": "The Cambridge Law Journal",
-      "journal_id": "J121",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/s000819732610186x",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1017/s000819732610186x"
-      ],
-      "title": "CAUSATION IN DISCRIMINATION LAW: THE TORTIOUS “BUT-FOR” TEST",
-      "url": "https://doi.org/10.1017/s000819732610186x"
-    },
-    {
-      "abstract": "Abstract This article examines how Uzbek migrants become incorporated into Russian society under conditions of legal precarity, discretionary enforcement and pervasive informality. Drawing on multisited ethnographic fieldwork conducted between 2014 and 2026 among Uzbek migrants in Russia and their families and communities in Uzbekistan, it develops the concept of shadow legal integration to explain how social and economic incorporation can deepen without a corresponding movement towards legal security. The article argues that repeated encounters with migration authorities, police, employers, intermediaries and migrant networks generate practical legal knowledge that migrants test, revise and circulate over time. This process of legal adaptation enables migrants to navigate the interaction between formal rules and informal practices while rem aining vulnerable to detention, deportation and administrative uncertainty. Ethnographic analysis of deportation, migration bureaucracy, legal brokerage, document economies and changing migration governance after 2022 further demonstrates that such competence is not a fixed repertoire but requires continual recalibration as legal and enforcement environments change. Shadow legal integration thus identifies how learning to navigate the intersection of formal and informal practices can itself become a mode of incorporation. The article contributes to migration and socio-legal scholarship by showing that migrant integration and legal security need not develop in parallel.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Rustamjon Urinboyev",
-        "Albina Aidarkhankyzy"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-03",
-      "doi": "10.1017/s1744552326100731",
-      "first_seen_jst": "2026-11-04",
-      "journal": "International Journal of Law in Context",
-      "journal_id": "J125",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/s1744552326100731",
-      "publisher_online_date": "2026-11-03",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1017/s1744552326100731"
-      ],
-      "title": "Shadow legal integration: migrant legal integration, Russian style",
-      "url": "https://doi.org/10.1017/s1744552326100731"
+      "title": "Shmuel Nili, Beyond the Law’s Reach? Powerful Criminals, Foreign Entanglement, and Justice in the Shadow of Violence. (New York: Oxford University Press, 2024.)",
+      "url": "https://doi.org/10.1017/s0034670526101260"
     },
     {
       "abstract": "",
@@ -631,14 +199,14 @@
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "William Lucy"
+        "Sabrina Ragone"
       ],
-      "crossref_online_date": "2026-11-03",
-      "date": "2026-11-03",
-      "doi": "10.1080/20403313.2026.2749967",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Jurisprudence",
-      "journal_id": "J006",
+      "crossref_online_date": "2026-11-04",
+      "date": "2026-11-04",
+      "doi": "10.1093/icon/moag112",
+      "first_seen_jst": "2026-11-05",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
@@ -648,113 +216,24 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1080/20403313.2026.2749967"
+        "https://doi.org/10.1093/icon/moag112"
       ],
-      "title": "Algorithms instead of adjudication: why?",
-      "url": "https://doi.org/10.1080/20403313.2026.2749967"
+      "title": "Una reflexión a doce años de “Comparative Matters”, de Ran Hirschl",
+      "url": "https://doi.org/10.1093/icon/moag112"
     },
     {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Michele Mangini"
-      ],
-      "crossref_online_date": "2026-11-03",
-      "date": "2026-11-03",
-      "doi": "10.1080/20403313.2026.2751303",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Jurisprudence",
-      "journal_id": "J006",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/20403313.2026.2751303"
-      ],
-      "title": "All that it takes to be reasonable",
-      "url": "https://doi.org/10.1080/20403313.2026.2751303"
-    },
-    {
-      "abstract": "",
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Sarah E. Brown"
-      ],
-      "crossref_online_date": "2026-11-03",
-      "date": "2026-11-03",
-      "doi": "10.1086/744067",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Polity",
-      "journal_id": "J033",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1086/744067",
-        "https://www.journals.uchicago.edu/doi/full/10.1086/744067",
-        "https://www.journals.uchicago.edu/doi/abs/10.1086/744067"
-      ],
-      "title": "Spatial Injustice and Political Placemaking in Slavery’s Wake",
-      "url": "https://doi.org/10.1086/744067"
-    },
-    {
-      "abstract": "Abstract This article argues that Nietzsche’s rejection of the doer/deed distinction in the famous lightning-flash passage in On the Genealogy of Morality 1:13 is more radical than Robert Pippin’s influential expressivist interpretation allows. Nietzsche’s target is not merely the causal conception of agency, but a metaphysical picture according to which a bearer of a capacity subsequently actualizes it in action, and thus ultimately the ontological distinction between potentiality and actuality itself. The conventional distinction between strength and expression presupposes a bearer of a capacity that can remain unactualized; Nietzsche’s criticism of precisely this distinction, together with his identification of force with activity and his rejection of the capacity-bearing ‘substratum’, is also directed against the metaphysical structure required by the potentiality/actuality distinction itself.",
+      "abstract": "ABSTRACT This article focuses on the question of how to understand the role and use of ethical theories in bioethics. Work in bioethics often involves uses of ethical theory, but methodological developments such as the empirical turn and the growing insights into the plurality and contextuality of moral considerations challenge a traditional view of ethical theories as providing moral input into the value‐neutral descriptions offered by empirical studies. Nevertheless, bioethics is characterised by a relative neglect of questions related to the use of ethical theories. The article develops a number of desiderata that any understanding of the role of ethical theories should be able to address; to accommodate moral plurality and contextuality, to motivate choices and uses of specific theories, to minimise risks of theory‐driven attention and blindness, to allow for theoretical plurality, to address relations between theories and theoretical integrity. It then presents some challenges for existing accounts of theory‐use in bioethics, thus paving the way for an alternative understanding of the role of ethical theories in bioethics. The suggestion presented here is that ethical theories should be understood as descriptions or representations of moral grammars , implicit normative structures of thinking and action that constitute moral considerations. Furthermore, in relation to problems in bioethics, it is suggested that ethical theories are used as heuristic tools to illuminate and clarify moral grammars as they appear in specific bioethical poblems or studies.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "William Wood"
+        "Anne‐Marie Søndergaard Christensen"
       ],
-      "crossref_online_date": "2026-11-03",
-      "date": "2026-11-03",
-      "doi": "10.1093/pq/pqag079",
-      "first_seen_jst": "2026-11-04",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1093/pq/pqag079"
-      ],
-      "title": "Against the expressivist interpretation of Nietzsche’s lightning-flash analogy",
-      "url": "https://doi.org/10.1093/pq/pqag079"
-    },
-    {
-      "abstract": "ABSTRACT The project of Moral Bioenhancement (MBE)—biomedical interventions causing individuals to have better moral beliefs, motivations, or behaviours—is controversial, particularly as MBE relates to human freedom. Proponents argue that MBE is utility‐promoting and compatible with freedom. Conversely, critics charge that MBE—particularly when it bypasses or replaces rational moral deliberation, or when it is imposed compulsorily—threatens freedom of thought and action. I argue that much of the disagreement on this topic is due to conflation and obfuscation, resulting in conceptual confusion. Accordingly, I draw a distinction between two types of MBEs: those that incline individuals to moral action, and those that prohibit immoral action, by invoking the higher‐order desires of Harry Frankfurt's freedom of the will. Importantly, this distinction runs parallel to, rather than tracking, the familiar distinction between voluntary and compulsory MBE. Ultimately, I argue that inclining MBE interventions may not infringe, and may even enhance, freedom by allowing individuals to translate sincerely held moral beliefs into desired moral behaviours, enabling freedom as moral self‐mastery. Conversely, prohibitory MBEs necessarily restrict freedom, though this does not by itself entail that they are impermissible in all circumstances.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Daniel Lee"
-      ],
-      "crossref_online_date": "2026-11-03",
-      "date": "2026-11-03",
-      "doi": "10.1111/bioe.70204",
-      "first_seen_jst": "2026-11-04",
+      "crossref_online_date": "2026-11-04",
+      "date": "2026-11-04",
+      "doi": "10.1111/bioe.70208",
+      "first_seen_jst": "2026-11-05",
       "journal": "Bioethics",
       "journal_id": "J063",
       "origin": "crossref",
@@ -766,80 +245,163 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1111/bioe.70204",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70204",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70204"
+        "https://doi.org/10.1111/bioe.70208",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70208",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70208"
       ],
-      "title": "Clarifying the Distinction Between Inclining Moral Bioenhancement and Prohibitory Moral Bioenhancement, and Their Effects on Freedom",
-      "url": "https://doi.org/10.1111/bioe.70204"
+      "title": "Reconsidering the Role of Ethical Theories in Bioethics: Ethical Theories as Heuristic Descriptions of Moral Grammars",
+      "url": "https://doi.org/10.1111/bioe.70208"
     },
     {
-      "abstract": "ABSTRACT In this paper, we argue for the adoption of algorithmic bioethics , which uses algorithms, in the form of decision trees, to articulate, understand, apply, and evaluate bioethical arguments. Algorithms bring many benefits to the study of bioethics: they clearly, precisely, and transparently articulate the decision procedure and facts relevant to an ethical decision; furthermore, they can be used to systematically discover, map out, and compare different ethical decision procedures concerning a practical issue. We then also outline and tackle potential limitations of algorithmic bioethics, and explore future directions for using decision trees in bioethics. Throughout, we illustrate our points using a case study of ethical decision trees, created with the help of large language models, about conscientious objection in medicine.",
+      "abstract": "Ulrike Kern (2016) unpacks the history of a concept, broken colors. Though it’s been in use since the early seventeenth century, and is even used today by painters, critics, and art theorists when discussing color, it hasn’t much influenced philosophy. Instead, it evolved independently, alongside the early modern philosophical discussions of color. This paper has two goals. First, work out a philosophical reconstruction of the concept whose early history Kern so ably traces. So, this paper is a philosophical contribution to the history of ideas. The paper’s second goal is to show how broken colors contribute to two contemporary issues. First, they help us understand the depiction of things as colored, and second, they can deepen our understanding of the nature of chromatic experience. Broken colors are thus relevant to contemporary philosophy of art and perception. Though there are historically informed contemporary accounts of color on the market—Adams (2016) stands out—they typically address the history of philosophical discussions of color. And there is comparatively little work in the philosophy of art about the depiction of things as colored.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Shang Long Yeo",
-        "Sebastian Porsdam Mann",
-        "Brian D. Earp",
-        "Julian Savulescu"
+        "John Kulvicki"
       ],
-      "crossref_online_date": "2026-11-03",
-      "date": "2026-11-03",
-      "doi": "10.1111/bioe.70211",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Bioethics",
-      "journal_id": "J063",
+      "crossref_online_date": "2026-11-05",
+      "date": "2026-11-05",
+      "doi": "10.3998/phimp.7799",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Philosophers' Imprint",
+      "journal_id": "J106",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_check_status": "doi_matched",
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.3998/phimp.7799",
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1111/bioe.70211",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70211",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70211"
+        "https://doi.org/10.3998/phimp.7799"
       ],
-      "title": "Algorithmic Bioethics: A Defense and Demonstration",
-      "url": "https://doi.org/10.1111/bioe.70211"
+      "title": "Understanding Broken Colors",
+      "url": "https://doi.org/10.3998/phimp.7799"
     },
     {
-      "abstract": "ABSTRACT A popular indifference principle for self‐locating probability faces skeptical challenges, most notably a skeptical challenge concerning Boltzmann Brains. We examine the prospects for various views that prescribe some degree of bias in place of indifference. Although a bias view has attractive anti‐skeptical features, it turns out that bias leads to puzzles about deference to chance, reflection, and other related principles.",
+      "abstract": "Can we offer a constitutive account of fittingness? Offering such an account has proven difficult because of the great diversity of fit-assessable responses—e.g., believing, desiring, fearing, blaming, apologizing, thanking, and laughing. Yet, when surveying such examples of fit-apt  responses, what's striking is that invariably each response-type has a job, a goal, an end, a telos. Believing, desiring, fearing, blaming, apologizing, thanking, and laughing are all plausible candidates for having proper functions. The account I aim to defend runs with this idea. Put roughly, fittingness is the relation that holds between a response and its object just when and because the object has the properties that an object of that response needs to possess for the response to non-deviantly fulfill its function.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Sinan Dogramaci",
-        "Simon Goldstein",
-        "John Hawthorne",
-        "Miriam Schoenfield"
+        "Andrew T. Forcehimes"
       ],
-      "crossref_online_date": "2026-11-03",
-      "date": "2026-11-03",
-      "doi": "10.1111/nous.70077",
-      "first_seen_jst": "2026-11-04",
-      "journal": "Noûs",
-      "journal_id": "J086",
+      "crossref_online_date": "2026-11-05",
+      "date": "2026-11-05",
+      "doi": "10.3998/phimp.8494",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Philosophers' Imprint",
+      "journal_id": "J106",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_check_status": "doi_matched",
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.3998/phimp.8494",
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1111/nous.70077",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/nous.70077",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/nous.70077"
+        "https://doi.org/10.3998/phimp.8494"
       ],
-      "title": "Bias Against Boltzmann Brains?",
-      "url": "https://doi.org/10.1111/nous.70077"
+      "title": "A Function-Based Account of Fittingness",
+      "url": "https://doi.org/10.3998/phimp.8494"
+    },
+    {
+      "abstract": "The concept of essence is a paradigm case of a putatively hyperintensional concept in metaphysics, a concept that can draw distinctions between necessarily equivalent propositions. Yet as several authors have recently emphasized, fine-grained distinctions in metaphysics come with a substantial risk of inconsistency, due to the Russell-Myhill paradox and its variants. This concern is especially pressing for hyperintensionalists about essence because the hyperintensionality of essence has been motivated primarily by examples. This paper presents a novel, more systematic case for the hyperintensionality of essence that shows that the relevant distinctions can be systematically modeled in a natural theoretical framework. I start by offering a general heuristic to motivate a range of examples of fine-grained essentialist distinctions. I then present a higher-order logical framework for regimenting essentialist statements and provide a general argument for hyperintensionality on the basis of minimal assumptions about the logic of essence. Finally, I address the question of consistency by developing a semantic framework that demonstrates that the relevant fine-grained distinctions can indeed be consistently drawn.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Andreas Ditter"
+      ],
+      "crossref_online_date": "2026-11-05",
+      "date": "2026-11-05",
+      "doi": "10.3998/phimp.8528",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Philosophers' Imprint",
+      "journal_id": "J106",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.3998/phimp.8528",
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.3998/phimp.8528"
+      ],
+      "title": "Essence and Grain",
+      "url": "https://doi.org/10.3998/phimp.8528"
+    },
+    {
+      "abstract": "I propose a novel A-theory that attractively articulates our common-sense, pre-relativistic conception of time. This A-theory posits fundamental facts about how things were at a specific past times. It treats time’s passing by positing fundamental facts like: four hours passed from 8am today until noon. It allows fundamental cross-temporal relationships. I show that the presentism–eternalism dilemma does not embarrass the proposed A-theory. There are two notions of existence in play: existence at a time and ‘∃-existence’. Neither features in the fundamental facts. I define them up in a way that vindicates the claims of common sense. Past objects count as metaphysically ‘gone’, but there are fundamental facts about how they were. My account rejects presentism and eternalism (properly defined). I defend other aspects of the proposal elsewhere.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Alexander Jackson"
+      ],
+      "crossref_online_date": "2026-11-05",
+      "date": "2026-11-05",
+      "doi": "10.3998/phimp.8658",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Philosophers' Imprint",
+      "journal_id": "J106",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.3998/phimp.8658",
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.3998/phimp.8658"
+      ],
+      "title": "Escape the Presentism–Eternalism Dilemma: Towards A Common-Sense A-Theory",
+      "url": "https://doi.org/10.3998/phimp.8658"
+    },
+    {
+      "abstract": "Human cognition and behavior are guided by a myriad of norms which enable us to successfully navigate our social environment and our interactions with others. Many of these norms might be hard for us to articulate (e.g. how far to sit or stand from a stranger on the bus), and some of them differentiate between different hierarchies and roles, reflecting patterns of injustice. This paper addresses the fact that social norms, including gendered, ableist, adultist, and racist norms, influence our perception of action possibilities, or affordances, making some actions possible for some agents and not for others. In particular, we propose an account of these interactions in terms of scripts, that is, expected sequences of actions that shape the landscape of the possible ways to interact with one another. Scripts can be learned implicitly, they are dynamic and flexible, and can regulate complex interactions by prescribing permissible actions and responses in specific situations. A script-based account can explain the way norms regulate which actions we perceive as possible in a representationalist way, and can help us explain how norm change occurs.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Leda Berio",
+        "Kristina Musholt"
+      ],
+      "crossref_online_date": "2026-11-05",
+      "date": "2026-11-05",
+      "doi": "10.3998/phimp.8887",
+      "first_seen_jst": "2026-11-05",
+      "journal": "Philosophers' Imprint",
+      "journal_id": "J106",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.3998/phimp.8887",
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.3998/phimp.8887"
+      ],
+      "title": "Seeing what to do: norms, scripts, and social affordances",
+      "url": "https://doi.org/10.3998/phimp.8887"
     }
   ],
   "journal_total": 145,
@@ -852,13 +414,13 @@
     "unresolved": 0
   },
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 20,
-  "raw_candidate_count": 27,
-  "research_candidate_abstracts_available": 24,
-  "research_candidate_abstracts_missing": 3,
-  "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 27,
+  "publisher_first_online_in_window_verified_count": 5,
+  "raw_candidate_count": 13,
+  "research_candidate_abstracts_available": 12,
+  "research_candidate_abstracts_missing": 1,
+  "research_candidate_suspect_abstracts": 1,
+  "research_candidate_unverified_count": 13,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-04",
-  "window_start_jst": "2026-11-03"
+  "window_end_jst": "2026-11-05",
+  "window_start_jst": "2026-11-04"
 }

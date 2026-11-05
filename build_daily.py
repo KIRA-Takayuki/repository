@@ -31,12 +31,16 @@ def save(name, value):
     (STATE / name).write_text(json.dumps(value, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
 
 
-def kind_guess(title):
+def kind_guess(title, subtype=""):
+    """Classify book reviews separately; preserve independent scholarly articles."""
     s = " ".join(html.unescape(title or "").split())
-    if re.search(r"^(?:book review|publisher correction|correction|corrigendum|retraction|erratum|editorial|editor['’]?s note|announcement|ask a political scientist)\b", s, re.I):
+    st = (subtype or "").lower().strip()
+    if st in {"review", "book-review"} or re.search(r"^(?:book review|review of)\b", s, re.I):
+        return "book_review_candidate"
+    if re.search(r"^(?:publisher correction|correction|corrigendum|retraction|erratum|editorial|editor['’]?s note|announcement|ask a political scientist)\b", s, re.I):
         return "likely_nonresearch"
     if re.search(r"\bwritten by\b|\beds?\.\s|\bTo Our Guest Reviewers\b|\.\s*By\s+[A-Z][A-Za-z-]+", s, re.I):
-        return "likely_nonresearch"
+        return "book_review_candidate" if (re.search(r"\bwritten by\b", s, re.I) or re.search(r"\.\s*By\s+[A-Z]", s)) else "likely_nonresearch"
     return "research_candidate_unverified"
 
 
@@ -140,7 +144,7 @@ def openalex_abstract(inverted):
 def enrich(item, session, start, end):
     work = dict(item)
     work["publication_date_is_api_candidate"] = True
-    work["article_type_guess"] = kind_guess(work.get("title", ""))
+    work["article_type_guess"] = kind_guess(work.get("title", ""), work.get("crossref_subtype", ""))
     previous = EARLIER_PUBLICATIONS.get((work.get("doi") or "").lower())
     work["previously_published_by_publisher"] = bool(
         previous and previous["first_publication_prior_to"] <= start)
@@ -233,6 +237,7 @@ def build():
     for item in enriched:
         item["already_introduced"] = (item.get("doi", "").lower().removeprefix("https://doi.org/") in introduced)
     likely = [e for e in enriched if e["article_type_guess"] == "research_candidate_unverified"]
+    reviews = [e for e in enriched if e["article_type_guess"] == "book_review_candidate"]
     excluded_nonresearch = sum(e["article_type_guess"] == "likely_nonresearch" for e in enriched)
     excluded_older = sum(e["article_type_guess"] == "prior_publication_not_new" for e in enriched)
     full = {
@@ -248,6 +253,8 @@ def build():
         "already_introduced_count": sum(x["already_introduced"] for x in enriched),
         "eligible_candidate_count": sum(not x["already_introduced"] for x in enriched),
         "research_candidate_unverified_count": len(likely),
+        "book_review_candidate_count": len(reviews),
+        "book_review_abstracts_missing": sum(not bool(text_clean(x.get("abstract", ""))) for x in reviews),
         "likely_nonresearch_count": excluded_nonresearch,
         "excluded_older_publications_count": excluded_older,
         "research_candidate_abstracts_available": sum(bool(text_clean(x.get("abstract", ""))) for x in likely),

@@ -183,14 +183,15 @@ def crossref_to_item(record: dict, jid: str) -> dict | None:
     when = first_publication_crossref(record)
     if not title or not doi or not when:
         return None
-    if record.get('subtype') in ('review', 'book-review') or re.search(r'^(erratum|correction|retraction|editorial|book review)\b',title,re.I):
+    # Keep book reviews; separate them from research in the daily digest.
+    if re.search(r'^(erratum|correction|corrigendum|retraction|editorial)\b',title,re.I):
         return None
     authors = []
     for a in record.get('author', []):
         authors.append(' '.join(filter(None, [a.get('given'), a.get('family')])) or a.get('name') or '')
     abstract = BeautifulSoup(record.get('abstract', ''), 'html.parser').get_text(' ', strip=True)
     return {'doi':doi,'title':title,'authors':list(filter(None,authors)), 'date':when.isoformat(), 'journal_id':jid,
-            'url':'https://doi.org/'+doi,'abstract':abstract,'origin':'crossref','journal':(record.get('container-title') or [''])[0]}
+            'url':'https://doi.org/'+doi,'abstract':abstract,'origin':'crossref','journal':(record.get('container-title') or [''])[0], 'crossref_subtype':record.get('subtype') or ''}
 
 
 def recover_openalex_abstract(inverted):

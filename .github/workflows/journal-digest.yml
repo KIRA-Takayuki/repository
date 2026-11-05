@@ -82,8 +82,11 @@ jobs:
           major = {'Springer Nature', 'Cambridge University Press', 'Wiley',
                    'Oxford University Press', 'SAGE', 'Taylor & Francis', 'University of Chicago Press'}
           selected = [j for j in journals if j['platform'] in major]
-          assert len(journals) == 145 and len(selected) == 90
+          assert len(journals) == 145 and len(selected) == 89
           assert len({j['id'] for j in journals}) == len(journals), 'Duplicate journal ID'
+          political = next(j for j in journals if j['id'] == 'J027')
+          assert political['site'] == 'https://politicalphilosophyjournal.org/'
+          assert political['platform'] == 'Other'
           philosophy = next(j for j in journals if j['journal'] == 'Philosophy')
           assert philosophy['site'] == 'https://www.cambridge.org/core/journals/philosophy/firstview'
           assert registry[philosophy['id']]['issn'] == '0031-8191'
@@ -119,7 +122,7 @@ jobs:
           assert item and item['crossref_subtype'] == 'book-review'
           print('Daily extraction and gate regression checks passed')
           PY
-      - name: Collect metadata for all 145 journals (major 90 first)
+      - name: Collect metadata for all 145 journals (major 89 first)
         id: collect
         if: env.RUN_COLLECTION != 'false'
         env:

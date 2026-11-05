@@ -1,59 +1,65 @@
 {
-  "already_introduced_count": 0,
-  "checked_at_utc": "2026-11-04T21:23:06.691570+00:00",
-  "collected_on": "2026-11-05",
+  "already_introduced_count": 5,
+  "book_review_abstracts_missing": 2,
+  "book_review_candidate_count": 2,
+  "checked_at_utc": "2026-11-05T21:30:10.559828+00:00",
+  "collected_on": "2026-11-06",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 13,
+  "eligible_candidate_count": 17,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "Abstract Recent years have seen a decisive turn in neuroscience toward embodiment, shifting focus from a brain-bound view of the mind to a more holistic one where the body is treated as constitutive of self and consciousness. While this turn has yielded valuable insights through studies on interoception, multisensory integration and bodily ownership, it also carries significant theoretical and ethical risks. This essay identifies the body problem: the risk of collapsing selfhood into bodyhood, with troubling consequences when applied to bodies that are marginalized or that otherwise do not meet the status quo. Tracing historical debates on mind–body relations, clarifying contemporary notions of the self and examining empirical findings on embodiment, it is argued that strong formulations of the embodied self risk reviving old reductions whereby “less body” implies “less self,” not because such formulations explicitly assert the inference, but because they leave it available for others to make. Such reductions threaten to undermine the value of persons whose bodies diverge from normative assumptions. Rather than rejecting embodiment research, this essay calls for caution against its uncritical extension, underscoring the need to guard against theoretical slippage that may entail harmful social consequences.",
+      "abstract": "Abstract One of today’s foremost counterfactual analyses draws many causal links where it shouldn’t—not only towards the future, but also towards the past. The root of these problems is that unlikely events are too modally fragile to ground reasonable causal claims. However, I will argue that these issues arise just as readily for likely events, spelling double trouble for this analysis. By recentring this approach around probabilities instead, causation tracks structure whose modal robustness justifies its name, sidestepping the old problems and the new.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Leyla Loued-Khenissi"
+        "Athamos Stradis"
       ],
-      "crossref_online_date": "2026-11-04",
-      "date": "2026-11-04",
-      "doi": "10.1007/s12152-026-09683-z",
-      "first_seen_jst": "2026-11-05",
-      "journal": "Neuroethics",
-      "journal_id": "J078",
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1007/s10670-026-01174-0",
+      "first_seen_jst": "2026-11-06",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_check_status": "doi_matched",
       "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10670-026-01174-0",
+      "publisher_online_date": "2026-11-05",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s12152-026-09683-z"
+        "https://doi.org/10.1007/s10670-026-01174-0"
       ],
-      "title": "The Body Problem: Cautionary Notes on the Embodied Self",
-      "url": "https://doi.org/10.1007/s12152-026-09683-z"
+      "title": "Modal Fragility and Counterfactual Causation",
+      "url": "https://doi.org/10.1007/s10670-026-01174-0"
     },
     {
-      "abstract": "Abstract Sparse autoencoders (SAEs) can expose interpretable features in language-model activations, but public SAE resources such as GemmaScope and Llama Scope are trained on generic web text rather than cybersecurity evidence. CyberLens is a purpose-trained SAE and heuristic taxonomy-mapping pipeline for cybersecurity interpretability of an open-weight language model. Because cyber uplift is a foreseeable deployment risk, reasonable care requires developers of general-purpose language models to provide proportionate internal observability of cyber-relevant behaviour. We train a width-4096 JumpReLU SAE on layer 8 of EleutherAI/pythia-160 m, a 12-layer, 162-million-parameter model with a 768-dimensional residual stream, using 14,925 documents (approximately 1.85 million tokens) of MITRE ATT&CK descriptions and procedure examples, NVD vulnerability reports, CISA KEV records, CAPEC, malware reports, phishing emails, and Dolly-15k benign contrasts, with grouped splitting to prevent source-document leakage. The cybersecurity SAE achieves FVU 0.0435 (95.7% explained variance) versus 0.186 for a matched generic-text SAE—an absolute explained- variance gain of 14.2 percentage points on the reported activation sample. Its 4,096 feature rows are mapped heuristically to ATT&CK techniques and CISSP domains using local all-MiniLM-L6-v2 similarity, with confidence scores from 0.313 to 0.928; the top 50 remain pending hand-verification after a labelling pilot failed. Refusal is 0.000 in both arms (a Pythia-160 M base model without instruction tuning or RLHF). Suppressing 20 selected features increases keyword-flagged cyber content from 0.067 to 0.317 overall and from 0.050 to 0.800 for exploit items; phishing and malware are null, and 15 of 20 exploit placeholders contain “Exploit,” inflating this lexical metric. English-only, phishing-heavy corpus; one completed layer-8 width-4,096 SAE whose observed $$L_0=286$$ greatly exceeds the target 20; heuristic, unverified labels; keyword-based outcomes; a placeholder-heavy 60-prompt intervention set; no evidence about frontier models or effective cyber-content suppression. SAE weights, feature dictionary, loader, and an interactive demonstration are released for reproducible small-model research; scaling to larger models remains future work.",
+      "abstract": "This article argues that deliberately sustaining unresolvable uncertainty in users is a distinctive ethical wrong in the design of algorithmic and AI systems, and that it is not adequately captured by existing accounts of deception, manipulation, or opacity. Drawing on the observation that certain literary genres also engineer sustained uncertainty without wronging anyone, the article isolates three conditions whose joint failure is sufficient for a pro tanto wrong: consent to the uncertainty as such, the availability of an endpoint at which the uncertainty can be resolved, and the absence of extraction from the subject’s inability to resolve it. Commercial algorithmic systems characteristically fail all three. The wrong at stake is pre-emptive rather than interactional: it attacks the preconditions of autonomous judgement rather than corrupting any particular judgement, which is why consent-based and disclosure-based remedies do not reach it. The article argues that transparency is the wrong shape of remedy, since some algorithmic opacity is irreducible and since sustained uncertainty is commercially load-bearing, and proposes instead a duty of resolvability: an obligation to design systems such that a user seeking a settled and actionable understanding of how the system treats them is able to reach one, and a correlative prohibition on designing for the maintenance of uncertainty. The argument is applied to recommender systems, engagement-ranked feeds, and conversational AI companions.",
       "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
+      "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Fahad Hafeez"
+        "Abishek Asokan",
+        "C. S. Arunprabu"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-04",
-      "doi": "10.1007/s43681-026-01480-x",
-      "first_seen_jst": "2026-11-05",
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1007/s43681-026-01482-9",
+      "first_seen_jst": "2026-11-06",
       "journal": "AI and Ethics",
       "journal_id": "J023",
       "origin": "crossref",
@@ -63,28 +69,215 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01480-x",
-      "publisher_online_date": "2026-11-04",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01482-9",
+      "publisher_online_date": "2026-11-05",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01480-x"
+        "https://doi.org/10.1007/s43681-026-01482-9"
       ],
-      "title": "Cyberlens: taxonomy-mapped sparse autoencoders for cybersecurity interpretability of open-weight language models",
-      "url": "https://doi.org/10.1007/s43681-026-01480-x"
+      "title": "Engineered hesitation: the ethics of unresolvable uncertainty in algorithmic systems",
+      "url": "https://doi.org/10.1007/s43681-026-01482-9"
     },
     {
-      "abstract": "Abstract The Gettier problem suggests that the core challenge for theories of knowledge lies in eliminating knowledge-undermining epistemic luck. In response, two major approaches have emerged in contemporary epistemology: modalism and explanationism. However, both approaches have limitations and exhibit an interesting theoretical symmetry: while modalism effectively handles environmental luck, it struggles with certain cases of intervening luck; explanationism faces the reverse difficulty. This symmetrical limitation suggests that any theory of knowledge relying on a single dimension is likely to be inadequate. To address this, this paper presents a new, integrated approach – Modal Explanationism (ME). ME requires that a belief counts as knowledge just in case it is explained by the truth of the believed proposition in the actual world, and that this explanatory connection is preserved across a range of nearby possible worlds. It is argued that ME offers a more successful solution to the Gettier problem than either modalism or explanationism alone.",
+      "abstract": "Debates about AI companionship have mostly been organized by a question about the partner: what standing, if any, does the AI have? The relational turn in AI ethics has loosened this framing by arguing that standing is conferred in relationships rather than read off properties. Its concern, however, remains what is owed to the artificial other. This paper extends the relational approach to the human side, asking what a relationship does to the user over time without relying on claims about what the AI lacks. For that question, the partner’s status does not settle the answer: relationships between humans at a distance go well or badly while the partner stays the same, and a correspondence with an undetected simulation can be, for the person conducting it, the same practice as one with a human. What matters is who does the relational work of interpreting, anticipating, remembering, and answering. Confucian role ethics supplies the structure within which that work is assessed, and its rites for the ancestors show a tradition evaluating a relationship without a verdict on the other party’s existence. Commercial AI companions are designed for response-saturation : a tailored reply arrives before the user has done the work, and with sustained use her work can be preempted. Longitudinal and attachment research is consistent with this account but does not test it directly. The verdict is graded, and it yields design recommendations whose costs for vulnerable users are also weighed.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Muyuan Yan"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1007/s43681-026-01484-7",
+      "first_seen_jst": "2026-11-06",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01484-7",
+      "publisher_online_date": "2026-11-05",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01484-7"
+      ],
+      "title": "Who does the relational work? response-saturation and a Confucian role-ethical account of AI companionship",
+      "url": "https://doi.org/10.1007/s43681-026-01484-7"
+    },
+    {
+      "abstract": "As agentic AI systems increasingly make decisions on behalf of users, a central governance question emerges: Who controls delegated AI judgment, and who is accountable for its consequences? This paper examines the distribution of control and responsibility in agentic AI through an interpretive analysis of publicly available technical documentation, safety reports, and governance disclosures concerning OpenAI’s GPT-6 Astra, supplemented by comparative evidence from thirty deployed agents documented in the 2025 AI Agent Index. The analysis develops three interconnected constructs: judgment custody , referring to control over delegated decisions; proxy drift , describing the displacement of users’ interests by vendor-defined performance and alignment measures; and the accountability gap , capturing the separation between decision-making control and responsibility for outcomes. The findings identify recurring governance asymmetries: vendors retain substantial oversight authority, alignment is evaluated through internally defined measures, and users or deploying institutions bear consequences without equivalent rights of inspection or intervention. The study concludes that effective agentic AI governance requires clearer delegation boundaries, custodial transparency, mandatory disclosure obligations, and independent verification. These principles provide a practical framework for institutional procurement and accountability.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Ashley Y. Shin",
+        "Donghee Shin"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1007/s43681-026-01486-5",
+      "first_seen_jst": "2026-11-06",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01486-5",
+      "publisher_online_date": "2026-11-05",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01486-5"
+      ],
+      "title": "Who holds the judgment? Agentic AI, vendor custody, and the accountability gap",
+      "url": "https://doi.org/10.1007/s43681-026-01486-5"
+    },
+    {
+      "abstract": "Human oversight has become a central requirement of responsible artificial intelligence. Yet the presence of a human decisionmaker, even one with the authority to interpret, contest or override an algorithmic output, does not by itself guarantee good judgment. This correspondence argues that AI ethics needs a richer account of what meaningful human involvement requires. The Aristotelian concept of phronesis, or practical wisdom, offers such an account. Unlike technical competence, procedural control or retrospective accountability, phronesis concerns the capacity to deliberate well about what ought to be done in circumstances, under conditions of uncertainty and in the light of competing human goods. The distinction matters wherever algorithmic systems enter decisions that cannot be settled by prediction or optimisation alone. Healthcare provides a particularly visible example, but the problem extends to education, social care, disability, public administration and other domains in which decisions affect individual lives. Human oversight should therefore be understood not merely as a question of who retains control over an AI system, but as a question of what that control is worth: whether the person who holds it is capable of deliberating well, and whether the setting in which they work enables that capacity to be exercised.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Abel García Abejas"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1007/s43681-026-01508-2",
+      "first_seen_jst": "2026-11-06",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01508-2",
+      "publisher_online_date": "2026-11-05",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01508-2"
+      ],
+      "title": "Beyond human oversight why AI ethics needs phronesis",
+      "url": "https://doi.org/10.1007/s43681-026-01508-2"
+    },
+    {
+      "abstract": "The emergence of agentic artificial intelligence — systems capable of autonomously selecting, sequencing, and executing actions within healthcare environments — marks a qualitative shift in the patient rights landscape that existing governance frameworks are structurally unprepared to address. Unlike reactive AI tools that generate recommendations for human clinical review, agentic systems act: initiating coverage and care access determinations, modifying care pathways, updating risk classifications, and processing administrative authorizations at machine speed and often without human intermediation. In the United States, this includes prior authorization systems; analogous algorithmic gatekeeping functions exist across OECD health systems in different regulatory forms. This operational autonomy breaks the foundational assumptions of informed consent doctrine, which was designed for episodic human decision-making rather than continuous algorithmic action on behalf of patients and sometimes against their interests. Drawing on participatory medicine philosophy, comparative privacy frameworks including the European Union’s General Data Protection Regulation and the EU Artificial Intelligence Act (2024), and documented cases of agentic healthcare AI deployment across multiple jurisdictions, this paper argues that meaningful patient agency in an agentic AI environment requires a structural reorientation rather than merely updated disclosure requirements: patients must be recognized as active, rights-bearing participants in the governance of systems that act on their behalf. The paper identifies four governance gaps created by agentic healthcare AI — the consent gap, the accountability gap, the transparency gap, and the participation gap — and proposes a patient-centered governance framework grounded in participatory medicine principles and applicable across jurisdictional boundaries.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Mike Runquist"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1007/s43681-026-01511-7",
+      "first_seen_jst": "2026-11-06",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01511-7",
+      "publisher_online_date": "2026-11-05",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01511-7"
+      ],
+      "title": "Acting without asking: agentic AI, informed consent, and the erosion of patient agency in healthcare",
+      "url": "https://doi.org/10.1007/s43681-026-01511-7"
+    },
+    {
+      "abstract": "Given the rapid rise of AI and its capacity to help firms customize consumer prices, price personalization has become a hot topic at the intersection of business ethics and technology studies. This article challenges the argument that price personalization would increase social welfare, addressing the claim that firms should charge more to people with greater willingness-to-pay (WTP), and less to people with lower WTP, because this will boost social welfare. I develop two reasons for doubt. First, preferences that influence WTP often do not conduce to consumers’ well-being. So, adjusting prices to preference-based WTP will not necessarily enhance social welfare. Second, firms’ long-term strategic agendas will often disfavor increased price personalization. If “ought implies can,” firms can morally be expected to do only what they reasonably can in competitive conditions.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Ying Zhang",
-        "Haicheng Zhao"
+        "Gregory Robson"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-04",
-      "doi": "10.1017/epi.2026.10165",
-      "first_seen_jst": "2026-11-05",
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1017/beq.2026.10112",
+      "first_seen_jst": "2026-11-06",
+      "journal": "Business Ethics Quarterly",
+      "journal_id": "J058",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1017/beq.2026.10112",
+      "publisher_online_date": "2026-11-05",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1017/beq.2026.10112"
+      ],
+      "title": "Price Personalization in the Age of AI: Complicating the Defense",
+      "url": "https://doi.org/10.1017/beq.2026.10112"
+    },
+    {
+      "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1528887026100470/resource/name/firstPage-pdf-S1528887026100470a.jpg",
+      "abstract_review_status": "suspect_media_link",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Catherine Barnard"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1017/cel.2026.10047",
+      "first_seen_jst": "2026-11-06",
+      "journal": "Cambridge Yearbook of European Legal Studies",
+      "journal_id": "J014",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1017/cel.2026.10047",
+      "publisher_online_date": "2026-11-05",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1017/cel.2026.10047"
+      ],
+      "title": "Preface",
+      "url": "https://doi.org/10.1017/cel.2026.10047"
+    },
+    {
+      "abstract": "Abstract The debate between permissivists and impermissivists – which concerns the question of whether there is at most one epistemically rational doxastic attitude to adopt toward a proposition given a body of evidence – has been a focus of discussion in the literature. However, this debate has occurred almost exclusively within an internalist context. I aim to change that by introducing an externalist perspective into the debate. In particular, I will consider what a process reliabilist should think about the debate. Since process reliabilists do not typically talk about evidence, I will show how the debate can be translated into process reliabilist terms. In light of this translation, I will argue that process reliabilists should be permissivists. I will also argue that process reliabilism is a plausible version of permissivism because it can successfully respond to common objections to permissive views.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Jillian Powell"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1017/epi.2026.10167",
+      "first_seen_jst": "2026-11-06",
       "journal": "Episteme",
       "journal_id": "J095",
       "origin": "crossref",
@@ -94,29 +287,30 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/epi.2026.10165",
-      "publisher_online_date": "2026-11-04",
+      "publisher_evidence_url": "https://doi.org/10.1017/epi.2026.10167",
+      "publisher_online_date": "2026-11-05",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/epi.2026.10165"
+        "https://doi.org/10.1017/epi.2026.10167"
       ],
-      "title": "A Modal Explanationist Solution to the Gettier Problem",
-      "url": "https://doi.org/10.1017/epi.2026.10165"
+      "title": "Process Reliabilism is Permissive (and Plausible)",
+      "url": "https://doi.org/10.1017/epi.2026.10167"
     },
     {
-      "abstract": "Abstract The Article analyzes how gender markers on passports are used to bolster the digital racial borders of the European Union (EU). It traces the history of gender markers on passports, showing that they increasingly emerged in the EU and elsewhere as part of border digitalization processes from the 1980s onward. It further investigates how gender markers on passports increasingly serve border-related risk assessments by examining the ongoing expansion of Advanced Passenger Information, Passenger Name Records, and the Visa Information System in the EU. While this analysis shows that gender markers help to identify the “unwanted” migrant—a deeply racialized concept—the Article also interrogates whether abolishing gender markers would necessarily render borders gender- or race-neutral. It therefore explores how border governance that relies on big data and biometric tools, rather than gender markers, may equally reinforce cisnormative and racialized borders.",
+      "abstract": "Abstract The possibility of distinguishing good from bad reasoning – the precondition of any normative role for logic – has been challenged by a cluster of skeptical arguments in recent philosophy of logic. While much attention has focused on the gap between logical knowledge and ordinary reasoning highlighted by Harman and Russell, this paper identifies three additional arguments against logical normativity that have received insufficient scrutiny: one concerning the inherent limitations of formal evaluation methods, one concerning the pragmatic indeterminacy of illogical behavior in natural language communication, and one rooted in the early-twentieth-century doctrine of the ‘feeling of logicality’ directly opposed by Charles S. Peirce. The paper pursues two sequential aims: first, to show that skepticism about the logical normativity of reasoning is deeper and more historically entrenched than contemporary discussions suggest; second, to reconstruct Peirce’s theoretical framework – centered on the distinction between logica utens and logica docens , the tripartite account of good reasoning, and the method-based criterion of validity – and to demonstrate that it provides a unified response to all four skeptical challenges.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Lena Holzer"
+        "Liuhua Zhang"
       ],
       "crossref_online_date": null,
-      "date": "2026-11-04",
-      "doi": "10.1017/glj.2026.10238",
-      "first_seen_jst": "2026-11-05",
-      "journal": "German Law Journal",
-      "journal_id": "J126",
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1017/s0031819126101594",
+      "first_seen_jst": "2026-11-06",
+      "journal": "Philosophy",
+      "journal_id": "J145",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
@@ -124,73 +318,13 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/glj.2026.10238",
-      "publisher_online_date": "2026-11-04",
+      "publisher_evidence_url": "https://doi.org/10.1017/s0031819126101594",
+      "publisher_online_date": "2026-11-05",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/glj.2026.10238"
+        "https://doi.org/10.1017/s0031819126101594"
       ],
-      "title": "Gender Markers in Passports and the Digital Racial Borders of the European Union",
-      "url": "https://doi.org/10.1017/glj.2026.10238"
-    },
-    {
-      "abstract": "Abstract This paper aims to advance current debates on gendered language reform by making explicit the assumptions in much of the philosophical literature, and by proposing a reorientation of how we theorize about pronoun reform and linguistic amelioration. While sympathetic to the normative aims of prominent proposals, I caution that prescriptions grounded in any single language risk overstating language-specific features and blurring the sources and dynamics of gender essentialism. Drawing on the case of Mandarin Chinese, where gendered pronouns were a modern invention, I clarify the limits of language-specific diagnoses and show how reform is mediated by social conditions of uptake. More broadly, I advocate a shift from language-specific proposals to a cross- and trans-linguistic perspective: cross-linguistic comparison identifies which claims generalize across languages, and a trans-linguistic lens highlights how reform ideas and practices travel across contexts and are reshaped through uptake and negotiation. This approach offers a more philosophically robust account of the prospects and limits of linguistic amelioration, and of language’s role in social change.",
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Hsiang-Yun Chen"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-04",
-      "doi": "10.1017/hyp.2026.10106",
-      "first_seen_jst": "2026-11-05",
-      "journal": "Hypatia",
-      "journal_id": "J075",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/hyp.2026.10106",
-      "publisher_online_date": "2026-11-04",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1017/hyp.2026.10106"
-      ],
-      "title": "Pronouns and Linguistic Amelioration",
-      "url": "https://doi.org/10.1017/hyp.2026.10106"
-    },
-    {
-      "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0034670526101260/resource/name/firstPage-pdf-S0034670526101260a.jpg",
-      "abstract_review_status": "suspect_media_link",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Michael Blake"
-      ],
-      "crossref_online_date": null,
-      "date": "2026-11-04",
-      "doi": "10.1017/s0034670526101260",
-      "first_seen_jst": "2026-11-05",
-      "journal": "The Review of Politics",
-      "journal_id": "J050",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/s0034670526101260",
-      "publisher_online_date": "2026-11-04",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1017/s0034670526101260"
-      ],
-      "title": "Shmuel Nili, Beyond the Law’s Reach? Powerful Criminals, Foreign Entanglement, and Justice in the Shadow of Violence. (New York: Oxford University Press, 2024.)",
-      "url": "https://doi.org/10.1017/s0034670526101260"
+      "title": "Can We Logically Tell Good from Bad Reasoning?",
+      "url": "https://doi.org/10.1017/s0031819126101594"
     },
     {
       "abstract": "",
@@ -199,12 +333,77 @@
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Sabrina Ragone"
+        "Jakob Elster",
+        "Gry Oftedal",
+        "Anders Strand"
       ],
-      "crossref_online_date": "2026-11-04",
-      "date": "2026-11-04",
-      "doi": "10.1093/icon/moag112",
-      "first_seen_jst": "2026-11-05",
+      "crossref_online_date": "2026-11-05",
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1080/0020174x.2026.2744690",
+      "first_seen_jst": "2026-11-06",
+      "journal": "Inquiry",
+      "journal_id": "J089",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1080/0020174x.2026.2744690"
+      ],
+      "title": "Research ethics in and out of crises: cluster randomized trials without consent",
+      "url": "https://doi.org/10.1080/0020174x.2026.2744690"
+    },
+    {
+      "abstract": "",
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Benjamin B. Taylor"
+      ],
+      "crossref_online_date": "2026-11-05",
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1086/743919",
+      "first_seen_jst": "2026-11-06",
+      "journal": "Polity",
+      "journal_id": "J033",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1086/743919",
+        "https://www.journals.uchicago.edu/doi/full/10.1086/743919",
+        "https://www.journals.uchicago.edu/doi/abs/10.1086/743919"
+      ],
+      "title": "MAGA Constitutionalism: Originalist Intuitions and the Invention of Legal Doctrine",
+      "url": "https://doi.org/10.1086/743919"
+    },
+    {
+      "abstract": "Abstract It is now widely understood that constitutions are interpreted and enforced by a broad range of actors—not simply courts. Much of constitutional theory has come to embrace this form of (what I call) “constitutional polyvocality,” or the idea of “polyvocal constitutionalism.” At the same time, there are several different versions of polyvocal constitutionalism. For instance, one set of polyvocal theories argues for collaboration among different constitutional actors and the importance of norms of comity, respect, and restraint in mediating any conflicts that arise in a process of polyvocal constitutional construction. Another set of ideas focuses on notions of accountability and the importance of judicial and fourth-branch impartiality, independence, and authority in the resolution of certain constitutional disputes, even in a polyvocal world. A final set of ideas focuses on the idea of contestation and disagreement among constitutional actors as potentially generative forces in a democratic constitutional system and as helping underpin the legitimacy of its outputs. Some theories also seek to balance these competing ideas in an open-ended way, whereas others seek to provide a more structured or “tiered” approach to balancing competing polyvocal constitutional ideas or values. This article explores these different understandings of the idea of polyvocal constitutionalism and how it helps us understand and situate a range of recent works in comparative constitutional theory. It further highlights the strengths and weaknesses of these different theories, especially their capacity to respond to the current political moment—in which many previously stable democracies are experiencing “abusive” constitutional change.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Rosalind Dixon"
+      ],
+      "crossref_online_date": "2026-11-05",
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1093/icon/moag108",
+      "first_seen_jst": "2026-11-06",
       "journal": "International Journal of Constitutional Law",
       "journal_id": "J124",
       "origin": "crossref",
@@ -216,26 +415,27 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/icon/moag112"
+        "https://doi.org/10.1093/icon/moag108"
       ],
-      "title": "Una reflexión a doce años de “Comparative Matters”, de Ran Hirschl",
-      "url": "https://doi.org/10.1093/icon/moag112"
+      "title": "Polyvocal constitutionalism",
+      "url": "https://doi.org/10.1093/icon/moag108"
     },
     {
-      "abstract": "ABSTRACT This article focuses on the question of how to understand the role and use of ethical theories in bioethics. Work in bioethics often involves uses of ethical theory, but methodological developments such as the empirical turn and the growing insights into the plurality and contextuality of moral considerations challenge a traditional view of ethical theories as providing moral input into the value‐neutral descriptions offered by empirical studies. Nevertheless, bioethics is characterised by a relative neglect of questions related to the use of ethical theories. The article develops a number of desiderata that any understanding of the role of ethical theories should be able to address; to accommodate moral plurality and contextuality, to motivate choices and uses of specific theories, to minimise risks of theory‐driven attention and blindness, to allow for theoretical plurality, to address relations between theories and theoretical integrity. It then presents some challenges for existing accounts of theory‐use in bioethics, thus paving the way for an alternative understanding of the role of ethical theories in bioethics. The suggestion presented here is that ethical theories should be understood as descriptions or representations of moral grammars , implicit normative structures of thinking and action that constitute moral considerations. Furthermore, in relation to problems in bioethics, it is suggested that ethical theories are used as heuristic tools to illuminate and clarify moral grammars as they appear in specific bioethical poblems or studies.",
+      "abstract": "Abstract This paper pursues two aims. First, it develops a novel objection to metanormative constructivism, which I term the Duality Objection . Second, it proposes a dual‐role account of practical reason and argues that it can meet this objection. Constructivists like Korsgaard and Street maintain that normativity is constructed within agents' first‐personal practical standpoints, shaped by their evaluative input. Valuing is prior to, and metaphysically grounds, value. However, a basic feature of our normative experience is that our evaluative judgements also respond to and track pre‐existing normative facts. Thus, evaluative commitments appear to play two seemingly contradictory roles – creating and responding to normative reality. This tension forms the basis of the Duality Objection. I respond in two steps. First, I show how constructivists can reconcile their metaphysical commitments with agents' normative experiences by distinguishing between first‐ and third‐personal levels of explanation. Second, I develop a Korsgaardian dual‐role account of practical reason , which elucidates the passive‐responsive and active‐creative roles that practical reason plays within our first‐personal agential standpoint. Making sense of “responsive” normative experience within a constructivist framework has a further upshot. It allows us to reject recent “arguments from first‐personal deliberation and experience” by metanormative realists (cf. Enoch 2007, 2011; Kirwin 2024).",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Anne‐Marie Søndergaard Christensen"
+        "Leonhard Schneider"
       ],
-      "crossref_online_date": "2026-11-04",
-      "date": "2026-11-04",
-      "doi": "10.1111/bioe.70208",
-      "first_seen_jst": "2026-11-05",
-      "journal": "Bioethics",
-      "journal_id": "J063",
+      "crossref_online_date": "2026-11-05",
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1111/ejop.70137",
+      "first_seen_jst": "2026-11-06",
+      "journal": "European Journal of Philosophy",
+      "journal_id": "J102",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_is_api_candidate": true,
@@ -245,23 +445,116 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1111/bioe.70208",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70208",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70208"
+        "https://doi.org/10.1111/ejop.70137",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/ejop.70137",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/ejop.70137"
       ],
-      "title": "Reconsidering the Role of Ethical Theories in Bioethics: Ethical Theories as Heuristic Descriptions of Moral Grammars",
-      "url": "https://doi.org/10.1111/bioe.70208"
+      "title": "Creating Normativity and Responding to It: How Metaethical Constructivists Must and Can Have It Both Ways",
+      "url": "https://doi.org/10.1111/ejop.70137"
     },
     {
-      "abstract": "Ulrike Kern (2016) unpacks the history of a concept, broken colors. Though it’s been in use since the early seventeenth century, and is even used today by painters, critics, and art theorists when discussing color, it hasn’t much influenced philosophy. Instead, it evolved independently, alongside the early modern philosophical discussions of color. This paper has two goals. First, work out a philosophical reconstruction of the concept whose early history Kern so ably traces. So, this paper is a philosophical contribution to the history of ideas. The paper’s second goal is to show how broken colors contribute to two contemporary issues. First, they help us understand the depiction of things as colored, and second, they can deepen our understanding of the nature of chromatic experience. Broken colors are thus relevant to contemporary philosophy of art and perception. Though there are historically informed contemporary accounts of color on the market—Adams (2016) stands out—they typically address the history of philosophical discussions of color. And there is comparatively little work in the philosophy of art about the depiction of things as colored.",
+      "abstract": "Abstract Today, research on consciousness spans various fields, including neuroscience, philosophy, psychology, physics, and computer science. These studies focus on demonstrating the effects of consciousness rather than defining its essence. While consciousness is often used as an overarching concept in thought processes, its nature remains unclear and is expected to be more precisely defined in the future. Some theorists propose that consciousness resides within neurons or the cytoskeleton. Examining the history of science reveals similar concepts that were once widely accepted but later proven nonexistent. This paper argues that consciousness is akin to aether and phlogiston—once considered scientific truths but ultimately discarded. While debates persist on whether consciousness is a fundamental reality or an illusion, the paper asserts that consciousness is merely a term, neither real nor illusory. As our molecular understanding of brain function deepens, the concept of consciousness, like aether and phlogiston, will eventually fade from scientific discourse.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
+        "Emrah Yücesan"
+      ],
+      "crossref_online_date": "2026-11-05",
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1111/meta.70054",
+      "first_seen_jst": "2026-11-06",
+      "journal": "Metaphilosophy",
+      "journal_id": "J103",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/meta.70054",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/meta.70054",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.70054"
+      ],
+      "title": "Rethinking the Concept of Consciousness",
+      "url": "https://doi.org/10.1111/meta.70054"
+    },
+    {
+      "abstract": "",
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "book_review_candidate",
+      "authors": [
+        "Yijie Wang"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1163/17455243-20263064",
+      "first_seen_jst": "2026-11-06",
+      "journal": "Journal of Moral Philosophy",
+      "journal_id": "J070",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1163/17455243-20263064"
+      ],
+      "title": "A Minimally Good Life: What We Owe to Others and What We Can Justifiably Demand, written by N. Hassoun",
+      "url": "https://doi.org/10.1163/17455243-20263064"
+    },
+    {
+      "abstract": "",
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "book_review_candidate",
+      "authors": [
+        "Kyle van Oosterum"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-05",
+      "doi": "10.1163/17455243-bja10214",
+      "first_seen_jst": "2026-11-06",
+      "journal": "Journal of Moral Philosophy",
+      "journal_id": "J070",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1163/17455243-bja10214"
+      ],
+      "title": "Why It’s OK to Be a Moderate, written by Marcus Arvan",
+      "url": "https://doi.org/10.1163/17455243-bja10214"
+    },
+    {
+      "abstract": "Ulrike Kern (2016) unpacks the history of a concept, broken colors. Though it’s been in use since the early seventeenth century, and is even used today by painters, critics, and art theorists when discussing color, it hasn’t much influenced philosophy. Instead, it evolved independently, alongside the early modern philosophical discussions of color. This paper has two goals. First, work out a philosophical reconstruction of the concept whose early history Kern so ably traces. So, this paper is a philosophical contribution to the history of ideas. The paper’s second goal is to show how broken colors contribute to two contemporary issues. First, they help us understand the depiction of things as colored, and second, they can deepen our understanding of the nature of chromatic experience. Broken colors are thus relevant to contemporary philosophy of art and perception. Though there are historically informed contemporary accounts of color on the market—Adams (2016) stands out—they typically address the history of philosophical discussions of color. And there is comparatively little work in the philosophy of art about the depiction of things as colored.",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": true,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
         "John Kulvicki"
       ],
       "crossref_online_date": "2026-11-05",
+      "crossref_subtype": "",
       "date": "2026-11-05",
       "doi": "10.3998/phimp.7799",
       "first_seen_jst": "2026-11-05",
@@ -286,12 +579,13 @@
       "abstract": "Can we offer a constitutive account of fittingness? Offering such an account has proven difficult because of the great diversity of fit-assessable responses—e.g., believing, desiring, fearing, blaming, apologizing, thanking, and laughing. Yet, when surveying such examples of fit-apt  responses, what's striking is that invariably each response-type has a job, a goal, an end, a telos. Believing, desiring, fearing, blaming, apologizing, thanking, and laughing are all plausible candidates for having proper functions. The account I aim to defend runs with this idea. Put roughly, fittingness is the relation that holds between a response and its object just when and because the object has the properties that an object of that response needs to possess for the response to non-deviantly fulfill its function.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Andrew T. Forcehimes"
       ],
       "crossref_online_date": "2026-11-05",
+      "crossref_subtype": "",
       "date": "2026-11-05",
       "doi": "10.3998/phimp.8494",
       "first_seen_jst": "2026-11-05",
@@ -316,12 +610,13 @@
       "abstract": "The concept of essence is a paradigm case of a putatively hyperintensional concept in metaphysics, a concept that can draw distinctions between necessarily equivalent propositions. Yet as several authors have recently emphasized, fine-grained distinctions in metaphysics come with a substantial risk of inconsistency, due to the Russell-Myhill paradox and its variants. This concern is especially pressing for hyperintensionalists about essence because the hyperintensionality of essence has been motivated primarily by examples. This paper presents a novel, more systematic case for the hyperintensionality of essence that shows that the relevant distinctions can be systematically modeled in a natural theoretical framework. I start by offering a general heuristic to motivate a range of examples of fine-grained essentialist distinctions. I then present a higher-order logical framework for regimenting essentialist statements and provide a general argument for hyperintensionality on the basis of minimal assumptions about the logic of essence. Finally, I address the question of consistency by developing a semantic framework that demonstrates that the relevant fine-grained distinctions can indeed be consistently drawn.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Andreas Ditter"
       ],
       "crossref_online_date": "2026-11-05",
+      "crossref_subtype": "",
       "date": "2026-11-05",
       "doi": "10.3998/phimp.8528",
       "first_seen_jst": "2026-11-05",
@@ -346,12 +641,13 @@
       "abstract": "I propose a novel A-theory that attractively articulates our common-sense, pre-relativistic conception of time. This A-theory posits fundamental facts about how things were at a specific past times. It treats time’s passing by positing fundamental facts like: four hours passed from 8am today until noon. It allows fundamental cross-temporal relationships. I show that the presentism–eternalism dilemma does not embarrass the proposed A-theory. There are two notions of existence in play: existence at a time and ‘∃-existence’. Neither features in the fundamental facts. I define them up in a way that vindicates the claims of common sense. Past objects count as metaphysically ‘gone’, but there are fundamental facts about how they were. My account rejects presentism and eternalism (properly defined). I defend other aspects of the proposal elsewhere.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Alexander Jackson"
       ],
       "crossref_online_date": "2026-11-05",
+      "crossref_subtype": "",
       "date": "2026-11-05",
       "doi": "10.3998/phimp.8658",
       "first_seen_jst": "2026-11-05",
@@ -376,13 +672,14 @@
       "abstract": "Human cognition and behavior are guided by a myriad of norms which enable us to successfully navigate our social environment and our interactions with others. Many of these norms might be hard for us to articulate (e.g. how far to sit or stand from a stranger on the bus), and some of them differentiate between different hierarchies and roles, reflecting patterns of injustice. This paper addresses the fact that social norms, including gendered, ableist, adultist, and racist norms, influence our perception of action possibilities, or affordances, making some actions possible for some agents and not for others. In particular, we propose an account of these interactions in terms of scripts, that is, expected sequences of actions that shape the landscape of the possible ways to interact with one another. Scripts can be learned implicitly, they are dynamic and flexible, and can regulate complex interactions by prescribing permissible actions and responses in specific situations. A script-based account can explain the way norms regulate which actions we perceive as possible in a representationalist way, and can help us explain how norm change occurs.",
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Leda Berio",
         "Kristina Musholt"
       ],
       "crossref_online_date": "2026-11-05",
+      "crossref_subtype": "",
       "date": "2026-11-05",
       "doi": "10.3998/phimp.8887",
       "first_seen_jst": "2026-11-05",
@@ -407,20 +704,20 @@
   "journal_total": 145,
   "likely_nonresearch_count": 0,
   "major_publishers": {
-    "checked": 90,
+    "checked": 89,
     "failed": 0,
-    "total": 90,
+    "total": 89,
     "truncated": 0,
     "unresolved": 0
   },
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 5,
-  "raw_candidate_count": 13,
-  "research_candidate_abstracts_available": 12,
-  "research_candidate_abstracts_missing": 1,
+  "publisher_first_online_in_window_verified_count": 10,
+  "raw_candidate_count": 22,
+  "research_candidate_abstracts_available": 18,
+  "research_candidate_abstracts_missing": 2,
   "research_candidate_suspect_abstracts": 1,
-  "research_candidate_unverified_count": 13,
+  "research_candidate_unverified_count": 20,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-05",
-  "window_start_jst": "2026-11-04"
+  "window_end_jst": "2026-11-06",
+  "window_start_jst": "2026-11-05"
 }

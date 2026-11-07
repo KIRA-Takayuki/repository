@@ -35,6 +35,8 @@ def kind_guess(title, subtype=""):
     """Classify book reviews separately; preserve independent scholarly articles."""
     s = " ".join(html.unescape(title or "").split())
     st = (subtype or "").lower().strip()
+    if re.search(r"\b20\d{2},\s*\d+\s*(?:pp\.?|pages)\b", s, re.I):
+        return "book_review_candidate"
     if st in {"review", "book-review"} or re.search(r"^(?:book review|review of)\b", s, re.I):
         return "book_review_candidate"
     if re.search(r"^(?:publisher correction|correction|corrigendum|retraction|erratum|editorial|editor['’]?s note|announcement|ask a political scientist)\b", s, re.I):

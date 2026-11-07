@@ -237,6 +237,12 @@ def enrich(item, session, start, end):
             api = session.get("https://api.crossref.org/works/" + doi, timeout=8)
             api.raise_for_status()
             meta = api.json().get("message", {})
+            # Crossref sometimes exposes an abstract only on the per-DOI record.
+            if not text_clean(work.get("abstract", "")):
+                candidate = text_clean(BeautifulSoup(meta.get("abstract") or "", "html.parser").get_text(" ", strip=True))
+                if len(candidate) >= 100 and abstract_review(candidate) == "present_needs_content_review":
+                    work["abstract"] = candidate[:9000]
+                    work["abstract_source"] = "crossref_doi_record"
             parts = (meta.get("published-online") or {}).get("date-parts", [[]])[0]
             if len(parts) >= 3:
                 work["crossref_online_date"] = dt.date(*parts[:3]).isoformat()

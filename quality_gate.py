@@ -73,11 +73,44 @@ def validate(daily, report, introduced, today=None):
         errors.append("eligible candidate count inconsistent")
     if daily.get("research_candidate_abstracts_missing", 0):
         warnings.append(f"{daily['research_candidate_abstracts_missing']} research candidates lack abstracts")
+    evidence_counts = {"publisher_doi_matched": 0,
+                       "crossref_published_online_only": 0, "unconfirmed": 0}
+    manual_review = []
+    for i, item in enumerate(items):
+        if item.get("already_introduced"):
+            continue
+        kind = item.get("article_type_guess", "research_candidate_unverified")
+        if kind in ("likely_nonresearch", "prior_publication_not_new"):
+            continue
+        level = item.get("publication_date_evidence_level") or (
+            "publisher_doi_matched" if item.get("publisher_online_date") and item.get("publisher_doi_matched")
+            else "crossref_published_online_only" if item.get("crossref_online_date")
+            else "unconfirmed"
+        )
+        if level not in evidence_counts:
+            errors.append(f"item {i}: unknown publication evidence level {level}")
+            level = "unconfirmed"
+        evidence_counts[level] += 1
+        reasons = []
+        if level != "publisher_doi_matched":
+            reasons.append("publisher first-online date not independently verified")
+        if item.get("abstract_review_status") != "present_needs_content_review":
+            reasons.append("abstract absent or suspect")
+        if kind == "book_review_candidate":
+            reasons.append("book review requires bibliographic and content verification")
+        if reasons:
+            manual_review.append({"doi": item.get("doi"), "reasons": reasons})
+    if manual_review:
+        warnings.append(f"{len(manual_review)} eligible candidates require manual semantic verification")
     status = "failed" if errors else "structurally_valid_not_semantically_verified"
     return {"status": status, "checked_on_jst": today, "raw_candidates": len(items),
             "already_introduced": duplicates, "eligible_candidates": len(items) - duplicates,
+            "publisher_date_evidence_counts": evidence_counts,
+            "manual_review_required_count": len(manual_review),
+            "manual_review_required": manual_review,
+            "ready_for_automatic_formal_introduction": False,
             "errors": errors, "warnings": warnings,
-            "meaning": "Not an endorsement of publication dates, abstracts, paper types, or delivery."}
+            "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."}
 
 
 def main():

@@ -332,6 +332,32 @@ def build():
         "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
         "items": enriched,
     }
+    # Persistent 45-day review queue; first-seen is not proof of introduction.
+    # Carry political philosophy candidates forward independently of today's date.
+    political_journals = {
+        "J026", "J027", "J028", "J031", "J034", "J035", "J036", "J038",
+        "J039", "J041", "J042", "J047", "J048", "J050", "J070", "J071",
+    }
+    backlog = []
+    for candidate in source.get("items", []):
+        doi = (candidate.get("doi") or "").lower().removeprefix("https://doi.org/")
+        if candidate.get("journal_id") not in political_journals or not doi or doi in introduced:
+            continue
+        backlog.append({
+            "doi": doi, "title": candidate.get("title", ""),
+            "journal_id": candidate.get("journal_id", ""),
+            "crossref_candidate_date": candidate.get("date"),
+            "first_seen_jst": candidate.get("first_seen_jst"),
+            "status": "unverified_not_introduced",
+        })
+    backlog.sort(key=lambda item: (item.get("crossref_candidate_date") or "", item["doi"]))
+    save("latest-political-backlog.json", {
+        "collected_on": source.get("collected_on"),
+        "checked_at_utc": report.get("checked_at_utc"),
+        "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction.",
+        "count": len(backlog), "items": backlog
+    })
+    full["political_backlog_unverified_count"] = len(backlog)
     save("latest-daily.json", full)
     report["daily_candidate_count"] = len(data)
     report["daily_unverified_research_candidate_count"] = len(likely)

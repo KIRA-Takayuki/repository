@@ -141,6 +141,41 @@ def openalex_abstract(inverted):
     return " ".join(word for _, word in positions)
 
 
+def europepmc_abstract(session, doi):
+    """Free biomedical abstract fallback; require a matching DOI, never infer from a title."""
+    try:
+        response = session.get(
+            "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+            params={"query": 'DOI:"' + doi + '"', "format": "json", "pageSize": 10},
+            timeout=12,
+        )
+        response.raise_for_status()
+        records = response.json().get("resultList", {}).get("result", [])
+        for record in records:
+            found = str(record.get("doi") or "").lower().strip()
+            if found != doi.lower():
+                continue
+            pmcid = record.get("pmcid")
+            if pmcid:
+                full = session.get(
+                    "https://www.ebi.ac.uk/europepmc/webservices/rest/" + pmcid + "/fullTextXML",
+                    timeout=12,
+                )
+                if full.ok:
+                    soup = BeautifulSoup(full.text, "xml")
+                    abstracts = soup.find_all("abstract")
+                    text = text_clean(" ".join(a.get_text(" ", strip=True) for a in abstracts))
+                    if len(text) >= 100 and abstract_review(text) == "present_needs_content_review":
+                        return text[:9000], "europepmc_fulltext_doi_matched"
+            # Europe PMC search result supplies an abstract in some records.
+            candidate = text_clean(record.get("abstractText") or "")
+            if len(candidate) >= 100 and abstract_review(candidate) == "present_needs_content_review":
+                return candidate[:9000], "europepmc_doi_matched"
+    except (requests.RequestException, ValueError, TypeError):
+        pass
+    return "", ""
+
+
 def enrich(item, session, start, end):
     work = dict(item)
     work["publication_date_is_api_candidate"] = True
@@ -151,7 +186,13 @@ def enrich(item, session, start, end):
     if work["previously_published_by_publisher"]:
         work["article_type_guess"] = "prior_publication_not_new"
         work["publisher_verification_evidence"] = previous["publisher_source"]
+    # A URL/footnote in the upstream abstract field is not an abstract.
+    upstream_status = abstract_review(work.get("abstract", ""))
+    if upstream_status.startswith("suspect"):
+        work["rejected_upstream_abstract"] = upstream_status
+        work["abstract"] = ""
     work["abstract_source"] = "crossref_or_openalex_metadata" if text_clean(work.get("abstract", "")) else "missing"
+    work["abstract_attempts"] = []
     work["publisher_online_date"] = None
     work["publisher_doi_matched"] = False
     work["publisher_date_verified_in_window"] = False
@@ -165,6 +206,7 @@ def enrich(item, session, start, end):
     work["crossref_online_date"] = None  # Publisher-deposited metadata, NOT first-publication verification.
     for page_url in publisher_urls(work["url"], doi, work.get("date")):
         work["publisher_pages_attempted"].append(page_url)
+        work["abstract_attempts"].append("publisher:" + page_url)
         try:
             response = session.get(page_url, timeout=8, headers={"Accept": "text/html,application/xhtml+xml"})
             response.raise_for_status()
@@ -201,6 +243,7 @@ def enrich(item, session, start, end):
         except (requests.RequestException, ValueError, TypeError, KeyError, OverflowError):
             pass
     if not text_clean(work.get("abstract", "")):
+        work["abstract_attempts"].append("openalex_doi")
         try:
             params = {}
             if os.getenv("OPENALEX_API_KEY"):
@@ -213,7 +256,25 @@ def enrich(item, session, start, end):
                 work["abstract_source"] = "openalex"
         except (requests.RequestException, ValueError, TypeError):
             pass
+    if not text_clean(work.get("abstract", "")) and (
+        doi.lower().startswith("10.1136/") or "med" in work.get("journal", "").lower()
+    ):
+        work["abstract_attempts"].append("europepmc_doi")
+        recovered, evidence = europepmc_abstract(session, doi)
+        if recovered:
+            work["abstract"] = recovered
+            work["abstract_source"] = evidence
     work["abstract_review_status"] = abstract_review(work.get("abstract", ""))
+    work["publication_date_evidence_level"] = (
+        "publisher_doi_matched" if work["publisher_online_date"]
+        else "crossref_published_online_only" if work["crossref_online_date"]
+        else "unconfirmed"
+    )
+    work["requires_manual_verification"] = (
+        work["abstract_review_status"] != "present_needs_content_review"
+        or work["publication_date_evidence_level"] != "publisher_doi_matched"
+        or work["article_type_guess"] == "book_review_candidate"
+    )
     return work
 
 

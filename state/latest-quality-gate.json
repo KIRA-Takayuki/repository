@@ -1,36 +1,29 @@
 {
-  "status": "failed",
-  "checked_on_jst": "2026-11-07",
-  "raw_candidates": 24,
-  "already_introduced": 21,
-  "eligible_candidates": 3,
-  "errors": [
-    "item 0: introduced DOI not marked for exclusion",
-    "item 1: introduced DOI not marked for exclusion",
-    "item 2: introduced DOI not marked for exclusion",
-    "item 3: introduced DOI not marked for exclusion",
-    "item 4: introduced DOI not marked for exclusion",
-    "item 5: introduced DOI not marked for exclusion",
-    "item 6: introduced DOI not marked for exclusion",
-    "item 7: introduced DOI not marked for exclusion",
-    "item 8: introduced DOI not marked for exclusion",
-    "item 9: introduced DOI not marked for exclusion",
-    "item 10: introduced DOI not marked for exclusion",
-    "item 11: introduced DOI not marked for exclusion",
-    "item 12: introduced DOI not marked for exclusion",
-    "item 13: introduced DOI not marked for exclusion",
-    "item 14: introduced DOI not marked for exclusion",
-    "item 15: introduced DOI not marked for exclusion",
-    "item 16: introduced DOI not marked for exclusion",
-    "item 17: introduced DOI not marked for exclusion",
-    "item 18: introduced DOI not marked for exclusion",
-    "item 20: introduced DOI not marked for exclusion",
-    "item 21: introduced DOI not marked for exclusion",
-    "introduced count inconsistent: expected=21 found=0",
-    "eligible candidate count inconsistent"
+  "status": "structurally_valid_not_semantically_verified",
+  "checked_on_jst": "2026-11-08",
+  "raw_candidates": 7,
+  "already_introduced": 0,
+  "eligible_candidates": 7,
+  "publisher_date_evidence_counts": {
+    "publisher_doi_matched": 6,
+    "crossref_published_online_only": 1,
+    "unconfirmed": 0
+  },
+  "manual_review_required_count": 1,
+  "manual_review_required": [
+    {
+      "doi": "10.1111/1468-2230.70080",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    }
   ],
+  "ready_for_automatic_formal_introduction": false,
+  "errors": [],
   "warnings": [
-    "4 research candidates lack abstracts"
+    "1 research candidates lack abstracts",
+    "1 eligible candidates require manual semantic verification"
   ],
-  "meaning": "Not an endorsement of publication dates, abstracts, paper types, or delivery."
+  "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."
 }

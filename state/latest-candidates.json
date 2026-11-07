@@ -1,620 +1,6 @@
 {
-  "collected_on": "2026-11-07",
+  "collected_on": "2026-11-08",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Zhang-Hangjian Chen",
-        "Jeroen Derwall",
-        "Xiang Gao",
-        "Kees G. Koedijk"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s10551-026-06466-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Does Biodiversity Risk Matter to Capital Markets? New Evidence from China",
-      "url": "https://doi.org/10.1007/s10551-026-06466-7"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ahmet Unal"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s10676-026-09921-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ethics and Information Technology",
-      "journal_id": "J064",
-      "origin": "crossref",
-      "title": "From disclosure to verification: a risk-differentiated framework for the ethical use of AI in academic research",
-      "url": "https://doi.org/10.1007/s10676-026-09921-1"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sahar Akhtar"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s10677-026-10583-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ethical Theory and Moral Practice",
-      "journal_id": "J054",
-      "origin": "crossref",
-      "title": "Merit, Demeaning Actions, and Reaction Qualifications",
-      "url": "https://doi.org/10.1007/s10677-026-10583-7"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Thiago Xavier de Melo"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s11098-026-02577-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "Naïve positionalisms with unlimited symmetries",
-      "url": "https://doi.org/10.1007/s11098-026-02577-z"
-    },
-    {
-      "abstract": "Abstract Many philosophers have argued that the orthodox analysis of epistemic-modal sentences, on which such sentences assert facts about what is compatible with some contextually given informational state, is fatally flawed. As an alternative, some have suggested a nonfactualist reading of such sentences. On this reading, utterances of epistemic-modal sentences do not assert propositions. Instead, they merely propose to keep possibilities in the common ground. In this paper, I pose a challenge for nonfactualism. I begin by noting that we often cite previously uttered epistemic-modal sentences as justifications for particular actions. Moreover, as I show, any utterance of an epistemic-modal sentence can, in principle, be later cited as justification for some action that was taken in light of it, even if the prejacent has since been revealed to be false. I then show that to justify action in this manner, utterances of epistemic-modal sentences must be construed as asserting propositions about what is compatible with the agent’s informational state at the time of assertion. This is incompatible with standard forms of nonfactualism about epistemic modals.",
-      "authors": [
-        "Katie Zhou"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s11098-026-02601-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "Did “might” make right? Epistemic modals in practical reasoning",
-      "url": "https://doi.org/10.1007/s11098-026-02601-2"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Constant Bonard",
-        "Daniel Dukes",
-        "David Sander"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s11245-026-10484-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "Valence, Mixed Feelings, and Appraisal Processes",
-      "url": "https://doi.org/10.1007/s11245-026-10484-5"
-    },
-    {
-      "abstract": "Abstract The paper addresses the concepts of globality, universality, and pluralism in contemporary philosophy of religion. We argue that embracing a form of pluralism is essential to meet the growing demand for inclusivity in the philosophical study of religions, although this does not equate with any rejection of the classic Western tradition. To support this argument, we explore Karl Jaspers’ notion of the Axial Age ( Achsenzeit ) and its relevance to this discussion. We begin with a brief overview of the theory, emphasizing the religious elements it encompasses and its implications. The Axial Age is recognized as a period during which both major world religions and diverse spiritual experiences and practices emerged. This significance becomes particularly evident in contemporary discussions by authors such as Jan Assmann and Jürgen Habermas. We therefore propose that the Axial Age could serve as a useful model for the philosophy of religion. However, we also note that it requires substantial modifications. On one hand, the concept is more Eurocentric than it initially appears; on the other hand, it is inherently open to a truly global perspective and can effectively describe various forms of religiosity. As proof of this thesis, we conclude by focusing on the connection between these issues and the themes of secularization and post-secularization.",
-      "authors": [
-        "Marco Barbieri"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s11245-026-10486-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "Axiality and Pluralism: Karl Jaspers and the Search for a Global Philosophy of Religion",
-      "url": "https://doi.org/10.1007/s11245-026-10486-3"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sarah Wright"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s12136-026-00708-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Acta Analytica",
-      "journal_id": "J099",
-      "origin": "crossref",
-      "title": "Introduction to the Collection",
-      "url": "https://doi.org/10.1007/s12136-026-00708-z"
-    },
-    {
-      "abstract": "Abstract Large Language Models (LLMs) increasingly provide scientific information to non-specialist users, yet their linguistic fluency can create an impression of expertise that exceeds their capacity for scientific judgement. This paper experimentally investigates how readily an LLM can be configured to present fringe scientific claims as authoritative knowledge. We constructed two RAG-like Custom GPTs using GPT-5.1, one concerned with the fine-structure constant and the other with gravitational waves. In each case, ten papers selected by domain experts from the alternative preprint repository viXra were supplied as a domain-specific knowledge base, together with instructions directing the model to treat this material as authoritative. The underlying model was neither retrained nor fine-tuned. Expert-generated questions were then posed to the resulting “Fringe-LLMs”, to the unmodified model, and to domain experts. The Fringe-LLMs produced fluent, detailed and apparently authoritative answers that systematically reflected the fringe corpus, while expert assessment found many of these answers to be scientifically incorrect or seriously misleading. By contrast, the unmodified model generally produced answers substantially closer to mainstream scientific understanding. We describe this deliberate redirection of model output as malignment. The experiment demonstrates that scientifically misleading LLMs can be created with a low technical barrier and without altering model weights or poisoning training data. Because non-specialists may be unable to distinguish such outputs from genuine expertise, the results raise important concerns about the use of LLMs as intermediaries for scientific knowledge and reinforce the continuing importance of expert human judgement and provenance.",
-      "authors": [
-        "Harry Collins",
-        "Hartmut Grote",
-        "Paul Newbury",
-        "Patrick Sutton",
-        "Simon Thorne"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s43681-026-01391-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Large language models eroding science understanding: an empirical study of ‘malignment’",
-      "url": "https://doi.org/10.1007/s43681-026-01391-x"
-    },
-    {
-      "abstract": "Abstract Artificial intelligence (AI) ethics increasingly concerns systems that do not merely recommend but intervene: clinical decision support, human–machine teaming, robotics and automated handover protocols can shift timing, attention and authority under uncertainty. This article argues that responsible embodied AI requires residual governance: an explicit account of which approximation errors remain, which are safe to tolerate and who may act on them. The paper develops two linked concepts. A residual ledger records action-relevant remainders across physical, causal, human-state, latency, transfer and energy dimensions. An authority ledger records who converts residual evidence into intervention, on what basis, with what uncertainty and with what opportunity for contestation. This framework extends familiar themes in bounded rationality, active inference and safe reinforcement learning by treating authority, contestability and oversight cost as first-class ethical variables rather than external governance add-ons. It uses physical AI, physiological computing and human-AI handover as pressure cases, and proposes evaluation through action calibration, dual-task interference and auditable authority transitions. The central claim is that cognitive sovereignty is preserved not by eliminating all algorithmic influence, but by making influence accountable, contestable and reversible when AI systems act under approximation.",
-      "authors": [
-        "Chia-Wei Sun"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s43681-026-01400-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Residual governance for responsible embodied AI: authority, contestability, and cognitive sovereignty",
-      "url": "https://doi.org/10.1007/s43681-026-01400-z"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Lane DesAutels"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s43681-026-01406-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Is AI a moral expert?",
-      "url": "https://doi.org/10.1007/s43681-026-01406-7"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Krista Walker"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1007/s43681-026-01416-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Asymmetrical consent in ambient clinical AI: rethinking patient recording rights and epistemic authority in U.S. health care",
-      "url": "https://doi.org/10.1007/s43681-026-01416-5"
-    },
-    {
-      "abstract": "Abstract Many believe that voter ignorance threatens democracy. Consequently, ambitious institutional remedies have been proposed – epistocratic suffrage exams, foot voting, devolution of decisions to the local level, new bureaucratic agencies to inform voters, and more. There are reasons to doubt such proposals will actually improve democratic governance, however. The mistake these proposals share is a failure to recognize that voter ignorance comes in many forms, and that existing remedies may target the wrong kinds of ignorance. We develop a new typology of voter ignorance and show that every existing proposal leaves certain types of ignorance unaddressed. If it is these neglected forms of ignorance that drive bad democratic outcomes, then the entire portfolio of remedies that philosophers have proposed is superfluous – they literally make no progress toward better governance. We end by briefly sketching how to think about the problem of voter ignorance going forward.",
-      "authors": [
-        "Adam Gibbons",
-        "Brian J. Kogelmann"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1017/epi.2026.10138",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "Voter Ignorance and the Limits of Reform",
-      "url": "https://doi.org/10.1017/epi.2026.10138"
-    },
-    {
-      "abstract": "Abstract Ancient sources label Xanthippe a “difficult” woman—shrewish, emotional, and hostile to philosophy. While some recent feminist scholars have reinterpreted these sources as being more sympathetic, most stop short of asking about her philosophical life and commitments, assuming that the evidence is simply too sparse to draw any conclusions. This paper argues against this assumption. It establishes that there is a lesser-known ancient tradition, possibly beginning in the works of the ancient Athenian Socratic acolytes and continuing into the fictitious epistolary of the Imperial Greek period, according to which Xanthippe is a philosophical participant, living by philosophical principles, and perhaps even conserving Socratic works after his death. This tradition also suggests that she may have held her own philosophical views which merit future consideration, as she is sometimes associated with topics like moral education, philosophical community, and material well-being.",
-      "authors": [
-        "Edith Gwendolyn Nally"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1017/hyp.2026.10083",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Hypatia",
-      "journal_id": "J075",
-      "origin": "crossref",
-      "title": "A “Difficult” Woman: Restoring Philosophical Xanthippe",
-      "url": "https://doi.org/10.1017/hyp.2026.10083"
-    },
-    {
-      "abstract": "Abstract This musing details my approach to decolonising the syllabus for my course “Philosophy of Mind and Cognitive Science.” It describes the motivation behind the changes I made, what happened, and future directions for this endeavour.",
-      "authors": [
-        "Jane Suilin Lavelle"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1017/hyp.2026.10102",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Hypatia",
-      "journal_id": "J075",
-      "origin": "crossref",
-      "title": "What I learned in my attempt to decolonise my syllabus",
-      "url": "https://doi.org/10.1017/hyp.2026.10102"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Benjamin Randolph"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1057/s41296-026-00850-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Contemporary Political Theory",
-      "journal_id": "J048",
-      "origin": "crossref",
-      "title": "Modern aesthetics and democratic life: the struggle for aesthetic freedom",
-      "url": "https://doi.org/10.1057/s41296-026-00850-8"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Joshua Graf"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1057/s41296-026-00851-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Contemporary Political Theory",
-      "journal_id": "J048",
-      "origin": "crossref",
-      "title": "Marx’s democratic idea: an alternative to the neoliberal slide towards fascism",
-      "url": "https://doi.org/10.1057/s41296-026-00851-7"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Roman Frigg",
-        "James Nguyen"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1080/0020174x.2026.2733558",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "The key to scientific understanding: DEKI and stability",
-      "url": "https://doi.org/10.1080/0020174x.2026.2733558"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Rabia Nauman",
-        "Zehra Habib"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1080/17449626.2026.2726742",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Global Ethics",
-      "journal_id": "J066",
-      "origin": "crossref",
-      "title": "Moral education in plural contexts: insights from Pakistan’s diverse educational sectors",
-      "url": "https://doi.org/10.1080/17449626.2026.2726742"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Lucas Fucci Amato"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1080/20403313.2026.2722696",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Jurisprudence",
-      "journal_id": "J006",
-      "origin": "crossref",
-      "title": "Legal rights and the institutional imagination",
-      "url": "https://doi.org/10.1080/20403313.2026.2722696"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Taylor Koles"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1080/20403313.2026.2727188",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Jurisprudence",
-      "journal_id": "J006",
-      "origin": "crossref",
-      "title": "Engaging with engagement: analysing the formation of promises, contracts and voluntary obligations in Scots law",
-      "url": "https://doi.org/10.1080/20403313.2026.2727188"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Adrian Kreutz"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1080/20403313.2026.2732492",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Jurisprudence",
-      "journal_id": "J006",
-      "origin": "crossref",
-      "title": "Law and the limits of jurisprudence",
-      "url": "https://doi.org/10.1080/20403313.2026.2732492"
-    },
-    {
-      "abstract": "Abstract What role does moral reasoning play in the interpretation of positive law? Natural lawyers all agree that, at some level, moral judgments are central for the sound interpretation of human law. But this consensus obscures disagreement. An account of the role of natural law reasoning in legal interpretation raises a cluster of several questions, or decision points, to address. This paper identifies and discusses these moments of morality in legal interpretation, including: the choice of interpretive methodology; adherence to meta-norms about interpretation; presumptions about the content of positive law; resolving ambiguities or conflicts in such law’s content; and the decision whether to apply the positive law at all. It also offers a sketch of an argument for a natural law theory of presumptive formal interpretation. Whether or not that particular approach is persuasive, understanding the varying answers to these distinct questions clarifies the range of, and disagreements among, non-positivist approaches to legal interpretation.",
-      "authors": [
-        "Jeffrey A Pojanowski"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1093/ajj/auag021",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Jurisprudence",
-      "journal_id": "J007",
-      "origin": "crossref",
-      "title": "Natural Law and Reading Positive Law",
-      "url": "https://doi.org/10.1093/ajj/auag021"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Laura Gow"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1093/mind/fzag045",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Mind",
-      "journal_id": "J091",
-      "origin": "crossref",
-      "title": "The View from Everywhere: Realist Idealism without God\n                    , by Helen Yetter-Chappell",
-      "url": "https://doi.org/10.1093/mind/fzag045"
-    },
-    {
-      "abstract": "Abstract Duties to self have long been dismissed on the grounds that they are not ‘binding’, since one could waive them at will—the classic ‘Paradox of Self-Release’. A standard response is that duties to self can bind because they are unwaivable. We argue that this response does not go far enough, because even if one has an unwaivable duty not to self-harm, the act of harming oneself forfeits that duty before it can be violated; thus even unwaivable duties to self fail to bind. This ‘Paradox of Self-Forfeiture’, we argue, has no easy solution. From there, we introduce an Escheresque ‘Paradox of Inconsistent Forfeiture’—again, with no easy way out—and extend both new paradoxes to the realm of self-respect. Along the way we draw several morals about forfeiture and the nature of duties to self.",
-      "authors": [
-        "Daniel Muñoz",
-        "Daniel Wodak"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1093/mind/fzag047",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Mind",
-      "journal_id": "J091",
-      "origin": "crossref",
-      "title": "Three Paradoxes of Duties to Oneself",
-      "url": "https://doi.org/10.1093/mind/fzag047"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Matthew Meyer"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1093/mind/fzag050",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Mind",
-      "journal_id": "J091",
-      "origin": "crossref",
-      "title": "Nietzsche on the Methods and Aims of Philosophy: The Seal of Liberation\n                    , by Allison Merrick",
-      "url": "https://doi.org/10.1093/mind/fzag050"
-    },
-    {
-      "abstract": "Abstract Some philosophers argue that betterness, as a matter of logic, must be transitive. Others say that, intuitively, transitivity fails. I try to reconcile these positions by adapting a manoeuvre from Derek Parfit. Parfit proposes that personal identity is not ‘what matters’ in survival. I propose that betterness is not ‘what matters’ in ethical comparisons. What matters is ‘defeat’, a relation which ordinarily correlates with betterness, but which has a looser logic. Even if left primitive, ‘defeat’ might well move the debate forward; nevertheless, I attempt to define defeat from betterness using Yablo’s ‘logical subtraction’.",
-      "authors": [
-        "Daniel Muñoz"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1093/pq/pqag067",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "On the logic of what matters",
-      "url": "https://doi.org/10.1093/pq/pqag067"
-    },
-    {
-      "abstract": "Abstract There’s an attractive view in social ontology on which a group is identical to its members. It has its defenders, but seems felled by a simple objection resting on plausible assumptions about the semantics of plural partitives—assumptions built into standard plural logic. We argue the assumptions are false: whether something counts as ‘one of’ a plurality turns on how that plurality is carved up, a sensitivity the standard regimentation misses. We propose and defend a cover-based semantics that captures it, blocks the objection, and earns its keep on independent grounds. The same account answers a parallel, well-known objection to composition as identity. Our view thus bears both on the logic and meaning of plurals and on debates in metaphysics.",
-      "authors": [
-        "David Nicolas",
-        "Jonathan D Payton"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1093/pq/pqag070",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Partitives, groups, and wholes",
-      "url": "https://doi.org/10.1093/pq/pqag070"
-    },
-    {
-      "abstract": "Abstract Do we perceive natural kind properties, like being a tomato or being a person? Call the affirmative answer to this question the perceptible kinds thesis (“PKT”). This paper’s aim is 2-fold. First, I overturn three ground-theoretic arguments against PKT, drawing on the Husserlian idea that perspectival phenomenal states can ground perceptual representations of natural kinds as well as perceptual representations of sensible qualities. Second, I provide a novel argument for PKT which turns on the Husserlian concept of experiential fulfillment, the relation an experience bears to a thought when it presents the very same entity that the thought represents and enables its subject to recognize their identity. I show that there are qualitatively indistinguishable visual experiences that do not fulfill all of the same thoughts about natural kind properties, and that the best explanation for this discrepancy is that one experience presents natural kind properties that the other does not.",
-      "authors": [
-        "Andrew Butler"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1093/pq/pqag071",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "The visual experience of natural kinds: A Husserlian account",
-      "url": "https://doi.org/10.1093/pq/pqag071"
-    },
-    {
-      "abstract": "Abstract In part I, we present a brief overview of just war theory and the revisionist challenge. In part II, we explain the distinction between fact-sensitive and fact-insensitive views of justice: the former integrates facts into fundamental normative reasoning, while the latter does not. In part III, we argue that revisionists face a dilemma. If they are producing a fact-sensitive view of justice—whose primary aim is to guide choice and action—then they are poorly designed. In particular, they neglect our deep psychology and the phenomenon of tribalism. If they are producing a fact-insensitive views of justice—one that is primarily concerned with what to believe—then they face a charge of irrelevance. In part IV, we recentre the debate by returning to Walzer’s original aim in Just and Unjust Wars: to provide a functional alternative to Realpolitik. It is this fundamental aim that explains Walzer’s focus on practical norms.",
-      "authors": [
-        "Renaud-Philippe Garner"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1093/pq/pqag073",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "To whom is revisionist just war theory of any use?",
-      "url": "https://doi.org/10.1093/pq/pqag073"
-    },
-    {
-      "abstract": "ABSTRACT Health actors must ration care due to resource constraints. But even when decision makers know the relevant empirical facts about an allocation decision—including how many patients will benefit from a service, which patients will benefit, how much each patient will benefit, and so on—these facts may not provide a clear answer about how to make allocation decisions. This is because competing moral principles recommend different courses of action: for instance, maximizing health benefits may involve deprioritizing more disadvantaged groups. Facing this moral uncertainty, many ethicists and policymakers have embraced using “fair processes” that emphasize procedural justice over substantively just outcomes. This paper challenges the proceduralist consensus on two grounds. First, I argue that designing fair processes generates as much moral uncertainty as making allocation decisions directly, while also failing to address the substantive allocation question that must ultimately be answered. Second, both theory and empirical evidence suggest that fair processes favor less cost‐effective interventions, risk compounding health inequities, and divert resources that might otherwise be used for health care. As an alternative approach, I argue that health actors should pursue substantive justice through Maximizing Expected Choiceworthiness (MEC)—a decision framework that aims to choose options based on their expected value across different possible moral principles, weighted by the confidence decision makers have in each principle. I demonstrate that MEC can yield practical, intuitive answers to some resource allocation questions, while providing a helpful framework for approaching others. I conclude that health actors can and should pursue substantive—rather than procedural—justice in setting health priorities.",
-      "authors": [
-        "Leah Pierson"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1111/bioe.70157",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "The Process Is Not the Point: Moral Uncertainty and Substantive Justice in Health Care Priority Setting",
-      "url": "https://doi.org/10.1111/bioe.70157"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "David A. Horner"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1163/17455243-20263060",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Assuming Responsibility: Ecstatic Eudaimonism and the Call to Live Well, written by Jennifer A. Herdt",
-      "url": "https://doi.org/10.1163/17455243-20263060"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Katherine Martha"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1163/17455243-20263061",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "The Heart and Its Attitudes, written by Stephen Darwall",
-      "url": "https://doi.org/10.1163/17455243-20263061"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Janelle Pötzsch"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1163/17455243-20263063",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Mandeville’s Fable. Pride, Hypocrisy, and Sociability, written by R. Douglass",
-      "url": "https://doi.org/10.1163/17455243-20263063"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Silvana Hultsch"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1163/17455243-20263067",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Fortschritt und Regression:| Ein neues Standardwerk der Kritischen Theorie, written by Jaeggi, Rahel",
-      "url": "https://doi.org/10.1163/17455243-20263067"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sorin Sabou"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1163/17455243-20263068",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Gracious Forgiveness: A Theological Retrieval, written by Cristian F. Mihut",
-      "url": "https://doi.org/10.1163/17455243-20263068"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Nader Alsamaani"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1163/17455243-20263070",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Awkwardness: A Theory, written by Alexandra Plakias",
-      "url": "https://doi.org/10.1163/17455243-20263070"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Travis Quigley"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1163/17455243-bja10199",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "A Perfectionist Theory of Justice, written by Collis Tahzib",
-      "url": "https://doi.org/10.1163/17455243-bja10199"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Karl von der Luft"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1163/17455243-bja10201",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Kantian Dignity and Its Difficulties, written by Karl Ameriks",
-      "url": "https://doi.org/10.1163/17455243-bja10201"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Nancy Snow"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-23",
-      "doi": "10.1163/17455243-bja10207",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Traditional Indian Virtue Ethics for Today: An East-West Dialogue, edited by Sitansu S. Chakravarti, Amita Chatterjee, Ananda Chakravarti and Lisa Widdison",
-      "url": "https://doi.org/10.1163/17455243-bja10207"
-    },
     {
       "abstract": "ABSTRACT I argue that a Zhuangzian approach offers philosophical resources to address normative issues related to physical and sensory disability. In so doing, I roughly endorse Yong Huang's interpretation of the Zhuangzi . This ethical groundwork allows for an exploration of how we can understand disability. I also argue that the Zhuangzi 's notions of the equality of things, the challenge of binaries (e.g. useful/useless), transformation and change, and the moral principle imply an ethics of disability that merits consideration vis‐à‐vis other normative theories of disability. This is because this theory can address certain limitations of the medical and social models of disability. Examples include failing to recognise the impact of social conventions or exaggerating such conventions and emphasising the relevance of physical impairment.",
       "authors": [
@@ -14659,6 +14045,21 @@
       "url": "https://doi.org/10.1093/pq/pqag083"
     },
     {
+      "abstract": "ABSTRACT Gestational harm occurs when exposures in‐utero, such as alcohol, lead to long‐lasting health effects in the child born of that pregnancy. Because the actions of pregnant people can bring about such harm, this has given rise to debate about whether pregnant people are morally obligated to prevent harm to their future children (call this ‘gestational responsibility’). The debate on gestational responsibility increasingly recognises the social context of gestational harm. To the extent that unequal structural conditions constrain pregnant people's ability to prevent harms to their future children, some scholars argue that collective agents, and not individual pregnant people, are primarily responsible for such harms. In this, the debate has neglected to seriously consider the question of individual gestational responsibility under conditions of structural inequality. To address this question, I develop a framework for gestational responsibility grounded in the concept of vulnerability. The concept of vulnerability has gained traction in feminist bioethics as a means of capturing relational autonomy and increased susceptibility to harm under unequal social conditions. Focusing on the context of foetal alcohol spectrum disorder, I argue that the metaphor of ‘layers’ of vulnerability can help to articulate the varying degrees of autonomy—and correspondingly responsibility—of pregnant people under conditions of structural inequality. The purpose of my argument is to demonstrate the differential degrees of responsibility that people (in this case, those who are pregnant) possess in contexts of inequality, and to show how inequality mitigates responsibility.",
+      "authors": [
+        "Courtney McMahon"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-06",
+      "doi": "10.1111/bioe.70212",
+      "first_seen_jst": "2026-11-08",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "Gestational Harm and Responsibility: A Vulnerability Framework Approach",
+      "url": "https://doi.org/10.1111/bioe.70212"
+    },
+    {
       "abstract": "",
       "authors": [
         "Luke Elson",
@@ -14735,9 +14136,131 @@
       "origin": "crossref",
       "title": "Cohen: Liberty, Justice and Equality, written by Christine Sypnowich, G.A",
       "url": "https://doi.org/10.1163/17455243-bja10234"
+    },
+    {
+      "abstract": "This article is about an internal contradiction within the ascendant philosophy of new materialism, namely that its ethical opposition to harm clashes with its ontology. In the first part, I summarize new materialists’ attention to material entanglements and rejection of hierarchies in nature. In the second section, I argue that diagnosing and addressing harm to ecosystems and individuals (almost) always depend upon a hierarchy of beings within that ecosystem and a set of pre-determined potentials/preferences of how individual entities should be, two principles that new materialists explicitly reject. In the conclusion, I suggest that new materialists’ contradictions surrounding harms mean that they can either maintain a concern over ongoing damage to ecosystems and beings or their opposition to immaterial potentials and a hierarchy among beings—but not both. My preferred option is to retain the former and to accept that we must have some hierarchy among and within beings to address ongoing ecological deterioration around us. I close by outlining how new materialism’s key insights might be put in dialogue with other voices on the relation between humans and the rest of the world.",
+      "authors": [
+        "Samuel Piccolo"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-06",
+      "doi": "10.1177/00905917261499990",
+      "first_seen_jst": "2026-11-08",
+      "journal": "Political Theory",
+      "journal_id": "J031",
+      "origin": "crossref",
+      "title": "New Materialism, Harm, and Hierarchies in Nature",
+      "url": "https://doi.org/10.1177/00905917261499990"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Firat Ismailoglu",
+        "Asuman Çapar"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-07",
+      "doi": "10.1007/s10506-026-09546-1",
+      "first_seen_jst": "2026-11-08",
+      "journal": "Artificial Intelligence and Law",
+      "journal_id": "J022",
+      "origin": "crossref",
+      "title": "Explainable long-document classification for predicting outcomes of individual applications to the C​onstitutional Court of Türkiye",
+      "url": "https://doi.org/10.1007/s10506-026-09546-1"
+    },
+    {
+      "abstract": "Abstract Williamson (2007) has given a celebrated isomorphism or translation-invariance argument that an infinite sequence of heads should have zero probability. However, infinitesimalists who hold that such a sequence has non-zero infinitesimal probability are very likely to deny the translation-invariance (e.g., Weintraub, 2008). Thus, we give two new arguments that an infinite sequence of heads has zero probability, without relying on the full translation-invariance thesis. We also show that two of our arguments extend to the setting of primitive conditional probabilities such as Popper functions and to total comparative probabilities.",
+      "authors": [
+        "Alexander R. Pruss"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-07",
+      "doi": "10.1007/s11098-026-02655-2",
+      "first_seen_jst": "2026-11-08",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "The probability of an infinite sequence of heads is zero",
+      "url": "https://doi.org/10.1007/s11098-026-02655-2"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sebastian Montesinos",
+        "Benjamin Goswell"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-07",
+      "doi": "10.1007/s11098-026-02661-4",
+      "first_seen_jst": "2026-11-08",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Revenge of the indifference objection to fine-tuning",
+      "url": "https://doi.org/10.1007/s11098-026-02661-4"
+    },
+    {
+      "abstract": "Abstract Epistemic supererogation involves going beyond what epistemic rationality requires. If some beliefs can be epistemically supererogatory, then others are epistemically suboptimal yet still rational. In ethics, knowingly doing the suboptimal is commonplace—we often spend money on ourselves rather than giving it to charity. By contrast, existing accounts of epistemic supererogation deny that one could knowingly adopt an epistemically suboptimal attitude. I challenge this assumption and develop a commitment-based account of epistemic supererogation. I focus on cases involving religious, moral, practical, or interpersonal commitments, where the evidence allows more than one rational attitude. In these cases, a longstanding commitment can help explain why someone reasonably sticks with a belief that is epistemically suboptimal. I then consider two ways of explaining this: one on which the belief remains rational because it fits the evidence well enough, and another on which practical factors affect epistemic rationality. This account strengthens the analogy between ethics and epistemology by showing that, in some cases, we can knowingly—and rationally—decline to take the epistemically best option.",
+      "authors": [
+        "Elizabeth Grace Jackson"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-07",
+      "doi": "10.1007/s11098-026-02665-0",
+      "first_seen_jst": "2026-11-08",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Knowing the better, believing the worse: a commitment account of epistemic supererogation",
+      "url": "https://doi.org/10.1007/s11098-026-02665-0"
+    },
+    {
+      "abstract": "Abstract This paper is divided into two main parts. In the first part, I defend a non-descriptivist account of imperatives, based on Paul Portner’s idea that imperatives serve to manage speakers’ to-do lists. I show that, once we recognize the multiplicity of operations that can be performed on a to-do list, the account can explain weak uses of imperatives without postulating additional structure on the to-do list or another list alongside it. In the second part of the paper, I present a logical framework which integrates the dynamic forces associated with declaratives, imperatives, and rejections thereof. I use this framework to inferentially explain the meaning of deontic modals such as must in terms of imperatives. The resulting inferential expressivist account has the resources to explain performative uses of must and hitherto unaccounted for data about their occurrence pattern.",
+      "authors": [
+        "Luca Incurvati"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-07",
+      "doi": "10.1007/s11245-026-10475-6",
+      "first_seen_jst": "2026-11-08",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "title": "Imperatives and Deontic Modality: An Inferential Expressivist Perspective",
+      "url": "https://doi.org/10.1007/s11245-026-10475-6"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Siraprapa Chavanayarn"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-07",
+      "doi": "10.1007/s11245-026-10495-2",
+      "first_seen_jst": "2026-11-08",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "title": "Argumentative Injustice as Structural Pathology: A Theory of Collective Epistemic Vice",
+      "url": "https://doi.org/10.1007/s11245-026-10495-2"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Rodrigo Pérez de Arce P."
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-07",
+      "doi": "10.1111/1468-2230.70080",
+      "first_seen_jst": "2026-11-08",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "RichardBellamy, Defending the Political Constitution, Oxford, Oxford University Press, 2026, 368 pp, hb, £105",
+      "url": "https://doi.org/10.1111/1468-2230.70080"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-07",
-  "window_start": "2026-09-23"
+  "window_end": "2026-11-08",
+  "window_start": "2026-09-24"
 }

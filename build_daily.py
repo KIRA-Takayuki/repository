@@ -162,7 +162,7 @@ def europepmc_abstract(session, doi):
                     timeout=12,
                 )
                 if full.ok:
-                    soup = BeautifulSoup(full.text, "xml")
+                    soup = BeautifulSoup(full.text, "html.parser")
                     abstracts = soup.find_all("abstract")
                     text = text_clean(" ".join(a.get_text(" ", strip=True) for a in abstracts))
                     if len(text) >= 100 and abstract_review(text) == "present_needs_content_review":

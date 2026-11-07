@@ -110,10 +110,33 @@ jobs:
           assert '/2026/10/27/' in ' '.join(publisher_urls('https://doi.org/10.1136/test', '10.1136/test', '2026-10-28'))
           assert abstract_review('https://example.org/figure.png') == 'suspect_media_link'
           assert abstract_review('This essay argues that social structures shape normative practices through institutional action and public participation.') == 'present_needs_content_review'
+          from build_daily import europepmc_abstract
+          class FakeEuropePMCResponse:
+              ok = True
+              text = '<article><abstract><p>' + ('Confirmed biomedical abstract content. ' * 9) + '</p></abstract></article>'
+              def raise_for_status(self): pass
+              def json(self):
+                  return {'resultList': {'result': [
+                      {'doi': '10.1136/jme-2026-111931', 'pmcid': 'PMC12345'}
+                  ]}}
+          class FakeEuropePMCSession:
+              def get(self, url, **kwargs): return FakeEuropePMCResponse()
+          abstract, origin = europepmc_abstract(FakeEuropePMCSession(), '10.1136/jme-2026-111931')
+          assert abstract.startswith('Confirmed biomedical') and origin == 'europepmc_fulltext_doi_matched'
+          assert europepmc_abstract(FakeEuropePMCSession(), '10.1136/something-else') == ('', '')
           from quality_gate import validate
           sample = {'checked_at_utc': '2026-11-03T00:01:00+00:00', 'collected_on': '2026-11-03', 'journal_total': 145, 'counts': {'checked': 135, 'failed': 1, 'unresolved': 9, 'truncated': 0}, 'raw_candidate_count': 1, 'already_introduced_count': 1, 'eligible_candidate_count': 0, 'items': [{'doi': '10.1234/abc', 'title': 'Test', 'authors': ['Author'], 'already_introduced': True, 'abstract': 'A test abstract.', 'abstract_review_status': 'present_needs_content_review'}]}
           intro = {'introduced_dois': {'10.1234/abc': 'test'}}
           assert validate(sample, {'checked_at_utc': sample['checked_at_utc'], 'journal_total': 145}, intro, today='2026-11-03')['status'] == 'structurally_valid_not_semantically_verified'
+          sample['items'][0]['already_introduced'] = False
+          sample['already_introduced_count'] = 0
+          sample['eligible_candidate_count'] = 1
+          result = validate(sample, {'checked_at_utc': sample['checked_at_utc'], 'journal_total': 145}, {'introduced_dois': {}}, today='2026-11-03')
+          assert result['manual_review_required_count'] == 1
+          assert result['ready_for_automatic_formal_introduction'] is False
+          sample['items'][0]['already_introduced'] = True
+          sample['already_introduced_count'] = 1
+          sample['eligible_candidate_count'] = 0
           sample['already_introduced_count'] = 0
           assert validate(sample, {'checked_at_utc': sample['checked_at_utc'], 'journal_total': 145}, intro, today='2026-11-03')['status'] == 'failed'
           from monitor import crossref_to_item

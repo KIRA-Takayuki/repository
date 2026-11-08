@@ -2,261 +2,40 @@
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-07T19:28:26.965278+00:00",
-  "collected_on": "2026-11-08",
+  "checked_at_utc": "2026-11-08T19:44:40.584806+00:00",
+  "collected_on": "2026-11-09",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 7,
+  "eligible_candidate_count": 1,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "The use of AI/NLP in the legal domain is expected to expand significantly as the limitations of standard BERT models - particularly their restricted input length - are addressed. In this context, transformer models with sparse attention mechanisms, such as BigBird, have become increasingly important due to their ability to process long legal documents. In this study, we present, to the best of our knowledge, the first application of a BigBird-based model to a legal NLP task in Turkish, namely the prediction of decisions for applications submitted to the Constitutional Court of Türkiye. In addition to the semantically rich representations provided by BigBird, we incorporate lexical signals by extracting TF-IDF features and training logistic regression models on them. The final classifier is obtained by combining these representations through a multilayer perceptron. Experimental results show that the proposed model outperforms all baseline methods, particularly in terms of macro-F1 score. Notably, the model is particularly effective at identifying cases from the least represented and most challenging class (admissible with no violation). Finally, we introduce a RAG-based interpretability framework that integrates Integrated Gradients with external legal sources to generate structured and human-understandable explanations of the model’s predictions.",
+      "abstract": "Abstract Helping our children to understand the unjust world around them can be a difficult task. Given the immensity of injustice, learning about the reality of the world might lead our children to anxiety, despair, or callous indifference. In this paper, I employ and develop the concept of hope to show how these harms can be avoided. In particular, I develop three different threats to children that knowledge of injustice might cause, and offer accounts of three kinds of hope that parents can help to foster in order to avoid those harms. These are hope for the world, hope for their children’s own futures, and hope for their children’s own moral characters. I end by considering whether other attitudes such as faith or righteous anger can serve the role that I have assigned to hope, and argue that they cannot.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10506-026-09546-1"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Firat Ismailoglu",
-        "Asuman Çapar"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-07",
-      "doi": "10.1007/s10506-026-09546-1",
-      "first_seen_jst": "2026-11-08",
-      "journal": "Artificial Intelligence and Law",
-      "journal_id": "J022",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10506-026-09546-1",
-      "publisher_online_date": "2026-11-07",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10506-026-09546-1"
-      ],
-      "requires_manual_verification": false,
-      "title": "Explainable long-document classification for predicting outcomes of individual applications to the C​onstitutional Court of Türkiye",
-      "url": "https://doi.org/10.1007/s10506-026-09546-1"
-    },
-    {
-      "abstract": "Abstract Williamson (2007) has given a celebrated isomorphism or translation-invariance argument that an infinite sequence of heads should have zero probability. However, infinitesimalists who hold that such a sequence has non-zero infinitesimal probability are very likely to deny the translation-invariance (e.g., Weintraub, 2008). Thus, we give two new arguments that an infinite sequence of heads has zero probability, without relying on the full translation-invariance thesis. We also show that two of our arguments extend to the setting of primitive conditional probabilities such as Popper functions and to total comparative probabilities.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11098-026-02655-2"
+        "publisher:https://doi.org/10.1163/17455243-bja10221"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Alexander R. Pruss"
+        "Rosa Terlazzo"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-07",
-      "doi": "10.1007/s11098-026-02655-2",
-      "first_seen_jst": "2026-11-08",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
+      "date": "2026-11-09",
+      "doi": "10.1163/17455243-bja10221",
+      "first_seen_jst": "2026-11-09",
+      "journal": "Journal of Moral Philosophy",
+      "journal_id": "J070",
       "origin": "crossref",
       "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02655-2",
-      "publisher_online_date": "2026-11-07",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11098-026-02655-2"
-      ],
-      "requires_manual_verification": false,
-      "title": "The probability of an infinite sequence of heads is zero",
-      "url": "https://doi.org/10.1007/s11098-026-02655-2"
-    },
-    {
-      "abstract": "Indifference objections to the fine-tuning argument hold that the probability of fine-tuning on theism itself is very low or inscrutable, due to the vast range of alternatives God has for creating a life-permitting universe. We defend this response against a litany of recent objections. First, we develop a Bayesian model showing that one cannot relegate facts about alternative law structures into the background, since the very facts about those structures that make fine-tuning unlikely are themselves unlikely on theism in a way that cancels out any evidence from fine-tuning. Second, we point out that since God’s options for producing a life-permitting universe always exceed the naturalistic possibilities, that we find ourselves in a universe with physical parameters counts as evidence against theism. Third, we show how our model addresses important defenses of the fine-tuning argument. For instance, we respond to the charge that certain objections to the fine-tuning argument ‘prove too much’, because it would follow from these objections that miracles such as the stars spelling out ‘made by God’ would be no evidence for theism. We show both that our model has unique resources to address this objection and further that this objection is independently mistaken.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11098-026-02661-4"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Sebastian Montesinos",
-        "Benjamin Goswell"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-07",
-      "doi": "10.1007/s11098-026-02661-4",
-      "first_seen_jst": "2026-11-08",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02661-4",
-      "publisher_online_date": "2026-11-07",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11098-026-02661-4"
-      ],
-      "requires_manual_verification": false,
-      "title": "Revenge of the indifference objection to fine-tuning",
-      "url": "https://doi.org/10.1007/s11098-026-02661-4"
-    },
-    {
-      "abstract": "Abstract Epistemic supererogation involves going beyond what epistemic rationality requires. If some beliefs can be epistemically supererogatory, then others are epistemically suboptimal yet still rational. In ethics, knowingly doing the suboptimal is commonplace—we often spend money on ourselves rather than giving it to charity. By contrast, existing accounts of epistemic supererogation deny that one could knowingly adopt an epistemically suboptimal attitude. I challenge this assumption and develop a commitment-based account of epistemic supererogation. I focus on cases involving religious, moral, practical, or interpersonal commitments, where the evidence allows more than one rational attitude. In these cases, a longstanding commitment can help explain why someone reasonably sticks with a belief that is epistemically suboptimal. I then consider two ways of explaining this: one on which the belief remains rational because it fits the evidence well enough, and another on which practical factors affect epistemic rationality. This account strengthens the analogy between ethics and epistemology by showing that, in some cases, we can knowingly—and rationally—decline to take the epistemically best option.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11098-026-02665-0"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Elizabeth Grace Jackson"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-07",
-      "doi": "10.1007/s11098-026-02665-0",
-      "first_seen_jst": "2026-11-08",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02665-0",
-      "publisher_online_date": "2026-11-07",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11098-026-02665-0"
-      ],
-      "requires_manual_verification": false,
-      "title": "Knowing the better, believing the worse: a commitment account of epistemic supererogation",
-      "url": "https://doi.org/10.1007/s11098-026-02665-0"
-    },
-    {
-      "abstract": "Abstract This paper is divided into two main parts. In the first part, I defend a non-descriptivist account of imperatives, based on Paul Portner’s idea that imperatives serve to manage speakers’ to-do lists. I show that, once we recognize the multiplicity of operations that can be performed on a to-do list, the account can explain weak uses of imperatives without postulating additional structure on the to-do list or another list alongside it. In the second part of the paper, I present a logical framework which integrates the dynamic forces associated with declaratives, imperatives, and rejections thereof. I use this framework to inferentially explain the meaning of deontic modals such as must in terms of imperatives. The resulting inferential expressivist account has the resources to explain performative uses of must and hitherto unaccounted for data about their occurrence pattern.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10475-6"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Luca Incurvati"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-07",
-      "doi": "10.1007/s11245-026-10475-6",
-      "first_seen_jst": "2026-11-08",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10475-6",
-      "publisher_online_date": "2026-11-07",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10475-6"
-      ],
-      "requires_manual_verification": false,
-      "title": "Imperatives and Deontic Modality: An Inferential Expressivist Perspective",
-      "url": "https://doi.org/10.1007/s11245-026-10475-6"
-    },
-    {
-      "abstract": "The standard account of epistemic injustice locates its causes in individuals, in their prejudices, their failures of attention, and their unwillingness to revise. This paper argues that this account is incomplete, perhaps fundamentally so. Polarization, systematic exclusion, and the erosion of public trust are not simply aggregates of individual vice. They are structurally distinct: stable patterns of obstruction that emerge from how communities argue, not merely from how individuals think. I call these patterns collective epistemic vices, or CEVs. The analysis draws on Cassam’s (2019) obstructivist framework, according to which what makes something epistemically vicious is its tendency to block knowledge acquisition, transmission, or revision. The paper extends this framework to the collective level. Three vices are examined. Collective Non Acceptance disqualifies speakers or positions before their reasons can be assessed. Collective Contempt moralizes disagreement by reading epistemic difference as evidence of bad faith. Collective Hostility encodes these exclusions into platform architectures and institutional incentives. Each vice produces recognizable forms of epistemic injustice, including testimonial, hermeneutical, and zetetic injustice, but through mechanisms that accounts centered on individuals cannot fully capture. The deeper problem, which occupies much of this paper, is that vices and structures are not straightforwardly related as cause and effect. They sustain each other. Epistemic repair, if it is possible, requires coordinated intervention at both levels.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10495-2"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Siraprapa Chavanayarn"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-07",
-      "doi": "10.1007/s11245-026-10495-2",
-      "first_seen_jst": "2026-11-08",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10495-2",
-      "publisher_online_date": "2026-11-07",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10495-2"
-      ],
-      "requires_manual_verification": false,
-      "title": "Argumentative Injustice as Structural Pathology: A Theory of Collective Epistemic Vice",
-      "url": "https://doi.org/10.1007/s11245-026-10495-2"
-    },
-    {
-      "abstract": "",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1111/1468-2230.70080",
-        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/1468-2230.70080",
-        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2230.70080",
-        "openalex_doi"
-      ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Rodrigo Pérez de Arce P."
-      ],
-      "crossref_online_date": "2026-11-07",
-      "crossref_subtype": "",
-      "date": "2026-11-07",
-      "doi": "10.1111/1468-2230.70080",
-      "first_seen_jst": "2026-11-08",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_evidence_level": "unconfirmed",
       "publication_date_is_api_candidate": true,
       "publisher_check_status": "publisher_request_failed_HTTPError",
       "publisher_date_conflict": false,
@@ -264,13 +43,11 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1111/1468-2230.70080",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/1468-2230.70080",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2230.70080"
+        "https://doi.org/10.1163/17455243-bja10221"
       ],
       "requires_manual_verification": true,
-      "title": "RichardBellamy, Defending the Political Constitution, Oxford, Oxford University Press, 2026, 368 pp, hb, £105",
-      "url": "https://doi.org/10.1111/1468-2230.70080"
+      "title": "Hope for Our Children",
+      "url": "https://doi.org/10.1163/17455243-bja10221"
     }
   ],
   "journal_total": 145,
@@ -284,13 +61,13 @@
   },
   "political_backlog_unverified_count": 83,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 6,
-  "raw_candidate_count": 7,
-  "research_candidate_abstracts_available": 6,
-  "research_candidate_abstracts_missing": 1,
+  "publisher_first_online_in_window_verified_count": 0,
+  "raw_candidate_count": 1,
+  "research_candidate_abstracts_available": 1,
+  "research_candidate_abstracts_missing": 0,
   "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 7,
+  "research_candidate_unverified_count": 1,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-08",
-  "window_start_jst": "2026-11-07"
+  "window_end_jst": "2026-11-09",
+  "window_start_jst": "2026-11-08"
 }

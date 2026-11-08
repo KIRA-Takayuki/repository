@@ -1,16 +1,8 @@
 {
-  "checked_at_utc": "2026-11-07T19:28:26.965278+00:00",
-  "collected_on": "2026-11-08",
+  "checked_at_utc": "2026-11-08T19:44:40.584806+00:00",
+  "collected_on": "2026-11-09",
   "count": 83,
   "items": [
-    {
-      "crossref_candidate_date": "2026-09-24",
-      "doi": "10.1111/josp.70070",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J035",
-      "status": "unverified_not_introduced",
-      "title": "Hermeneutical Reparations"
-    },
     {
       "crossref_candidate_date": "2026-09-25",
       "doi": "10.1017/s0034670526101120",
@@ -666,6 +658,14 @@
       "journal_id": "J031",
       "status": "unverified_not_introduced",
       "title": "New Materialism, Harm, and Hierarchies in Nature"
+    },
+    {
+      "crossref_candidate_date": "2026-11-09",
+      "doi": "10.1163/17455243-bja10221",
+      "first_seen_jst": "2026-11-09",
+      "journal_id": "J070",
+      "status": "unverified_not_introduced",
+      "title": "Hope for Our Children"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

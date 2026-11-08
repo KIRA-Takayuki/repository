@@ -1,28 +1,26 @@
 {
   "status": "structurally_valid_not_semantically_verified",
-  "checked_on_jst": "2026-11-08",
-  "raw_candidates": 7,
+  "checked_on_jst": "2026-11-09",
+  "raw_candidates": 1,
   "already_introduced": 0,
-  "eligible_candidates": 7,
+  "eligible_candidates": 1,
   "publisher_date_evidence_counts": {
-    "publisher_doi_matched": 6,
-    "crossref_published_online_only": 1,
-    "unconfirmed": 0
+    "publisher_doi_matched": 0,
+    "crossref_published_online_only": 0,
+    "unconfirmed": 1
   },
   "manual_review_required_count": 1,
   "manual_review_required": [
     {
-      "doi": "10.1111/1468-2230.70080",
+      "doi": "10.1163/17455243-bja10221",
       "reasons": [
-        "publisher first-online date not independently verified",
-        "abstract absent or suspect"
+        "publisher first-online date not independently verified"
       ]
     }
   ],
   "ready_for_automatic_formal_introduction": false,
   "errors": [],
   "warnings": [
-    "1 research candidates lack abstracts",
     "1 eligible candidates require manual semantic verification"
   ],
   "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."

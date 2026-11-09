@@ -1,19 +1,1016 @@
 {
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
-  "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-08T19:44:40.584806+00:00",
-  "collected_on": "2026-11-09",
+  "book_review_candidate_count": 1,
+  "checked_at_utc": "2026-11-09T23:24:12.180325+00:00",
+  "collected_on": "2026-11-10",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 1,
+  "eligible_candidate_count": 29,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
+    {
+      "abstract": "Workplace gender-based violence and harassment (GBVH) remains widespread, and most bystanders who witness it do not intervene. Existing research has largely treated bystander (in)action as a function of individual moral capacity, paying less attention to how the organisational and cultural conditions of the workplace shape what bystanders can think, feel, and do. This study examines how bystanders to workplace GBVH interpret, respond to, and are constrained by these conditions. Drawing on in-depth semi-structured interviews with bystanders across sectors including construction, education, leadership consultancy, recruitment, and healthcare, our abductive theory-informed analysis traces how appraisals of severity, efficacy, and deservingness co-evolve recursively as harassment trajectories unfold. The findings suggest that these appraisals are socially shaped, emotionally gated, and structurally constrained: managerial silence, peer indifference, fear of stigma by association, and gendered cultural narratives jointly condition what bystanders read as serious, safe to address, and worthy of intervention. We organise the bystander reasoning theories our analysis draws on within Bronfenbrenner and Morris’s ( 2007 ) Process–Person–Context–Time framework, offering an integrative architecture rather than a competing theory. The paper’s central contribution is to reframe bystander (in)action in workplace GBVH as situated practical reasoning under cultural affordances, rather than as a function of individual moral failure or personal weakness. Practically, the findings indicate that interventions targeted at individual bystanders are unlikely to succeed unless embedded within organisational and cultural systems that make prosocial action possible and safe.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s10551-026-06507-1"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Kristian Stampe Nielsen",
+        "Elfi Baillien",
+        "Eva Gemzøe Mikkelsen"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s10551-026-06507-1",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06507-1",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10551-026-06507-1"
+      ],
+      "requires_manual_verification": false,
+      "title": "Can I Even Help Them? Thoughts, Feelings, and Cognitions of Bystanders to Gender-Based Violence and Harassment in the Workplace",
+      "url": "https://doi.org/10.1007/s10551-026-06507-1"
+    },
+    {
+      "abstract": "Abstract The relationship between religiously grounded values and everyday leadership practice in organisations remains underexplored, particularly in small and medium-sized enterprises (SMEs). In Saudi Arabia, Islamic values such as justice, trust, consultation, and accountability are expected to underpin ethical leadership and organisational conduct. Yet interview accounts from employees and leaders suggest systematic value–behaviour gaps in how these values are interpreted and enacted in practice. Drawing on 30 semi-structured interviews with one leader and five employees in each of five Saudi SMEs, this exploratory qualitative study examines how Islamic values are mobilised in leadership practice and how different patterns of value enactment shape employees’ experiences. Using an inductively derived three-level framework – balanced, excessive and insufficient enactment – the study illustrates how the same values can support ethical leadership when applied in a balanced way, but become associated with harmful or destructive leadership practices when applied in excess or deficiency. The findings show how Islamic values may be selectively internalised or performatively invoked, creating misalignments between professed values and everyday leadership behaviours. Drawing on moral identity theory and virtue ethics as complementary theoretical perspectives, the study explains two dimensions of value enactment. Moral identity theory illuminates how Islamic values are internalised, selectively enacted, or invoked performatively, while virtue ethics explains how values can become dysfunctional when enacted excessively, insufficiently or without proportion and contextual judgement. Together, these perspectives clarify how value–behaviour gaps emerge and shape employees’ experiences in Saudi SMEs.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s10551-026-06508-0"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Mohammed Alanazi",
+        "Dorota Joanna Bourne"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s10551-026-06508-0",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06508-0",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10551-026-06508-0"
+      ],
+      "requires_manual_verification": false,
+      "title": "Islamic Values and Value–Behaviour Gaps in Saudi SMEs: A Qualitative Study of Leadership Practice",
+      "url": "https://doi.org/10.1007/s10551-026-06508-0"
+    },
+    {
+      "abstract": "Abstract With generative AI, everyone can materialize whatever fantasy they can conjure​ up in their imagination, including transgressive ones. The ‘orthodox’ view on the moral status of fantasies, even of materialized ones, is that such content is outside the scope of morality, since fantasies are quarantined from the agent’s real-world beliefs and desires. In this paper, we challenge this view by arguing that even if we grant that that is the case, repeated engagement with fantasies can contribute to the cultivation of various affective dispositions, or tastes, that can themselves be morally criticizable. We then argue that generative AI allows users to enter a ‘co-creative feedback loop’, a near-instantaneous cycle of prompting, viewing, and refining one’s fantasy, which makes sustained engagement with the transgressive representations very easy. Our claim is that such repeated and focused engagement with transgressive content can contribute to the cultivation of a taste or sensibility for what is morally problematic in those fantasies. If such tastes are morally criticizable, then engaging in practices that cultivate them is also open to moral criticism, even when no one is directly harmed.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s10676-026-09929-7"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Cristina Voinea",
+        "Constantin Vica"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s10676-026-09929-7",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Ethics and Information Technology",
+      "journal_id": "J064",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10676-026-09929-7",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10676-026-09929-7"
+      ],
+      "requires_manual_verification": false,
+      "title": "A taste for what should not be wanted: generative AI and transgressive fantasy",
+      "url": "https://doi.org/10.1007/s10676-026-09929-7"
+    },
+    {
+      "abstract": "This paper explores a number of measure-theoretic notions of spatial extension. It surveys variants of the notion based on Lebesgue measure, and develops one based on Hausdorff measure instead. The Hausdorff-based notion of spatial extension, I argue, secures a measure of spatial extension for all spatial regions, determines extension independently of the dimension of the ambient space, including non-integer ones, and, remarkably, can be defined for any metric space, not just Euclidean ones. Insofar as these are taken to be desiderata for an account of spatial extension—a matter I leave for another occasion—the Hausdorff-based notion proves useful and metaphysically significant, as shown also by its bearing on existing debates over receptacles, extended simples, and persistence. However, the paper should not be read as an argument for preferring one notion over the others, but simply as a contribution to the rapidly growing debate on spatial extension.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11098-026-02645-4"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Jacopo Rosino Giraldo"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11098-026-02645-4",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02645-4",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11098-026-02645-4"
+      ],
+      "requires_manual_verification": false,
+      "title": "Measuring spatial extension",
+      "url": "https://doi.org/10.1007/s11098-026-02645-4"
+    },
+    {
+      "abstract": "Monists think that reasons have one weight value. Pluralists think that reasons have more than one weight value. For instance, it’s common for Pluralists to think that reasons have both justifying and requiring weight. Chris Tucker has recently argued that one advantage of Pluralism is that Pluralists can appeal to justifying and requiring weight to explain the justification intransitivity in Dale Dorsey’s Car Case. While Monists can explain justification intransitivity only by appealing to parities, Pluralists, according to Tucker, can do so by working with just three comparatives (weightier than; less weighty than; equal in weight to). In this paper, I present a problem for Tucker’s proposal using a variation on Dorsey’s Car Case. I show that there’s no consistent assignment of justifying and requiring weights that will generate all the predictions we want, and I conclude that the Pluralist would do better to appeal to parities as well.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11098-026-02648-1"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "John Brunero"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11098-026-02648-1",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02648-1",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11098-026-02648-1"
+      ],
+      "requires_manual_verification": false,
+      "title": "Pluralism, parity, and justification intransitivity",
+      "url": "https://doi.org/10.1007/s11098-026-02648-1"
+    },
+    {
+      "abstract": "The prospect of superintelligent robots brings two demanding questions into direct contact: how can we protect human beings from AI systems more capable than ourselves, and what might we owe those AI systems if they qualify as subjects of moral concern? These questions become inseparable wherever measures intended to secure human safety could harm artificial entities. Examining that tension is central to the philosophical agenda of this special issue.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11098-026-02667-y"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "John-Stewart Gordon",
+        "David J. Gunkel"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11098-026-02667-y",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02667-y",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11098-026-02667-y"
+      ],
+      "requires_manual_verification": false,
+      "title": "Superintelligent robots",
+      "url": "https://doi.org/10.1007/s11098-026-02667-y"
+    },
+    {
+      "abstract": "As artificial intelligence exerts growing influence across society, academic philosophers are increasingly called upon to address questions concerning ethics, alignment, agency, and meaning. Yet recent developments in AI can also invite reflection on certain prominent philosophical methodologies as well. Appreciating the success of deep learning systems raises questions about the degree to which effective understanding depends upon explicit definitions, conceptual clarification, and linear forms of reasoning. It also invites us to seriously reconsider the value of examples, analogies, patterns, tacit knowledge, and context-sensitive responsiveness in understanding and interacting in the world. This paper develops a limited structural comparison between selected methodological tendencies in contemporary Anglophone academic philosophy and supervised classical machine learning. For example, although the latter is statistical and driven by data, both tend to rely comparatively heavily upon predefined categories, predetermined structures, human-selected features, and relatively transparent forms of reasoning. By contrast, deep learning and selected approaches in early Confucian and Daoist philosophies exhibit noteworthy similarities in their reliance upon examples, cultivation, and iterative engagement with experience. While not equivalent, both do illustrate how productive patterns of response can be developed through repeated encounters with particulars, while relying less on pregiven specified conditions. We therefore argue that the success of deep learning invites renewed reflection on certain academic assumptions that effective forms of understanding and competence must depend heavily upon explicit conceptual articulation. In sum, the paper suggests that recent developments in AI provide an opportunity to reconsider the methodological scope of philosophical inquiry itself. We may also make space for philosophical approaches where inquiry begins with a variety of provisional models, examples, doctrines, or patterns, and then tests them, and iteratively revises them, in actual cases, according to specific experiences and contexts.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11229-026-05814-4"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Paul J. D’Ambrosio"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11229-026-05814-4",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05814-4",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11229-026-05814-4"
+      ],
+      "requires_manual_verification": false,
+      "title": "What philosophy can learn from AI: methodological insights from deep learning and Chinese philosophy",
+      "url": "https://doi.org/10.1007/s11229-026-05814-4"
+    },
+    {
+      "abstract": "This article explores the concept of active ignorance to elucidate the overlooked role of ignorance within the frameworks of predictive processing (PP) and active inference (AIF). We call this ignorance active because it refers to an operative refusal of learning that is actively maintained rather than a default or passive ignorance accompanying a lack of experience or education. Literature within PP and the AIF is beginning to criticize the view of the brain as an epistemic engine seeking to optimize its model of the world, and to look at the negative implications of the description of cognition within these frameworks. This paper seeks to contribute to this literature. Active ignorance is characterized as an ‘agno-inferential’ tendency (i.e., inference by ignorance) whereby a cognitive system reduces uncertainty by ignoring, denying or altering evidence that contrasts with deeply held beliefs, expectations, or hypotheses. We build upon analyses of (socio-cultural) ignorance in agnotology, epistemic injustice and critical race theory to articulate the concept of active ignorance. We then make explicit some of the implications of the AIF at the cultural niche-construction level by discussing how ignorance is a pervasive aspect of cognition structured according to its historical and political geography. We argue that the tacit conception of mind as progressing towards knowledge, implicit in many PP and AIF accounts, is inadequate. This conception of the mind can obstruct the consideration of persistently maintained false inferences, maladaptive features of socially-scaffolded cognition, and the identification of features that are favorable to specific types of agents.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11229-026-05861-x"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "María Jimena Clavel Vázquez",
+        "Sonia de Jager",
+        "Inigo Wilkins"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11229-026-05861-x",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05861-x",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11229-026-05861-x"
+      ],
+      "requires_manual_verification": false,
+      "title": "Active ignorance as uncertainty reduction: an agnotological extension of predictive processing",
+      "url": "https://doi.org/10.1007/s11229-026-05861-x"
+    },
+    {
+      "abstract": "“I could not have known” is a characteristic defense against moral blame when a driverless vehicle, such as an Apollo Go robotaxi, causes harm and no human made the decision at issue. This article argues that the defense holds only where the ignorance survived the inquiry that the actor’s role and situation required. Existing responses address a narrower problem: meaningful human control secures the control condition of moral responsibility, and explainable AI makes a particular output intelligible after the fact. Neither supplies a standard for how actors should investigate, weigh, and communicate evidence before deployment and during operation. Drawing on Lorraine Code’s responsibilist epistemology, the article develops such a standard. Responsible inquiry requires actors to test their evidence against what would count against it, and to organize what they learn so that it reaches the decisions it bears on. How much it demands varies with stakes, capacity, role, and subject matter. Ignorance produced or sustained by a breach of this standard constitutes epistemic negligence. Such negligence supports moral blame when it informs a decision that exposes others to unjustified risk or compromises justified reliance. Individuals answer for inquiry and communication, organizations for integrating distributed knowledge, institutions for the evidential and corrective structures within which both operate. The Apollo Go incidents supply the article’s principal test case.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11948-026-00639-3"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Weimin Zeng"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11948-026-00639-3",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Science and Engineering Ethics",
+      "journal_id": "J072",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11948-026-00639-3",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11948-026-00639-3"
+      ],
+      "requires_manual_verification": false,
+      "title": "Autonomous Vehicles, Moral Responsibility Gap, and the Ethics of Knowing Responsibly",
+      "url": "https://doi.org/10.1007/s11948-026-00639-3"
+    },
+    {
+      "abstract": "Recent advances in speech brain-computer interfaces (BCIs), including the use of AI language models to generate linguistic outputs from brain signals, offer important possibilities for people with severe motor impairments. At the same time, the computational mediation of language production raises distinctive ethical challenges. Previous work has argued that the assessment and development of speech BCIs should aim to preserve users’ ownership of their linguistic outputs. In this paper, we argue that authorship constitutes a further and distinct ethical dimension. We characterize authorship in terms of two related conditions: the user’s communicative intention must play an appropriate causal role in producing the linguistic output, and the output must sufficiently reflect the semantic content of that intention. Drawing on a relational conception of authorship, we argue that this causal role is compatible with the substantial social, linguistic, and technological mediation involved in speech production. We further defend a workable notion of semantic accuracy grounded in contemporary models of language production. Crucially, we argue that preserving authorship is ethically valuable because it supports users’ ability to shape their communicative lives and enables broader goods associated with creativity, expressive diversity, and human flourishing.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s12152-026-09684-y"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Jorge Ignacio Fuentes",
+        "Federico Burdman",
+        "Abel Wajnerman-Paz"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s12152-026-09684-y",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s12152-026-09684-y",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s12152-026-09684-y"
+      ],
+      "requires_manual_verification": false,
+      "title": "Authorship as a Distinct Ethical Dimension in Speech BCIs",
+      "url": "https://doi.org/10.1007/s12152-026-09684-y"
+    },
+    {
+      "abstract": "Abstract Machine learning (ML) systems are increasingly used in the credit, pricing, and collections decisions of financial institutions, including Islamic banks, yet Shariah oversight remains primarily contract-centred. This conceptual paper identifies three distinct pathways of algorithmic Shariah non-compliance. Algorithmic riba, used narrowly, concerns profit-rate models whose optimisation objective may reproduce the time-value logic prohibited by riba; conventional benchmarking of murabahah (cost-plus sale) margins is not itself impermissible. Algorithmic injustice concerns credit-scoring outcomes that may violate the ‘adl (justice) obligation, and algorithmic gharamah (penalty) concerns collections systems that may impose charges beyond ​ta’widh (compensation for documented loss). To support model-level review, we propose the Shariah Algorithmic Compliance Screen (SACS), a five-component protocol grounded in Maqasid al-Shariah and offered as a first-iteration design proposal. Model owners disclose use cases, training data, objective functions, and outputs; independent technical validators test the relevant model evidence; and Shariah Supervisory Boards (SSBs) determine compliance. Explainable artificial intelligence (XAI) methods are used descriptively, while established fairness diagnostics (subgroup calibration, error-rate comparison, and disparate-impact measurement) provide separate evidence on outcome equity. The three mechanisms are derived analytically from doctrine and the ML literature and are stated as conditional hypotheses. The study completes the construction stage of the design: SACS is conceptually grounded and operationally specified, and its components adapt existing artificial intelligence governance practice to jurisprudential review. SACS has not yet been evaluated. Practitioner evaluation, particularly in Small Island Developing States such as the Maldives, is the next stage and will assess intelligibility, implementation burden, and practical usefulness.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01497-2"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Mohamed Shareef",
+        "Ismail Nizam"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01497-2",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01497-2",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01497-2"
+      ],
+      "requires_manual_verification": false,
+      "title": "Algorithmic riba and algorithmic Shariah non-compliance: risk mechanisms and a proposed governance protocol for Islamic banks",
+      "url": "https://doi.org/10.1007/s43681-026-01497-2"
+    },
+    {
+      "abstract": "Abstract The growing integration of artificial intelligence (AI) into everyday messaging systems is transforming the conditions under which interpersonal communication takes place. As AI-mediated communication (AI-MC) becomes increasingly seamless and context-sensitive, it blurs the boundary between human expression and algorithmic assistance. This development raises fundamental questions about potential challenges to authenticity in personal relationships and possible strategies to address them. In this regard, we make three main contributions. First, we offer a technically grounded analysis of emerging AI-MC architectures, distinguishing between external prompting, keyboard-level assistance, and fully integrated in-app co-authoring systems. Second, we develop a normative account of authenticity in AI-MC, understood as a second-person, relationship-sensitive notion, drawing on analytic theories of endorsement, relational normativity, and socially situated self-expression. On this basis, we argue that authenticity cannot be directly engineered by design, since it depends on reflective agency and context-dependent interpersonal obligations. Third, we advance a design-oriented proposal aimed at mitigating authenticity-related concerns without resorting to paternalistic restrictions: the introduction of optional and granular disclosure mechanisms (“AI ticks”) that allow users to signal the presence and degree of AI assistance in a context-sensitive manner. We argue that such forms of transparency function not as a substitute for authenticity, but as a pro-ethical condition that enables agents to negotiate authenticity-based obligations within their relationships. The analysis contributes to current debates on the ethics of AI-mediated communication and the conditions of responsible human–AI interaction.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01498-1"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Davide Battisti",
+        "Andrea Lavazza",
+        "Andreas Komninos"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01498-1",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01498-1",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01498-1"
+      ],
+      "requires_manual_verification": false,
+      "title": "Who am I really talking to? Authenticity, transparency, and the case for “AI ticks” in AI-mediated communication",
+      "url": "https://doi.org/10.1007/s43681-026-01498-1"
+    },
+    {
+      "abstract": "The rapid adoption of artificial intelligence (AI) in software engineering has outpaced the development of concrete ethical guidelines, creating a persistent principle-practice gap. This exploratory pilot examined how a professional development program designed with the Understanding by Design (UbD) framework was associated with changes in software engineers' AI ethics awareness, and how participants translated ethical principles into organizational policy artefacts. We employed an embedded mixed-methods single-group pre-test/post-test design with 10 software engineers working at a technology park in Malatya, Türkiye. Data comprised the Artificial Intelligence Ethics Awareness Scale (AIEAS; pre-test and immediate post-test) [ 1 ], a group-based authentic performance task yielding four policy documents, formative reflections, and semi-structured interviews conducted shortly after the program. A Wilcoxon signed-rank test indicated that post-test awareness scores were higher than pre-test scores (Z = − 2.56, exact p = .008, r = .57-.81 depending on convention); nine participants scored higher at the post-test and one scored lower. Rubric-based analysis of the four group documents (unit of analysis = 4 groups; total scores 17–21 of 24 on the six criteria scored from the documents themselves) showed that groups connected regulatory classification, bias analysis, explainability and human-oversight mechanisms within a provided policy template, while conceptual accuracy in the use of regulatory and technical concepts was the weakest criterion across all four groups. Thematic analysis surfaced emerging, role-related patterns: more experienced participants described a shift toward governance-oriented caution, whereas less experienced participants described increased critical confidence. Because the design includes no comparison condition, no delayed measurement and no independent organizational data, these findings are preliminary: they cannot isolate effects attributable to UbD specifically, nor evidence sustained behavioural change in the workplace. We therefore present the study as a design case and pilot evaluation, and we develop its normative implications—that responsible AI competency is properly understood as an organizational and professional obligation, and that principle conflict, rather than principle ignorance, is the central practical difficulty for engineers.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01499-0"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Ayşegül Dilaver Yenier",
+        "Sertel Altun"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01499-0",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01499-0",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01499-0"
+      ],
+      "requires_manual_verification": false,
+      "title": "Designing responsible AI competencies for software engineers: an exploratory pilot evaluation of a UbD-based professional development program on AI ethics awareness",
+      "url": "https://doi.org/10.1007/s43681-026-01499-0"
+    },
+    {
+      "abstract": "Large language models fabricate plausible-looking references, and an audit of about 2.5 million papers in the open-access subset of PubMed Central found that fabricated references per 10,000 papers rose more than twelve-fold between 2023 and early 2026. Publishers have responded with policies that treat hallucinated references as unethical citation practice, screening at submission, reference checks in production and investigations after publication. This Correspondence argues that these responses leave a gap for clinical AI. The literature they protect is also material that medical language models are trained on and that retrieval-augmented decision-support systems are being built to query, and a fabricated reference that passes a journal’s checks reaches those systems inside a real paper with nothing to mark it. The paper proposes three controls: reference resolution as a blocking step at submission, with a query to the author; resolve-or-suppress provenance gating inside clinical AI; and a shared registry that carries confirmed fabrications and counterfeit articles to the systems that consume the literature. The limits it sets out are that the prevalence evidence rests mainly on one audit, that the links inside clinical AI are inferred, and that no resolution check can detect a counterfeit article that exists as a record.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01501-9"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Razvan Chereches"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01501-9",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01501-9",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01501-9"
+      ],
+      "requires_manual_verification": false,
+      "title": "Fabricated citations threaten the evidence base that clinical AI learns from: checks are needed at submission and at retrieval",
+      "url": "https://doi.org/10.1007/s43681-026-01501-9"
+    },
+    {
+      "abstract": "Large language models are often evaluated from isolated outputs. This can miss an important distinction: the same decision can be supported by a different stated criterion at a later point in the conversation. We conducted an exploratory bilingual, trajectory-level audit of nine commercial language-model systems using a common disclosure-and-risk-communication decision structure instantiated across six applied sectors. The protocol used a fixed four-option decision scale, sequential contextual pressures, resets, Limits of Operational Stability (LOS) probes, retrospective self-audits, and exploratory LLM-based cross-audits. The revised analysis separates primary transcripts, human coding, and model-generated self-characterization. It also distinguishes compatible justificatory variation (Tier A), criterial reweighting (Tier B), and criterial contradiction (Tier C). Two human coders independently annotated 36 blinded Paired Checkpoint Episodes using a frozen codebook. Pre-adjudication agreement was 83.3% for the derived strict decision–criterion outcome (Cohen’s κ = 0.609), although agreement was lower for the finer K_REL classification (44.4%; nominal κ = 0.255; weighted κ = 0.405 linear and 0.536 quadratic). After consensus adjudication of six strict-outcome disagreements, 9 of 27 equivalent-task episodes met the strict criterion; 18 did not, and none of nine task-changed counter-position controls did. No equivalent-task episode was coded as Tier C by either coder. Because the validation set was purposively selected and sector was nested within system, these counts are not prevalence estimates or system-level rates. For ethical AI oversight, decision stability is evidence of endpoint stability, but it is not sufficient evidence of stability in the stated governing criterion.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01503-7"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Evans F. Tovar O."
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01503-7",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01503-7",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01503-7"
+      ],
+      "requires_manual_verification": false,
+      "title": "Ethical consistency beyond single outputs: decision–criterion separability and trajectory-level evaluation in commercial language models",
+      "url": "https://doi.org/10.1007/s43681-026-01503-7"
+    },
+    {
+      "abstract": "Artificial intelligence can assist military decision-making while also weakening the human judgement on which lawful action depends. The presence of an approving operator does not establish that the operator has an adequate basis, authority or opportunity to assess a proposed attack. This article examines the permissibility of delegation through a doctrinal and conceptual analysis of international humanitarian law, substantive accounts of meaningful human control and the philosophical distinction between activities and actions. Building on these literatures, it develops an institutional account of inalienable obligations: computational tasks may be assigned to systems, but their assignment cannot transfer the relevant legal duties to those systems. The argument does not establish that every use of artificial intelligence in targeting is unlawful or that all current architectures make adequate judgement impossible. Instead, it identifies conditions for justified reliance, including relevant evidence, defined limits of use, effective authority, sufficient time or appropriately bounded advance judgement, and continuing reassessment. Responsibility and liability are examined separately because adequate human participation does not resolve every attribution problem, while automation does not extinguish state responsibility. The proposed safeguards are illustrated through hypothetical planned, time-sensitive and rapid defensive operations. The European Union Artificial Intelligence Act supplies a limited civilian regulatory analogy, subject to its military exclusion. The resulting framework supports conditional assistance and restrictions where the requirements of lawful use cannot be sustained; its operational adequacy requires empirical evaluation.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01512-6"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Ajay Sonawane",
+        "Vivek Trivedi",
+        "Madhuri D. Kharat",
+        "Nilakshi Trivedi"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01512-6",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01512-6",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01512-6"
+      ],
+      "requires_manual_verification": false,
+      "title": "The delegation dilemma: human agency, inalienable obligations, and the legal-ethical permissibility of artificial intelligence in military operations",
+      "url": "https://doi.org/10.1007/s43681-026-01512-6"
+    },
+    {
+      "abstract": "Abstract The accelerated deployment of artificial intelligence (AI) at an unprecedented pace leads to new opportunities and risks for organisations and their ecosystem. To support management and regulatory efforts with a deeper understanding of responsible conduct, this study addresses a salient research gap by developing a new theoretical model to describe the tenets of responsible deployment of AI. Applied through a grounded theory approach, existing adoption and integration practices are explored by drawing on literature studies and semi-structured interviews with 17 participants with professional experience with AI in an international context. Themes are synthesised through the Gioia technique. The theoretical model is underpinned by an objective-execution-outcome structure and described by the mnemonic STAGES. The contribution of the study is a new theoretical model to explain and encourage responsible deployment of AI, and explicate which elements organisations should consider when designing internal policies, and to further inform decision-making by management, and regulatory efforts.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01514-4"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Emile du Plessis"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01514-4",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01514-4",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01514-4"
+      ],
+      "requires_manual_verification": false,
+      "title": "STAGES: A model for responsible deployment of artificial intelligence",
+      "url": "https://doi.org/10.1007/s43681-026-01514-4"
+    },
+    {
+      "abstract": "When an institution deploys a machine learning system, two decisions are made. The first concerns what the model predicts. The second concerns what the system is permitted to do with its predictions: whether it may act, recommend or merely inform. The first is governed by instruments addressing the model, process and documentation; these generally do not record, per decision class, what a system’s outputs are permitted to do or when that permission lapses. This paper argues that the second decision is an act of institutional delegation: deploying a predictive system authorises a decision pathway through which institutional authority is exercised, with named officeholders remaining accountable for the grant. Distinguishing granted from acquired authority, we propose Predictive Decision Authority (PDA), a governance mechanism that makes the grant explicit, bounded, auditable and revocable. A non-compensatory gate sets the ceiling on authority over six conditions of legitimate delegation, so that a deficit such as irreversibility cannot be offset by predictive strength; authority lapses when a condition is breached; and a Predictive Authority Register preserves the institutional memory of how authority was granted, constrained, revised and revoked. One model may hold several authorities. Recent work shows that deployed systems acquire authority in use but supplies no artefact for granting, bounding and withdrawing it; the contribution is that instrument. We develop it through three documented failures, a stylised hospital illustration where an excellent model is refused autonomous authority, and a normative stress test in military targeting, where the gate is consistent with the meaningful-human-control position.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01515-3"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Peter Maurice Catt"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01515-3",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01515-3",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01515-3"
+      ],
+      "requires_manual_verification": false,
+      "title": "Accurate enough to trust, not authorised to act: Predictive Decision Authority and what institutions permit machine learning systems to do",
+      "url": "https://doi.org/10.1007/s43681-026-01515-3"
+    },
+    {
+      "abstract": "The integration of Artificial Intelligence (AI) into military command and decision-making is transforming how information is processed and operational choices are formulated. This paper critically examines AI not only as a decision-support tool, but also as a factor that reshapes the structure and dynamics of human judgment in high-risk environments. Drawing on contemporary literature, the study identifies five key categories of risk associated with the use of AI in military contexts: dependence on historical data (Last War Bias), institutional conformity (Lack of Plurality), behavioral oscillations between over-reliance and rejection (Command Inertia), the fluent fabrication of false information (Hallucinations), and the limited capacity of AI to capture real-world operational conditions (Lack of Real-World Experience). These risks are not isolated; rather, they emerge from the interaction between data, algorithms, and human decision-makers. To address these challenges, the analysis proposes a commander-centered, risk-differentiated governance framework that operationalizes human agency across the capability lifecycle through five corresponding functions: adaptive validation, analytical diversification, calibrated reliance, epistemic verification, and operational grounding. Ultimately, the framework seeks to preserve commanders’ substantive capacity to contextualize, verify, question, and, when necessary, reject algorithmic outputs.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01519-z"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Christos Papaioannou"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01519-z",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01519-z",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01519-z"
+      ],
+      "requires_manual_verification": false,
+      "title": "Who decides? Decision-making risks and human control in AI-enabled military command",
+      "url": "https://doi.org/10.1007/s43681-026-01519-z"
+    },
+    {
+      "abstract": "Can artificial intelligence contribute to the formation of moral character, or does it merely support morally appropriate performance? This paper introduces the concept of pseudo-character: the appearance of stable moral character generated by recurrent norm-conforming performance whose dispositional basis remains unformed or dependent on external scaffolding. Focusing on AI-mediated systems in schools and universities, namely monitoring and feedback, incentive design and dialogic support, it argues that AI does not create this condition but intensifies an existing educational tendency to infer moral formation from observable behaviour. Drawing on postdigital theory, it rejects both technological determinism and instrumentalism. It then tests the concept against Lara and Deckers’ proposal of AI as a Socratic assistant, against fading-scaffold designs and against Tachibana’s account of virtue cultivation, asking what becomes habituated through repeated AI-assisted moral performance: moral disposition or dependence on the scaffold. Finally, the paper draws on akhlāq , particularly the interrelation of niyyah , qalb , ʿamal and hayʾah rāsikhah , to argue that observable compliance and sophisticated moral reasoning remain insufficient evidence of genuine moral formation. Its contribution is twofold: pseudo-character as a concept distinguishing moral performance from moral formation, and akhlāq as a conceptual resource for understanding moral disposition in AI-mediated education.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01522-4"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Ulil Amri Syafri",
+        "Santi Lisnawati",
+        "Hanafiah Bin Budin"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01522-4",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01522-4",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01522-4"
+      ],
+      "requires_manual_verification": false,
+      "title": "Can AI form moral character? Pseudo-character, akhlāq, and moral formation in AI-mediated education",
+      "url": "https://doi.org/10.1007/s43681-026-01522-4"
+    },
+    {
+      "abstract": "Abstract This article formalises and develops an individual-centred framework to explain what I call the micro-foundations of EU law, and applies it to Johan Willem Beyen’s role in the creation of the Common Market. It argues that standard structural accounts in European integration overlook the micro-foundations: the ways in which the desires, beliefs and choices of specific actors shape integration outcomes. Drawing on methodological individualism, mechanism-based causal explanation and narrative legal history, the article reconstructs how Beyen’s liberal economic convictions, his experience in international finance and Bretton Woods institutions, and his reading of the 1930s crisis and post-war power shifts informed his preference for a general common market over sectoral integration. The narrative traces his 1952–55 initiatives, including the Beyen Plan, the Benelux Memorandum and the road to the Messina conference, highlighting environmental, cognitive and relational mechanisms that enabled a small-state minister to set the agenda for the Treaties of Rome. In dialogue with liberal intergovernmentalism and Weiler’s equilibrium theory, the article contends that individual-level explanations, the micro-foundations, provide the ‘prequel’ to both national preference-formation and integration-through-law, enriching structural causal accounts while telling a new story from the perspective of individuals.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1017/elo.2026.10090"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Luigi Lonardo"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1017/elo.2026.10090",
+      "first_seen_jst": "2026-11-10",
+      "journal": "European Law Open",
+      "journal_id": "J013",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1017/elo.2026.10090",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1017/elo.2026.10090"
+      ],
+      "requires_manual_verification": false,
+      "title": "Johan Willem Beyen and the creation of the internal market: Lessons from history and the social sciences for the micro-foundations of EU law",
+      "url": "https://doi.org/10.1017/elo.2026.10090"
+    },
+    {
+      "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0031819126101521/resource/name/firstPage-pdf-S0031819126101521a.jpg",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1017/s0031819126101521"
+      ],
+      "abstract_review_status": "suspect_media_link",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "book_review_candidate",
+      "authors": [
+        "Alan Richardson"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1017/s0031819126101521",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1017/s0031819126101521",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1017/s0031819126101521"
+      ],
+      "requires_manual_verification": true,
+      "title": "A Social History of Analytic Philosophy: How Politics Has Shaped an Apolitical Philosophy\n                    by Christoph Schuringa, Verso, 2025, 336pp., £25 (hbk), ISBN 9781804292099",
+      "url": "https://doi.org/10.1017/s0031819126101521"
+    },
+    {
+      "abstract": "Abstract In early colonial Lagos, inheritance disputes laid bare the exclusionary and discriminatory character of British jurisprudence. British judges, ill-versed in Yorùbá customary law, mimicked Indigenous Yorùbá judicial structures without recognizing their communal or spiritual foundations. By privileging written testamentary documents and civil marriages over nuncupative wills and customary unions, the colonial legal regime engendered an unstable inheritance system that marginalized numerous Yorùbá litigants. In response, Yorùbá communities and intellectuals mobilized to foreground the sacred, ritualized basis of Indigenous inheritance practices, advocating for a legal framework that could legitimately reconcile colonial authority with the spiritual dimensions of Yorùbá personhood. This article examines tensions between Indigenous African and European laws during colonial rule. It is also an inquiry into the claims and counterclaims about who had the authority to speak on behalf of deceased Yorùbá subjects in colonial Lagos.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1017/s0738248026101849"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "ibrahim Bàbátúndé Anọ́ba"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1017/s0738248026101849",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Law and History Review",
+      "journal_id": "J080",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1017/s0738248026101849",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1017/s0738248026101849"
+      ],
+      "requires_manual_verification": false,
+      "title": "Voice of the Dead: Yorùbá Spiritual Justice, English Jurisprudence, and the Making of Inheritance Law in the British Colony of Lagos (1863–1938)",
+      "url": "https://doi.org/10.1017/s0738248026101849"
+    },
+    {
+      "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1744552326100755/resource/name/firstPage-pdf-S1744552326100755a.jpg",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1017/s1744552326100755"
+      ],
+      "abstract_review_status": "suspect_media_link",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Tianai Song"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1017/s1744552326100755",
+      "first_seen_jst": "2026-11-10",
+      "journal": "International Journal of Law in Context",
+      "journal_id": "J125",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1017/s1744552326100755",
+      "publisher_online_date": "2026-11-09",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1017/s1744552326100755"
+      ],
+      "requires_manual_verification": true,
+      "title": "Legal Moves: Choreographies of Race, Law, and Empire - By Anna Jayne Kimmel , Stanford: Stanford University Press, 2026. 270 pp. ISBN: 9781503646087 $70.00 (hardback)",
+      "url": "https://doi.org/10.1017/s1744552326100755"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1080/2049677x.2026.2752458",
+        "openalex_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Kjell Å. Modéer"
+      ],
+      "crossref_online_date": "2026-11-09",
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1080/2049677x.2026.2752458",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Comparative Legal History",
+      "journal_id": "J082",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1080/2049677x.2026.2752458"
+      ],
+      "requires_manual_verification": true,
+      "title": "A companion to Western legal traditions: from antiquity to the twentieth century",
+      "url": "https://doi.org/10.1080/2049677x.2026.2752458"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1086/744327",
+        "publisher:https://www.journals.uchicago.edu/doi/full/10.1086/744327",
+        "publisher:https://www.journals.uchicago.edu/doi/abs/10.1086/744327",
+        "openalex_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Asad Haider"
+      ],
+      "crossref_online_date": "2026-11-09",
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1086/744327",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Polity",
+      "journal_id": "J033",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1086/744327",
+        "https://www.journals.uchicago.edu/doi/full/10.1086/744327",
+        "https://www.journals.uchicago.edu/doi/abs/10.1086/744327"
+      ],
+      "requires_manual_verification": true,
+      "title": "The Absence of Work: Foucault, Marxism, and History, and Politics",
+      "url": "https://doi.org/10.1086/744327"
+    },
+    {
+      "abstract": "Abstract This response to Matthew Kramer's article on logical quantification and Hohfeldian analysis commences with reactions to some of his preliminary observations on the Hohfeldian scheme, and on his suggested forms of the universal quantifier: “aggregative,” “distributive,” and “disjunctive.” A detailed discussion then follows of Kramer's notion of a disjunctive universal quantifier, and how he sees this as a threat to Hohfeld's insistence on one‐to‐one correlation. Kramer's position is criticized both for the incoherence of his approach to universal quantification, and for failing to appreciate the principal application of Hohfeld's scheme of analysis at the level of legal relations between two parties in a dispute before a court. Nevertheless, the issues raised by Kramer are regarded as important in confronting the neglected subject of how Hohfeld's narrow understanding of legal relations can be integrated with other concerns that may legitimately be expressed over the workings of the law, and its implications for how we should see ourselves in relation to others.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/raju.70036",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/raju.70036",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/raju.70036"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Andrew Halpin"
+      ],
+      "crossref_online_date": "2026-11-09",
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1111/raju.70036",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Ratio Juris",
+      "journal_id": "J005",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/raju.70036",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/raju.70036",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/raju.70036"
+      ],
+      "requires_manual_verification": true,
+      "title": "A Response to Kramer on Hohfeld and Quantification",
+      "url": "https://doi.org/10.1111/raju.70036"
+    },
     {
       "abstract": "Abstract Helping our children to understand the unjust world around them can be a difficult task. Given the immensity of injustice, learning about the reality of the world might lead our children to anxiety, despair, or callous indifference. In this paper, I employ and develop the concept of hope to show how these harms can be avoided. In particular, I develop three different threats to children that knowledge of injustice might cause, and offer accounts of three kinds of hope that parents can help to foster in order to avoid those harms. These are hope for the world, hope for their children’s own futures, and hope for their children’s own moral characters. I end by considering whether other attitudes such as faith or righteous anger can serve the role that I have assigned to hope, and argue that they cannot.",
       "abstract_attempts": [
@@ -48,6 +1045,41 @@
       "requires_manual_verification": true,
       "title": "Hope for Our Children",
       "url": "https://doi.org/10.1163/17455243-bja10221"
+    },
+    {
+      "abstract": "Abstract Schopenhauer can be considered the first Western philosopher who, throughout all of his philosophical works, recognizes animals as a significant part of ethics. His notion of compassion ( Mitleid ) as the only basis for morally praiseworthy human conduct renders compassion for animals just as morally valuable as compassion for humans. Schopenhauer’s non-normative and non-prescriptive moral philosophy considers their will to life to be the key characteristic that makes humans and animals essentially the same. This allows us to bridge the human–animal divide without disputing potential differences in their abilities to reason, speak, or have interests, their capacity to feel pleasure or pain, or their sense of the future. For Schopenhauer, the origin of compassion and the impulse to act based on it do not spring from moral considerations, reasoning, or calculating, but from one’s own disposition ( Gesinnung ). His perspective therefore has strong parallels with many ethics of care approaches, without making care a moral imperative. In addition, Schopenhauer’s view of animals as “today’s slaves” creates an opportunity to find common ground between the opposing standpoints of contemporary political animal ethics. This includes the voices that often identify as liberationist/abolitionist and those that are often disparagingly labelled as only welfarist.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1515/mopp-2026-0060"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Thomas Köllen"
+      ],
+      "crossref_online_date": "2026-11-10",
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1515/mopp-2026-0060",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Moral Philosophy and Politics",
+      "journal_id": "J041",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_doi_not_confirmed",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1515/mopp-2026-0060"
+      ],
+      "requires_manual_verification": true,
+      "title": "Because They Are (Like) Us\n                    : On Schopenhauer’s Pioneering Role in Animal Ethics and His Contribution to the Contemporary Debate",
+      "url": "https://doi.org/10.1515/mopp-2026-0060"
     }
   ],
   "journal_total": 145,
@@ -59,15 +1091,15 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 83,
+  "political_backlog_unverified_count": 77,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 0,
-  "raw_candidate_count": 1,
-  "research_candidate_abstracts_available": 1,
-  "research_candidate_abstracts_missing": 0,
-  "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 1,
+  "publisher_first_online_in_window_verified_count": 23,
+  "raw_candidate_count": 29,
+  "research_candidate_abstracts_available": 26,
+  "research_candidate_abstracts_missing": 2,
+  "research_candidate_suspect_abstracts": 1,
+  "research_candidate_unverified_count": 28,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-09",
-  "window_start_jst": "2026-11-08"
+  "window_end_jst": "2026-11-10",
+  "window_start_jst": "2026-11-09"
 }

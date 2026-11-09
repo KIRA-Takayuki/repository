@@ -1,501 +1,6 @@
 {
-  "collected_on": "2026-11-09",
+  "collected_on": "2026-11-10",
   "items": [
-    {
-      "abstract": "ABSTRACT This article discusses prize‐creation and prize‐allocation. Such activities may seem morally neutral, or perhaps even beneficial. A central thesis of this article is that such practices have significant moral implications and should be brought under the remit of moral reasoning. I suggest that in many cases, the harmful effects of prizes are overlooked, and that they stand in need of scrutiny, revision, and possibly abolition. This conclusion is reached via an examination of the nature of prizes, their functions, benefits, and harms, which generates guidelines that prize‐giving institutions should consider before instituting prizes and should use to periodically review them. This article advances philosophical theorising about prizes and has significant practical upshots.",
-      "authors": [
-        "Federico Luzzi"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1002/japp.70126",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Applied Philosophy",
-      "journal_id": "J053",
-      "origin": "crossref",
-      "title": "On Prizes",
-      "url": "https://doi.org/10.1002/japp.70126"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Robert Jubb"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1002/japp.70138",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Applied Philosophy",
-      "journal_id": "J053",
-      "origin": "crossref",
-      "title": "No Justice, No Peace: The Ethics of Violent Protests. A.Pasternak, 2025. Oxford, Oxford University Press. 288 pp, £22.99 (hb)",
-      "url": "https://doi.org/10.1002/japp.70138"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Arthur Charpentier",
-        "Olivier Côté",
-        "Marie-Pier Côté"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1007/s10551-026-06479-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Governing Fairness in Insurance Pricing: The Trilemma of Actuarial Adequacy, Solidarity, and Causal Legitimacy",
-      "url": "https://doi.org/10.1007/s10551-026-06479-2"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Andrea Lavazza",
-        "Iñigo de Miguel Beriain",
-        "Aníbal M. Astobiza"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1007/s10670-026-01163-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "The Pitt–Johansson Paradox: Artificial Memories and the Value of Authenticity",
-      "url": "https://doi.org/10.1007/s10670-026-01163-3"
-    },
-    {
-      "abstract": "Abstract Improvements in large language model (LLM) capability can increase accuracy, reasoning, and access to relevant information while leaving unassessed whether a particular output is appropriately presented for epistemic uptake. This creates an evaluative gap: first-order capability metrics can register genuine gains while leaving claim-presentation conditions underdetermined. LLM outputs increasingly occupy assertion-like roles without thereby acquiring the standing of accountable asserters. We develop assertability as a relational normative status of an output-in-practice, determined by the evidential and contextual conditions governing its presentation. One such condition is the evidence frame: the set of sources admissible as grounds within an interaction. A true answer, or one well supported outside the governing frame, may therefore remain non-assertable when it relies on an inadmissible evidential basis. To address this capability–assertability gap, we use epistemic regulation to denote the normative-functional regulation of whether and how an LLM-mediated output is presented for epistemic uptake in light of the conditions bearing on its assertability. We organize the framework across four regulatory loci—assertoric force, evidential grounding, evidential candor, and epistemic response selection. The framework is normative-functional, while its realization may be distributed across learned behavior, retrieval and verification mechanisms, interface design, evaluation, deployment rules, and institutional practices, with responsibility and accountability remaining with identifiable human and organizational actors. Because standards governing assertion, qualification, verification, and withholding can distribute epistemic risk and verification burdens unevenly, their specification and oversight are also governance questions rather than merely technical calibration choices.",
-      "authors": [
-        "Qian Wu"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1007/s10676-026-09922-0",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ethics and Information Technology",
-      "journal_id": "J064",
-      "origin": "crossref",
-      "title": "From capability to assertability: epistemic regulation of LLM-mediated claim presentation",
-      "url": "https://doi.org/10.1007/s10676-026-09922-0"
-    },
-    {
-      "abstract": "Abstract This paper sets out to defend the intellectual potential of a relational view of speech by considering the nature, value, and limits of free speech in a domain in which it is seldom examined: social institutions. The latter consist of work organisations, universities, churches, political parties, trade unions, campaign groups, charities, sports teams, and so on. The paper’s argument sits on two pillars. First, I contend that institutions consist of interlocking roles, orientated by an over-arching institutional purpose. Those roles consist inter alia of social norms, including rights and obligations, which have a deontic character and enable mutual accountability. Second, I defend a relational view of speech centred on our need to be recognised, by our interlocutor, as a participant in discursive practices in good standing, where each person also recognises others through their speech. With those in mind, the paper’s core argument is that speech within institutions recognises and makes real the constituent roles of those institutions, including their attendant normative demands. Indeed, much institutional speech involves, precisely, the exercise of institutionally defined rights, obligations, and other norms to which members may hold one another to account. Speech which fails to respect institutional norms, rights and duties, and, in particular, which undermines an institution’s purpose, may legitimately be subject to sanction. The latter decentres the doctrine of viewpoint neutrality, usually seen as essential to free speech.",
-      "authors": [
-        "Jonathan Seglow"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1007/s10892-026-09582-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Ethics",
-      "journal_id": "J055",
-      "origin": "crossref",
-      "title": "Institutional Speech: Social Norms and Social Roles",
-      "url": "https://doi.org/10.1007/s10892-026-09582-8"
-    },
-    {
-      "abstract": "Abstract Mindfulness-based interventions (MBIs) are behavioral programs, often involving practices like meditation, that aim to cultivate mindfulness , the nonjudgmental awareness of present-moment experience. A growing body of evidence suggests that they are effective for treating a range of physical and mental health conditions. Critics, however, argue that much of this evidence is biased, relying heavily on uncontrolled or poorly controlled studies, and is therefore insufficient to warrant the widespread clinical adoption of MBIs. More randomized controlled trials (RCTs)—widely regarded as the “gold standard” of scientific evidence—are needed (Van Dam et al., 2018). In this paper, I argue that, although RCT study design has several advantages, it also embodies reductionistic assumptions about how and why an intervention produces its effects. In particular, it assumes that such effects can be attributed to a single, isolable “active ingredient.” In contrast, the features of MBIs, including the attitudes and forms of effort they require, are not readily decomposable into “ingredients.” Moreover, a prominent attempt to isolate mindfulness as an active ingredient (MacCoon et al., 2012) ultimately does not succeed. I conclude that RCTs should not be treated as the gold standard of evidence for MBIs or other complex behavioral interventions for which these assumptions may not hold. Doing so undermines the value of evidence for nonreductionistic hypotheses about how they function and risks underestimating their effectiveness.",
-      "authors": [
-        "Agnes Bolinska"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1007/s11229-026-05823-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Are randomized controlled trials the “gold standard” of evidence for mindfulness-based interventions?",
-      "url": "https://doi.org/10.1007/s11229-026-05823-3"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Junguo Zhang",
-        "Yuanqi Yang"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1007/s11229-026-05828-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Mitigating power imbalance and epistemic asymmetry: a phenomenological model of attitude-switching in shared decision-making",
-      "url": "https://doi.org/10.1007/s11229-026-05828-y"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Wensheng Zhu",
-        "Zhengyi Hong"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1007/s11245-026-10492-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "The Dynamics of Analogical Arguments and Their Evaluation",
-      "url": "https://doi.org/10.1007/s11245-026-10492-5"
-    },
-    {
-      "abstract": "Abstract As artificial intelligence (AI) becomes increasingly infused in religious communication from generative sermon-writing tools to avatar-led worship services, religious organizations are emerging as important yet underexamined sites of AI leadership and governance. Existing responsible AI scholarship has focused primarily on corporate and governmental settings, leaving limited understanding of how AI practices are ethically negotiated within civil society and faith-based institutions. Addressing this gap, this article examines how Christian religious organizations understand, evaluate, and govern the integration of AI within their digital media environments. Empirically, the study analyzes AI developments in three case studies involving 66 leaders from religious organizations in the United States, Germany and Switzerland. The findings identify three interrelated modes of normative, collaborative, and experimentative adaptivity through which religious leaders navigate the opportunities, risks, and uncertainties of emerging AI technologies. Building on these insights, we advance value-based adaptive governance as a framework for understanding how religious institutions function as learning organizations that actively influence AI development through theology-informed ethical assessment and participatory practices. Responding to calls for more relational and action-oriented AI ethics research, this article contributes to AI ethics by foregrounding religion as a distinctive organizational and cultural domain, demonstrating how Christian values, theological reflection, and institutional mission shape ethical reasoning, authority, cross-scalar collaboration, and spiritual discernment in human-centered AI governance.",
-      "authors": [
-        "Pauline Cheong",
-        "Liming Liu",
-        "Ilona Nord",
-        "Leon Schleier",
-        "Gabriela Frey",
-        "Katharina Yadav",
-        "Thomas Schlag"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1007/s43681-026-01357-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Artificial intelligence, religion, and society: ethical leadership and the shaping of value-based adaptive governance",
-      "url": "https://doi.org/10.1007/s43681-026-01357-z"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Monssif Rahhali",
-        "Abdellah Aajly"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1007/s43681-026-01398-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Mal-Intelligence: how artificial intelligence produces a sustained illusion of cognitive competence",
-      "url": "https://doi.org/10.1007/s43681-026-01398-4"
-    },
-    {
-      "abstract": "Abstract Legal comparatists have attempted to conceptually grasp the traveling of laws since the field’s institutional inception. Tellingly, one finds ubiquitously undergirding such intellectual efforts—and the resistance thereto—a range of what Hans Blumenberg has once dubbed as “background metaphors,” such as: transplants, grafting, cross-fertilization, migration, translation, reception, transfer, among others. There is not a single investigation on the subject matter pursued under the auspices of metaphorology. This contribution addresses this gap. Harkening back to Blumenberg’s proposal, whose fundamental appreciation underscores the fact that metaphors carry a history in a more radical sense than concepts, but also harvesting from the embrace and revisitation of Blumenberg’s claims by the literature on cultural techniques, this argument focuses on the metaphor of traveling laws. As it explores how the curve of this metaphor’s history provides us with key insights into the radical multiplicity of laws and their movement, it grounds this excavatory enterprise in a concrete undertaking: the pursuit of a case study concerning the traveling of environmental laws between Brazil and Germany.",
-      "authors": [
-        "Ricardo Spindola Diniz"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1017/glj.2026.10233",
-      "first_seen_jst": "2026-10-21",
-      "journal": "German Law Journal",
-      "journal_id": "J126",
-      "origin": "crossref",
-      "title": "Traveling Laws: On Comparison-at-Law’s Metaphors and Cultural Techniques",
-      "url": "https://doi.org/10.1017/glj.2026.10233"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Kasey Henricks"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1017/lsr.2026.10122",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law &amp; Society Review",
-      "journal_id": "J020",
-      "origin": "crossref",
-      "title": "The Criminal Record Complex: Risk, Race, and the Struggle for Work in America\n                    . By Melissa Burch. Princeton University Press, 2025.",
-      "url": "https://doi.org/10.1017/lsr.2026.10122"
-    },
-    {
-      "abstract": "Abstract Descartes’s account of generosity, his alternative to magnanimity, is the richest source of his thought on how individuals should interact with others. In response to recent scholarship emphasizing the beneficence of the generous person, I argue that this beneficence is best understood in terms of the awareness of self-sufficiency core to generosity. Understanding generosity as a universally available awareness of one’s own freedom as the highest good explains the egalitarian judgments made by the generous person and her resulting beneficence. Exploring generous pity, veneration, and gratitude reveals that the generous person is alienated from others, and analyzing Descartes’s self-presentation in Discourse VI shows the importance of isolation to beneficence. This suggests that Descartes does not view relationships as key to human flourishing, and moreover that scholars who describe generosity in terms of love and friendship should note that these concepts are austere and depersonalized in the case of the generous individual.",
-      "authors": [
-        "Mary Jane Abramovitz"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1017/s0034670526101120",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Review of Politics",
-      "journal_id": "J050",
-      "origin": "crossref",
-      "title": "Descartes’s Generosity: Self-Sufficiency as Ideal Sociability",
-      "url": "https://doi.org/10.1017/s0034670526101120"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Carlos Corrochano Pérez"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1057/s41296-026-00849-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Contemporary Political Theory",
-      "journal_id": "J048",
-      "origin": "crossref",
-      "title": "The first right: self-determination and the transformation of international order, 1941–2000",
-      "url": "https://doi.org/10.1057/s41296-026-00849-1"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "James Gordley"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1093/ajj/auag020",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Jurisprudence",
-      "journal_id": "J007",
-      "origin": "crossref",
-      "title": "Natural Property Rights\n                    , Eric R. Claeys",
-      "url": "https://doi.org/10.1093/ajj/auag020"
-    },
-    {
-      "abstract": "Abstract As Clinical Ethics Consultation (CEC) becomes more institutionalized, concerns about its legitimacy and efficacy have grown. We defend a realist orientation, according to which CEC has normative force only if its recommendations answer to stance-independent reasons, not to individual preferences and institutional policies. Public justification can and should proceed through familiar means (e.g., shared mid-level norms and transparent procedures) so that stakeholders can scrutinize the reasoning. We show how neutrality, admirable as a procedural virtue, hollows CEC when treated as a master ideal, leaving hard cases to defaults and institutional inertia. In its place, we develop moral expertise as sustained, transparent reasoning that integrates the clinical picture with the profession’s content-full standards. We then construe warranted deference as rational trust in contrastive reason-tracking rather than deference to role. Our comparative thesis holds that shared norms successfully handle routine cases, but persistent disagreement and institutional pressure call for a realist grounding that secures determinate, action-guiding recommendations. On such realist understanding, CEC remains normatively accountable and oriented toward getting things right.",
-      "authors": [
-        "Sabine Winter",
-        "Nils-Frederic Wagner"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1093/jmp/jhag034",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine",
-      "journal_id": "J069",
-      "origin": "crossref",
-      "title": "Clinical\n                    Ethics\n                    in Name Only? The Case for Moral Realism at the Bedside",
-      "url": "https://doi.org/10.1093/jmp/jhag034"
-    },
-    {
-      "abstract": "Abstract We provide an argument for the thesis that there could not have been nothing, given that there is something. Only one non-logical assumption goes into our argument. The assumption in question is supported by intuitive considerations as well as by three currently popular views about metaphysical modality. Moreover, our argument can be proven to be valid in the weak modal system K. If a posteriori assumptions are permitted, then the argument can be extended into an argument for why there could not have been nothing, period. The extended argument avoids the controversial assumptions made by previous attempts to establish the same thesis.",
-      "authors": [
-        "Rafael De Clercq",
-        "Taylor-Grey Miller"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1093/pq/pqag069",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Nothing is impossible, actually",
-      "url": "https://doi.org/10.1093/pq/pqag069"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Thomas Hodgson"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1093/pq/pqag074",
-      "first_seen_jst": "2026-11-06",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Book review",
-      "url": "https://doi.org/10.1093/pq/pqag074"
-    },
-    {
-      "abstract": "ABSTRACT In the 1920s and 1930s, Walter Benjamin and Theodor W. Adorno both sought to develop a notion of Darstellung —of philosophical presentation or representation—that could provide an alternative to the classically idealist tendency to subsume objects under abstract concepts. Benjamin's influence on Adorno is therefore often narrativized through the latter's early work, in which Adorno appears as Benjamin's “disciple” in the 1930s before later developing an independent philosophical voice. I seek to complicate this narrative through an investigation of the term “constellation,” which appears prominently in Benjamin's work before being repurposed by Adorno. The constellation first surfaces in the “Epistemo‐Critical Foreword” to Origin of the German Trauerspiel , where it combines with a host of other key terms to depict Benjamin's early notion of Darstellung . In “The Actuality of Philosophy,” Adorno reconfigures the constellation to outline his own conception of interpretive philosophy. While this might initially appear to support the narrative of discipleship, it is argued that Adorno's reconception becomes distinct once the constellation is isolated from the structure of terms laid out by Benjamin. In particular, Adorno places greater emphasis on the interpretive subject, reflecting early reservations about what he would later characterize as Benjamin's “anti‐subjectivism.” At the same time, Benjamin's resistance to Hegelian mediation reflects a concern to preserve the primacy of the object against idealist conceptual domination. Adorno's enduring use of the constellation thus reflects the dialectic of differentiation and appropriation through which he attempts to synthesize Benjamin's object‐focused methodology with his own emphasis on subjective mediation and Hegelian dialectics.",
-      "authors": [
-        "E. Lawrence Bradford"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1111/1467-8675.70079",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Constellations",
-      "journal_id": "J049",
-      "origin": "crossref",
-      "title": "The Constellation: A Reappraisal of Walter Benjamin's Influence on Theodor W. Adorno",
-      "url": "https://doi.org/10.1111/1467-8675.70079"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Suyasha Singh Isser"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.1163/17455243-20263062",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "The Cosmopolitan Tradition: A Noble but Flawed Ideal, written by Martha Nussbaum",
-      "url": "https://doi.org/10.1163/17455243-20263062"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "François Blanc"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0003",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "L’idée de conjoncture",
-      "url": "https://doi.org/10.3917/droit.079.0003"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jean-Philippe Feldman"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0033",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "Libéralisme, néolibéralisme, ordo-libéralisme, économie sociale de marché. Fragments d’un dictionnaire",
-      "url": "https://doi.org/10.3917/droit.079.0033"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sébastien Adalid"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0055",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "De la démocratie au xxi e  siècle (L’évaluation par la Banque centrale européenne de sa stratégie de politique monétaire. 2020-2021)",
-      "url": "https://doi.org/10.3917/droit.079.0055"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Julien Boudon"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0071",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "Peut-on parler d’une économique montagnarde ?",
-      "url": "https://doi.org/10.3917/droit.079.0071"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Patrice Baubeau"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0089",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "Tous les droits sont dans la monnaie. L’exemple du billet dit de banque",
-      "url": "https://doi.org/10.3917/droit.079.0089"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Nicolas Drocourt"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0107",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "La place de l’argent dans la diplomatie byzantine ( vii e - xii e  siècles)",
-      "url": "https://doi.org/10.3917/droit.079.0107"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "François Gipouloux"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0123",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "Marché, droit et maître ès-litiges dans la Chine Impériale. Trajectoires divergentes d’avec l’Europe médiévale",
-      "url": "https://doi.org/10.3917/droit.079.0123"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Thibaut Fleury Graff"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0151",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "La monnaie, vecteur de la portée extraterritoriale des lois nationales ? Le cas du dollar",
-      "url": "https://doi.org/10.3917/droit.079.0151"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jean-Baptiste Dudant"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0167",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "De l’« intelligence » des sanctions économiques ciblées du conseil de sécurité de l’ONU",
-      "url": "https://doi.org/10.3917/droit.079.0167"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sylvain Bollée"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0189",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "Les sanctions devant l’arbitre du commerce international",
-      "url": "https://doi.org/10.3917/droit.079.0189"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Alexandre Leconte"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-25",
-      "doi": "10.3917/droit.079.0209",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Droits",
-      "journal_id": "J128",
-      "origin": "crossref",
-      "title": "Bibliographie du professeur Stéphane Rials",
-      "url": "https://doi.org/10.3917/droit.079.0209"
-    },
     {
       "abstract": "Abstract Modern states increasingly use AI systems in public decision-making, including benefits eligibility, risk classification, immigration adjudication, and judicial administration. Defenders often argue that democratic authorization, validation, and review are sufficient to render such systems legitimate; critics often reply that human beings must decide. I argue that both responses miss a deeper question: what distinguishes a lawful procedure from a publicly imputable judgment? Drawing on Kant’s Rechtslehre , I argue that when the state makes a materially burdensome, legally operative, reasonably contestable, and practically final determination of a person’s legal status, the legally operative ground of that determination must be attributable to an answerable office with the authority, capacity, and institutional independence to adopt or reject it as its own. This yields a right to an answer: a right to be governed through office-owned judgment rather than unowned architecture. The argument does not condemn AI in public administration. It identifies the moral threshold at which algorithmic assistance becomes impermissible substitution.",
       "authors": [
@@ -670,38 +175,6 @@
       "origin": "crossref",
       "title": "When networks sense and decide: a preliminary investigation of the human and invisible ethical dimensions of ISAC in 6G",
       "url": "https://doi.org/10.1007/s10676-026-09923-z"
-    },
-    {
-      "abstract": "Abstract This special issue focuses on forms of resistance to dominant development discourses and practices in Latin America. The attention is on the processes and practices through which grassroot groups challenge the capacity of official legal orders to recognise and address their concerns and demands. These groups have different names in the literature: ‘social movements’, ‘frontier communities’, ‘the oppressed’, ‘political society’, ‘uncivil civil society’, and others. The aim of this special issue is to move beyond certain common approaches in critical literature, which either unwillingly ignores these groups’ agency and portrays them as mere victims, thus infantilising their experience and diminishing their agency, or bestows upon them heroic features as ‘social movements’, thus creating a high threshold of political and theoretical relevance that only few movements with global visibility can meet.",
-      "authors": [
-        "Johanna del Pilar Cortes-Nieto",
-        "Giedre Jokubauskaite"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1007/s10978-026-09442-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Critique",
-      "journal_id": "J012",
-      "origin": "crossref",
-      "title": "Resisting ‘Nice Development’ in Latin America",
-      "url": "https://doi.org/10.1007/s10978-026-09442-2"
-    },
-    {
-      "abstract": "Abstract Resistance to development projects that inflict harm upon local communities and destroy their livelihoods and ways of life has become increasingly difficult as development is getting cloaked in green and sustainability guises, while financial structures prioritise timely repayment and investors’ interests. This article explores the role of law in financialised development, specifically in reshaping communities and territories to suit project needs, and how grassroots' everyday practices resist law’s representations and violence. We do it through the lens of Rios Vivos’ opposition to Hidroituango, Colombia’s largest hydroelectric dam. Rios Vivos is a network of grassroot organizations of peoples affected and threatened by dams, diversions, and projects alike. They have opposed Hidroituango since 2010, resorting to a diverse repertoire of contention, ranging from protests to international litigation. We pay close attention to how Ríos Vivos depicts their everyday life in digital spaces such as their website and YouTube channel. We argue that, beyond contesting narratives of backwardness, poverty, and environmental degradation that justify their sacrifice in the face of the project, Rios Vivos emphasis on everyday practices reveals how, through everyday care and work, communitarian politics grounded on care and solidarity can emerge. These practices carve out spaces for alternative social configurations that transcend the logics of development and accumulation.",
-      "authors": [
-        "Johanna del Pilar Cortes-Nieto",
-        "Giedre Jokubauskaite"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1007/s10978-026-09443-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Critique",
-      "journal_id": "J012",
-      "origin": "crossref",
-      "title": "Everyday resistance against green financialised development: an example of Rios Vivos resisting Hidroituango in Colombia",
-      "url": "https://doi.org/10.1007/s10978-026-09443-1"
     },
     {
       "abstract": "",
@@ -13853,6 +13326,460 @@
       "url": "https://doi.org/10.1111/1468-2230.70080"
     },
     {
+      "abstract": "ABSTRACT We argue that time is the great enabler: it is that which makes causation and change possible. We develop this idea into a functionalist account of time that has some very nice features: (i) it differentiates time from space where needed, (ii) it illuminates time via its connection to causation and change, (iii) it accounts for the apparent multiple realizability of time, and (iv) it correctly classifies worlds that have time as such. We compare our account to three rivals: time as the great necessitator, time as the great informer, and time as the measure of change. We show that treating time as an enabler does better.",
+      "authors": [
+        "Sam Baron",
+        "Floris Eskens"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-08",
+      "doi": "10.1111/nous.70078",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Noûs",
+      "journal_id": "J086",
+      "origin": "crossref",
+      "title": "What Is Time?",
+      "url": "https://doi.org/10.1111/nous.70078"
+    },
+    {
+      "abstract": "ABSTRACT The Continuum Hypothesis featured top of Hilbert's list of 23 problems in 1900. Today, we still consider the question, with various programmes pulling in different directions. This conceptual diversity raises a puzzle: In what sense do we disagree when we talk about it? A standard assumption takes the content of our thought about classes and the Continuum Hypothesis to be uniform between agents . I argue that moderate views of content determination lead to a rejection of this assumption. However, I also argue that whilst the Continuum Hypothesis can have different content for different agents, it can also be determinate for them. In particular, I suggest that there is a fault line between those who think there are uncountable sets and recent countabilist views.",
+      "authors": [
+        "Neil Alexander Barton"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-08",
+      "doi": "10.1111/nous.70079",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Noûs",
+      "journal_id": "J086",
+      "origin": "crossref",
+      "title": "Metasemantics and the Continuum Hypothesis",
+      "url": "https://doi.org/10.1111/nous.70079"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Kristian Stampe Nielsen",
+        "Elfi Baillien",
+        "Eva Gemzøe Mikkelsen"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s10551-026-06507-1",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Can I Even Help Them? Thoughts, Feelings, and Cognitions of Bystanders to Gender-Based Violence and Harassment in the Workplace",
+      "url": "https://doi.org/10.1007/s10551-026-06507-1"
+    },
+    {
+      "abstract": "Abstract The relationship between religiously grounded values and everyday leadership practice in organisations remains underexplored, particularly in small and medium-sized enterprises (SMEs). In Saudi Arabia, Islamic values such as justice, trust, consultation, and accountability are expected to underpin ethical leadership and organisational conduct. Yet interview accounts from employees and leaders suggest systematic value–behaviour gaps in how these values are interpreted and enacted in practice. Drawing on 30 semi-structured interviews with one leader and five employees in each of five Saudi SMEs, this exploratory qualitative study examines how Islamic values are mobilised in leadership practice and how different patterns of value enactment shape employees’ experiences. Using an inductively derived three-level framework – balanced, excessive and insufficient enactment – the study illustrates how the same values can support ethical leadership when applied in a balanced way, but become associated with harmful or destructive leadership practices when applied in excess or deficiency. The findings show how Islamic values may be selectively internalised or performatively invoked, creating misalignments between professed values and everyday leadership behaviours. Drawing on moral identity theory and virtue ethics as complementary theoretical perspectives, the study explains two dimensions of value enactment. Moral identity theory illuminates how Islamic values are internalised, selectively enacted, or invoked performatively, while virtue ethics explains how values can become dysfunctional when enacted excessively, insufficiently or without proportion and contextual judgement. Together, these perspectives clarify how value–behaviour gaps emerge and shape employees’ experiences in Saudi SMEs.",
+      "authors": [
+        "Mohammed Alanazi",
+        "Dorota Joanna Bourne"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s10551-026-06508-0",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Islamic Values and Value–Behaviour Gaps in Saudi SMEs: A Qualitative Study of Leadership Practice",
+      "url": "https://doi.org/10.1007/s10551-026-06508-0"
+    },
+    {
+      "abstract": "Abstract With generative AI, everyone can materialize whatever fantasy they can conjure​ up in their imagination, including transgressive ones. The ‘orthodox’ view on the moral status of fantasies, even of materialized ones, is that such content is outside the scope of morality, since fantasies are quarantined from the agent’s real-world beliefs and desires. In this paper, we challenge this view by arguing that even if we grant that that is the case, repeated engagement with fantasies can contribute to the cultivation of various affective dispositions, or tastes, that can themselves be morally criticizable. We then argue that generative AI allows users to enter a ‘co-creative feedback loop’, a near-instantaneous cycle of prompting, viewing, and refining one’s fantasy, which makes sustained engagement with the transgressive representations very easy. Our claim is that such repeated and focused engagement with transgressive content can contribute to the cultivation of a taste or sensibility for what is morally problematic in those fantasies. If such tastes are morally criticizable, then engaging in practices that cultivate them is also open to moral criticism, even when no one is directly harmed.",
+      "authors": [
+        "Cristina Voinea",
+        "Constantin Vica"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s10676-026-09929-7",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Ethics and Information Technology",
+      "journal_id": "J064",
+      "origin": "crossref",
+      "title": "A taste for what should not be wanted: generative AI and transgressive fantasy",
+      "url": "https://doi.org/10.1007/s10676-026-09929-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jacopo Rosino Giraldo"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11098-026-02645-4",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Measuring spatial extension",
+      "url": "https://doi.org/10.1007/s11098-026-02645-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "John Brunero"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11098-026-02648-1",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Pluralism, parity, and justification intransitivity",
+      "url": "https://doi.org/10.1007/s11098-026-02648-1"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "John-Stewart Gordon",
+        "David J. Gunkel"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11098-026-02667-y",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Superintelligent robots",
+      "url": "https://doi.org/10.1007/s11098-026-02667-y"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Paul J. D’Ambrosio"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11229-026-05814-4",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "What philosophy can learn from AI: methodological insights from deep learning and Chinese philosophy",
+      "url": "https://doi.org/10.1007/s11229-026-05814-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "María Jimena Clavel Vázquez",
+        "Sonia de Jager",
+        "Inigo Wilkins"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11229-026-05861-x",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Synthese",
+      "journal_id": "J087",
+      "origin": "crossref",
+      "title": "Active ignorance as uncertainty reduction: an agnotological extension of predictive processing",
+      "url": "https://doi.org/10.1007/s11229-026-05861-x"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Weimin Zeng"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s11948-026-00639-3",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Science and Engineering Ethics",
+      "journal_id": "J072",
+      "origin": "crossref",
+      "title": "Autonomous Vehicles, Moral Responsibility Gap, and the Ethics of Knowing Responsibly",
+      "url": "https://doi.org/10.1007/s11948-026-00639-3"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jorge Ignacio Fuentes",
+        "Federico Burdman",
+        "Abel Wajnerman-Paz"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s12152-026-09684-y",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
+      "origin": "crossref",
+      "title": "Authorship as a Distinct Ethical Dimension in Speech BCIs",
+      "url": "https://doi.org/10.1007/s12152-026-09684-y"
+    },
+    {
+      "abstract": "Abstract Machine learning (ML) systems are increasingly used in the credit, pricing, and collections decisions of financial institutions, including Islamic banks, yet Shariah oversight remains primarily contract-centred. This conceptual paper identifies three distinct pathways of algorithmic Shariah non-compliance. Algorithmic riba, used narrowly, concerns profit-rate models whose optimisation objective may reproduce the time-value logic prohibited by riba; conventional benchmarking of murabahah (cost-plus sale) margins is not itself impermissible. Algorithmic injustice concerns credit-scoring outcomes that may violate the ‘adl (justice) obligation, and algorithmic gharamah (penalty) concerns collections systems that may impose charges beyond ​ta’widh (compensation for documented loss). To support model-level review, we propose the Shariah Algorithmic Compliance Screen (SACS), a five-component protocol grounded in Maqasid al-Shariah and offered as a first-iteration design proposal. Model owners disclose use cases, training data, objective functions, and outputs; independent technical validators test the relevant model evidence; and Shariah Supervisory Boards (SSBs) determine compliance. Explainable artificial intelligence (XAI) methods are used descriptively, while established fairness diagnostics (subgroup calibration, error-rate comparison, and disparate-impact measurement) provide separate evidence on outcome equity. The three mechanisms are derived analytically from doctrine and the ML literature and are stated as conditional hypotheses. The study completes the construction stage of the design: SACS is conceptually grounded and operationally specified, and its components adapt existing artificial intelligence governance practice to jurisprudential review. SACS has not yet been evaluated. Practitioner evaluation, particularly in Small Island Developing States such as the Maldives, is the next stage and will assess intelligibility, implementation burden, and practical usefulness.",
+      "authors": [
+        "Mohamed Shareef",
+        "Ismail Nizam"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01497-2",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Algorithmic riba and algorithmic Shariah non-compliance: risk mechanisms and a proposed governance protocol for Islamic banks",
+      "url": "https://doi.org/10.1007/s43681-026-01497-2"
+    },
+    {
+      "abstract": "Abstract The growing integration of artificial intelligence (AI) into everyday messaging systems is transforming the conditions under which interpersonal communication takes place. As AI-mediated communication (AI-MC) becomes increasingly seamless and context-sensitive, it blurs the boundary between human expression and algorithmic assistance. This development raises fundamental questions about potential challenges to authenticity in personal relationships and possible strategies to address them. In this regard, we make three main contributions. First, we offer a technically grounded analysis of emerging AI-MC architectures, distinguishing between external prompting, keyboard-level assistance, and fully integrated in-app co-authoring systems. Second, we develop a normative account of authenticity in AI-MC, understood as a second-person, relationship-sensitive notion, drawing on analytic theories of endorsement, relational normativity, and socially situated self-expression. On this basis, we argue that authenticity cannot be directly engineered by design, since it depends on reflective agency and context-dependent interpersonal obligations. Third, we advance a design-oriented proposal aimed at mitigating authenticity-related concerns without resorting to paternalistic restrictions: the introduction of optional and granular disclosure mechanisms (“AI ticks”) that allow users to signal the presence and degree of AI assistance in a context-sensitive manner. We argue that such forms of transparency function not as a substitute for authenticity, but as a pro-ethical condition that enables agents to negotiate authenticity-based obligations within their relationships. The analysis contributes to current debates on the ethics of AI-mediated communication and the conditions of responsible human–AI interaction.",
+      "authors": [
+        "Davide Battisti",
+        "Andrea Lavazza",
+        "Andreas Komninos"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01498-1",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Who am I really talking to? Authenticity, transparency, and the case for “AI ticks” in AI-mediated communication",
+      "url": "https://doi.org/10.1007/s43681-026-01498-1"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ayşegül Dilaver Yenier",
+        "Sertel Altun"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01499-0",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Designing responsible AI competencies for software engineers: an exploratory pilot evaluation of a UbD-based professional development program on AI ethics awareness",
+      "url": "https://doi.org/10.1007/s43681-026-01499-0"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Razvan Chereches"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01501-9",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Fabricated citations threaten the evidence base that clinical AI learns from: checks are needed at submission and at retrieval",
+      "url": "https://doi.org/10.1007/s43681-026-01501-9"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Evans F. Tovar O."
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01503-7",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Ethical consistency beyond single outputs: decision–criterion separability and trajectory-level evaluation in commercial language models",
+      "url": "https://doi.org/10.1007/s43681-026-01503-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ajay Sonawane",
+        "Vivek Trivedi",
+        "Madhuri D. Kharat",
+        "Nilakshi Trivedi"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01512-6",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "The delegation dilemma: human agency, inalienable obligations, and the legal-ethical permissibility of artificial intelligence in military operations",
+      "url": "https://doi.org/10.1007/s43681-026-01512-6"
+    },
+    {
+      "abstract": "Abstract The accelerated deployment of artificial intelligence (AI) at an unprecedented pace leads to new opportunities and risks for organisations and their ecosystem. To support management and regulatory efforts with a deeper understanding of responsible conduct, this study addresses a salient research gap by developing a new theoretical model to describe the tenets of responsible deployment of AI. Applied through a grounded theory approach, existing adoption and integration practices are explored by drawing on literature studies and semi-structured interviews with 17 participants with professional experience with AI in an international context. Themes are synthesised through the Gioia technique. The theoretical model is underpinned by an objective-execution-outcome structure and described by the mnemonic STAGES. The contribution of the study is a new theoretical model to explain and encourage responsible deployment of AI, and explicate which elements organisations should consider when designing internal policies, and to further inform decision-making by management, and regulatory efforts.",
+      "authors": [
+        "Emile du Plessis"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01514-4",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "STAGES: A model for responsible deployment of artificial intelligence",
+      "url": "https://doi.org/10.1007/s43681-026-01514-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Peter Maurice Catt"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01515-3",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Accurate enough to trust, not authorised to act: Predictive Decision Authority and what institutions permit machine learning systems to do",
+      "url": "https://doi.org/10.1007/s43681-026-01515-3"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Christos Papaioannou"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01519-z",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Who decides? Decision-making risks and human control in AI-enabled military command",
+      "url": "https://doi.org/10.1007/s43681-026-01519-z"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ulil Amri Syafri",
+        "Santi Lisnawati",
+        "Hanafiah Bin Budin"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1007/s43681-026-01522-4",
+      "first_seen_jst": "2026-11-10",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Can AI form moral character? Pseudo-character, akhlāq, and moral formation in AI-mediated education",
+      "url": "https://doi.org/10.1007/s43681-026-01522-4"
+    },
+    {
+      "abstract": "Abstract This article formalises and develops an individual-centred framework to explain what I call the micro-foundations of EU law, and applies it to Johan Willem Beyen’s role in the creation of the Common Market. It argues that standard structural accounts in European integration overlook the micro-foundations: the ways in which the desires, beliefs and choices of specific actors shape integration outcomes. Drawing on methodological individualism, mechanism-based causal explanation and narrative legal history, the article reconstructs how Beyen’s liberal economic convictions, his experience in international finance and Bretton Woods institutions, and his reading of the 1930s crisis and post-war power shifts informed his preference for a general common market over sectoral integration. The narrative traces his 1952–55 initiatives, including the Beyen Plan, the Benelux Memorandum and the road to the Messina conference, highlighting environmental, cognitive and relational mechanisms that enabled a small-state minister to set the agenda for the Treaties of Rome. In dialogue with liberal intergovernmentalism and Weiler’s equilibrium theory, the article contends that individual-level explanations, the micro-foundations, provide the ‘prequel’ to both national preference-formation and integration-through-law, enriching structural causal accounts while telling a new story from the perspective of individuals.",
+      "authors": [
+        "Luigi Lonardo"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1017/elo.2026.10090",
+      "first_seen_jst": "2026-11-10",
+      "journal": "European Law Open",
+      "journal_id": "J013",
+      "origin": "crossref",
+      "title": "Johan Willem Beyen and the creation of the internal market: Lessons from history and the social sciences for the micro-foundations of EU law",
+      "url": "https://doi.org/10.1017/elo.2026.10090"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Alan Richardson"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1017/s0031819126101521",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Philosophy",
+      "journal_id": "J145",
+      "origin": "crossref",
+      "title": "A Social History of Analytic Philosophy: How Politics Has Shaped an Apolitical Philosophy\n                    by Christoph Schuringa, Verso, 2025, 336pp., £25 (hbk), ISBN 9781804292099",
+      "url": "https://doi.org/10.1017/s0031819126101521"
+    },
+    {
+      "abstract": "Abstract In early colonial Lagos, inheritance disputes laid bare the exclusionary and discriminatory character of British jurisprudence. British judges, ill-versed in Yorùbá customary law, mimicked Indigenous Yorùbá judicial structures without recognizing their communal or spiritual foundations. By privileging written testamentary documents and civil marriages over nuncupative wills and customary unions, the colonial legal regime engendered an unstable inheritance system that marginalized numerous Yorùbá litigants. In response, Yorùbá communities and intellectuals mobilized to foreground the sacred, ritualized basis of Indigenous inheritance practices, advocating for a legal framework that could legitimately reconcile colonial authority with the spiritual dimensions of Yorùbá personhood. This article examines tensions between Indigenous African and European laws during colonial rule. It is also an inquiry into the claims and counterclaims about who had the authority to speak on behalf of deceased Yorùbá subjects in colonial Lagos.",
+      "authors": [
+        "ibrahim Bàbátúndé Anọ́ba"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1017/s0738248026101849",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Law and History Review",
+      "journal_id": "J080",
+      "origin": "crossref",
+      "title": "Voice of the Dead: Yorùbá Spiritual Justice, English Jurisprudence, and the Making of Inheritance Law in the British Colony of Lagos (1863–1938)",
+      "url": "https://doi.org/10.1017/s0738248026101849"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Tianai Song"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1017/s1744552326100755",
+      "first_seen_jst": "2026-11-10",
+      "journal": "International Journal of Law in Context",
+      "journal_id": "J125",
+      "origin": "crossref",
+      "title": "Legal Moves: Choreographies of Race, Law, and Empire - By Anna Jayne Kimmel , Stanford: Stanford University Press, 2026. 270 pp. ISBN: 9781503646087 $70.00 (hardback)",
+      "url": "https://doi.org/10.1017/s1744552326100755"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Kjell Å. Modéer"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1080/2049677x.2026.2752458",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Comparative Legal History",
+      "journal_id": "J082",
+      "origin": "crossref",
+      "title": "A companion to Western legal traditions: from antiquity to the twentieth century",
+      "url": "https://doi.org/10.1080/2049677x.2026.2752458"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Asad Haider"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1086/744327",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Polity",
+      "journal_id": "J033",
+      "origin": "crossref",
+      "title": "The Absence of Work: Foucault, Marxism, and History, and Politics",
+      "url": "https://doi.org/10.1086/744327"
+    },
+    {
+      "abstract": "Abstract This response to Matthew Kramer's article on logical quantification and Hohfeldian analysis commences with reactions to some of his preliminary observations on the Hohfeldian scheme, and on his suggested forms of the universal quantifier: “aggregative,” “distributive,” and “disjunctive.” A detailed discussion then follows of Kramer's notion of a disjunctive universal quantifier, and how he sees this as a threat to Hohfeld's insistence on one‐to‐one correlation. Kramer's position is criticized both for the incoherence of his approach to universal quantification, and for failing to appreciate the principal application of Hohfeld's scheme of analysis at the level of legal relations between two parties in a dispute before a court. Nevertheless, the issues raised by Kramer are regarded as important in confronting the neglected subject of how Hohfeld's narrow understanding of legal relations can be integrated with other concerns that may legitimately be expressed over the workings of the law, and its implications for how we should see ourselves in relation to others.",
+      "authors": [
+        "Andrew Halpin"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1111/raju.70036",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Ratio Juris",
+      "journal_id": "J005",
+      "origin": "crossref",
+      "title": "A Response to Kramer on Hohfeld and Quantification",
+      "url": "https://doi.org/10.1111/raju.70036"
+    },
+    {
       "abstract": "Abstract Helping our children to understand the unjust world around them can be a difficult task. Given the immensity of injustice, learning about the reality of the world might lead our children to anxiety, despair, or callous indifference. In this paper, I employ and develop the concept of hope to show how these harms can be avoided. In particular, I develop three different threats to children that knowledge of injustice might cause, and offer accounts of three kinds of hope that parents can help to foster in order to avoid those harms. These are hope for the world, hope for their children’s own futures, and hope for their children’s own moral characters. I end by considering whether other attitudes such as faith or righteous anger can serve the role that I have assigned to hope, and argue that they cannot.",
       "authors": [
         "Rosa Terlazzo"
@@ -13866,9 +13793,24 @@
       "origin": "crossref",
       "title": "Hope for Our Children",
       "url": "https://doi.org/10.1163/17455243-bja10221"
+    },
+    {
+      "abstract": "Abstract Schopenhauer can be considered the first Western philosopher who, throughout all of his philosophical works, recognizes animals as a significant part of ethics. His notion of compassion ( Mitleid ) as the only basis for morally praiseworthy human conduct renders compassion for animals just as morally valuable as compassion for humans. Schopenhauer’s non-normative and non-prescriptive moral philosophy considers their will to life to be the key characteristic that makes humans and animals essentially the same. This allows us to bridge the human–animal divide without disputing potential differences in their abilities to reason, speak, or have interests, their capacity to feel pleasure or pain, or their sense of the future. For Schopenhauer, the origin of compassion and the impulse to act based on it do not spring from moral considerations, reasoning, or calculating, but from one’s own disposition ( Gesinnung ). His perspective therefore has strong parallels with many ethics of care approaches, without making care a moral imperative. In addition, Schopenhauer’s view of animals as “today’s slaves” creates an opportunity to find common ground between the opposing standpoints of contemporary political animal ethics. This includes the voices that often identify as liberationist/abolitionist and those that are often disparagingly labelled as only welfarist.",
+      "authors": [
+        "Thomas Köllen"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1515/mopp-2026-0060",
+      "first_seen_jst": "2026-11-10",
+      "journal": "Moral Philosophy and Politics",
+      "journal_id": "J041",
+      "origin": "crossref",
+      "title": "Because They Are (Like) Us\n                    : On Schopenhauer’s Pioneering Role in Animal Ethics and His Contribution to the Contemporary Debate",
+      "url": "https://doi.org/10.1515/mopp-2026-0060"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-09",
-  "window_start": "2026-09-25"
+  "window_end": "2026-11-10",
+  "window_start": "2026-09-26"
 }

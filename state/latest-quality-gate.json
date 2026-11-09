@@ -1,18 +1,57 @@
 {
   "status": "structurally_valid_not_semantically_verified",
-  "checked_on_jst": "2026-11-09",
-  "raw_candidates": 1,
+  "checked_on_jst": "2026-11-10",
+  "raw_candidates": 29,
   "already_introduced": 0,
-  "eligible_candidates": 1,
+  "eligible_candidates": 29,
   "publisher_date_evidence_counts": {
-    "publisher_doi_matched": 0,
-    "crossref_published_online_only": 0,
+    "publisher_doi_matched": 24,
+    "crossref_published_online_only": 4,
     "unconfirmed": 1
   },
-  "manual_review_required_count": 1,
+  "manual_review_required_count": 7,
   "manual_review_required": [
     {
+      "doi": "10.1017/s0031819126101521",
+      "reasons": [
+        "abstract absent or suspect",
+        "book review requires bibliographic and content verification"
+      ]
+    },
+    {
+      "doi": "10.1017/s1744552326100755",
+      "reasons": [
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1080/2049677x.2026.2752458",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1086/744327",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1111/raju.70036",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
       "doi": "10.1163/17455243-bja10221",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1515/mopp-2026-0060",
       "reasons": [
         "publisher first-online date not independently verified"
       ]
@@ -21,7 +60,8 @@
   "ready_for_automatic_formal_introduction": false,
   "errors": [],
   "warnings": [
-    "1 eligible candidates require manual semantic verification"
+    "2 research candidates lack abstracts",
+    "7 eligible candidates require manual semantic verification"
   ],
   "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."
 }

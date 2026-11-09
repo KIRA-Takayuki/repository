@@ -1,32 +1,8 @@
 {
-  "checked_at_utc": "2026-11-08T19:44:40.584806+00:00",
-  "collected_on": "2026-11-09",
-  "count": 83,
+  "checked_at_utc": "2026-11-09T23:24:12.180325+00:00",
+  "collected_on": "2026-11-10",
+  "count": 77,
   "items": [
-    {
-      "crossref_candidate_date": "2026-09-25",
-      "doi": "10.1017/s0034670526101120",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "Descartes’s Generosity: Self-Sufficiency as Ideal Sociability"
-    },
-    {
-      "crossref_candidate_date": "2026-09-25",
-      "doi": "10.1057/s41296-026-00849-1",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "The first right: self-determination and the transformation of international order, 1941–2000"
-    },
-    {
-      "crossref_candidate_date": "2026-09-25",
-      "doi": "10.1163/17455243-20263062",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "The Cosmopolitan Tradition: A Noble but Flawed Ideal, written by Martha Nussbaum"
-    },
     {
       "crossref_candidate_date": "2026-09-28",
       "doi": "10.16995/fe.23197",
@@ -122,14 +98,6 @@
       "journal_id": "J070",
       "status": "unverified_not_introduced",
       "title": "Virtue Ethics for the Real World: Improving Character Without Idealization, written by Howard J. Curzer"
-    },
-    {
-      "crossref_candidate_date": "2026-09-30",
-      "doi": "10.1177/00905917261487609",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J031",
-      "status": "unverified_not_introduced",
-      "title": "A Habit-Building View of Democracy: Mary Parker Follett and Motor Activities"
     },
     {
       "crossref_candidate_date": "2026-10-01",
@@ -404,28 +372,12 @@
       "title": "Matthew Benjamin Cole: Fear the Future: Dystopia and Political Imagination\n                    in the\n                    Twentieth Century. (Ann Arbor: University of Michigan Press, 2025. Pp. xi, 291.)"
     },
     {
-      "crossref_candidate_date": "2026-10-11",
-      "doi": "10.1111/papa.70034",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J026",
-      "status": "unverified_not_introduced",
-      "title": "Evidentiary Interpretation, Discursive Injustice, and Rap on Trial"
-    },
-    {
       "crossref_candidate_date": "2026-10-12",
       "doi": "10.1057/s41296-026-00855-3",
       "first_seen_jst": "2026-10-21",
       "journal_id": "J048",
       "status": "unverified_not_introduced",
       "title": "Controversial to whom? A defense of the intra-scientific consensus view"
-    },
-    {
-      "crossref_candidate_date": "2026-10-12",
-      "doi": "10.1111/papa.70033",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J026",
-      "status": "unverified_not_introduced",
-      "title": "Integrated Explanations of Well‐Being"
     },
     {
       "crossref_candidate_date": "2026-10-12",
@@ -620,14 +572,6 @@
       "title": "Disjunctures: Indigenous redirections in political theory"
     },
     {
-      "crossref_candidate_date": "2026-10-19",
-      "doi": "10.1177/14748851261499651",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J034",
-      "status": "unverified_not_introduced",
-      "title": "Too big to fail: On a systemic injustice of modern finance"
-    },
-    {
       "crossref_candidate_date": "2026-10-20",
       "doi": "10.1163/17455243-bja10230",
       "first_seen_jst": "2026-10-21",
@@ -666,6 +610,14 @@
       "journal_id": "J070",
       "status": "unverified_not_introduced",
       "title": "Hope for Our Children"
+    },
+    {
+      "crossref_candidate_date": "2026-11-10",
+      "doi": "10.1515/mopp-2026-0060",
+      "first_seen_jst": "2026-11-10",
+      "journal_id": "J041",
+      "status": "unverified_not_introduced",
+      "title": "Because They Are (Like) Us\n                    : On Schopenhauer’s Pioneering Role in Animal Ethics and His Contribution to the Contemporary Debate"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

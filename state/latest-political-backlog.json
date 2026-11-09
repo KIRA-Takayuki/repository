@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-11-09T23:24:12.180325+00:00",
+  "checked_at_utc": "2026-11-09T23:49:55.511098+00:00",
   "collected_on": "2026-11-10",
-  "count": 77,
+  "count": 73,
   "items": [
     {
       "crossref_candidate_date": "2026-09-28",
@@ -82,14 +82,6 @@
       "journal_id": "J048",
       "status": "unverified_not_introduced",
       "title": "Power and powerlessness: the liberalism of fear in the twenty-first century"
-    },
-    {
-      "crossref_candidate_date": "2026-09-30",
-      "doi": "10.1057/s41296-026-00852-6",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "Lottery: friend or foe to democracy?"
     },
     {
       "crossref_candidate_date": "2026-09-30",
@@ -178,14 +170,6 @@
       "journal_id": "J027",
       "status": "unverified_not_introduced",
       "title": "Self-Determination and the Right to Do Wrong"
-    },
-    {
-      "crossref_candidate_date": "2026-10-05",
-      "doi": "10.1057/s41296-026-00853-5",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "Universities, science, and politics"
     },
     {
       "crossref_candidate_date": "2026-10-05",
@@ -554,22 +538,6 @@
       "journal_id": "J050",
       "status": "unverified_not_introduced",
       "title": "Linda M.G. Zerilli: A Democratic Theory of Truth. (Chicago: University of Chicago Press, 2025. Pp. xiii, 189.)"
-    },
-    {
-      "crossref_candidate_date": "2026-10-19",
-      "doi": "10.1057/s41296-026-00858-0",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "Reparations and redress for historical injustice"
-    },
-    {
-      "crossref_candidate_date": "2026-10-19",
-      "doi": "10.1057/s41296-026-00859-z",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "Disjunctures: Indigenous redirections in political theory"
     },
     {
       "crossref_candidate_date": "2026-10-20",

@@ -2,46 +2,20 @@
   "status": "structurally_valid_not_semantically_verified",
   "checked_on_jst": "2026-11-10",
   "raw_candidates": 29,
-  "already_introduced": 0,
-  "eligible_candidates": 29,
+  "already_introduced": 25,
+  "eligible_candidates": 4,
   "publisher_date_evidence_counts": {
-    "publisher_doi_matched": 24,
-    "crossref_published_online_only": 4,
+    "publisher_doi_matched": 1,
+    "crossref_published_online_only": 2,
     "unconfirmed": 1
   },
-  "manual_review_required_count": 7,
+  "manual_review_required_count": 3,
   "manual_review_required": [
-    {
-      "doi": "10.1017/s0031819126101521",
-      "reasons": [
-        "abstract absent or suspect",
-        "book review requires bibliographic and content verification"
-      ]
-    },
-    {
-      "doi": "10.1017/s1744552326100755",
-      "reasons": [
-        "abstract absent or suspect"
-      ]
-    },
-    {
-      "doi": "10.1080/2049677x.2026.2752458",
-      "reasons": [
-        "publisher first-online date not independently verified",
-        "abstract absent or suspect"
-      ]
-    },
     {
       "doi": "10.1086/744327",
       "reasons": [
         "publisher first-online date not independently verified",
         "abstract absent or suspect"
-      ]
-    },
-    {
-      "doi": "10.1111/raju.70036",
-      "reasons": [
-        "publisher first-online date not independently verified"
       ]
     },
     {
@@ -61,7 +35,7 @@
   "errors": [],
   "warnings": [
     "2 research candidates lack abstracts",
-    "7 eligible candidates require manual semantic verification"
+    "3 eligible candidates require manual semantic verification"
   ],
   "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."
 }

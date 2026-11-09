@@ -7,10 +7,10 @@
   "artifact_outcome": "success",
   "monitor_exit": "0",
   "run_collection": "true",
-  "run_id": "42536778782",
-  "run_attempt": "2",
-  "commit_sha": "c7c036b3df6f4aea1df51cc5090e374f42a1fe15",
-  "recorded_utc": "2026-11-09T23:24:35.060287+00:00",
-  "workflow_url": "https://github.com/KIRA-Takayuki/repository/actions/runs/42536778782",
+  "run_id": "42723256555",
+  "run_attempt": "1",
+  "commit_sha": "24b32c3483fd82c1eeb1ca1ffb91ba898ec59918",
+  "recorded_utc": "2026-11-09T23:50:15.290763+00:00",
+  "workflow_url": "https://github.com/KIRA-Takayuki/repository/actions/runs/42723256555",
   "pipeline_success": true
 }

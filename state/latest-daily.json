@@ -1,8 +1,8 @@
 {
-  "already_introduced_count": 0,
+  "already_introduced_count": 25,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 1,
-  "checked_at_utc": "2026-11-09T23:24:12.180325+00:00",
+  "checked_at_utc": "2026-11-09T23:49:55.511098+00:00",
   "collected_on": "2026-11-10",
   "counts": {
     "checked": 135,
@@ -10,7 +10,7 @@
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 29,
+  "eligible_candidate_count": 4,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
@@ -21,7 +21,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Kristian Stampe Nielsen",
@@ -59,7 +59,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Mohammed Alanazi",
@@ -96,7 +96,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Cristina Voinea",
@@ -133,7 +133,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Jacopo Rosino Giraldo"
@@ -169,7 +169,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "John Brunero"
@@ -242,7 +242,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Paul J. D’Ambrosio"
@@ -278,7 +278,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "María Jimena Clavel Vázquez",
@@ -316,7 +316,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Weimin Zeng"
@@ -352,7 +352,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Jorge Ignacio Fuentes",
@@ -390,7 +390,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Mohamed Shareef",
@@ -427,7 +427,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Davide Battisti",
@@ -465,7 +465,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Ayşegül Dilaver Yenier",
@@ -502,7 +502,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Razvan Chereches"
@@ -538,7 +538,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Evans F. Tovar O."
@@ -574,7 +574,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Ajay Sonawane",
@@ -613,7 +613,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Emile du Plessis"
@@ -649,7 +649,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Peter Maurice Catt"
@@ -685,7 +685,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Christos Papaioannou"
@@ -721,7 +721,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Ulil Amri Syafri",
@@ -759,7 +759,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Luigi Lonardo"
@@ -795,7 +795,7 @@
       ],
       "abstract_review_status": "suspect_media_link",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "book_review_candidate",
       "authors": [
         "Alan Richardson"
@@ -831,7 +831,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "ibrahim Bàbátúndé Anọ́ba"
@@ -867,7 +867,7 @@
       ],
       "abstract_review_status": "suspect_media_link",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Tianai Song"
@@ -904,7 +904,7 @@
       ],
       "abstract_review_status": "missing",
       "abstract_source": "missing",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Kjell Å. Modéer"
@@ -981,7 +981,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Andrew Halpin"
@@ -1091,7 +1091,7 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 77,
+  "political_backlog_unverified_count": 73,
   "publisher_first_online_date_conflict_count": 0,
   "publisher_first_online_in_window_verified_count": 23,
   "raw_candidate_count": 29,

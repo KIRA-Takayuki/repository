@@ -1,27 +1,59 @@
 {
   "status": "structurally_valid_not_semantically_verified",
-  "checked_on_jst": "2026-11-10",
-  "raw_candidates": 29,
-  "already_introduced": 25,
-  "eligible_candidates": 4,
+  "checked_on_jst": "2026-11-11",
+  "raw_candidates": 11,
+  "already_introduced": 0,
+  "eligible_candidates": 11,
   "publisher_date_evidence_counts": {
-    "publisher_doi_matched": 1,
-    "crossref_published_online_only": 2,
-    "unconfirmed": 1
+    "publisher_doi_matched": 3,
+    "crossref_published_online_only": 8,
+    "unconfirmed": 0
   },
-  "manual_review_required_count": 3,
+  "manual_review_required_count": 8,
   "manual_review_required": [
     {
-      "doi": "10.1086/744327",
+      "doi": "10.1093/mind/fzag054",
       "reasons": [
         "publisher first-online date not independently verified",
         "abstract absent or suspect"
       ]
     },
     {
-      "doi": "10.1163/17455243-bja10221",
+      "doi": "10.1093/mind/fzag055",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1093/mind/fzag056",
       "reasons": [
         "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1093/monist/onag030",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1093/monist/onag035",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1093/monist/onag036",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1111/bioe.70210",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
       ]
     },
     {
@@ -34,8 +66,8 @@
   "ready_for_automatic_formal_introduction": false,
   "errors": [],
   "warnings": [
-    "2 research candidates lack abstracts",
-    "3 eligible candidates require manual semantic verification"
+    "3 research candidates lack abstracts",
+    "8 eligible candidates require manual semantic verification"
   ],
   "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."
 }

@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-11-09T23:49:55.511098+00:00",
-  "collected_on": "2026-11-10",
-  "count": 73,
+  "checked_at_utc": "2026-11-10T21:20:53.209004+00:00",
+  "collected_on": "2026-11-11",
+  "count": 75,
   "items": [
     {
       "crossref_candidate_date": "2026-09-28",
@@ -570,6 +570,22 @@
       "journal_id": "J031",
       "status": "unverified_not_introduced",
       "title": "New Materialism, Harm, and Hierarchies in Nature"
+    },
+    {
+      "crossref_candidate_date": "2026-11-09",
+      "doi": "10.1080/13698230.2026.2752603",
+      "first_seen_jst": "2026-11-11",
+      "journal_id": "J038",
+      "status": "unverified_not_introduced",
+      "title": "Solidarity as a political value"
+    },
+    {
+      "crossref_candidate_date": "2026-11-09",
+      "doi": "10.1111/papa.70036",
+      "first_seen_jst": "2026-11-11",
+      "journal_id": "J026",
+      "status": "unverified_not_introduced",
+      "title": "The Choiceworthlessness of Transformative Heroism"
     },
     {
       "crossref_candidate_date": "2026-11-09",

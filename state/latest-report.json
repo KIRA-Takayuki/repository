@@ -1,21 +1,21 @@
 {
-  "candidate_count": 889,
+  "candidate_count": 899,
   "candidate_count_scope": "Lookback cache, NOT verified new research papers",
-  "checked_at_utc": "2026-11-09T23:49:55.511098+00:00",
+  "checked_at_utc": "2026-11-10T21:20:53.209004+00:00",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "daily_abstracts_missing": 2,
-  "daily_candidate_count": 29,
-  "daily_unverified_research_candidate_count": 28,
+  "daily_abstracts_missing": 3,
+  "daily_candidate_count": 11,
+  "daily_unverified_research_candidate_count": 11,
   "dry_run": false,
-  "first_observed_doi_count": 0,
+  "first_observed_doi_count": 17,
   "journal_status": {
     "J001": {
-      "candidate_count": 4,
+      "candidate_count": 3,
       "errors": [],
       "status": "checked"
     },
@@ -35,7 +35,7 @@
       "status": "checked"
     },
     "J005": {
-      "candidate_count": 1,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -127,7 +127,7 @@
       "status": "checked"
     },
     "J023": {
-      "candidate_count": 91,
+      "candidate_count": 92,
       "errors": [],
       "status": "checked"
     },
@@ -142,7 +142,7 @@
       "status": "checked"
     },
     "J026": {
-      "candidate_count": 4,
+      "candidate_count": 5,
       "errors": [],
       "status": "checked"
     },
@@ -202,7 +202,7 @@
       "status": "checked"
     },
     "J038": {
-      "candidate_count": 1,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -282,7 +282,7 @@
       "status": "checked"
     },
     "J053": {
-      "candidate_count": 15,
+      "candidate_count": 17,
       "errors": [],
       "status": "checked"
     },
@@ -297,7 +297,7 @@
       "status": "checked"
     },
     "J056": {
-      "candidate_count": 3,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -332,12 +332,12 @@
       "status": "checked"
     },
     "J063": {
-      "candidate_count": 18,
+      "candidate_count": 19,
       "errors": [],
       "status": "checked"
     },
     "J064": {
-      "candidate_count": 12,
+      "candidate_count": 10,
       "errors": [],
       "status": "checked"
     },
@@ -407,7 +407,7 @@
       "status": "checked"
     },
     "J078": {
-      "candidate_count": 12,
+      "candidate_count": 11,
       "errors": [],
       "status": "checked"
     },
@@ -445,7 +445,7 @@
       "status": "unresolved"
     },
     "J086": {
-      "candidate_count": 9,
+      "candidate_count": 10,
       "errors": [],
       "status": "checked"
     },
@@ -460,17 +460,17 @@
       "status": "checked"
     },
     "J089": {
-      "candidate_count": 13,
+      "candidate_count": 12,
       "errors": [],
       "status": "checked"
     },
     "J090": {
-      "candidate_count": 5,
+      "candidate_count": 8,
       "errors": [],
       "status": "checked"
     },
     "J091": {
-      "candidate_count": 4,
+      "candidate_count": 7,
       "errors": [],
       "status": "checked"
     },
@@ -485,7 +485,7 @@
       "status": "checked"
     },
     "J094": {
-      "candidate_count": 10,
+      "candidate_count": 11,
       "errors": [],
       "status": "checked"
     },
@@ -500,7 +500,7 @@
       "status": "checked"
     },
     "J097": {
-      "candidate_count": 11,
+      "candidate_count": 10,
       "errors": [],
       "status": "checked"
     },
@@ -515,7 +515,7 @@
       "status": "checked"
     },
     "J100": {
-      "candidate_count": 33,
+      "candidate_count": 34,
       "errors": [],
       "status": "checked"
     },
@@ -735,7 +735,7 @@
       "status": "checked"
     },
     "J143": {
-      "candidate_count": 1,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -761,8 +761,8 @@
   },
   "major_unchecked": [],
   "mode": "metadata_only_no_OpenAI_API_no_Gmail",
-  "possible_new_count": 889,
+  "possible_new_count": 899,
   "publisher_pages_verified": false,
-  "window_end": "2026-11-10",
-  "window_start": "2026-09-26"
+  "window_end": "2026-11-11",
+  "window_start": "2026-09-27"
 }

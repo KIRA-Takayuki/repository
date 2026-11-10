@@ -1,115 +1,6 @@
 {
-  "collected_on": "2026-11-10",
+  "collected_on": "2026-11-11",
   "items": [
-    {
-      "abstract": "Abstract Modern states increasingly use AI systems in public decision-making, including benefits eligibility, risk classification, immigration adjudication, and judicial administration. Defenders often argue that democratic authorization, validation, and review are sufficient to render such systems legitimate; critics often reply that human beings must decide. I argue that both responses miss a deeper question: what distinguishes a lawful procedure from a publicly imputable judgment? Drawing on Kant’s Rechtslehre , I argue that when the state makes a materially burdensome, legally operative, reasonably contestable, and practically final determination of a person’s legal status, the legally operative ground of that determination must be attributable to an answerable office with the authority, capacity, and institutional independence to adopt or reject it as its own. This yields a right to an answer: a right to be governed through office-owned judgment rather than unowned architecture. The argument does not condemn AI in public administration. It identifies the moral threshold at which algorithmic assistance becomes impermissible substitution.",
-      "authors": [
-        "Sai-Ming Wong"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-26",
-      "doi": "10.1007/s10676-026-09919-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ethics and Information Technology",
-      "journal_id": "J064",
-      "origin": "crossref",
-      "title": "Office and unowned architecture: public judgment in the age of algorithmic governance",
-      "url": "https://doi.org/10.1007/s10676-026-09919-9"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jorge Mateus"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-26",
-      "doi": "10.1007/s10676-026-09920-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ethics and Information Technology",
-      "journal_id": "J064",
-      "origin": "crossref",
-      "title": "Neuropanopticon and the Self-as-Platform: Neurotechnologies as Power Tools in the Workplace",
-      "url": "https://doi.org/10.1007/s10676-026-09920-2"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sue Spaid"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-26",
-      "doi": "10.1007/s10790-026-10120-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Value Inquiry",
-      "journal_id": "J056",
-      "origin": "crossref",
-      "title": "David Clowney: Environmental Ethics and our Collective Character",
-      "url": "https://doi.org/10.1007/s10790-026-10120-w"
-    },
-    {
-      "abstract": "Abstract The relevance of empirical studies on intuitions to normative theorising remains contested. This paper proposes a framework to structure the debate. It argues that empirical studies on intuitions should be classified according to which features of intuitions they illuminate: aetiology, function, robustness, universality, and substance. It also proposes general and specific approaches to advance the discussion. The paper then applies the framework to the moral luck debate. First, it considers how empirical studies regarding intuitions’ aetiology and function can impact our method of relying on intuitions. Next, it illustrates how studies on the aetiology and function of the causation intuition may reshape the moral luck debate by weakening the intuitive challenge to the control intuition. In so doing, it demonstrates how empirical studies on intuitions can have significant implications for normative disputes more generally.",
-      "authors": [
-        "Aleksandra Kobyasheva"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-26",
-      "doi": "10.1007/s10982-026-09591-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and Philosophy",
-      "journal_id": "J001",
-      "origin": "crossref",
-      "title": "Normative Theorising and Empirical Studies on Intuitions: A Case Study on Moral Luck",
-      "url": "https://doi.org/10.1007/s10982-026-09591-6"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Bráulio Evangelista de Lima",
-        "Isabela Dias Cruvinel",
-        "João Victor Rosa de Freitas",
-        "Thalles Guilarducci Costa",
-        "Claudio Andre Barbosa de Lira"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-26",
-      "doi": "10.1007/s12152-026-09676-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Neuroethics",
-      "journal_id": "J078",
-      "origin": "crossref",
-      "title": "Polylaminin, Evidence, and Emotion: When Hope Outpaces Science",
-      "url": "https://doi.org/10.1007/s12152-026-09676-y"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jonathan Dixon"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-26",
-      "doi": "10.1080/0020174x.2026.2735950",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "Knowledge-how and Gettier-cases",
-      "url": "https://doi.org/10.1080/0020174x.2026.2735950"
-    },
-    {
-      "abstract": "Abstract Extant dual character concept theories hold that utterances like `\\textit{a} is not a scientist but, ultimately, \\textit{a} is a true scientist' are felicitous because the head noun is polysemous, denoting a concept that permits dissociated categorization along descriptive and normative lines. This paper develops an eliminativist critique of such theories, arguing that this sort of dissociation is incoherent on a literal reading and requires pragmatic reinterpretation to achieve felicity at the level of speaker meaning. If such utterances are indeed coherent in context, they are more plausibly explained by context-sensitive category extension than by the hybrid lexical structures posited by dual character theories. Thus, eliminativism dispenses with dual character concepts and offers a semantically parsimonious treatment of double dissociation, {emphasizing} the importance of distinguishing between literal and loose categorization.",
-      "authors": [
-        "Lucien Baumgartner"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-26",
-      "doi": "10.1093/analys/anag075",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "title": "Dual Character Eliminativism",
-      "url": "https://doi.org/10.1093/analys/anag075"
-    },
     {
       "abstract": "ABSTRACT This article argues that existential risk is not only a threat to welfare or survival, but also a problem for political freedom. It begins with gene‐length nucleic‐acid synthesis, a socially valuable technology whose misuse could contribute to catastrophic biological risk. Harm‐based views explain why such risks matter, and negative‐liberty views explain why regulation may burden researchers and firms. Yet both miss the standing dependence that arises when publics must rely on the restraint, competence, and secrecy practices of actors whose catastrophic capabilities they cannot meaningfully control. Republican theory identifies this condition as domination. The article develops survivable freedom, the claim that under sufficiently high, agent‐mediated existential vulnerability, a durable baseline of collective survival is constitutive of robust non‐domination rather than a merely external precondition of liberty. The claim is conditional and empirically modest. It applies where catastrophic leverage is agent‐mediated, structurally persistent, institutionally reducible, and insufficiently contestable. The article then sketches republican capability governance through ex ante controls, public authorization, democratic contestation, auditable expertise, legally governed secrecy, review, and remedy. Such governance seeks neither libertarian complacency nor unchecked guardianship, but survival‐oriented institutions constrained by non‐domination.",
       "authors": [
@@ -13357,6 +13248,36 @@
       "url": "https://doi.org/10.1111/nous.70079"
     },
     {
+      "abstract": "ABSTRACT The dominant view in philosophy of trust is that trust and monitoring are opposed. I argue that not all forms of monitoring necessarily undermine trust, but that certain forms of it do because they signal distrust of those being monitored. Crucially, this type of signaling is not confined to interpersonal contexts. I defend the view that institutions can signal distrust and offer the concept of institutionalized distrust to describe a form of distrust that does not reside in individual attitudes, but is instead expressed through policies, practices, and procedures, including forms of monitoring that are intrusive or disproportionate. My primary example is the eligibility procedures of the Supplemental Nutrition Assistance Program (SNAP) in the United States. I show that food assistance recipients encounter distrust in their interactions with the institutions they rely on for support and whose distrust may, in turn, influence attitudes of distrust among the public.",
+      "authors": [
+        "Corinne Lajoie"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1002/japp.70147",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Journal of Applied Philosophy",
+      "journal_id": "J053",
+      "origin": "crossref",
+      "title": "Institutionalized Distrust and Monitoring in Means‐Tested Benefits Programs",
+      "url": "https://doi.org/10.1002/japp.70147"
+    },
+    {
+      "abstract": "ABSTRACT The crucial issue in housing policy is the appropriate degree of community discretion over housing development. I develop an improved account of the normative value of community discretion, building on the literature on gentrification. This shows that community discretion does have genuine value. But more community discretion tends to lead to higher housing prices, which are themselves a significant cause of gentrification and other harms. We need policies that appropriately reflect this tension. Land value taxation is one good approach; I suggest that a novel policy, the ‘affordability override’, is even better.",
+      "authors": [
+        "Travis Quigley"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1002/japp.70148",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Journal of Applied Philosophy",
+      "journal_id": "J053",
+      "origin": "crossref",
+      "title": "Local Housing Discretion and the Affordability Override",
+      "url": "https://doi.org/10.1002/japp.70148"
+    },
+    {
       "abstract": "",
       "authors": [
         "Kristian Stampe Nielsen",
@@ -13737,6 +13658,21 @@
     {
       "abstract": "",
       "authors": [
+        "Rachel Z. Friedman"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1080/13698230.2026.2752603",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "journal_id": "J038",
+      "origin": "crossref",
+      "title": "Solidarity as a political value",
+      "url": "https://doi.org/10.1080/13698230.2026.2752603"
+    },
+    {
+      "abstract": "",
+      "authors": [
         "Kjell Å. Modéer"
       ],
       "crossref_subtype": "",
@@ -13765,6 +13701,53 @@
       "url": "https://doi.org/10.1086/744327"
     },
     {
+      "abstract": "ABSTRACT Realism about tense comes in various forms. In “Tense and Reality” (2005) and “The Reality of Tense” (2006), Kit Fine offered a helpful taxonomy that contributed to shape the current debate on the topic. In our paper “Eternal Facts in an Ageing Universe” (2012), we improved upon this taxonomy, identifying a further type of view that Fine leaves out: Dynamic Absolutism. Both these taxonomies construe the different versions of tense realism in terms of first‐order quantification over facts or states of affairs. Our goal is to show that the logical space of these first‐order tense‐realist positions can be replicated using higher‐order quantification instead. Along the way, we rebut the claim that there is no coherent higher‐order version of Dynamic Absolutism—a claim that one would naturally attribute to Lukas Skiba in his “Higher‐Order Being and Time” (2025) given the way he formulates his critique, even though the view that he actually intends to put forward may plausibly be more moderate.",
+      "authors": [
+        "Fabrice Correia",
+        "Sven Rosenkranz"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1111/nous.70073",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Noûs",
+      "journal_id": "J086",
+      "origin": "crossref",
+      "title": "Higher‐Order Tense Realism",
+      "url": "https://doi.org/10.1111/nous.70073"
+    },
+    {
+      "abstract": "ABSTRACT History abounds with transformative moral heroes—agents devoting their lives to uprooting entrenched unjust structures. Though philosophy has said much about heroes generally, this distinctive class remains undertheorized. This matters because they are among our most celebrated moral exemplars, and much of our sense of moral progress rests on them. Yet they characteristically act against familiar constraints on responsible deliberation, pursuing apparently infeasible and inefficacious projects while foreclosing tractable alternatives that would secure demonstrable goods. We establish this tension and argue that the most promising attempts to dissolve it fail. At best, this shows that moral theory is structurally conservative, as its standards of responsible deliberation systematically favor mitigation over transformation. At worst, it reveals a deeper instability in moral theory, as it seems to depend for its progress on agents it cannot vindicate.",
+      "authors": [
+        "Meradjuddin Khan Oidermaa",
+        "Mac Willners"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1111/papa.70036",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Philosophy &amp; Public Affairs",
+      "journal_id": "J026",
+      "origin": "crossref",
+      "title": "The Choiceworthlessness of Transformative Heroism",
+      "url": "https://doi.org/10.1111/papa.70036"
+    },
+    {
+      "abstract": "Abstract Ever since the American legal philosopher Wesley Hohfeld published his analyses of rights in the second decade of the twentieth century, numerous philosophers and legal theorists have grappled with his matrix of legal positions. Very seldom, however, have the commentators on Hohfeld recognized the importance of logical quantification for any endeavor to elaborate the categories of that matrix fully. This paper will mull over a few of the manifold ways in which quantification is operative in the legal relationships that Hohfeld delineated. After furnishing a short conspectus of the Hohfeldian analytical framework which distills those relationships, this paper will briefly discuss the two most prominent logical quantifiers and will then explore how one's awareness of the workings of those quantifiers can sharpen one's grasp of the Hohfeldian analysis.",
+      "authors": [
+        "Matthew H. Kramer"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1111/raju.70035",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Ratio Juris",
+      "journal_id": "J005",
+      "origin": "crossref",
+      "title": "Logical Quantification and the Hohfeldian Analysis of Rights",
+      "url": "https://doi.org/10.1111/raju.70035"
+    },
+    {
       "abstract": "Abstract This response to Matthew Kramer's article on logical quantification and Hohfeldian analysis commences with reactions to some of his preliminary observations on the Hohfeldian scheme, and on his suggested forms of the universal quantifier: “aggregative,” “distributive,” and “disjunctive.” A detailed discussion then follows of Kramer's notion of a disjunctive universal quantifier, and how he sees this as a threat to Hohfeld's insistence on one‐to‐one correlation. Kramer's position is criticized both for the incoherence of his approach to universal quantification, and for failing to appreciate the principal application of Hohfeld's scheme of analysis at the level of legal relations between two parties in a dispute before a court. Nevertheless, the issues raised by Kramer are regarded as important in confronting the neglected subject of how Hohfeld's narrow understanding of legal relations can be integrated with other concerns that may legitimately be expressed over the workings of the law, and its implications for how we should see ourselves in relation to others.",
       "authors": [
         "Andrew Halpin"
@@ -13780,6 +13763,21 @@
       "url": "https://doi.org/10.1111/raju.70036"
     },
     {
+      "abstract": "ABSTRACT The topic addressed is persistent difficulties in writings on Russell and early Moore, of stating what it is one has in mind when thinking what there is. If propositions, whether before or after the multiple‐relations theory of judgement, are made up of the things themselves, then propositions cannot be the content of thought. In arguing for realism, Russell and Moore cannot open up a problem of the external world, as that would fail to refute idealism, but neither can they accept intermediary senses or ideas as these risk differing from what there is, precluding knowledge (cf. the Mont Blanc correspondence between Frege and Russell). Given Moore's and Russell's rejection of psychologism, what is left is an external relation of acquaintance as fully adequate representationism, as a condition on realism if we can be said to know what we are thinking and speaking about.",
+      "authors": [
+        "Clare Hay"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-09",
+      "doi": "10.1111/theo.70134",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Theoria",
+      "journal_id": "J094",
+      "origin": "crossref",
+      "title": "Russell, Moore, Idealism and Knowing What One Is Talking About",
+      "url": "https://doi.org/10.1111/theo.70134"
+    },
+    {
       "abstract": "Abstract Helping our children to understand the unjust world around them can be a difficult task. Given the immensity of injustice, learning about the reality of the world might lead our children to anxiety, despair, or callous indifference. In this paper, I employ and develop the concept of hope to show how these harms can be avoided. In particular, I develop three different threats to children that knowledge of injustice might cause, and offer accounts of three kinds of hope that parents can help to foster in order to avoid those harms. These are hope for the world, hope for their children’s own futures, and hope for their children’s own moral characters. I end by considering whether other attitudes such as faith or righteous anger can serve the role that I have assigned to hope, and argue that they cannot.",
       "authors": [
         "Rosa Terlazzo"
@@ -13793,6 +13791,158 @@
       "origin": "crossref",
       "title": "Hope for Our Children",
       "url": "https://doi.org/10.1163/17455243-bja10221"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "James Woodward"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1007/s11098-026-02657-0",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Race as a cause",
+      "url": "https://doi.org/10.1007/s11098-026-02657-0"
+    },
+    {
+      "abstract": "Abstract Hanno Sauer defines class as socially constructed scarcity generated by competition for status through hard-to-fake intangible signals and concludes that class inequality, although unjust, is practically ineradicable. This reply examines two premises of his account and then proposes an alternative foundation. First, economic resources do not stand on a par with cultural recognition, social contacts, power and prestige, since they constitute a necessary, though not sufficient, precondition of all of these factors. Second, the zero-sum thesis holds only to a limited extent, because intangible status resources can be scaled and divided and because quantitative changes alter the quality of a top position, so that social systems expand and generate new strata. Building on these two results, the reply argues that every ascription of class must be locatable within a matrix of economy and ideology, understood respectively as material resources and as values that cannot be captured in monetary terms. Each of these coordinates is necessary in itself and sufficient only in combination with the other, and all further distinguishing factors find their place within them. Situational changes of status, which Sauer regards as justified, accordingly occur only between positions that lie close together in this matrix. In all of this, the argument proceeds descriptively and does not assess class membership normatively.",
+      "authors": [
+        "Dorothea Winter"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1007/s42048-026-00263-7",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Zeitschrift für Ethik und Moralphilosophie",
+      "journal_id": "J143",
+      "origin": "crossref",
+      "title": "Beyond status signalling: on the primacy of economy and ideology in class formation",
+      "url": "https://doi.org/10.1007/s42048-026-00263-7"
+    },
+    {
+      "abstract": "Abstract Artificial intelligence (AI)-driven recommender systems increasingly mediate how we consume information, buy products, and form connections. In this conceptual paper, we argue that these systems operationalize two fundamental dimensions of convenience: immediacy and egocentrism. These dimensions of convenience orient users away from long-term, allocentric perspectives and the preservation of agency necessary for responsible engagement with digital technologies. To frame our analysis, we develop a bidimensional model of deliberative space shaped by two opposing forces, convenience and care, and introduce responsible convenience as a normative ideal and conceptual framework for ethical development, regulation, and use of AI-powered recommender systems. Based on hermeneutic methodology and narrative theory, we theorize how structured narrative engagement could raise ethical awareness among users, developers, and regulators, amplifying the force of care and counteracting convenience. A close reading of Gary Shteyngart’s novel Super Sad True Love Story illustrates how narratives may prompt deliberation on the long-term consequences of algorithmically mediated human connection. Future empirical work could examine whether, how, and under what institutional conditions narrative engagement expands temporal and interpersonal horizons and translates care into behavioral, design, or regulatory change.",
+      "authors": [
+        "Anya Workman",
+        "Fernando Nascimento"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1007/s43681-026-01487-4",
+      "first_seen_jst": "2026-11-11",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Toward responsible convenience: a conceptual framework for promoting care in AI recommender systems",
+      "url": "https://doi.org/10.1007/s43681-026-01487-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jonathan L Shaheen"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1093/mind/fzag054",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Mind",
+      "journal_id": "J091",
+      "origin": "crossref",
+      "title": "Cavendish\n                    , by Alison Peterman",
+      "url": "https://doi.org/10.1093/mind/fzag054"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "David Egan"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1093/mind/fzag055",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Mind",
+      "journal_id": "J091",
+      "origin": "crossref",
+      "title": "The Character Sketch as Philosophy: Manners, Mores, Types\n                    , by Katie Ebner-Landy",
+      "url": "https://doi.org/10.1093/mind/fzag055"
+    },
+    {
+      "abstract": "Abstract I argue that not all belief-relative normative principles can be represented as requiring the maximization of expected utility. The argument imposes no limits on the distinctions that utility functions can draw, but relies instead on a connection between decision-theoretic representability and uncertainty about one’s own beliefs. By contrast, I argue that evidence-relative normative principles, which say what to do given what would be rational to believe, always admit of such a representation, so long as uncertainty about epistemic rationality is limited in independently plausible ways.",
+      "authors": [
+        "Pablo Zendejas Medina"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1093/mind/fzag056",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Mind",
+      "journal_id": "J091",
+      "origin": "crossref",
+      "title": "Could All Rules Have Goals?",
+      "url": "https://doi.org/10.1093/mind/fzag056"
+    },
+    {
+      "abstract": "Abstract What makes biodiversity valuable? I offer a new account of the value of one aspect of biodiversity—diversity of sentient animal species. I propose and defend the Positive Engagement Principle (PEP): that it is intrinsically valuable that more aspects of reality are positively engaged with by sentient beings. I argue that diversity of sentient animals is instrumentally valuable because it enables a wider range of such engagements through the diverse forms of perception, understanding, appreciation, and action available to animals of different species. I compare PEP with two recent accounts of the value of diversity of animal experiences—Livermore’s Heteric Welfarism and James’s Lifeworld account—and argue that PEP better captures the distinctive value of world-directed experiences across species.",
+      "authors": [
+        "Gary David O’Brien"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1093/monist/onag030",
+      "first_seen_jst": "2026-11-11",
+      "journal": "The Monist",
+      "journal_id": "J090",
+      "origin": "crossref",
+      "title": "Biodiversity and the Value of Positive Engagement with Reality",
+      "url": "https://doi.org/10.1093/monist/onag030"
+    },
+    {
+      "abstract": "Abstract Academic ethicists who engage in activism frequently face two categories of objection: that they overstep their expertise by prescribing practical action, and that activism is incompatible with contributing to ethical progress. This paper focuses on the latter, investigating the extent to which activism is compatible with the discipline’s cognitive goals. I define activism as a partisan, sustained, and personal effort aimed at social change, and adopt a notion of disciplinary ethical progress based on the discipline’s ability to enable understanding in a maximally inclusive audience. On this basis, I articulate progress-based objections, distinguishing between “outward” threats to public uptake and “inward” threats to the integrity of inquiry. Drawing on feminist philosophy of science, I argue that activism can function as a corrective to “ivory tower” worries like isolation or triviality. I conclude by proposing an evaluative framework to assess the compatibility of specific activist engagements with disciplinary ethical progress.",
+      "authors": [
+        "Tanja Rechnitzer"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1093/monist/onag035",
+      "first_seen_jst": "2026-11-11",
+      "journal": "The Monist",
+      "journal_id": "J090",
+      "origin": "crossref",
+      "title": "Activism and Disciplinary Ethical Progress",
+      "url": "https://doi.org/10.1093/monist/onag035"
+    },
+    {
+      "abstract": "Abstract Derek Parfit famously argues that the best versions of (rule) consequentialism and nonconsequentialism converge—roughly, that impersonally optimific moral principles are uniquely universally willable and alternatives to them reasonably rejectable. An important part of making this case is arguing that the key nonconsequentialist distinction between harming as a means and harming as a side effect lacks an adequate rationale. Building on work by Frances Kamm and Stephen Darwall, I argue that there is such a rationale in terms of differential impact on relational equality between the victim and the beneficiary. Roughly, because nonconsensually harming A as a means of benefiting B subordinates A’s good to B’s good and harming as a side effect doesn’t do so, A has a stronger reason to reject principles that allow harming as a means. The problem isn’t, e.g., being forced to serve the agent’s goals, but rather being forced to serve others, which isn’t the case when one is harmed as a side effect. The legitimacy of such complaints is grounded in our authority to demand being treated as an equal rather than in the badness of harm. They are thus fundamentally second-personal. The broader lesson is that the fundamental disagreement between moral theories derives from their conception of the sources of reasons, which renders convergence unlikely.",
+      "authors": [
+        "Antti Kauppinen"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1093/monist/onag036",
+      "first_seen_jst": "2026-11-11",
+      "journal": "The Monist",
+      "journal_id": "J090",
+      "origin": "crossref",
+      "title": "Relational Equality and the Morality of Harming: Why Consequentialists and Nonconsequentialists Are Climbing Different Mountains",
+      "url": "https://doi.org/10.1093/monist/onag036"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Andrew McGee",
+        "Dale Gardiner"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1111/bioe.70210",
+      "first_seen_jst": "2026-11-11",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "On Being Biologically Alive but Legally Dead",
+      "url": "https://doi.org/10.1111/bioe.70210"
     },
     {
       "abstract": "Abstract Schopenhauer can be considered the first Western philosopher who, throughout all of his philosophical works, recognizes animals as a significant part of ethics. His notion of compassion ( Mitleid ) as the only basis for morally praiseworthy human conduct renders compassion for animals just as morally valuable as compassion for humans. Schopenhauer’s non-normative and non-prescriptive moral philosophy considers their will to life to be the key characteristic that makes humans and animals essentially the same. This allows us to bridge the human–animal divide without disputing potential differences in their abilities to reason, speak, or have interests, their capacity to feel pleasure or pain, or their sense of the future. For Schopenhauer, the origin of compassion and the impulse to act based on it do not spring from moral considerations, reasoning, or calculating, but from one’s own disposition ( Gesinnung ). His perspective therefore has strong parallels with many ethics of care approaches, without making care a moral imperative. In addition, Schopenhauer’s view of animals as “today’s slaves” creates an opportunity to find common ground between the opposing standpoints of contemporary political animal ethics. This includes the voices that often identify as liberationist/abolitionist and those that are often disparagingly labelled as only welfarist.",
@@ -13811,6 +13961,6 @@
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-10",
-  "window_start": "2026-09-26"
+  "window_end": "2026-11-11",
+  "window_start": "2026-09-27"
 }

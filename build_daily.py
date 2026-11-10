@@ -37,6 +37,9 @@ def kind_guess(title, subtype=""):
     st = (subtype or "").lower().strip()
     if re.search(r"\b20\d{2},\s*\d+\s*(?:pp\.?|pages)\b", s, re.I):
         return "book_review_candidate"
+    # Oxford Academic book reviews frequently end ", by [book author]" without a subtype.
+    if re.search(r",\s*by\s+[A-Z][\w’\x27-]+(?:\s+[A-Z][\w’\x27-]+)+\s*$", s):
+        return "book_review_candidate"
     if st in {"review", "book-review"} or re.search(r"^(?:book review|review of)\b", s, re.I):
         return "book_review_candidate"
     if re.search(r"^(?:publisher correction|correction|corrigendum|retraction|erratum|editorial|editor['’]?s note|announcement|ask a political scientist)\b", s, re.I):

@@ -97,6 +97,8 @@ jobs:
           assert kind_guess('A New Theory of Law') == 'research_candidate_unverified'
           assert kind_guess('Review of A New Theory of Law') == 'book_review_candidate'
           assert kind_guess('A Book Title', 'book-review') == 'book_review_candidate'
+          assert kind_guess('Cavendish, by Alison Peterman') == 'book_review_candidate'
+          assert kind_guess('The Character Sketch as Philosophy: Manners, Mores, Types, by Katie Ebner-Landy') == 'book_review_candidate'
           assert kind_guess('A Book Title', 'review') == 'book_review_candidate'
           assert kind_guess('Hobbes and Political Contractarianism, written by D. P. Gauthier') == 'book_review_candidate'
           fake = '<meta name="citation_doi" content="10.1007/test"><meta name="citation_online_date" content="2026/10/20"><meta name="citation_abstract" content="' + ('A sample of a publisher abstract. ' * 15) + '">'

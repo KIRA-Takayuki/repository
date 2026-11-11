@@ -1,163 +1,6 @@
 {
-  "collected_on": "2026-11-11",
+  "collected_on": "2026-11-12",
   "items": [
-    {
-      "abstract": "ABSTRACT This article argues that existential risk is not only a threat to welfare or survival, but also a problem for political freedom. It begins with gene‐length nucleic‐acid synthesis, a socially valuable technology whose misuse could contribute to catastrophic biological risk. Harm‐based views explain why such risks matter, and negative‐liberty views explain why regulation may burden researchers and firms. Yet both miss the standing dependence that arises when publics must rely on the restraint, competence, and secrecy practices of actors whose catastrophic capabilities they cannot meaningfully control. Republican theory identifies this condition as domination. The article develops survivable freedom, the claim that under sufficiently high, agent‐mediated existential vulnerability, a durable baseline of collective survival is constitutive of robust non‐domination rather than a merely external precondition of liberty. The claim is conditional and empirically modest. It applies where catastrophic leverage is agent‐mediated, structurally persistent, institutionally reducible, and insufficiently contestable. The article then sketches republican capability governance through ex ante controls, public authorization, democratic contestation, auditable expertise, legally governed secrecy, review, and remedy. Such governance seeks neither libertarian complacency nor unchecked guardianship, but survival‐oriented institutions constrained by non‐domination.",
-      "authors": [
-        "Xufeng Zhang",
-        "Han Li",
-        "Shenghui Bao"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1002/japp.70131",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Applied Philosophy",
-      "journal_id": "J053",
-      "origin": "crossref",
-      "title": "Survivable Freedom: Republican Non‐Domination under Existential Vulnerability",
-      "url": "https://doi.org/10.1002/japp.70131"
-    },
-    {
-      "abstract": "ABSTRACT Limitarianism's paramount claim is that no one should possess surplus wealth. Ingrid Robeyns's Power of Material Resources (PMR), the leading operationalization of that claim, identifies such surplus through a snapshot of income and annuitized assets. This article argues that the PMR is self‐defeating. It does not punish the appropriation of excessive resources, but only their retention: it thereby penalizes individuals who save while privileging those with identical inflows who immediately consume away their surplus before it can be recorded against the limitarian threshold. Limitarianism therefore does more than fail to prevent waste: it can incentivize it – a result incompatible with Robeyns's own non‐intrinsic justifications, which rely on harnessing morally weightless surplus wealth to address urgent needs. As a corrective, this article proposes a lifetime limitarianism , operating under a lifetime PMR (L‐PMR), which caps total resource appropriation over a lifespan regardless of usage. Under the L‐PMR, prudence is no longer punished, and profligacy is no longer privileged.",
-      "authors": [
-        "Jacob Watkins‐Strand"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1002/japp.70135",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Applied Philosophy",
-      "journal_id": "J053",
-      "origin": "crossref",
-      "title": "The Profligacy Paradox: Why Limitarianism Needs a Lifetime Limit",
-      "url": "https://doi.org/10.1002/japp.70135"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Baptiste Le Bihan",
-        "Emilia Margoni"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1007/s10670-026-01177-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "What Becomes of Kinematics and Dynamics When Spacetime Goes Missing?",
-      "url": "https://doi.org/10.1007/s10670-026-01177-x"
-    },
-    {
-      "abstract": "Abstract Integrated Sensing and Communication (ISAC) is expected to become a core capability of future 6G networks, enabling wireless infrastructures to sense physical environments and human presence through shared radio resources. While offering significant technological benefits, ISAC also raises ethical and societal concerns due to its invisible and pervasive sensing nature. This paper proposes a human-centric, questionnaire-based framework to assess the acceptability of ISAC functionalities and to operationalize ethical and societal perceptions into quantitative, design-oriented indicators. Two representative human-centric scenarios are investigated, namely domestic monitoring for Ambient Assisted Living and human motion monitoring for safety. The proposed framework directly quantifies selected 6G human-centric values, including trustworthiness and regulation, and identifies additional design requirements related to transparency, user control, and system understanding that significantly influence acceptability. The results show that ISAC acceptance is strongly context-dependent and driven more by governance, trust, and knowledge than by sensing capabilities alone. By translating user perceptions into actionable indicators and design requirements, this work provides a practical contribution toward ethical-by-design ISAC development, complementing traditional performance metrics and supporting the realization of transparent, trustworthy, and socially acceptable 6G networks.",
-      "authors": [
-        "Maria Gardano",
-        "Antonio Nocera",
-        "Michela Raimondi",
-        "Ennio Gambi"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1007/s10676-026-09923-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ethics and Information Technology",
-      "journal_id": "J064",
-      "origin": "crossref",
-      "title": "When networks sense and decide: a preliminary investigation of the human and invisible ethical dimensions of ISAC in 6G",
-      "url": "https://doi.org/10.1007/s10676-026-09923-z"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Shiyang Yu"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1007/s11245-026-10502-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "Toward a Refined Account of Argumentative Injustice: The Role of ad hominem Argument and Emotion",
-      "url": "https://doi.org/10.1007/s11245-026-10502-6"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Colm Peter McGrath"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1080/2049677x.2026.2736393",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Comparative Legal History",
-      "journal_id": "J082",
-      "origin": "crossref",
-      "title": "Contagion, Technology, and Law at the Limits",
-      "url": "https://doi.org/10.1080/2049677x.2026.2736393"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Tracy Thomas"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1080/2049677x.2026.2736394",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Comparative Legal History",
-      "journal_id": "J082",
-      "origin": "crossref",
-      "title": "Celebrating women in legal history: making and shaping a discipline",
-      "url": "https://doi.org/10.1080/2049677x.2026.2736394"
-    },
-    {
-      "abstract": "In Europe, open GLAM movements and cultural restitution reforms are overlooking a crucial aspect that should not be underestimated: what should happen to the archival materials, digital collections and intellectual property that are indelibly linked to cultural property. Left unresolved, new inequities will emerge around who can own, access, use, control and commercialise the heritage for decades. The effect is to conflate layers of discrete rights in the underlying item and knowledge it contains, securing to possessors a double monopoly over the digital and physical heritage. To redress this in both practice and legal reforms, this article argues that the focus on restitution must expand from one on cultural property to one on intellectual property to include a wider range of heritage assets. Given that these materials largely fall within private law, this means the possessor's ability to return such heritage is not dependent on public law reform; restitution can begin now.",
-      "authors": [
-        "Andrea Wallace",
-        "Mathilde Pavis"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1111/1468-2230.70058",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "Intellectual Property Restitution",
-      "url": "https://doi.org/10.1111/1468-2230.70058"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Owen Ware"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1111/ejop.70125",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Journal of Philosophy",
-      "journal_id": "J102",
-      "origin": "crossref",
-      "title": "Cosmic Connections: Poetry in the Age of Disenchantment. By Charles Taylor, Harvard University Press, 2024. 640 pp., $37.95 (hbk). ISBN: 9780674296084",
-      "url": "https://doi.org/10.1111/ejop.70125"
-    },
-    {
-      "abstract": "ABSTRACT There is no precise characterization of the A‐ and B‐theories that has won a consensus in the literature. In this paper, we set out to provide clear formulations of these theories in the setting of higher‐order logic in what we call the operational framework . In the operational framework, the disagreement between the A‐ and B‐theories centers on the distribution of accuracy among times. We will show that these formulations of the A‐ and B‐theories produce strong predictions about various features of temporal reality. We will address some objections that could be made to the operational framework from both A‐ and B‐theorists. We will also examine how the operational framework helps us think about the ideological commitments of the A‐ and B‐theories. We will close by suggesting ways in which this framework can be applied to other topics in the metaphysics of temporal intervals, spacetime, modality, and first‐person perspectives.",
-      "authors": [
-        "Minjun Kang"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-27",
-      "doi": "10.1111/nous.70069",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Noûs",
-      "journal_id": "J086",
-      "origin": "crossref",
-      "title": "A Theory of the A‐Theory",
-      "url": "https://doi.org/10.1111/nous.70069"
-    },
     {
       "abstract": "Abstract Despite the growing importance of entrepreneurship as a pathway to economic mobility, ethnic minority entrepreneurs continue to face persistent disadvantages in access to capital, particularly following business failure. This study examines how ethnic stereotypes and evaluators’ ethnic identity shape perceptions of funding-worthiness for Latinx entrepreneurs relative to White non-Latinx entrepreneurs in the United States. Using a full-profile conjoint experiment comprising 12,496 evaluations from 781 evaluators, we provide evidence of systematic ethnicity-based disparities in post-failure funding assessments. Latinx entrepreneurs are evaluated as less funding-worthy than White entrepreneurs, even when objective financial indicators such as the level of debt indicate comparable or lower financial risk. These findings suggest that favorable financial attributes do not fully offset ethnicity-based disadvantages in evaluations. We further show that the ethnic identity of evaluators conditions these evaluations. Shared ethnic identity does not mitigate ethnicity-based disparities in perceived funding-worthiness. Instead, Latinx evaluators evaluate Latinx entrepreneurs less favorably than White evaluators. Together, these findings show how post-failure funding evaluations are shaped by embedded ethnic hierarchies, reproducing inequality in entrepreneurial finance. By identifying how ethnic stereotypes and ethnic identity jointly influence funding assessments, this study advances research on ethnic minority entrepreneurship and contributes to business ethics scholarship by clarifying mechanisms through which systemic inequality is sustained in evaluative decision-making.",
       "authors": [
@@ -11224,6 +11067,21 @@
     {
       "abstract": "",
       "authors": [
+        "Rehan Abeyratne"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-01",
+      "doi": "10.4337/jlp.2026.02.04",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Journal of Legal Philosophy",
+      "journal_id": "J010",
+      "origin": "crossref",
+      "title": "Understanding the transgenerational people",
+      "url": "https://doi.org/10.4337/jlp.2026.02.04"
+    },
+    {
+      "abstract": "",
+      "authors": [
         "Wojciech Sadurski"
       ],
       "crossref_subtype": "",
@@ -13841,6 +13699,66 @@
     {
       "abstract": "",
       "authors": [
+        "Yumin Liu"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1080/0020174x.2026.2759723",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Inquiry",
+      "journal_id": "J089",
+      "origin": "crossref",
+      "title": "Procreation and moral reasons: balancing prerogatives and harm",
+      "url": "https://doi.org/10.1080/0020174x.2026.2759723"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Bartosz Biskup"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1080/20403313.2026.2751818",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Jurisprudence",
+      "journal_id": "J006",
+      "origin": "crossref",
+      "title": "Property and the right to housing: a critique",
+      "url": "https://doi.org/10.1080/20403313.2026.2751818"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jorge Luis Fabra-Zamora"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1080/20403313.2026.2753854",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Jurisprudence",
+      "journal_id": "J006",
+      "origin": "crossref",
+      "title": "Sets and systems: a reinterpretation of Hart’s fable",
+      "url": "https://doi.org/10.1080/20403313.2026.2753854"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Clémence Pellissier"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1080/20403313.2026.2753866",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Jurisprudence",
+      "journal_id": "J006",
+      "origin": "crossref",
+      "title": "Causalités",
+      "url": "https://doi.org/10.1080/20403313.2026.2753866"
+    },
+    {
+      "abstract": "",
+      "authors": [
         "Jonathan L Shaheen"
       ],
       "crossref_subtype": "",
@@ -13945,6 +13863,36 @@
       "url": "https://doi.org/10.1111/bioe.70210"
     },
     {
+      "abstract": "ABSTRACT The suggestion that academia should promote political diversity, implying as it does that the status quo is severely deficient, is commonly rejected on the grounds that to do so would require “affirmative action for conservatives.” That conclusion is typically treated as a reductio ad absurdum even by those who support conventional race‐ and sex‐based affirmative action. Nevertheless, this paper defends affirmative action for conservatives on both negative and positive grounds. It argues that since conservatives are discriminated against throughout academia, policies that benefit them in admissions and hiring would not be unjust to those who bear its burden. And it argues that the advantages of increased political diversity would accrue not just to those with heterodox opinions but would improve the intellectual atmosphere of academia at large. Hence, conservative affirmative action promotes the traditional academic mission and its norms of meritocracy, academic freedom, and the pursuit of knowledge; and it is not unjust to those with orthodox political views.",
+      "authors": [
+        "Daniel Jacobson"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1111/papa.70039",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Philosophy &amp; Public Affairs",
+      "journal_id": "J026",
+      "origin": "crossref",
+      "title": "A Defense of Affirmative Action for Conservatives",
+      "url": "https://doi.org/10.1111/papa.70039"
+    },
+    {
+      "abstract": "Abstract This paper defends Matthew Kramer's novel proposal that sometimes an individually borne duty can be owed to correlative right‐holders disjunctively. It extends the proposal, suggesting that sometimes an individually held right entails correlative duties that are borne disjunctively. Drawing on a suggestion from Zofia Stemplowska, the paper argues that this extension of Kramer's proposal can be developed into a new solution to Onora O'Neill's famous claimability objection to natural human rights to goods and services. The idea is that my human right to subsistence supplies—to take one example—entails preinstitutional correlative duties borne by a disjunction of the agents who could help me secure subsistence.",
+      "authors": [
+        "Rowan Cruft"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-10",
+      "doi": "10.1111/raju.70039",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Ratio Juris",
+      "journal_id": "J005",
+      "origin": "crossref",
+      "title": "Can a Duty or a Right Be Held Disjunctively?",
+      "url": "https://doi.org/10.1111/raju.70039"
+    },
+    {
       "abstract": "Abstract Schopenhauer can be considered the first Western philosopher who, throughout all of his philosophical works, recognizes animals as a significant part of ethics. His notion of compassion ( Mitleid ) as the only basis for morally praiseworthy human conduct renders compassion for animals just as morally valuable as compassion for humans. Schopenhauer’s non-normative and non-prescriptive moral philosophy considers their will to life to be the key characteristic that makes humans and animals essentially the same. This allows us to bridge the human–animal divide without disputing potential differences in their abilities to reason, speak, or have interests, their capacity to feel pleasure or pain, or their sense of the future. For Schopenhauer, the origin of compassion and the impulse to act based on it do not spring from moral considerations, reasoning, or calculating, but from one’s own disposition ( Gesinnung ). His perspective therefore has strong parallels with many ethics of care approaches, without making care a moral imperative. In addition, Schopenhauer’s view of animals as “today’s slaves” creates an opportunity to find common ground between the opposing standpoints of contemporary political animal ethics. This includes the voices that often identify as liberationist/abolitionist and those that are often disparagingly labelled as only welfarist.",
       "authors": [
         "Thomas Köllen"
@@ -13958,9 +13906,193 @@
       "origin": "crossref",
       "title": "Because They Are (Like) Us\n                    : On Schopenhauer’s Pioneering Role in Animal Ethics and His Contribution to the Contemporary Debate",
       "url": "https://doi.org/10.1515/mopp-2026-0060"
+    },
+    {
+      "abstract": "Abstract Various voices in business ethics and wider discussions of ethical capitalism endorse instrumental or strategic reasons for being ethical. Yet this orientation has at times eluded sustained philosophical engagement by the business ethics discipline. This article addresses this gap by mapping and critiquing what I term \"enlightened egoism\"—approaches that draw upon instrumental reasoning to derive normative guidance without recourse to duties, rights, values, or questions of the good. Careful reconstruction reveals that enlightened egoist arguments combine descriptive claims about how business operates with normative conclusions about how businesses ought to behave. Variations in these descriptive claims yield three distinct subtypes—evidential egoism, ends-enclosed egoism, and evolutionary egoism—each prominent in contemporary business ethics discourse. Examples are drawn from stakeholder theory, ESG investing (including hedge fund Engine No. 1's engagement with ExxonMobil), and diversity hiring initiatives. Through immanent critique, I demonstrate that enlightened egoism exhibits fundamental instabilities, specifically around indeterminacy in criteria for action, failure to account for heterogeneity, and conceptual slippage into determinist accounts of behavior. These limitations suggest the need for more rigorous integration of instrumental reasoning within—rather than as replacement for—normative ethical frameworks.",
+      "authors": [
+        "Andrew Lynn"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1007/s10551-026-06512-4",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Enlightened Egoism and Its Discontents: Mapping the Business Case for Doing Good",
+      "url": "https://doi.org/10.1007/s10551-026-06512-4"
+    },
+    {
+      "abstract": "Abstract Persistent racialised inequalities continue to shape graduate outcomes in the United Kingdom, despite decades of policy reform, institutional initiatives, and employability-focussed interventions. Racially minoritised graduates consistently experience ethnic penalties in hiring, earnings, and career progression, even when controlling for educational attainment and institutional prestige, with UK-born and international racially minoritised graduates facing structurally distinct but compounding forms of disadvantage. Yet, dominant employability frameworks have positioned employability as an individual responsibility, centred on skills, capitals, and adaptability, thereby obscuring the structural injustices embedded in higher education and labour markets. This paper reframes employability as an ethical domain of pressing importance for both higher education and business ethics. Drawing on an integrated theoretical architecture comprising normative foundations of justice (distributive, procedural, recognition, and epistemic), race-centred lenses (Critical Race Theory, intersectionality, and Bourdieu’s theory of capitals), an accountability spine, and the capabilities approach, it develops the Ethical Employability Framework (race-centred), which redistributes responsibility across universities, employers, and the state within the UK. The framework exposes how employability discourses can function as a form of “misframing”, legitimising inequality by shifting responsibility onto graduates while neglecting systemic exclusion. The paper’s theoretical contributions are hierarchically organised: it reframes employability as an ethical construct; integrates race as a constitutive theoretical concern through a race-centred explanatory architecture; develops an accountability spine that operationalises shared institutional responsibility; adopts the capabilities approach as the evaluative standard for substantive flourishing; and maps these elements into a coherent multi-level framework connecting normative theory to institutional practice. In doing so, the paper advances a justice-oriented agenda for employability scholarship, policy, and practice that places racially minoritised graduates at its centre.",
+      "authors": [
+        "Muhammad Abdul Aziz",
+        "Mohamad Amir Merhabi",
+        "Badawy S. Y. Sayed",
+        "Raphael Oriaghe Oseghale",
+        "Muhammad Umar",
+        "Mohamed Mosaad"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1007/s10551-026-06516-0",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "The Ethics of Employability: Accountability, Justice, and Responsibility in Racialised Graduate Labour Markets",
+      "url": "https://doi.org/10.1007/s10551-026-06516-0"
+    },
+    {
+      "abstract": "Abstract I provide five practical recommendations for ethicists working in AI-focused projects, based on my professional experience. I also contend that ethicists should document and share their experiences through contributions like this one, so that others can learn from their successes and mistakes.",
+      "authors": [
+        "Thomasin Coggins"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1007/s11948-026-00626-8",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Science and Engineering Ethics",
+      "journal_id": "J072",
+      "origin": "crossref",
+      "title": "Five Practical Recommendations for Ethicists Working in AI-Focused Projects",
+      "url": "https://doi.org/10.1007/s11948-026-00626-8"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Kristina Šekrst",
+        "Jeremy McHugh",
+        "Jonathan Cefalu"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1007/s43681-026-01492-7",
+      "first_seen_jst": "2026-11-12",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "AI ethics by design: implementing customizable guardrails for responsible AI development",
+      "url": "https://doi.org/10.1007/s43681-026-01492-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sarah Lafi Aljohani",
+        "Shoaib Jameel"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1007/s43681-026-01500-w",
+      "first_seen_jst": "2026-11-12",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "AI as a reflective companion: preserving human reflective autonomy through inner guidance",
+      "url": "https://doi.org/10.1007/s43681-026-01500-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Javason Kamugisha"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1007/s43681-026-01521-5",
+      "first_seen_jst": "2026-11-12",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Responsible AI for environmental decision-making and climate justice in Uganda: an ethical governance framework within an African context",
+      "url": "https://doi.org/10.1007/s43681-026-01521-5"
+    },
+    {
+      "abstract": "ABSTRACT Following the critiques addressed by postcolonial and decolonial thought against critical theory, we highlight the recognition theory of Axel Honneth, the main representative of the third generation of the Frankfurt, when confronted with postcolonial social struggles of indigenous minorities and their subaltern realities. Though the former implies pointing out limits and critiques of Honnet's recognition theory, we also aim to boost the renewal of such social theory putting forward a series of potentialities implicit to Honneth's theory that remain undeveloped. In this sense, confronting such a theory with the plural concept of ethnic minority along with a concrete case of the Mapuche indigenous people and the postcolonial forms of politics of recognition developed in Latin America, may prove to be a fertile ground to enhance a series of considerations to reshape and develop recognition theory.",
+      "authors": [
+        "Cristóbal Balbontin",
+        "Christian Lazzeri",
+        "Emmanuel Renault",
+        "Ricardo Salas",
+        "Valentina Santoro",
+        "Felix Megret",
+        "Emma Barettoni",
+        "María Beatriz Gutierrez",
+        "Camille Ferey",
+        "Liz Vallejos",
+        "Emmanuel Levine",
+        "Pauline Pauchard"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1111/1467-8675.70090",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Constellations",
+      "journal_id": "J049",
+      "origin": "crossref",
+      "title": "Beyond a Colonial Understanding of Honneth's Recognition Theory: The Case of Mapuche People and Latin America's Politics of Recognition",
+      "url": "https://doi.org/10.1111/1467-8675.70090"
+    },
+    {
+      "abstract": "ABSTRACT This article asks what it would mean for a strike not merely to exercise, demand, or claim rights but to constitute a right through its own existence. Developing the concept of constituent rights in relation to the strike, I describe a mode of existence in which the collective power to act coincides with the right to act. The strike provides an especially useful site for these explorations: The withdrawal of labor complicates any straightforwardly affirmative approach, whereas the constituent relations formed through that withdrawal complicate a straightforwardly negative approach. I approach strikes through the methodological lens of the meanwhile, suspending their outcome as the criterion of their existence in order to attend to how the power to strike is continuously composed and decomposed through affective and transindividual relations. I argue, consequently, that constituent rights themselves may have a transindividual existence. If the right to strike can exist within those relations, however transiently, then the article shifts the question from whether radical politics should remain within or beyond the language of rights to a question of what counts as the existence of rights in the first place.",
+      "authors": [
+        "Morgan Björö"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1111/1467-8675.70094",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Constellations",
+      "journal_id": "J049",
+      "origin": "crossref",
+      "title": "Constituent Rights and the Right to Strike",
+      "url": "https://doi.org/10.1111/1467-8675.70094"
+    },
+    {
+      "abstract": "ABSTRACT According to the so‐called ‘standard theory of conditions’, ‘being a sufficient condition of’ and ‘being a necessary condition of’ are converse relations, that is, if A is a sufficient condition for B , B is a necessary condition for A . This theory faces well‐known counterexamples that appeal to causal and other asymmetric considerations. I show that these counterexamples lose their plausibility once we clarify two key assumptions of the standard theory: that to satisfy a condition is to instantiate a property, and that what is usually called the ‘conditionship relation’ is an inferential relation. Throughout the paper, I favour this way of interpreting the standard theory over an alternative interpretation outlined in causal terms, since it can be applied to all the counterexamples without losing its intuitive appeal.",
+      "authors": [
+        "Matheus Martins Silva"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1111/theo.70135",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Theoria",
+      "journal_id": "J094",
+      "origin": "crossref",
+      "title": "Necessary and Sufficient Conditions Are Converse Relations",
+      "url": "https://doi.org/10.1111/theo.70135"
+    },
+    {
+      "abstract": "Explanatory particularism (EP) is a radically pluralist approach to scientific explanation, which rejects several traditional ideas about explanation: monism, hierarchy, simplicity. Instead, EP defines explanation as resulting from collaborative activity within or among particular epistemic communities. This social theory of explanation offers insights for philosophy of social science, both theoretical and applied. This paper presents some of these insights, using the themes of anti-monism, anti-hierarchy, and commitment to complexity, alongside short case studies of interdisciplinary social science.",
+      "authors": [
+        "Melinda Bonnie Fagan"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1177/00483931261505200",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
+      "origin": "crossref",
+      "title": "Social Explanations: A New Approach",
+      "url": "https://doi.org/10.1177/00483931261505200"
+    },
+    {
+      "abstract": "Does corporate sociopolitical activism violate democratic principles? Critics argue that “woke capitalism” distorts public discourse and politicizes market life. This article focuses on a specific form of corporate sociopolitical activism: expressive activism, where businesses intervene in political discourse through social media posts, advertising campaigns, branding decisions, and the like. I argue that concerns with expressive corporate activism are overstated. To make this argument, I distinguish between integral activism, which reflects the core identity of a business, and incidental activism, which is opportunistic or disconnected from a firm's core values. For the former, such activism has expressive and potential epistemic benefits that can evade the worries surrounding equality and politicization. For the latter, such activism is often a form of grandstanding and is either ignored or generates backlash. The upshot is that complaints about corporate activism focus on symptoms rather than causes of our democratic ills. Our complaints are better directed towards the mechanisms that produce political monocultures at the corporate level, damaging polarization, and excessive politicization.",
+      "authors": [
+        "Harrison Frye"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1177/1470594x261506688",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Politics, Philosophy &amp; Economics",
+      "journal_id": "J039",
+      "origin": "crossref",
+      "title": "Between corporate values and grandstanding: The compatibility of corporate activism with democracy",
+      "url": "https://doi.org/10.1177/1470594x261506688"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-11",
-  "window_start": "2026-09-27"
+  "window_end": "2026-11-12",
+  "window_start": "2026-09-28"
 }

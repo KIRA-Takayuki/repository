@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-11-10T21:20:53.209004+00:00",
-  "collected_on": "2026-11-11",
-  "count": 75,
+  "checked_at_utc": "2026-11-11T22:01:43.661186+00:00",
+  "collected_on": "2026-11-12",
+  "count": 77,
   "items": [
     {
       "crossref_candidate_date": "2026-09-28",
@@ -597,11 +597,27 @@
     },
     {
       "crossref_candidate_date": "2026-11-10",
+      "doi": "10.1111/papa.70039",
+      "first_seen_jst": "2026-11-12",
+      "journal_id": "J026",
+      "status": "unverified_not_introduced",
+      "title": "A Defense of Affirmative Action for Conservatives"
+    },
+    {
+      "crossref_candidate_date": "2026-11-10",
       "doi": "10.1515/mopp-2026-0060",
       "first_seen_jst": "2026-11-10",
       "journal_id": "J041",
       "status": "unverified_not_introduced",
       "title": "Because They Are (Like) Us\n                    : On Schopenhauer’s Pioneering Role in Animal Ethics and His Contribution to the Contemporary Debate"
+    },
+    {
+      "crossref_candidate_date": "2026-11-11",
+      "doi": "10.1177/1470594x261506688",
+      "first_seen_jst": "2026-11-12",
+      "journal_id": "J039",
+      "status": "unverified_not_introduced",
+      "title": "Between corporate values and grandstanding: The compatibility of corporate activism with democracy"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

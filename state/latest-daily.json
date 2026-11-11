@@ -2,8 +2,8 @@
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-10T21:20:53.209004+00:00",
-  "collected_on": "2026-11-11",
+  "checked_at_utc": "2026-11-11T22:01:43.661186+00:00",
+  "collected_on": "2026-11-12",
   "counts": {
     "checked": 135,
     "failed": 1,
@@ -15,95 +15,137 @@
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "This paper explores the use of race as a cause, as in claims that people’s race sometimes causes racial discrimination or that race causes poverty. Such claims are common both in everyday discourse and, to some extent, in the social science literature. One objection to the use of race as a cause derives from an interventionist account of causation: race does not seem to be the sort of property that can be manipulated or changed through interventions. I suggest that when a property has the feature of unmanipulability, this is often an indication that causal claims involving the property are unclear or in need of disambiguation. Such claims often can be replaced by causal claims involving other variables that better capture what is intended. Two sorts of claims in which race is proposed as a cause are discussed: the claim we need to treat race as a cause to make sense of racial discrimination and claims that race can be regarded as a cause of outcomes such as income and educational attainment. I argue that in both cases alternative formulations are preferable. In social scientific cases, claims that race is a cause of some outcome often commit us to unclear counterfactuals that we don’t know how to assess. Moreover, such claims violate other plausible conditions that causal claims ought to satisfy—they are associated with modularity violations, ambiguous interventions and relationships that are not “autonomous” or “structural” in the econometric sense. I argue that such claims are better replaced with investigations that focus on specific racialized economic and social mechanisms that produce racial disadvantage. Although some of my criticisms of claims about causation by race echo those of scholars who focus on “constitutive” rather than causal relations in understanding racial inequality, I nonetheless defend the use of causal analysis as central to addressing such inequalities.",
+      "abstract": "Abstract Various voices in business ethics and wider discussions of ethical capitalism endorse instrumental or strategic reasons for being ethical. Yet this orientation has at times eluded sustained philosophical engagement by the business ethics discipline. This article addresses this gap by mapping and critiquing what I term \"enlightened egoism\"—approaches that draw upon instrumental reasoning to derive normative guidance without recourse to duties, rights, values, or questions of the good. Careful reconstruction reveals that enlightened egoist arguments combine descriptive claims about how business operates with normative conclusions about how businesses ought to behave. Variations in these descriptive claims yield three distinct subtypes—evidential egoism, ends-enclosed egoism, and evolutionary egoism—each prominent in contemporary business ethics discourse. Examples are drawn from stakeholder theory, ESG investing (including hedge fund Engine No. 1's engagement with ExxonMobil), and diversity hiring initiatives. Through immanent critique, I demonstrate that enlightened egoism exhibits fundamental instabilities, specifically around indeterminacy in criteria for action, failure to account for heterogeneity, and conceptual slippage into determinist accounts of behavior. These limitations suggest the need for more rigorous integration of instrumental reasoning within—rather than as replacement for—normative ethical frameworks.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11098-026-02657-0"
+        "publisher:https://doi.org/10.1007/s10551-026-06512-4"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Andrew Lynn"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1007/s10551-026-06512-4",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06512-4",
+      "publisher_online_date": "2026-11-11",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10551-026-06512-4"
+      ],
+      "requires_manual_verification": false,
+      "title": "Enlightened Egoism and Its Discontents: Mapping the Business Case for Doing Good",
+      "url": "https://doi.org/10.1007/s10551-026-06512-4"
+    },
+    {
+      "abstract": "Abstract Persistent racialised inequalities continue to shape graduate outcomes in the United Kingdom, despite decades of policy reform, institutional initiatives, and employability-focussed interventions. Racially minoritised graduates consistently experience ethnic penalties in hiring, earnings, and career progression, even when controlling for educational attainment and institutional prestige, with UK-born and international racially minoritised graduates facing structurally distinct but compounding forms of disadvantage. Yet, dominant employability frameworks have positioned employability as an individual responsibility, centred on skills, capitals, and adaptability, thereby obscuring the structural injustices embedded in higher education and labour markets. This paper reframes employability as an ethical domain of pressing importance for both higher education and business ethics. Drawing on an integrated theoretical architecture comprising normative foundations of justice (distributive, procedural, recognition, and epistemic), race-centred lenses (Critical Race Theory, intersectionality, and Bourdieu’s theory of capitals), an accountability spine, and the capabilities approach, it develops the Ethical Employability Framework (race-centred), which redistributes responsibility across universities, employers, and the state within the UK. The framework exposes how employability discourses can function as a form of “misframing”, legitimising inequality by shifting responsibility onto graduates while neglecting systemic exclusion. The paper’s theoretical contributions are hierarchically organised: it reframes employability as an ethical construct; integrates race as a constitutive theoretical concern through a race-centred explanatory architecture; develops an accountability spine that operationalises shared institutional responsibility; adopts the capabilities approach as the evaluative standard for substantive flourishing; and maps these elements into a coherent multi-level framework connecting normative theory to institutional practice. In doing so, the paper advances a justice-oriented agenda for employability scholarship, policy, and practice that places racially minoritised graduates at its centre.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s10551-026-06516-0"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Muhammad Abdul Aziz",
+        "Mohamad Amir Merhabi",
+        "Badawy S. Y. Sayed",
+        "Raphael Oriaghe Oseghale",
+        "Muhammad Umar",
+        "Mohamed Mosaad"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1007/s10551-026-06516-0",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06516-0",
+      "publisher_online_date": "2026-11-11",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10551-026-06516-0"
+      ],
+      "requires_manual_verification": false,
+      "title": "The Ethics of Employability: Accountability, Justice, and Responsibility in Racialised Graduate Labour Markets",
+      "url": "https://doi.org/10.1007/s10551-026-06516-0"
+    },
+    {
+      "abstract": "Abstract I provide five practical recommendations for ethicists working in AI-focused projects, based on my professional experience. I also contend that ethicists should document and share their experiences through contributions like this one, so that others can learn from their successes and mistakes.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11948-026-00626-8"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Thomasin Coggins"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1007/s11948-026-00626-8",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Science and Engineering Ethics",
+      "journal_id": "J072",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11948-026-00626-8",
+      "publisher_online_date": "2026-11-11",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11948-026-00626-8"
+      ],
+      "requires_manual_verification": false,
+      "title": "Five Practical Recommendations for Ethicists Working in AI-Focused Projects",
+      "url": "https://doi.org/10.1007/s11948-026-00626-8"
+    },
+    {
+      "abstract": "This paper explores the development of an ethical guardrail framework for AI systems, emphasizing the importance of customizable guardrails that align with diverse user values and underlying ethics. We address the challenges of AI ethics by proposing a structure that integrates rules, policies, and AI assistants to ensure responsible AI behavior, while comparing the proposed framework to the existing state-of-the-art guardrails. By focusing on practical mechanisms for implementing ethical standards, we aim to enhance transparency, user autonomy, and continuous improvement in AI systems. Our approach accommodates ethical pluralism, offering a flexible and adaptable solution for the evolving landscape of AI governance. The paper concludes with strategies for resolving conflicts between ethical directives, underscoring the present and future need for robust, nuanced and context-aware AI systems.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01492-7"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "James Woodward"
+        "Kristina Šekrst",
+        "Jeremy McHugh",
+        "Jonathan Cefalu"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1007/s11098-026-02657-0",
-      "first_seen_jst": "2026-11-11",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02657-0",
-      "publisher_online_date": "2026-11-10",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11098-026-02657-0"
-      ],
-      "requires_manual_verification": false,
-      "title": "Race as a cause",
-      "url": "https://doi.org/10.1007/s11098-026-02657-0"
-    },
-    {
-      "abstract": "Abstract Hanno Sauer defines class as socially constructed scarcity generated by competition for status through hard-to-fake intangible signals and concludes that class inequality, although unjust, is practically ineradicable. This reply examines two premises of his account and then proposes an alternative foundation. First, economic resources do not stand on a par with cultural recognition, social contacts, power and prestige, since they constitute a necessary, though not sufficient, precondition of all of these factors. Second, the zero-sum thesis holds only to a limited extent, because intangible status resources can be scaled and divided and because quantitative changes alter the quality of a top position, so that social systems expand and generate new strata. Building on these two results, the reply argues that every ascription of class must be locatable within a matrix of economy and ideology, understood respectively as material resources and as values that cannot be captured in monetary terms. Each of these coordinates is necessary in itself and sufficient only in combination with the other, and all further distinguishing factors find their place within them. Situational changes of status, which Sauer regards as justified, accordingly occur only between positions that lie close together in this matrix. In all of this, the argument proceeds descriptively and does not assess class membership normatively.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s42048-026-00263-7"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Dorothea Winter"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1007/s42048-026-00263-7",
-      "first_seen_jst": "2026-11-11",
-      "journal": "Zeitschrift für Ethik und Moralphilosophie",
-      "journal_id": "J143",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s42048-026-00263-7",
-      "publisher_online_date": "2026-11-10",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s42048-026-00263-7"
-      ],
-      "requires_manual_verification": false,
-      "title": "Beyond status signalling: on the primacy of economy and ideology in class formation",
-      "url": "https://doi.org/10.1007/s42048-026-00263-7"
-    },
-    {
-      "abstract": "Abstract Artificial intelligence (AI)-driven recommender systems increasingly mediate how we consume information, buy products, and form connections. In this conceptual paper, we argue that these systems operationalize two fundamental dimensions of convenience: immediacy and egocentrism. These dimensions of convenience orient users away from long-term, allocentric perspectives and the preservation of agency necessary for responsible engagement with digital technologies. To frame our analysis, we develop a bidimensional model of deliberative space shaped by two opposing forces, convenience and care, and introduce responsible convenience as a normative ideal and conceptual framework for ethical development, regulation, and use of AI-powered recommender systems. Based on hermeneutic methodology and narrative theory, we theorize how structured narrative engagement could raise ethical awareness among users, developers, and regulators, amplifying the force of care and counteracting convenience. A close reading of Gary Shteyngart’s novel Super Sad True Love Story illustrates how narratives may prompt deliberation on the long-term consequences of algorithmically mediated human connection. Future empirical work could examine whether, how, and under what institutional conditions narrative engagement expands temporal and interpersonal horizons and translates care into behavioral, design, or regulatory change.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s43681-026-01487-4"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Anya Workman",
-        "Fernando Nascimento"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1007/s43681-026-01487-4",
-      "first_seen_jst": "2026-11-11",
+      "date": "2026-11-11",
+      "doi": "10.1007/s43681-026-01492-7",
+      "first_seen_jst": "2026-11-12",
       "journal": "AI and Ethics",
       "journal_id": "J023",
       "origin": "crossref",
@@ -114,106 +156,120 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01487-4",
-      "publisher_online_date": "2026-11-10",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01492-7",
+      "publisher_online_date": "2026-11-11",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01487-4"
+        "https://doi.org/10.1007/s43681-026-01492-7"
       ],
       "requires_manual_verification": false,
-      "title": "Toward responsible convenience: a conceptual framework for promoting care in AI recommender systems",
-      "url": "https://doi.org/10.1007/s43681-026-01487-4"
+      "title": "AI ethics by design: implementing customizable guardrails for responsible AI development",
+      "url": "https://doi.org/10.1007/s43681-026-01492-7"
     },
     {
-      "abstract": "",
+      "abstract": "Artificial intelligence increasingly shapes how individuals think, feel, and make decisions, yet most contemporary systems operate through outer guidance, offering recommendations, instructions, or emotional reassurance from the outside. While potentially useful for productivity and support, such systems may also create risks of dependence on algorithmic authority and reduced reflective engagement. This paper proposes an alternative orientation: Artificial Intelligence Supporting Inner Guidance (AI-IG), a conceptual framework for designing minimally directive, autonomy-preserving reflective companions that support individuals in accessing their own cognitive clarity, emotional understanding, and sense of meaning. The proposed framework organises reflective AI interactions across three reflective dimensions–cognitive, emotional, and spiritual. These dimensions are proposed as design abstractions for supporting reflective reasoning, emotional awareness, and existential meaning-making while preserving human autonomy, rather than as a definitive model of human psychology or inner life. Drawing on developments in reflective dialogue systems, digital therapeutics, contemplative technologies, and religious chatbots, the paper articulates a conceptual distinction between outer and inner algorithmic guidance across these reflective dimensions and introduces a unified framework and corresponding system architecture for AI-IG. The proposed architecture includes a Reflective Dialogue Engine, reflective guidance modules, inner-state modelling, and an integrated safety and autonomy foundation. By shifting the role of AI from directing behaviour toward facilitating reflective awareness, AI-IG offers an ethical design framework for meaning-centred AI intended to support human autonomy, reflective agency, and user-authored meaning-making. Rather than replacing human judgment, the framework seeks to preserve the conditions under which individuals remain the primary authors of their own understanding in an increasingly automated world.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/mind/fzag054",
-        "openalex_doi"
+        "publisher:https://doi.org/10.1007/s43681-026-01500-w"
       ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Jonathan L Shaheen"
+        "Sarah Lafi Aljohani",
+        "Shoaib Jameel"
       ],
-      "crossref_online_date": "2026-11-10",
+      "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1093/mind/fzag054",
-      "first_seen_jst": "2026-11-11",
-      "journal": "Mind",
-      "journal_id": "J091",
+      "date": "2026-11-11",
+      "doi": "10.1007/s43681-026-01500-w",
+      "first_seen_jst": "2026-11-12",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
       "origin": "crossref",
       "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_evidence_level": "publisher_doi_matched",
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_check_status": "doi_matched",
       "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01500-w",
+      "publisher_online_date": "2026-11-11",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/mind/fzag054"
+        "https://doi.org/10.1007/s43681-026-01500-w"
       ],
-      "requires_manual_verification": true,
-      "title": "Cavendish\n                    , by Alison Peterman",
-      "url": "https://doi.org/10.1093/mind/fzag054"
+      "requires_manual_verification": false,
+      "title": "AI as a reflective companion: preserving human reflective autonomy through inner guidance",
+      "url": "https://doi.org/10.1007/s43681-026-01500-w"
     },
     {
-      "abstract": "",
+      "abstract": "Artificial intelligence can extend environmental monitoring, identify patterns and support public administration. It can also magnify the gaps in the evidence on which environmental decisions depend. This article asks how public institutions in a materially constrained setting should govern AI-assisted environmental decisions without weakening climate justice or administrative legality. Uganda is the principal case. Kenya and Nigeria provide bounded African comparisons. The study uses doctrinal analysis, a purposive review of technical and governance scholarship, and focused comparison of international and African instruments. It finds that generic ethical principles are insufficient where sensor coverage is uneven, models are difficult to validate, and public agencies depend on suppliers. It also finds that climate justice requires more than accurate prediction. Distribution, recognition, participation, intergenerational responsibility and an effective route to challenge official action must shape the whole system life cycle. The article develops an Ethical Governance Framework for Responsible AI (EGF-RAI). The framework links evidence integrity, justice, institutional control and accountable public authority. It requires location-sensitive validation, uncertainty records, community participation, procurement safeguards, reasoned human decisions, incident reporting and reversible deployment. The framework is a normative design rather than an empirical proof of effectiveness. It offers a testable and resource-conscious basis for pilots in air-quality administration, environmental assessment and forest-carbon governance.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/mind/fzag055",
-        "openalex_doi"
+        "publisher:https://doi.org/10.1007/s43681-026-01521-5"
       ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "David Egan"
+        "Javason Kamugisha"
       ],
-      "crossref_online_date": "2026-11-10",
+      "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1093/mind/fzag055",
-      "first_seen_jst": "2026-11-11",
-      "journal": "Mind",
-      "journal_id": "J091",
+      "date": "2026-11-11",
+      "doi": "10.1007/s43681-026-01521-5",
+      "first_seen_jst": "2026-11-12",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
       "origin": "crossref",
       "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_evidence_level": "publisher_doi_matched",
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_check_status": "doi_matched",
       "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01521-5",
+      "publisher_online_date": "2026-11-11",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/mind/fzag055"
+        "https://doi.org/10.1007/s43681-026-01521-5"
       ],
-      "requires_manual_verification": true,
-      "title": "The Character Sketch as Philosophy: Manners, Mores, Types\n                    , by Katie Ebner-Landy",
-      "url": "https://doi.org/10.1093/mind/fzag055"
+      "requires_manual_verification": false,
+      "title": "Responsible AI for environmental decision-making and climate justice in Uganda: an ethical governance framework within an African context",
+      "url": "https://doi.org/10.1007/s43681-026-01521-5"
     },
     {
-      "abstract": "Abstract I argue that not all belief-relative normative principles can be represented as requiring the maximization of expected utility. The argument imposes no limits on the distinctions that utility functions can draw, but relies instead on a connection between decision-theoretic representability and uncertainty about one’s own beliefs. By contrast, I argue that evidence-relative normative principles, which say what to do given what would be rational to believe, always admit of such a representation, so long as uncertainty about epistemic rationality is limited in independently plausible ways.",
+      "abstract": "ABSTRACT Following the critiques addressed by postcolonial and decolonial thought against critical theory, we highlight the recognition theory of Axel Honneth, the main representative of the third generation of the Frankfurt, when confronted with postcolonial social struggles of indigenous minorities and their subaltern realities. Though the former implies pointing out limits and critiques of Honnet's recognition theory, we also aim to boost the renewal of such social theory putting forward a series of potentialities implicit to Honneth's theory that remain undeveloped. In this sense, confronting such a theory with the plural concept of ethnic minority along with a concrete case of the Mapuche indigenous people and the postcolonial forms of politics of recognition developed in Latin America, may prove to be a fertile ground to enhance a series of considerations to reshape and develop recognition theory.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/mind/fzag056"
+        "publisher:https://doi.org/10.1111/1467-8675.70090",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8675.70090",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8675.70090"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Pablo Zendejas Medina"
+        "Cristóbal Balbontin",
+        "Christian Lazzeri",
+        "Emmanuel Renault",
+        "Ricardo Salas",
+        "Valentina Santoro",
+        "Felix Megret",
+        "Emma Barettoni",
+        "María Beatriz Gutierrez",
+        "Camille Ferey",
+        "Liz Vallejos",
+        "Emmanuel Levine",
+        "Pauline Pauchard"
       ],
-      "crossref_online_date": "2026-11-10",
+      "crossref_online_date": "2026-11-11",
       "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1093/mind/fzag056",
-      "first_seen_jst": "2026-11-11",
-      "journal": "Mind",
-      "journal_id": "J091",
+      "date": "2026-11-11",
+      "doi": "10.1111/1467-8675.70090",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Constellations",
+      "journal_id": "J049",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -224,31 +280,35 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/mind/fzag056"
+        "https://doi.org/10.1111/1467-8675.70090",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8675.70090",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8675.70090"
       ],
       "requires_manual_verification": true,
-      "title": "Could All Rules Have Goals?",
-      "url": "https://doi.org/10.1093/mind/fzag056"
+      "title": "Beyond a Colonial Understanding of Honneth's Recognition Theory: The Case of Mapuche People and Latin America's Politics of Recognition",
+      "url": "https://doi.org/10.1111/1467-8675.70090"
     },
     {
-      "abstract": "Abstract What makes biodiversity valuable? I offer a new account of the value of one aspect of biodiversity—diversity of sentient animal species. I propose and defend the Positive Engagement Principle (PEP): that it is intrinsically valuable that more aspects of reality are positively engaged with by sentient beings. I argue that diversity of sentient animals is instrumentally valuable because it enables a wider range of such engagements through the diverse forms of perception, understanding, appreciation, and action available to animals of different species. I compare PEP with two recent accounts of the value of diversity of animal experiences—Livermore’s Heteric Welfarism and James’s Lifeworld account—and argue that PEP better captures the distinctive value of world-directed experiences across species.",
+      "abstract": "ABSTRACT This article asks what it would mean for a strike not merely to exercise, demand, or claim rights but to constitute a right through its own existence. Developing the concept of constituent rights in relation to the strike, I describe a mode of existence in which the collective power to act coincides with the right to act. The strike provides an especially useful site for these explorations: The withdrawal of labor complicates any straightforwardly affirmative approach, whereas the constituent relations formed through that withdrawal complicate a straightforwardly negative approach. I approach strikes through the methodological lens of the meanwhile, suspending their outcome as the criterion of their existence in order to attend to how the power to strike is continuously composed and decomposed through affective and transindividual relations. I argue, consequently, that constituent rights themselves may have a transindividual existence. If the right to strike can exist within those relations, however transiently, then the article shifts the question from whether radical politics should remain within or beyond the language of rights to a question of what counts as the existence of rights in the first place.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/monist/onag030"
+        "publisher:https://doi.org/10.1111/1467-8675.70094",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8675.70094",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8675.70094"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Gary David O’Brien"
+        "Morgan Björö"
       ],
-      "crossref_online_date": "2026-11-10",
+      "crossref_online_date": "2026-11-11",
       "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1093/monist/onag030",
-      "first_seen_jst": "2026-11-11",
-      "journal": "The Monist",
-      "journal_id": "J090",
+      "date": "2026-11-11",
+      "doi": "10.1111/1467-8675.70094",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Constellations",
+      "journal_id": "J049",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -259,31 +319,35 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/monist/onag030"
+        "https://doi.org/10.1111/1467-8675.70094",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8675.70094",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8675.70094"
       ],
       "requires_manual_verification": true,
-      "title": "Biodiversity and the Value of Positive Engagement with Reality",
-      "url": "https://doi.org/10.1093/monist/onag030"
+      "title": "Constituent Rights and the Right to Strike",
+      "url": "https://doi.org/10.1111/1467-8675.70094"
     },
     {
-      "abstract": "Abstract Academic ethicists who engage in activism frequently face two categories of objection: that they overstep their expertise by prescribing practical action, and that activism is incompatible with contributing to ethical progress. This paper focuses on the latter, investigating the extent to which activism is compatible with the discipline’s cognitive goals. I define activism as a partisan, sustained, and personal effort aimed at social change, and adopt a notion of disciplinary ethical progress based on the discipline’s ability to enable understanding in a maximally inclusive audience. On this basis, I articulate progress-based objections, distinguishing between “outward” threats to public uptake and “inward” threats to the integrity of inquiry. Drawing on feminist philosophy of science, I argue that activism can function as a corrective to “ivory tower” worries like isolation or triviality. I conclude by proposing an evaluative framework to assess the compatibility of specific activist engagements with disciplinary ethical progress.",
+      "abstract": "ABSTRACT According to the so‐called ‘standard theory of conditions’, ‘being a sufficient condition of’ and ‘being a necessary condition of’ are converse relations, that is, if A is a sufficient condition for B , B is a necessary condition for A . This theory faces well‐known counterexamples that appeal to causal and other asymmetric considerations. I show that these counterexamples lose their plausibility once we clarify two key assumptions of the standard theory: that to satisfy a condition is to instantiate a property, and that what is usually called the ‘conditionship relation’ is an inferential relation. Throughout the paper, I favour this way of interpreting the standard theory over an alternative interpretation outlined in causal terms, since it can be applied to all the counterexamples without losing its intuitive appeal.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/monist/onag035"
+        "publisher:https://doi.org/10.1111/theo.70135",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/theo.70135",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/theo.70135"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Tanja Rechnitzer"
+        "Matheus Martins Silva"
       ],
-      "crossref_online_date": "2026-11-10",
+      "crossref_online_date": "2026-11-11",
       "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1093/monist/onag035",
-      "first_seen_jst": "2026-11-11",
-      "journal": "The Monist",
-      "journal_id": "J090",
+      "date": "2026-11-11",
+      "doi": "10.1111/theo.70135",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Theoria",
+      "journal_id": "J094",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -294,31 +358,33 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/monist/onag035"
+        "https://doi.org/10.1111/theo.70135",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/theo.70135",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/theo.70135"
       ],
       "requires_manual_verification": true,
-      "title": "Activism and Disciplinary Ethical Progress",
-      "url": "https://doi.org/10.1093/monist/onag035"
+      "title": "Necessary and Sufficient Conditions Are Converse Relations",
+      "url": "https://doi.org/10.1111/theo.70135"
     },
     {
-      "abstract": "Abstract Derek Parfit famously argues that the best versions of (rule) consequentialism and nonconsequentialism converge—roughly, that impersonally optimific moral principles are uniquely universally willable and alternatives to them reasonably rejectable. An important part of making this case is arguing that the key nonconsequentialist distinction between harming as a means and harming as a side effect lacks an adequate rationale. Building on work by Frances Kamm and Stephen Darwall, I argue that there is such a rationale in terms of differential impact on relational equality between the victim and the beneficiary. Roughly, because nonconsensually harming A as a means of benefiting B subordinates A’s good to B’s good and harming as a side effect doesn’t do so, A has a stronger reason to reject principles that allow harming as a means. The problem isn’t, e.g., being forced to serve the agent’s goals, but rather being forced to serve others, which isn’t the case when one is harmed as a side effect. The legitimacy of such complaints is grounded in our authority to demand being treated as an equal rather than in the badness of harm. They are thus fundamentally second-personal. The broader lesson is that the fundamental disagreement between moral theories derives from their conception of the sources of reasons, which renders convergence unlikely.",
+      "abstract": "Explanatory particularism (EP) is a radically pluralist approach to scientific explanation, which rejects several traditional ideas about explanation: monism, hierarchy, simplicity. Instead, EP defines explanation as resulting from collaborative activity within or among particular epistemic communities. This social theory of explanation offers insights for philosophy of social science, both theoretical and applied. This paper presents some of these insights, using the themes of anti-monism, anti-hierarchy, and commitment to complexity, alongside short case studies of interdisciplinary social science.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/monist/onag036"
+        "publisher:https://doi.org/10.1177/00483931261505200"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Antti Kauppinen"
+        "Melinda Bonnie Fagan"
       ],
-      "crossref_online_date": "2026-11-10",
+      "crossref_online_date": "2026-11-11",
       "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1093/monist/onag036",
-      "first_seen_jst": "2026-11-11",
-      "journal": "The Monist",
-      "journal_id": "J090",
+      "date": "2026-11-11",
+      "doi": "10.1177/00483931261505200",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -329,87 +395,46 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/monist/onag036"
+        "https://doi.org/10.1177/00483931261505200"
       ],
       "requires_manual_verification": true,
-      "title": "Relational Equality and the Morality of Harming: Why Consequentialists and Nonconsequentialists Are Climbing Different Mountains",
-      "url": "https://doi.org/10.1093/monist/onag036"
+      "title": "Social Explanations: A New Approach",
+      "url": "https://doi.org/10.1177/00483931261505200"
     },
     {
-      "abstract": "",
+      "abstract": "Does corporate sociopolitical activism violate democratic principles? Critics argue that “woke capitalism” distorts public discourse and politicizes market life. This article focuses on a specific form of corporate sociopolitical activism: expressive activism, where businesses intervene in political discourse through social media posts, advertising campaigns, branding decisions, and the like. I argue that concerns with expressive corporate activism are overstated. To make this argument, I distinguish between integral activism, which reflects the core identity of a business, and incidental activism, which is opportunistic or disconnected from a firm's core values. For the former, such activism has expressive and potential epistemic benefits that can evade the worries surrounding equality and politicization. For the latter, such activism is often a form of grandstanding and is either ignored or generates backlash. The upshot is that complaints about corporate activism focus on symptoms rather than causes of our democratic ills. Our complaints are better directed towards the mechanisms that produce political monocultures at the corporate level, damaging polarization, and excessive politicization.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1111/bioe.70210",
-        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70210",
-        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70210",
-        "openalex_doi"
-      ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Andrew McGee",
-        "Dale Gardiner"
-      ],
-      "crossref_online_date": "2026-11-10",
-      "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1111/bioe.70210",
-      "first_seen_jst": "2026-11-11",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1111/bioe.70210",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70210",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70210"
-      ],
-      "requires_manual_verification": true,
-      "title": "On Being Biologically Alive but Legally Dead",
-      "url": "https://doi.org/10.1111/bioe.70210"
-    },
-    {
-      "abstract": "Abstract Schopenhauer can be considered the first Western philosopher who, throughout all of his philosophical works, recognizes animals as a significant part of ethics. His notion of compassion ( Mitleid ) as the only basis for morally praiseworthy human conduct renders compassion for animals just as morally valuable as compassion for humans. Schopenhauer’s non-normative and non-prescriptive moral philosophy considers their will to life to be the key characteristic that makes humans and animals essentially the same. This allows us to bridge the human–animal divide without disputing potential differences in their abilities to reason, speak, or have interests, their capacity to feel pleasure or pain, or their sense of the future. For Schopenhauer, the origin of compassion and the impulse to act based on it do not spring from moral considerations, reasoning, or calculating, but from one’s own disposition ( Gesinnung ). His perspective therefore has strong parallels with many ethics of care approaches, without making care a moral imperative. In addition, Schopenhauer’s view of animals as “today’s slaves” creates an opportunity to find common ground between the opposing standpoints of contemporary political animal ethics. This includes the voices that often identify as liberationist/abolitionist and those that are often disparagingly labelled as only welfarist.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1515/mopp-2026-0060"
+        "publisher:https://doi.org/10.1177/1470594x261506688"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Thomas Köllen"
+        "Harrison Frye"
       ],
-      "crossref_online_date": "2026-11-10",
+      "crossref_online_date": "2026-11-11",
       "crossref_subtype": "",
-      "date": "2026-11-10",
-      "doi": "10.1515/mopp-2026-0060",
-      "first_seen_jst": "2026-11-10",
-      "journal": "Moral Philosophy and Politics",
-      "journal_id": "J041",
+      "date": "2026-11-11",
+      "doi": "10.1177/1470594x261506688",
+      "first_seen_jst": "2026-11-12",
+      "journal": "Politics, Philosophy &amp; Economics",
+      "journal_id": "J039",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_doi_not_confirmed",
+      "publisher_check_status": "publisher_request_failed_HTTPError",
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": false,
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1515/mopp-2026-0060"
+        "https://doi.org/10.1177/1470594x261506688"
       ],
       "requires_manual_verification": true,
-      "title": "Because They Are (Like) Us\n                    : On Schopenhauer’s Pioneering Role in Animal Ethics and His Contribution to the Contemporary Debate",
-      "url": "https://doi.org/10.1515/mopp-2026-0060"
+      "title": "Between corporate values and grandstanding: The compatibility of corporate activism with democracy",
+      "url": "https://doi.org/10.1177/1470594x261506688"
     }
   ],
   "journal_total": 145,
@@ -421,15 +446,15 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 75,
+  "political_backlog_unverified_count": 77,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 3,
+  "publisher_first_online_in_window_verified_count": 6,
   "raw_candidate_count": 11,
-  "research_candidate_abstracts_available": 8,
-  "research_candidate_abstracts_missing": 3,
+  "research_candidate_abstracts_available": 11,
+  "research_candidate_abstracts_missing": 0,
   "research_candidate_suspect_abstracts": 0,
   "research_candidate_unverified_count": 11,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-11",
-  "window_start_jst": "2026-11-10"
+  "window_end_jst": "2026-11-12",
+  "window_start_jst": "2026-11-11"
 }

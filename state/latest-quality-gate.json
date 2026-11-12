@@ -1,51 +1,62 @@
 {
   "status": "structurally_valid_not_semantically_verified",
-  "checked_on_jst": "2026-11-12",
-  "raw_candidates": 11,
+  "checked_on_jst": "2026-11-13",
+  "raw_candidates": 16,
   "already_introduced": 0,
-  "eligible_candidates": 11,
+  "eligible_candidates": 16,
   "publisher_date_evidence_counts": {
-    "publisher_doi_matched": 6,
-    "crossref_published_online_only": 5,
+    "publisher_doi_matched": 10,
+    "crossref_published_online_only": 6,
     "unconfirmed": 0
   },
-  "manual_review_required_count": 5,
+  "manual_review_required_count": 6,
   "manual_review_required": [
     {
-      "doi": "10.1111/1467-8675.70090",
+      "doi": "10.1080/1535685x.2026.2735588",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1093/ajj/auag026",
       "reasons": [
         "publisher first-online date not independently verified"
       ]
     },
     {
-      "doi": "10.1111/1467-8675.70094",
+      "doi": "10.1093/ajj/auag028",
       "reasons": [
         "publisher first-online date not independently verified"
       ]
     },
     {
-      "doi": "10.1111/theo.70135",
+      "doi": "10.1093/analys/anag086",
       "reasons": [
-        "publisher first-online date not independently verified"
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
       ]
     },
     {
-      "doi": "10.1177/00483931261505200",
+      "doi": "10.1136/jme-2025-111640",
       "reasons": [
-        "publisher first-online date not independently verified"
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
       ]
     },
     {
-      "doi": "10.1177/1470594x261506688",
+      "doi": "10.1136/jme-2026-112033",
       "reasons": [
-        "publisher first-online date not independently verified"
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
       ]
     }
   ],
   "ready_for_automatic_formal_introduction": false,
   "errors": [],
   "warnings": [
-    "5 eligible candidates require manual semantic verification"
+    "4 research candidates lack abstracts",
+    "6 eligible candidates require manual semantic verification"
   ],
   "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."
 }

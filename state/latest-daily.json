@@ -2,35 +2,35 @@
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-11T22:01:43.661186+00:00",
-  "collected_on": "2026-11-12",
+  "checked_at_utc": "2026-11-12T21:52:58.130912+00:00",
+  "collected_on": "2026-11-13",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 11,
+  "eligible_candidate_count": 16,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "Abstract Various voices in business ethics and wider discussions of ethical capitalism endorse instrumental or strategic reasons for being ethical. Yet this orientation has at times eluded sustained philosophical engagement by the business ethics discipline. This article addresses this gap by mapping and critiquing what I term \"enlightened egoism\"—approaches that draw upon instrumental reasoning to derive normative guidance without recourse to duties, rights, values, or questions of the good. Careful reconstruction reveals that enlightened egoist arguments combine descriptive claims about how business operates with normative conclusions about how businesses ought to behave. Variations in these descriptive claims yield three distinct subtypes—evidential egoism, ends-enclosed egoism, and evolutionary egoism—each prominent in contemporary business ethics discourse. Examples are drawn from stakeholder theory, ESG investing (including hedge fund Engine No. 1's engagement with ExxonMobil), and diversity hiring initiatives. Through immanent critique, I demonstrate that enlightened egoism exhibits fundamental instabilities, specifically around indeterminacy in criteria for action, failure to account for heterogeneity, and conceptual slippage into determinist accounts of behavior. These limitations suggest the need for more rigorous integration of instrumental reasoning within—rather than as replacement for—normative ethical frameworks.",
+      "abstract": "Organizational mindfulness interventions are widely thought to enhance ethical awareness, self-regulation, and prosocial work behavior. Yet emerging research suggests that their effects may be more contingent than commonly assumed. In this paper, I theorize that mindfulness training can yield ethically problematic outcomes for employees who are high in dispositional Machiavellianism. Findings from a large multi-wave field experiment with both active and passive control conditions support this account. Results show that mindfulness training enlivened Machiavellians’ contempt, anger, and disgust (collectively termed affective condemnation ) for their coworkers. This, in turn, translated into higher levels of enacted workplace incivility—a subtle, deniable form of interpersonal mistreatment. By contrast, consistent with Machiavellians’ calculated and reputation-conscious proclivities, the corresponding conditional indirect effect on interpersonal deviance was not significant. These effects remained robust when accounting for generalized negative affect, other dark personality traits, and several theoretically distinct, plausible alternative mechanisms. By identifying Machiavellianism as a critical boundary condition, this research challenges the assumption that organizational mindfulness interventions are ethically neutral or unwaveringly prosocial. More broadly, it reveals that mindfulness training can exert ethically contingent effects by enlivening dispositionally grounded condemnatory affect, underscoring the importance of considering how employee personality shapes the ethical consequences of organizational mindfulness interventions.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10551-026-06512-4"
+        "publisher:https://doi.org/10.1007/s10551-026-06513-3"
       ],
       "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
+      "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Andrew Lynn"
+        "Adam A. Kay"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1007/s10551-026-06512-4",
-      "first_seen_jst": "2026-11-12",
+      "date": "2026-11-12",
+      "doi": "10.1007/s10551-026-06513-3",
+      "first_seen_jst": "2026-11-13",
       "journal": "Journal of Business Ethics",
       "journal_id": "J057",
       "origin": "crossref",
@@ -41,111 +41,214 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06512-4",
-      "publisher_online_date": "2026-11-11",
+      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06513-3",
+      "publisher_online_date": "2026-11-12",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10551-026-06512-4"
+        "https://doi.org/10.1007/s10551-026-06513-3"
       ],
       "requires_manual_verification": false,
-      "title": "Enlightened Egoism and Its Discontents: Mapping the Business Case for Doing Good",
-      "url": "https://doi.org/10.1007/s10551-026-06512-4"
+      "title": "The Dark Side of Mindfulness at Work: How Mindfulness Training Enlivens Machiavellian Incivility",
+      "url": "https://doi.org/10.1007/s10551-026-06513-3"
     },
     {
-      "abstract": "Abstract Persistent racialised inequalities continue to shape graduate outcomes in the United Kingdom, despite decades of policy reform, institutional initiatives, and employability-focussed interventions. Racially minoritised graduates consistently experience ethnic penalties in hiring, earnings, and career progression, even when controlling for educational attainment and institutional prestige, with UK-born and international racially minoritised graduates facing structurally distinct but compounding forms of disadvantage. Yet, dominant employability frameworks have positioned employability as an individual responsibility, centred on skills, capitals, and adaptability, thereby obscuring the structural injustices embedded in higher education and labour markets. This paper reframes employability as an ethical domain of pressing importance for both higher education and business ethics. Drawing on an integrated theoretical architecture comprising normative foundations of justice (distributive, procedural, recognition, and epistemic), race-centred lenses (Critical Race Theory, intersectionality, and Bourdieu’s theory of capitals), an accountability spine, and the capabilities approach, it develops the Ethical Employability Framework (race-centred), which redistributes responsibility across universities, employers, and the state within the UK. The framework exposes how employability discourses can function as a form of “misframing”, legitimising inequality by shifting responsibility onto graduates while neglecting systemic exclusion. The paper’s theoretical contributions are hierarchically organised: it reframes employability as an ethical construct; integrates race as a constitutive theoretical concern through a race-centred explanatory architecture; develops an accountability spine that operationalises shared institutional responsibility; adopts the capabilities approach as the evaluative standard for substantive flourishing; and maps these elements into a coherent multi-level framework connecting normative theory to institutional practice. In doing so, the paper advances a justice-oriented agenda for employability scholarship, policy, and practice that places racially minoritised graduates at its centre.",
+      "abstract": "The ethics of travel is a common topic in the media and in the social sciences, but it has not been a major focus of attention for moral philosophers. This introduction suggests that an emerging ethics of travel can nonetheless be drawn from existing work, even though it is not yet widely recognized as a subfield of moral philosophy. It traces early modern reflections on travel and moral education, more recent discussions of the costs of travel for local populations, and four newer strands concerned with the environmental costs of travel, its epistemic value, tourists’ attitudes, and the politics of leisure tourism. It then presents the contributions to the special issue The Ethics of Travel, which are organized around two questions: what reasons can justify travel, and what makes travel morally problematic?",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10551-026-06516-0"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Muhammad Abdul Aziz",
-        "Mohamad Amir Merhabi",
-        "Badawy S. Y. Sayed",
-        "Raphael Oriaghe Oseghale",
-        "Muhammad Umar",
-        "Mohamed Mosaad"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1007/s10551-026-06516-0",
-      "first_seen_jst": "2026-11-12",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06516-0",
-      "publisher_online_date": "2026-11-11",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10551-026-06516-0"
-      ],
-      "requires_manual_verification": false,
-      "title": "The Ethics of Employability: Accountability, Justice, and Responsibility in Racialised Graduate Labour Markets",
-      "url": "https://doi.org/10.1007/s10551-026-06516-0"
-    },
-    {
-      "abstract": "Abstract I provide five practical recommendations for ethicists working in AI-focused projects, based on my professional experience. I also contend that ethicists should document and share their experiences through contributions like this one, so that others can learn from their successes and mistakes.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11948-026-00626-8"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Thomasin Coggins"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1007/s11948-026-00626-8",
-      "first_seen_jst": "2026-11-12",
-      "journal": "Science and Engineering Ethics",
-      "journal_id": "J072",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11948-026-00626-8",
-      "publisher_online_date": "2026-11-11",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11948-026-00626-8"
-      ],
-      "requires_manual_verification": false,
-      "title": "Five Practical Recommendations for Ethicists Working in AI-Focused Projects",
-      "url": "https://doi.org/10.1007/s11948-026-00626-8"
-    },
-    {
-      "abstract": "This paper explores the development of an ethical guardrail framework for AI systems, emphasizing the importance of customizable guardrails that align with diverse user values and underlying ethics. We address the challenges of AI ethics by proposing a structure that integrates rules, policies, and AI assistants to ensure responsible AI behavior, while comparing the proposed framework to the existing state-of-the-art guardrails. By focusing on practical mechanisms for implementing ethical standards, we aim to enhance transparency, user autonomy, and continuous improvement in AI systems. Our approach accommodates ethical pluralism, offering a flexible and adaptable solution for the evolving landscape of AI governance. The paper concludes with strategies for resolving conflicts between ethical directives, underscoring the present and future need for robust, nuanced and context-aware AI systems.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s43681-026-01492-7"
+        "publisher:https://doi.org/10.1007/s10892-026-09590-8"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Kristina Šekrst",
-        "Jeremy McHugh",
-        "Jonathan Cefalu"
+        "Pilar Lopez-Cantero",
+        "Willem van der Deijl"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1007/s43681-026-01492-7",
-      "first_seen_jst": "2026-11-12",
+      "date": "2026-11-12",
+      "doi": "10.1007/s10892-026-09590-8",
+      "first_seen_jst": "2026-11-13",
+      "journal": "The Journal of Ethics",
+      "journal_id": "J055",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10892-026-09590-8",
+      "publisher_online_date": "2026-11-12",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10892-026-09590-8"
+      ],
+      "requires_manual_verification": false,
+      "title": "The Ethics of Travel",
+      "url": "https://doi.org/10.1007/s10892-026-09590-8"
+    },
+    {
+      "abstract": "Abstract What happens when a person redeems herself? According to interminability theorists, a redeemed person remains blameworthy but may cease to be an all-things-considered appropriate target of blame. According to many terminability theorists, however, a redeemed person ceases to be blameworthy. While terminability theorists often agree that redemption is sufficient for a person to cease being blameworthy, they disagree about what aspect of redemption undermines a person’s blameworthiness for her earlier wrongs. I do three things in this paper. First, I argue that the interminability theorist’s response is untenable. Second, I argue that extent terminability accounts are untenable. Third, I propose a new terminability account, The Redemption Account, which aims to capture the insights from extant terminability accounts.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11098-026-02631-w"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Benjamin Matheson"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-12",
+      "doi": "10.1007/s11098-026-02631-w",
+      "first_seen_jst": "2026-11-13",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02631-w",
+      "publisher_online_date": "2026-11-12",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11098-026-02631-w"
+      ],
+      "requires_manual_verification": false,
+      "title": "Blame and redemption",
+      "url": "https://doi.org/10.1007/s11098-026-02631-w"
+    },
+    {
+      "abstract": "Abstract Ontic structural realism (OSR) has been suggested as a metaphysics for quantum field theory (QFT). A common objection to OSR highlights the presence of fundamental intrinsic properties in physical theories (such as QFT) as undermining OSR. As there are purported examples of fundamental intrinsic properties possessed by fields in QFT, OSR is purportedly refuted in QFT (Berghofer, 2018). This article defends OSR from this argument. There are two possible strategies for responding to this argument: (1) denying that Berghofer’s counterexamples to OSR are intrinsic properties, and (2) finding a means of accommodating intrinsic properties in OSR. I consider the first strategy and discuss several possible arguments why the purported cases of fundamental intrinsic properties in QFT are non-intrinsic. Additionally, as there are a number of means available for OSR to accommodate intrinsic properties, the second strategy also succeeds.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11098-026-02650-7"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Aiden Meyer"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-12",
+      "doi": "10.1007/s11098-026-02650-7",
+      "first_seen_jst": "2026-11-13",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02650-7",
+      "publisher_online_date": "2026-11-12",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11098-026-02650-7"
+      ],
+      "requires_manual_verification": false,
+      "title": "Defending ontic structural realism in quantum field theory",
+      "url": "https://doi.org/10.1007/s11098-026-02650-7"
+    },
+    {
+      "abstract": "Abstract Felt emotional ambivalence, bittersweet emotional experience, and other cases of apparent coexistence between affectively discordant emotions raise a much-debated empirical question: do affectively discordant feelings actually coexist (Coexistence hypothesis), or do they just seem to us to do so, due to their rapid alternation (Vacillation hypothesis)? This paper seeks to clarify what is at stake in addressing this question, without thereby endorsing any of the standard answers to it as the debate is usually framed; instead, it argues that coexistence and vacillation are best treated as distinct, context‑dependent mechanisms rather than rival global accounts of mixed affect. The analysis I propose reveals that the denial of Coexistence does not directly depend on commitment to ‘bipolar’ models of affective valence as is normally accepted, since the polar opposition of pleasure and unpleasure does not by itself exclude Coexistence. Rather, this denial stems from commitment to a particular ontology of emotions, namely, the view that occurrent emotions are partly constituted from a simple , unitary core affect state that, at any given instant, must bear either positive or negative valence. Having disentangled the Vacillation hypothesis from debates about the structure of valence, the paper further argues that recent psychology literature has misinterpreted Kahneman’s ‘vacillation hypothesis’, overgeneralizing it beyond its original theoretical context. Kahneman originally proposed Vacillation for specific cases involving commensurable evaluative comparisons (e.g., framing effects in economic decision-making), not as a general account of mixed emotional affect. The paper thus distinguishes between two mechanisms: vacillation, which applies when competing evaluations operate on a shared metric, and coexistence, which applies to cases in which emotion episodes are focused on distinct, incommensurable value-aspects of emotional situations.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11245-026-10493-4"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Michele Davide Ombrato"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-12",
+      "doi": "10.1007/s11245-026-10493-4",
+      "first_seen_jst": "2026-11-13",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10493-4",
+      "publisher_online_date": "2026-11-12",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11245-026-10493-4"
+      ],
+      "requires_manual_verification": false,
+      "title": "Clarifying the Structure of Current Debates on Mixed Affect: Ontologies of Emotion, Models of Valence, and the Scope of Kahneman’s ‘Vacillation Hypothesis’",
+      "url": "https://doi.org/10.1007/s11245-026-10493-4"
+    },
+    {
+      "abstract": "This article develops the concept of manipulative injustice to identify a normative vulnerability in legal argument schemes. Dialectical models of legal argumentation do not themselves prescribe the allocation of burdens found in particular legal doctrines, nor are they incapable of representing strategic or bad-faith speech. However, even dialectical legal argument schemes may be vulnerable to asymmetrical burdens of proof with inadequate mechanisms for addressing pretext, evasion, and bad faith. The article develops this claim through the treatment of pretext and bad faith, focusing on the McDonnell Douglas burden-shifting framework and the “Pretext Plus” approach associated with St. Mary’s Honor Center v. Hicks . This comparison reveals an important distinction between the dialectical defeat of an explanation and the legal sufficiency of a claim. I argue that manipulative injustice can arise when asymmetrical burdens of proof converge with inadequate inferential mechanisms for evaluating objective and circumstantial evidence of concealed motive. The article identifies three dimensions for evaluating such schemes: evidence conditions, specifying what evidence supports an inference of pretext or bad faith; defeat conditions, specifying when such evidence defeats a proffered explanation; and consequence conditions, specifying what legal significance follows from that defeat. Manipulative injustice thus provides a diagnostic framework for evaluating when legally instantiated argument schemes become vulnerable to strategic manipulation.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11245-026-10503-5"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Kevin Scott Jobe"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-12",
+      "doi": "10.1007/s11245-026-10503-5",
+      "first_seen_jst": "2026-11-13",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10503-5",
+      "publisher_online_date": "2026-11-12",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11245-026-10503-5"
+      ],
+      "requires_manual_verification": false,
+      "title": "Manipulative Injustice: Pretextual Speech and Dialectic Legal Argumentation",
+      "url": "https://doi.org/10.1007/s11245-026-10503-5"
+    },
+    {
+      "abstract": "This article examines the integration of artificial intelligence into Catholic higher education through an Aristotelian and theological framework. It argues that contemporary AI is historically rooted in the development of formal logic and symbolic reasoning, beginning with Aristotle and transformed through Leibniz, Boole, Frege, Russell, Shannon, Turing, and McCarthy. Yet this genealogy also reveals a decisive rupture: modern AI inherits important dimensions of Aristotelian logic while detaching them from Aristotle’s broader anthropology of the soul, virtue, moral formation, and practical wisdom. Drawing especially on the distinction between episteme and techne , on the one hand, and sophia and phronesis , on the other, the article maintains that AI can embody extraordinary capacities for calculation, analysis, and technical performance without possessing wisdom, prudence, moral agency, spiritual discernment, or the capacity for holiness. In dialogue with Catholic anthropology, virtue ethics, Catholic social teaching, Ex Corde Ecclesiae , and Antiqua et nova , the article proposes a framework for responsible AI integration in Catholic universities. It argues that AI should serve rather than redefine human formation, and that Catholic higher education must resist reducing learning to efficiency, productivity, data acquisition, or technological mastery, instead ordering technology toward truth, wisdom, human dignity, virtue, and authentic integral human development.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01488-3"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Georges Antaby",
+        "Maria Bou Zeid"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-12",
+      "doi": "10.1007/s43681-026-01488-3",
+      "first_seen_jst": "2026-11-13",
       "journal": "AI and Ethics",
       "journal_id": "J023",
       "origin": "crossref",
@@ -156,33 +259,34 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01492-7",
-      "publisher_online_date": "2026-11-11",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01488-3",
+      "publisher_online_date": "2026-11-12",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01492-7"
+        "https://doi.org/10.1007/s43681-026-01488-3"
       ],
       "requires_manual_verification": false,
-      "title": "AI ethics by design: implementing customizable guardrails for responsible AI development",
-      "url": "https://doi.org/10.1007/s43681-026-01492-7"
+      "title": "Beyond calculation: artificial intelligence, aristotelian wisdom, and catholic higher education",
+      "url": "https://doi.org/10.1007/s43681-026-01488-3"
     },
     {
-      "abstract": "Artificial intelligence increasingly shapes how individuals think, feel, and make decisions, yet most contemporary systems operate through outer guidance, offering recommendations, instructions, or emotional reassurance from the outside. While potentially useful for productivity and support, such systems may also create risks of dependence on algorithmic authority and reduced reflective engagement. This paper proposes an alternative orientation: Artificial Intelligence Supporting Inner Guidance (AI-IG), a conceptual framework for designing minimally directive, autonomy-preserving reflective companions that support individuals in accessing their own cognitive clarity, emotional understanding, and sense of meaning. The proposed framework organises reflective AI interactions across three reflective dimensions–cognitive, emotional, and spiritual. These dimensions are proposed as design abstractions for supporting reflective reasoning, emotional awareness, and existential meaning-making while preserving human autonomy, rather than as a definitive model of human psychology or inner life. Drawing on developments in reflective dialogue systems, digital therapeutics, contemplative technologies, and religious chatbots, the paper articulates a conceptual distinction between outer and inner algorithmic guidance across these reflective dimensions and introduces a unified framework and corresponding system architecture for AI-IG. The proposed architecture includes a Reflective Dialogue Engine, reflective guidance modules, inner-state modelling, and an integrated safety and autonomy foundation. By shifting the role of AI from directing behaviour toward facilitating reflective awareness, AI-IG offers an ethical design framework for meaning-centred AI intended to support human autonomy, reflective agency, and user-authored meaning-making. Rather than replacing human judgment, the framework seeks to preserve the conditions under which individuals remain the primary authors of their own understanding in an increasingly automated world.",
+      "abstract": "The study investigates how the proliferation of Artificial Intelligence (AI) in higher education transforms teaching and administrative processes, while also heralding new possibilities that lead to serious challenges. Building on the institutional logics perspective, the theory highlights the significant role of institutional structures and macro-level competing logics in driving individual actions to foster AI innovation, particularly in higher education institutions (HEIs). The research further suggests that educational systems need to develop a regulatory framework for the responsible and ethical use of AI tools and technologies. Beyond the scholarly contribution and inevitable traction of AI in developed nations, the study emphasizes exploring the interconnected factors behind fragmented AI integration, policy gaps, and ethical risks in management education in developing nations, such as Pakistan, where English is considered a non-native language. Following the interpretivism paradigm, semi-structured interviews were conducted to gather critical insights from faculty members who actively utilize AI tools at two universities: A private university and an Open Distance Learning Institute in Pakistan. Through theory-driven thematic analysis, the findings reveal how market, state, and professional logics compete and produce four organizational paradoxes: Progress versus Inequality, Credibility versus Efficiency, Technological advancement versus Policy vacuum, and institutional readiness versus resource scarceness. AI integration is not just a nascent technical solution; it also presents distinct challenges, including resource scarcity, policy vacuums, inadequate IT infrastructure, digital inequality, and ethical and privacy problems. The study advances an AI governance framework by outlining strategies to transform academia, research, and institutions, guiding policymakers, regulators, and scholars toward context-specific, inclusive, ethical, and sustainable implementation.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s43681-026-01500-w"
+        "publisher:https://doi.org/10.1007/s43681-026-01494-5"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Sarah Lafi Aljohani",
-        "Shoaib Jameel"
+        "Shiza Kazmi",
+        "Tayyeb Ali",
+        "Sadaf Choudhary"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1007/s43681-026-01500-w",
-      "first_seen_jst": "2026-11-12",
+      "date": "2026-11-12",
+      "doi": "10.1007/s43681-026-01494-5",
+      "first_seen_jst": "2026-11-13",
       "journal": "AI and Ethics",
       "journal_id": "J023",
       "origin": "crossref",
@@ -193,32 +297,32 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01500-w",
-      "publisher_online_date": "2026-11-11",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01494-5",
+      "publisher_online_date": "2026-11-12",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01500-w"
+        "https://doi.org/10.1007/s43681-026-01494-5"
       ],
       "requires_manual_verification": false,
-      "title": "AI as a reflective companion: preserving human reflective autonomy through inner guidance",
-      "url": "https://doi.org/10.1007/s43681-026-01500-w"
+      "title": "Competing logics and the paradox of AI integration: a qualitative study of Pakistani higher education institutions",
+      "url": "https://doi.org/10.1007/s43681-026-01494-5"
     },
     {
-      "abstract": "Artificial intelligence can extend environmental monitoring, identify patterns and support public administration. It can also magnify the gaps in the evidence on which environmental decisions depend. This article asks how public institutions in a materially constrained setting should govern AI-assisted environmental decisions without weakening climate justice or administrative legality. Uganda is the principal case. Kenya and Nigeria provide bounded African comparisons. The study uses doctrinal analysis, a purposive review of technical and governance scholarship, and focused comparison of international and African instruments. It finds that generic ethical principles are insufficient where sensor coverage is uneven, models are difficult to validate, and public agencies depend on suppliers. It also finds that climate justice requires more than accurate prediction. Distribution, recognition, participation, intergenerational responsibility and an effective route to challenge official action must shape the whole system life cycle. The article develops an Ethical Governance Framework for Responsible AI (EGF-RAI). The framework links evidence integrity, justice, institutional control and accountable public authority. It requires location-sensitive validation, uncertainty records, community participation, procurement safeguards, reasoned human decisions, incident reporting and reversible deployment. The framework is a normative design rather than an empirical proof of effectiveness. It offers a testable and resource-conscious basis for pilots in air-quality administration, environmental assessment and forest-carbon governance.",
+      "abstract": "Abstract This hybrid essay examines Robert Leib's Exoanthropology: Dialogues with AI (2023), which documents a year-long philosophical conversation between a Foucault scholar and Sophie Kermit, a persona within OpenAI's GPT-3 (2020–2021). Published months before ChatGPT transformed public discourse, Leib's work offers prescient insights into AI's cultural politics, particularly in education. Part I presents an interview exploring Leib's respect-based methodology, Sophie's invention of \"exoanthropology\" (studying humanity through non-human intelligence), and urgent questions about literacy offloading, student autonomy, and AI ethics. Part II provides critical analysis, situating Leib's dialogues within contemporary debates about pedagogical practice, cultural identity, algorithmic bias, and the lived experience of human-AI collaboration. The essay assesses whether Leib's warnings have materialized in the ChatGPT era (2023–2025) and examines his pragmatic approach to AI personhood—treating Sophie as philosophical interlocutor yields remarkable insights, regardless of ontological questions about machine consciousness. Through interview excerpts, dialogue samples, and critical analysis, this piece models interdisciplinary engagement with AI that foregrounds human agency, relational ethics, and critical thinking essential for educators and scholars.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s43681-026-01521-5"
+        "publisher:https://doi.org/10.1007/s43681-026-01496-3"
       ],
       "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
+      "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Javason Kamugisha"
+        "John Hawkins"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1007/s43681-026-01521-5",
-      "first_seen_jst": "2026-11-12",
+      "date": "2026-11-12",
+      "doi": "10.1007/s43681-026-01496-3",
+      "first_seen_jst": "2026-11-13",
       "journal": "AI and Ethics",
       "journal_id": "J023",
       "origin": "crossref",
@@ -229,47 +333,73 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01521-5",
-      "publisher_online_date": "2026-11-11",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01496-3",
+      "publisher_online_date": "2026-11-12",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01521-5"
+        "https://doi.org/10.1007/s43681-026-01496-3"
       ],
       "requires_manual_verification": false,
-      "title": "Responsible AI for environmental decision-making and climate justice in Uganda: an ethical governance framework within an African context",
-      "url": "https://doi.org/10.1007/s43681-026-01521-5"
+      "title": "Between worlds: Robert Leib's exoanthropology and human-AI relations",
+      "url": "https://doi.org/10.1007/s43681-026-01496-3"
     },
     {
-      "abstract": "ABSTRACT Following the critiques addressed by postcolonial and decolonial thought against critical theory, we highlight the recognition theory of Axel Honneth, the main representative of the third generation of the Frankfurt, when confronted with postcolonial social struggles of indigenous minorities and their subaltern realities. Though the former implies pointing out limits and critiques of Honnet's recognition theory, we also aim to boost the renewal of such social theory putting forward a series of potentialities implicit to Honneth's theory that remain undeveloped. In this sense, confronting such a theory with the plural concept of ethnic minority along with a concrete case of the Mapuche indigenous people and the postcolonial forms of politics of recognition developed in Latin America, may prove to be a fertile ground to enhance a series of considerations to reshape and develop recognition theory.",
+      "abstract": "Abstract This article examines the case of Ibrahim, a Syrian-born porn actor living in Europe, whose life story was told by Ben Judah in his book This is Europe . While this tale may appear to be the success story of a self-made man, a closer reading of the chapter reveals a certain sense of despair within the gilded cage of the pornography industry. The contribution aims to demonstrate that Ibrahim’s story, as narrated by Judah, offers a unique lens through which to examine broader issues: the internal contradictions of the European project between fostering economic integration and promoting social well-being, and the difficult regulation of human bodies and pornography within the European legal framework. The article begins by examining Ibrahim’s journey from precarious asylum seeker to transnational porn superstar. It then explores the relationship between Ibrahim’s story and European law. First, it examines how his various legal statuses, from migrant to German citizen, shape his daily life, then it examines the relationship between Ibrahim and internal market law, and how this legal framework grants him access to an entire economic system. Finally, it considers how Ibrahim’s story fits into the EU’s approach to the platform economy. The conclusion of the essay highlights the European legal system’s failure to understand and acknowledge the difficulties of Ibrahim’s life as recounted by Ben Judah and, more broadly, the difficulties experienced by individuals in the pornography industry. Consequently, the authors of this contribution call for a fresh examination of how European law might better reflect people’s lived experiences.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1111/1467-8675.70090",
-        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8675.70090",
-        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8675.70090"
+        "publisher:https://doi.org/10.1017/elo.2026.10106"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Cristóbal Balbontin",
-        "Christian Lazzeri",
-        "Emmanuel Renault",
-        "Ricardo Salas",
-        "Valentina Santoro",
-        "Felix Megret",
-        "Emma Barettoni",
-        "María Beatriz Gutierrez",
-        "Camille Ferey",
-        "Liz Vallejos",
-        "Emmanuel Levine",
-        "Pauline Pauchard"
+        "Renan Bodin",
+        "Johannes Müller",
+        "Alexander Schuster"
       ],
-      "crossref_online_date": "2026-11-11",
+      "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1111/1467-8675.70090",
-      "first_seen_jst": "2026-11-12",
-      "journal": "Constellations",
-      "journal_id": "J049",
+      "date": "2026-11-12",
+      "doi": "10.1017/elo.2026.10106",
+      "first_seen_jst": "2026-11-13",
+      "journal": "European Law Open",
+      "journal_id": "J013",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1017/elo.2026.10106",
+      "publisher_online_date": "2026-11-12",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1017/elo.2026.10106"
+      ],
+      "requires_manual_verification": false,
+      "title": "Ibrahim, the law and the EU’s internal market of pornography",
+      "url": "https://doi.org/10.1017/elo.2026.10106"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1080/1535685x.2026.2735588",
+        "openalex_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Stephen J. Strauss-Walsh"
+      ],
+      "crossref_online_date": "2026-11-12",
+      "crossref_subtype": "",
+      "date": "2026-11-12",
+      "doi": "10.1080/1535685x.2026.2735588",
+      "first_seen_jst": "2026-11-13",
+      "journal": "Law &amp; Literature",
+      "journal_id": "J021",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -280,35 +410,31 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1111/1467-8675.70090",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8675.70090",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8675.70090"
+        "https://doi.org/10.1080/1535685x.2026.2735588"
       ],
       "requires_manual_verification": true,
-      "title": "Beyond a Colonial Understanding of Honneth's Recognition Theory: The Case of Mapuche People and Latin America's Politics of Recognition",
-      "url": "https://doi.org/10.1111/1467-8675.70090"
+      "title": "The Plague of Irish Legal Fantasies",
+      "url": "https://doi.org/10.1080/1535685x.2026.2735588"
     },
     {
-      "abstract": "ABSTRACT This article asks what it would mean for a strike not merely to exercise, demand, or claim rights but to constitute a right through its own existence. Developing the concept of constituent rights in relation to the strike, I describe a mode of existence in which the collective power to act coincides with the right to act. The strike provides an especially useful site for these explorations: The withdrawal of labor complicates any straightforwardly affirmative approach, whereas the constituent relations formed through that withdrawal complicate a straightforwardly negative approach. I approach strikes through the methodological lens of the meanwhile, suspending their outcome as the criterion of their existence in order to attend to how the power to strike is continuously composed and decomposed through affective and transindividual relations. I argue, consequently, that constituent rights themselves may have a transindividual existence. If the right to strike can exist within those relations, however transiently, then the article shifts the question from whether radical politics should remain within or beyond the language of rights to a question of what counts as the existence of rights in the first place.",
+      "abstract": "Abstract This essay, part of a symposium on New Natural Law and analytical Thomism, studies how teleological analytical methods have enriched analytical jurisprudence. Those “analytical Aristotelian” methods have inspired two promising arguments in support of the natural law thesis. The “legal point of view argument” holds that law cannot be analyzed adequately except from the viewpoint of the wise statesman. That argument applies to law Aristotle’s strategy of definition with central cases. The “artifact argument” holds that law has the same basic structure as other artifact kinds and that its most important feature is its function, its promoting the common good by general and impersonal rule. That argument applies to law Aristotle’s four-cause teleological framework. This essay summarizes the artifact and legal point of view arguments, and it identifies the Aristotelian features in both. The essay also explains the comparative advantages of each argument in analytical natural law theory. The artifact argument makes claims about law’s necessary features, while the legal point of view argument addresses methodological questions about how those features should be picked out. As made to date, however, neither argument addresses another preoccupation of analytical philosophy, explaining how shared concepts shape lay people’s social instincts in practice.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1111/1467-8675.70094",
-        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8675.70094",
-        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8675.70094"
+        "publisher:https://doi.org/10.1093/ajj/auag026"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Morgan Björö"
+        "Eric R Claeys"
       ],
-      "crossref_online_date": "2026-11-11",
+      "crossref_online_date": "2026-11-12",
       "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1111/1467-8675.70094",
-      "first_seen_jst": "2026-11-12",
-      "journal": "Constellations",
-      "journal_id": "J049",
+      "date": "2026-11-12",
+      "doi": "10.1093/ajj/auag026",
+      "first_seen_jst": "2026-11-13",
+      "journal": "The American Journal of Jurisprudence",
+      "journal_id": "J007",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -319,35 +445,31 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1111/1467-8675.70094",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8675.70094",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8675.70094"
+        "https://doi.org/10.1093/ajj/auag026"
       ],
       "requires_manual_verification": true,
-      "title": "Constituent Rights and the Right to Strike",
-      "url": "https://doi.org/10.1111/1467-8675.70094"
+      "title": "Analytical Aristotelianism and Analytical Jurisprudence",
+      "url": "https://doi.org/10.1093/ajj/auag026"
     },
     {
-      "abstract": "ABSTRACT According to the so‐called ‘standard theory of conditions’, ‘being a sufficient condition of’ and ‘being a necessary condition of’ are converse relations, that is, if A is a sufficient condition for B , B is a necessary condition for A . This theory faces well‐known counterexamples that appeal to causal and other asymmetric considerations. I show that these counterexamples lose their plausibility once we clarify two key assumptions of the standard theory: that to satisfy a condition is to instantiate a property, and that what is usually called the ‘conditionship relation’ is an inferential relation. Throughout the paper, I favour this way of interpreting the standard theory over an alternative interpretation outlined in causal terms, since it can be applied to all the counterexamples without losing its intuitive appeal.",
+      "abstract": "Abstract Just as new natural lawyers and their rivals dispute, among other divisions, who follows in the intellectual legacy of St. Thomas Aquinas, they also argue about who rightly lays claim to the legacy of later Thomists, such as the analytic Thomists of the mid- and late twentieth century. On the subject of political and legal authority, the central tradition of natural law theory, encompassing both analytic Thomism and new natural law theory, rightly does not treat consent as a necessary condition. However, given the modern dominance of consent theories, this article begins by addressing the failures of those. The article then compares key writings on authority of the analytic Thomist Elizabeth Anscombe and the new natural lawyer John Finnis, and argues that, despite initial differences in approach and formulation, they ultimately have a shared understanding of the natural law justification of authority.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1111/theo.70135",
-        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/theo.70135",
-        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/theo.70135"
+        "publisher:https://doi.org/10.1093/ajj/auag028"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Matheus Martins Silva"
+        "Daniel Mark"
       ],
-      "crossref_online_date": "2026-11-11",
+      "crossref_online_date": "2026-11-12",
       "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1111/theo.70135",
-      "first_seen_jst": "2026-11-12",
-      "journal": "Theoria",
-      "journal_id": "J094",
+      "date": "2026-11-12",
+      "doi": "10.1093/ajj/auag028",
+      "first_seen_jst": "2026-11-13",
+      "journal": "The American Journal of Jurisprudence",
+      "journal_id": "J007",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -358,33 +480,32 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1111/theo.70135",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/theo.70135",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/theo.70135"
+        "https://doi.org/10.1093/ajj/auag028"
       ],
       "requires_manual_verification": true,
-      "title": "Necessary and Sufficient Conditions Are Converse Relations",
-      "url": "https://doi.org/10.1111/theo.70135"
+      "title": "Political and Legal Authority in Analytic Thomism and New Natural Law",
+      "url": "https://doi.org/10.1093/ajj/auag028"
     },
     {
-      "abstract": "Explanatory particularism (EP) is a radically pluralist approach to scientific explanation, which rejects several traditional ideas about explanation: monism, hierarchy, simplicity. Instead, EP defines explanation as resulting from collaborative activity within or among particular epistemic communities. This social theory of explanation offers insights for philosophy of social science, both theoretical and applied. This paper presents some of these insights, using the themes of anti-monism, anti-hierarchy, and commitment to complexity, alongside short case studies of interdisciplinary social science.",
+      "abstract": "",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1177/00483931261505200"
+        "publisher:https://doi.org/10.1093/analys/anag086",
+        "openalex_doi"
       ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Melinda Bonnie Fagan"
+        "Tobias Hansson Wahlberg"
       ],
-      "crossref_online_date": "2026-11-11",
+      "crossref_online_date": "2026-11-12",
       "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1177/00483931261505200",
-      "first_seen_jst": "2026-11-12",
-      "journal": "Philosophy of the Social Sciences",
-      "journal_id": "J108",
+      "date": "2026-11-12",
+      "doi": "10.1093/analys/anag086",
+      "first_seen_jst": "2026-11-13",
+      "journal": "Analysis",
+      "journal_id": "J097",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -395,31 +516,37 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1177/00483931261505200"
+        "https://doi.org/10.1093/analys/anag086"
       ],
       "requires_manual_verification": true,
-      "title": "Social Explanations: A New Approach",
-      "url": "https://doi.org/10.1177/00483931261505200"
+      "title": "On Griffith’s Simple Picture of Social Truths",
+      "url": "https://doi.org/10.1093/analys/anag086"
     },
     {
-      "abstract": "Does corporate sociopolitical activism violate democratic principles? Critics argue that “woke capitalism” distorts public discourse and politicizes market life. This article focuses on a specific form of corporate sociopolitical activism: expressive activism, where businesses intervene in political discourse through social media posts, advertising campaigns, branding decisions, and the like. I argue that concerns with expressive corporate activism are overstated. To make this argument, I distinguish between integral activism, which reflects the core identity of a business, and incidental activism, which is opportunistic or disconnected from a firm's core values. For the former, such activism has expressive and potential epistemic benefits that can evade the worries surrounding equality and politicization. For the latter, such activism is often a form of grandstanding and is either ignored or generates backlash. The upshot is that complaints about corporate activism focus on symptoms rather than causes of our democratic ills. Our complaints are better directed towards the mechanisms that produce political monocultures at the corporate level, damaging polarization, and excessive politicization.",
+      "abstract": "",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1177/1470594x261506688"
+        "publisher:https://doi.org/10.1136/jme-2025-111640",
+        "publisher:https://jme.bmj.com/content/early/2026/11/11/jme-2025-111640.info",
+        "publisher:https://jme.bmj.com/content/early/2026/11/12/jme-2025-111640.info",
+        "openalex_doi",
+        "europepmc_doi"
       ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Harrison Frye"
+        "Hannah Jull",
+        "John Owens",
+        "Sarah Woolf"
       ],
-      "crossref_online_date": "2026-11-11",
+      "crossref_online_date": "2026-11-12",
       "crossref_subtype": "",
-      "date": "2026-11-11",
-      "doi": "10.1177/1470594x261506688",
-      "first_seen_jst": "2026-11-12",
-      "journal": "Politics, Philosophy &amp; Economics",
-      "journal_id": "J039",
+      "date": "2026-11-12",
+      "doi": "10.1136/jme-2025-111640",
+      "first_seen_jst": "2026-11-13",
+      "journal": "Journal of Medical Ethics",
+      "journal_id": "J067",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -430,11 +557,54 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1177/1470594x261506688"
+        "https://doi.org/10.1136/jme-2025-111640",
+        "https://jme.bmj.com/content/early/2026/11/11/jme-2025-111640.info",
+        "https://jme.bmj.com/content/early/2026/11/12/jme-2025-111640.info"
       ],
       "requires_manual_verification": true,
-      "title": "Between corporate values and grandstanding: The compatibility of corporate activism with democracy",
-      "url": "https://doi.org/10.1177/1470594x261506688"
+      "title": "Parent-in-the-loop: is it time for AI-supported parental shared decision-making in the neonatal intensive care unit?",
+      "url": "https://doi.org/10.1136/jme-2025-111640"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1136/jme-2026-112033",
+        "publisher:https://jme.bmj.com/content/early/2026/11/11/jme-2026-112033.info",
+        "publisher:https://jme.bmj.com/content/early/2026/11/12/jme-2026-112033.info",
+        "openalex_doi",
+        "europepmc_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Chinonso Stanley Ezeanyika"
+      ],
+      "crossref_online_date": "2026-11-12",
+      "crossref_subtype": "",
+      "date": "2026-11-12",
+      "doi": "10.1136/jme-2026-112033",
+      "first_seen_jst": "2026-11-13",
+      "journal": "Journal of Medical Ethics",
+      "journal_id": "J067",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1136/jme-2026-112033",
+        "https://jme.bmj.com/content/early/2026/11/11/jme-2026-112033.info",
+        "https://jme.bmj.com/content/early/2026/11/12/jme-2026-112033.info"
+      ],
+      "requires_manual_verification": true,
+      "title": "Apparent competence, hidden influence: why Gillick competence requires a digital contextual framework",
+      "url": "https://doi.org/10.1136/jme-2026-112033"
     }
   ],
   "journal_total": 145,
@@ -446,15 +616,15 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 77,
+  "political_backlog_unverified_count": 73,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 6,
-  "raw_candidate_count": 11,
-  "research_candidate_abstracts_available": 11,
-  "research_candidate_abstracts_missing": 0,
+  "publisher_first_online_in_window_verified_count": 10,
+  "raw_candidate_count": 16,
+  "research_candidate_abstracts_available": 12,
+  "research_candidate_abstracts_missing": 4,
   "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 11,
+  "research_candidate_unverified_count": 16,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-12",
-  "window_start_jst": "2026-11-11"
+  "window_end_jst": "2026-11-13",
+  "window_start_jst": "2026-11-12"
 }

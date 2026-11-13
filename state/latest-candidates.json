@@ -1,472 +1,6 @@
 {
-  "collected_on": "2026-11-13",
+  "collected_on": "2026-11-14",
   "items": [
-    {
-      "abstract": "ABSTRACT Gossip is ubiquitous, yet morally troubling. Approximately 65% of human conversation involves evaluative talk about absent others, yet such talk often feels like backstabbing even when it causes no harm, violates no privacy, and consists entirely of truth. This article argues that gossip's distinctive wrong lies not in privacy violation, harm, or deception, but in something more fundamental which is the exclusion of targets from discourse about themselves. Building on this foundation, I develop three constraints on permissible gossip operating at different levels of moral analysis: participatory standing, purpose, and justice. These constraints together provide a framework for navigating gossip's complex moral terrain while respecting both the social value of information‐sharing and the dignity of those we discuss.",
-      "authors": [
-        "Ali Raza Jatoi"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1002/japp.70134",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Applied Philosophy",
-      "journal_id": "J053",
-      "origin": "crossref",
-      "title": "What Is Wrong with Gossip? An Exclusion‐Based Account",
-      "url": "https://doi.org/10.1002/japp.70134"
-    },
-    {
-      "abstract": "Abstract We respond to the comments by Imogen Dickie, Matthew Chrisman and Christine Tiefensee for a book symposium on our Reasoning with Attitude . Our commentators attempt to pull us further into either expressivism or into inferentialism. Here, we attempt to resist either pull and further establish our inferential expressivism as a home for both expressivists and inferentialists.",
-      "authors": [
-        "Luca Incurvati",
-        "Julian J. Schloeder"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1007/s11098-026-02603-0",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "Replies to a fellow expressivist and two fellow inferentialists",
-      "url": "https://doi.org/10.1007/s11098-026-02603-0"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Youness Ayaita",
-        "Igor Douven"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1007/s11098-026-02612-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "Optimally tracking the truth: the ecological rationality of confirmation measures",
-      "url": "https://doi.org/10.1007/s11098-026-02612-z"
-    },
-    {
-      "abstract": "Abstract Norms, rules, or standards require, recommend, or evaluate actions and attitudes. Claims about what agents have a reason to do or ought to do can be true according to or relative to standards. These statements will be familiar to anyone versed in recent work in metaethics and especially those interested in the debate over whether some standards are authoritatively as opposed to merely formally normative – i.e., the debate over whether some standards, like those of morality or prudence, ‘really’ or ‘genuinely’ tell agents what they have a reason to do or ought to do, while other standards, such as those which constitute certain conventional codes of behaviour, do not. But what are standards? And what is it for normative claims to be true or false according to standards? In this paper I raise a challenge for normative authority scepticism – the position that the idea that some standards are authoritatively normative is incoherent, confused, or otherwise defective – through an examination of these questions.",
-      "authors": [
-        "Jesse Hambly"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1007/s11098-026-02613-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "Standards and normative authority",
-      "url": "https://doi.org/10.1007/s11098-026-02613-y"
-    },
-    {
-      "abstract": "Abstract AI ethics charters proliferate across the Arab world even as the same states deploy AI surveillance against domestic populations. The standard ethics-washing critique cannot diagnose this configuration because it was developed in democratic and corporate contexts and treats charter-implementation gaps as a single phenomenon. This paper introduces a Performative Authoritarianism Framework that draws the misfire and abuse distinction in Austin [1], pulls in the comparative-politics literature on authoritarian-upgrading, and operationalises the digital authoritarianism scholarship through a discursive scoping matrix. Five hypotheses are tested on the full N=22 cross-section of Arab League states using objective regulatory indicators, the AI Global Surveillance Index from Feldstein, fuzzy-set qualitative comparative analysis, and a pre-specified test against the developmental-lag alternative. All five are supported, subject to the qualifications stated below. Of seven procedurally complete states (national strategy plus dedicated body), zero have enacted binding AI law. International ethics alignment co-occurs with documented AI surveillance deployment across the corpus (Spearman rho = 0.73, p < 0.001); the association is capacity-laden and does not reach significance within the institutionally capable subset, so the co-occurrence is reported as descriptive rather than as evidence of a sincere-commitment failure. Charter content covers consumer-protection domains at mean 0.90 of full coverage and regime-critical surveillance domains at 0.05 (Wilcoxon paired p = 0.008); this scoping gap is shared with democratic instruments coded on the same rubric, so the feature distinctive to the authoritarian corpus is the joint configuration of consumer-scoped principles, documented deployment in the excluded domains, and the absence of a binding backstop. State capacity is the strongest among several broadly necessary conditions for AI governance quality (fsQCA consistency = 0.91, ahead of regulatory maturity at 0.89, with five further conditions between 0.80 and 0.86, a margin that small recalibrations reverse); the ordering is read against collinearity among capacity-related conditions and is not presented as identifying a single dispositive cause. The developmental-lag alternative is not supported within the present cross-section: years since strategy adoption shows no positive association with substantive completion (rho = − 0.045), and the United Arab Emirates has had nine years post-strategy without enacting binding AI law. Pre-specified ex ante criteria are stated for the cases of Egypt and Bahrain that may transition out of the abuse configuration in the next 36 months. The abuse reading is advanced as the best-supported account of this configuration against the developmental-lag and sincere-prioritisation alternatives, not as a demonstrated property of regime intentions, and the framework identifies the institutional conditions under which the configuration is generated.",
-      "authors": [
-        "Anis Ben Brik"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1007/s43681-026-01409-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Performative authoritarianism in AI ethics charter production: a configurational analysis of 22 Arab states",
-      "url": "https://doi.org/10.1007/s43681-026-01409-4"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Bobga Tachu",
-        "Anne Ighade",
-        "Ganesh Yogeeswaran"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1007/s43681-026-01412-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Governance and accountability in compassionate AI: a normative framework for responsible design",
-      "url": "https://doi.org/10.1007/s43681-026-01412-9"
-    },
-    {
-      "abstract": "ABSTRACT Although much ink has been spilled in discussing the relationship between rationality and normative reasons on the one hand and normative reasons and reasoning on the other, surprisingly little has been said about whether we can understand rationality in terms of reasoning. I propose a novel way to understand structural rationality in terms of good reasoning. I argue that structural rationality is best understood in terms of adherence to what I label indefeasible good reasoning. I then offer the beginnings of a theory of substantive rationality in terms of defeasible reasoning. I show how this can provide a unified account of structural and substantive dimensions of rationality, and show that my view also gives the right verdict in some challenging cases for other prominent theories.",
-      "authors": [
-        "HOSSEIN AYATI"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/apa.2026.10040",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of the American Philosophical Association",
-      "journal_id": "J107",
-      "origin": "crossref",
-      "title": "Reasoning, Rationality, and (In)Coherence",
-      "url": "https://doi.org/10.1017/apa.2026.10040"
-    },
-    {
-      "abstract": "Abstract This essay’s core claim is that EU tech law does not fully understand technology, since it does not account for its diverse negative impacts in the everyday lives of people in European societies. Placing a central focus on EU’s digital regulation, I argue that EU law mostly sees technologies as products that should circulate at an ever-greater rate and volume in the internal market, to the benefit of consumers. This market-driven vision justifies a light-touch risk-based approach that creates a compliance apparatus which does not force tech companies to change unjust or harmful aspects of their business models; instead securing and legitimising them. Using a critical social theory approach, I argue that much of technology’s meaning and impact on the everyday lives of people is missed by EU law’s current depoliticised and technocratic approach to tech regulation. Taking the tech stories of This is Europe as a starting point, I illustrate how EU law systematically neglects the harms caused by technology or through technology to many individuals and communities in their everyday lives. Those affected range far beyond consumers and tech users. They include, for example, delivery platform workers forced into extreme anxiety due to task volume and app surveillance; several minorities systematically targeted by online abuse; or the migrants exposed to tech-mediated degrading treatment in European border facilities. All in all, EU law does not fully see, and therefore, epistemically excludes these lived experiences of tech harm from the regulatory dialogue. This leads me to some concluding reflections centred around a fundamental questioning of EU tech law’s legitimacy. Particularly, I argue that a legal regime that does not recognise and is not responsive to the lived realities of harm of those which it regulates ultimately fails at a deeper, politico-moral level.",
-      "authors": [
-        "Mateus Correia de Carvalho"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/elo.2026.10100",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Law Open",
-      "journal_id": "J013",
-      "origin": "crossref",
-      "title": "People: What EU law does not understand about tech",
-      "url": "https://doi.org/10.1017/elo.2026.10100"
-    },
-    {
-      "abstract": "Abstract What is it that is transmitted across known entailment from justified premises? My main aim in this paper is to clarify and defend the unpopular view that transmission of justification should be conceived as transmission of a justifier, and the search for cases in which transmission of justification fails should focus its energy on cases in which justifiers fail to be transmitted. The idea will take some time to develop, and along the way I will argue inter alia against Crispin Wright’s well-known account that it is a subtle kind of epistemic circularity that prevents some deductive arguments from transmitting the justification of their premises to their conclusions.",
-      "authors": [
-        "Erhan Demircioglu"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/epi.2026.10141",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "When Justifiers Transmit",
-      "url": "https://doi.org/10.1017/epi.2026.10141"
-    },
-    {
-      "abstract": "Abstract Lex specialis derogat legi generali , the principle that special law prevails over general law, is a well-established doctrine for resolving conflicts between legal norms. Yet its application in fundamental rights adjudication remains underexplored. This Article contributes to this global discourse by examining the increasing invocation of this principle in Hong Kong courts. It scrutinizes the deployment of the principle in landmark cases: resolving the tension between indigenous inhabitants’ rights and the right to equality in Kwok Cheuk Kin v. Director of Lands ; balancing freedom of marriage against equality in Sham Tsz Kit v. Secretary for Justice ; and, as advanced by the Government, justifying the exclusion of married same-sex couples from public housing and inheritance entitlements in The Hong Kong Housing Authority v. Infinger, Nick and Secretary for Justice v. Li Yik Ho . Through a comparative jurisprudential analysis, this Article argues that the application in Kwok Cheuk Kin was legally sound, whereas its use in Sham Tsz Kit was problematic. Furthermore, it contends that where different constitutional instruments provide varying levels of protection for human rights, absent a clear legislative intent to the contrary, courts should uphold the higher standard of rights protection rather than relying on the lex specialis principle.",
-      "authors": [
-        "Xiaoshan Zhang"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/glj.2026.10231",
-      "first_seen_jst": "2026-10-21",
-      "journal": "German Law Journal",
-      "journal_id": "J126",
-      "origin": "crossref",
-      "title": "The Use and Misuse of the\n                    Lex Specialis\n                    Principle in Hong Kong’s Fundamental Rights Adjudication",
-      "url": "https://doi.org/10.1017/glj.2026.10231"
-    },
-    {
-      "abstract": "Abstract Accusations of over-sensitivity are common, particularly when it comes to forms of systemic oppression such as racism and misogyny. I consider three things such over-sensitivity could plausibly be: a disposition to over-identify instances of these phenomena, the over-expansion of the relevant concepts, and a tendency to overreact to putative instances thereof. In each case, I find reasons why such worries are likely to be overblown. In the first, an agent’s supposed over-sensitivity to racism and misogyny is often simply sensitivity to phenomena which are routinely minimized; in other cases, her slight over-sensitivity nevertheless has value in a social environment in which under-sensitivity is a large and predictable problem. In the second case, the supposed over-expansion of the relevant concepts often corrects for their artificial narrowing, and makes us more sensitive to genuine harms and wrongs. In the third case, an agent’s supposed overreactions to racism and misogyny reflects an affective disposition that constitutes a valuable defense against the twin perils of gaslighting and numbness. I conclude by considering the possibility that there is a real strand of over-sensitivity to harms to dominant group members in the current discourse that illicitly serves their interests and functions to silence people facing oppression.",
-      "authors": [
-        "Kate Manne"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/hyp.2026.10081",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Hypatia",
-      "journal_id": "J075",
-      "origin": "crossref",
-      "title": "Sensitivity and Survival",
-      "url": "https://doi.org/10.1017/hyp.2026.10081"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Laura Hengehold"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/hyp.2026.10110",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Hypatia",
-      "journal_id": "J075",
-      "origin": "crossref",
-      "title": "Kathryn Sophia Belle , Beauvoir and Belle: A Black Feminist Critique of The Second Sex",
-      "url": "https://doi.org/10.1017/hyp.2026.10110"
-    },
-    {
-      "abstract": "Abstract The litigation brought by the Estate of Henrietta Lacks against Thermo Fisher Scientific, Ultragenyx Pharmaceutical, and Novartis Pharmaceuticals reframes benefit-sharing from voluntary institutional ethics into an enforceable legal duty. By pleading a single equitable claim — unjust enrichment — the Estate seeks to bypass the property and informed-consent doctrines that have defeated comparable tissue-appropriation suits, while accepting distinctive risks involving remoteness, limitations, causation, and apportionment. This commentary examines the strategy’s strengths and vulnerabilities through the still-pending Ultragenyx case, and considers its implications for research consent, prospective benefit-sharing frameworks, and bioethics pedagogy. Whether or not the remaining claim succeeds, the litigation has already altered the conversation about who should profit from human biological materials.",
-      "authors": [
-        "Allegra Rollo",
-        "Shelly Simana",
-        "Eli Y. Adashi"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/jme.2026.10291",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Law, Medicine &amp; Ethics",
-      "journal_id": "J068",
-      "origin": "crossref",
-      "title": "The Henrietta Lacks Case: Ongoing Litigation Seeks Closure",
-      "url": "https://doi.org/10.1017/jme.2026.10291"
-    },
-    {
-      "abstract": "In his final published essay, which appeared in the New York Review of Books shortly after his death in 1997, Isaiah Berlin reflected on the major themes of his life’s work. 1 Under the heading “Pluralism,” he wrote that “there is a plurality of values which men can and do seek, and … these values differ.” He argued that a belief in pluralism enables people to understand why others might endorse values different from their own. He also stressed that a belief in pluralism does not make one a relativist: “I do not say ‘I like my coffee with milk and you like it without; I am in favor of kindness and you prefer concentration camps.’” Pluralism as Berlin understands it is a key premise of Respect and Loathing in American Democracy. 2 Like Berlin, Spinner-Halev and Theiss-Morse believe there are plural values that people might endorse, including plural values that are reasonable in the Rawlsian sense that one can hold them while respecting others who do not. Examples are liberal values, such as individual liberty and human rights, and democratic values, such as popular sovereignty and political equality.",
-      "authors": [
-        "Clarissa Rile Hayward"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/s0034670526101193",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Review of Politics",
-      "journal_id": "J050",
-      "origin": "crossref",
-      "title": "Pluralism vs. Moralism",
-      "url": "https://doi.org/10.1017/s0034670526101193"
-    },
-    {
-      "abstract": "Abstract In the Congo Free State, where the administration of Leopold II concentrated on economic exploitation and largely neglected family law, Belgian missionaries assumed functions the state left unattended. This article examines how they became legal actors in the regulation of marriage between 1885 and 1908, imposing monogamy as a condition of Christian and civilized life against the widespread practice of polygamy. Officiating marriages, keeping civil registers, adjudicating disputes over dowry, and organizing Catholic villages where monogamous unions were institutionalized, missionaries operated as intermediaries between the colonial administration and Congolese communities, their authority resting at once on canon law and on the practical demands of governance. Drawing on missionary periodicals, correspondence, decrees, and administrative records, the study reconstructs a legal role that has received little scholarly attention, situating it within debates on legal pluralism and vernacular imperial constitutionalism that treat law as a fluid practice articulated by diverse actors rather than a fixed body of metropolitan rules. By placing missionaries at the center of colonial lawmaking, the article shows how religion and law were interwoven in the making of the colonial state, even as local communities resisted and reshaped the norms imposed upon them. In conclusion, this study reveals the complexities of missionary involvement in colonial governance and offers new insights into the intersection of law, religion, and colonialism in Central Africa.",
-      "authors": [
-        "Ilaria Masseroni"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/s0738248026101916",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and History Review",
-      "journal_id": "J080",
-      "origin": "crossref",
-      "title": "Filling the Legal Void: Missionaries as Legal Actors in Regulating Monogamous Unions in the Congo Free State (1885–1908)",
-      "url": "https://doi.org/10.1017/s0738248026101916"
-    },
-    {
-      "abstract": "Abstract The court of the marshalsea, which originated in the late thirteenth century, exercised jurisdiction over a circular area of twelve miles’ radius centered on the king’s current residence. This article offers the first scholarly discussion of this mysterious court in the reign of Henry VIII. It begins by discussing the court’s criminal jurisdiction and its judicial procedure in felony cases, explaining the significance of a 1542 statute that expanded and clarified its jurisdiction over serious crimes committed within the palace precinct. The article then analyzes the court’s civil jurisdiction and suggests reasons why its officers may have been willing to stretch jurisdictional rules in cases of trespass. Next, the article discusses what is known about the personnel of the court, charting the rise of the under-steward of the marshalsea (referred to as steward from 1539) as its chief controlling officer. I show that by 1542, the court’s jurisdiction had become trifurcated into a plea side, an ordinary criminal side, and a “palace” criminal side. Reforms to the court in the reign of Henry VIII illustrate a general process of judicial regularization that occurred in the early sixteenth century. The regularization of legal institutions during Henry’s reign was a “reformation from within” that promised to be far less destructive than the “reformation from without” forced on the marshalsea and other legal institutions under the Stuarts.",
-      "authors": [
-        "Jonathan McGovern"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/s0738248026101941",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and History Review",
-      "journal_id": "J080",
-      "origin": "crossref",
-      "title": "Law and Justice in the Court of the Marshalsea of the King’s Household, 1509–1547",
-      "url": "https://doi.org/10.1017/s0738248026101941"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Bonny Ibhawoh"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1017/s0738248026101953",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and History Review",
-      "journal_id": "J080",
-      "origin": "crossref",
-      "title": "Samuel Fury Childs Daly, Soldier’s Paradise: Militarism in Africa after Empire. Durham and London: Duke University Press, 2024. Pp. xiii + 297. $28.95 paperback. (ISBN 978-1-4780-3083-6)",
-      "url": "https://doi.org/10.1017/s0738248026101953"
-    },
-    {
-      "abstract": "Prevailing approaches to the contractual enforceability of modifications revise or dispense with the requirement of consideration and invoke economic duress to rule out unfair, inequitable, or bad faith modifications. Enforceability turns effectively on the absence of economic duress. But economic duress is a doctrine of avoidance. It does not answer the contractually prior step of whether a modification satisfies the general requirements for contract formation. This article develops an alternative approach which satisfies the requirements for contract formation, most importantly consideration, while ensuring that only fair and reasonable modifications in ongoing transactions are thereby validated. It has been overlooked by current approaches starting from incorrect assumptions about the scope of the pre‐existing duty rule and failing to integrate decisions that provide definite grounds for enforcing even one‐sided modifications on a basis that does not conflict with the duty rule. There is no need to revise or dispense with consideration for modifications. Further, this analysis of contract formation addresses the concerns that have motivated courts to resort to economic duress. Being fully consonant with general principles of contract law and applicable to all modifications, the proposed approach provides a sounder and more complete framework for assessing their contractual enforceability.",
-      "authors": [
-        "Peter Benson"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1111/1468-2230.70065",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "Consideration Without Economic Duress: Reframing the Analysis of Contractual Modifications",
-      "url": "https://doi.org/10.1111/1468-2230.70065"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Dr Zohar Lederman"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1111/bioe.70198",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "On the Immunity of Hospitals in Gaza: A Response to Lucas",
-      "url": "https://doi.org/10.1111/bioe.70198"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Patrick Toner"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1111/rati.70042",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ratio",
-      "journal_id": "J093",
-      "origin": "crossref",
-      "title": "Critical Notice of Immortal Souls: A Treatise on Human Nature By EdwardFeser, Neunkirchen‐Seelscheid, Germany: Editiones Scholasticae, 2024. 548 pp. 29,90 €. ISBN: 978‐3‐86‐838605‐9",
-      "url": "https://doi.org/10.1111/rati.70042"
-    },
-    {
-      "abstract": "ABSTRACT This paper presents a new argument for robust realism, the view about normativity that Philip Stratton‐Lake held. The argument has three main premises: that we cannot believe an error theory about all normative judgements; that trying to endorse the best version of expressivism makes us believe robust realism; and that trying to endorse the best version of reductive realism also makes us believe robust realism. I argue that combining these premises with some additional premises yields a transcendental argument for robust realism.",
-      "authors": [
-        "Bart Streumer"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1111/rati.70044",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Ratio",
-      "journal_id": "J093",
-      "origin": "crossref",
-      "title": "A New Transcendental Argument for Robust Realism",
-      "url": "https://doi.org/10.1111/rati.70044"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Daniel Weissglass",
-        "Yantong Ou",
-        "Jiaming Li",
-        "Yawen Sun",
-        "Hollie Wright",
-        "Wenrui Wu",
-        "Xinwei Xu",
-        "Rui Yu",
-        "Hanting Zhang",
-        "Yihe Zhang"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1136/jme-2026-112504",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "What does AI health resource allocation make visible?",
-      "url": "https://doi.org/10.1136/jme-2026-112504"
-    },
-    {
-      "abstract": "American voters, politicians, and media are increasingly hostile toward out-partisans and frequently disagree about the content of policies. This development raises an even more fundamental question about the nature of politics in highly polarized societies: Can the political actors even agree on what issues to disagree about, and why? To answer this critical question, we generate a massive new dataset covering communication by key actors from the last 2 months of the 2020 US Presidential election, including the presidential candidates (all tweets by Donald Trump and Joe Biden), the main news organizations (CNN and Fox News), and a large and original voter survey (N ~ 24,000) with daily representative data. Surprisingly, we find that the patterns of agenda setting in the 2020 election reduced rather than fueled agenda diversity and that the major political actors generally agreed on what the most important issues were in this otherwise polarized election.",
-      "authors": [
-        "Mathias W. Tromborg",
-        "Carsten Jensen"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1177/00323217261488029",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Political Studies",
-      "journal_id": "J032",
-      "origin": "crossref",
-      "title": "Can they agree on what to disagree about? Patterns of issue agenda setting in the 2020 US presidential election",
-      "url": "https://doi.org/10.1177/00323217261488029"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Michelle K. L. Rose"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.1177/00905917261487669",
-      "first_seen_jst": "2026-11-06",
-      "journal": "Political Theory",
-      "journal_id": "J031",
-      "origin": "crossref",
-      "title": "Book Review:\n                    Democracy and Beauty: The Political Aesthetics of W.E.B. Du Bois\n                    , by Robert Gooding-Williams Democracy and Beauty: The Political Aesthetics of W.E.B. Du Bois, by Gooding-WilliamsRobert, New York, NY: Columbia University Press, 2025, 272 pp.",
-      "url": "https://doi.org/10.1177/00905917261487669"
-    },
-    {
-      "abstract": "A popular view on moral worth, antifetishism, states that an action motivated by concern for moral rightness represented as such is not praiseworthy. This can be seen if we appreciate that whether someone is a good person does not relate to whether they are a good moral theorist, as good people can misrepresent moral rightness and not be motivated by their mistaken grasp of it. But then what does an action need to be motivated by in order to be praiseworthy? I argue that antifetishism’s key insights give us reasons to reject the positive answers provided to this question by antifetishists themselves. The source of the antifetishist insight is much broader than originally thought: whether someone is a good person does not relate to whether they are a good theorist in general, as good people can misrepresent many kinds of facts. This makes the question of praiseworthy motivation difficult and also reveals that certain types of morally relevant descriptive ignorance do not excuse wrongdoing. As a solution, I suggest that an action is praiseworthy if motivated by a set of representations the intuitive moral import of which is unaffected by our potential theoretical mistakes: phenomenal representations of others’ lives.",
-      "authors": [
-        "Stavros Orfeas Zormpalas"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6238",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Ethics and Social Philosophy",
-      "journal_id": "J071",
-      "origin": "crossref",
-      "title": "Moral Motivation and Rich Representation",
-      "url": "https://doi.org/10.26556/jesp.v31i5.6238"
-    },
-    {
-      "abstract": "Interpretive frames guide how we interpret information. This article concerns the way in which our shared interpretive frames—such as metaphors, narratives, scripts, and stereotypes—may produce misunderstanding in ways that sustain injustice. I relate the role of frames to structural views of understanding in order to put forward an analysis of misinterpretive frames: frames that systematically produce misunderstanding. I contrast mere lack of understanding, whereby someone lacks apparent intelligibility, with cases of more substantive misunderstanding, whereby someone has a mistaken “sense” of understanding. I begin by introducing the structural view of understanding in order to present a structural characterization of misunderstanding. I highlight that frames guide how we structure information, and so distorting frames lead to misunderstanding. I highlight two ways in which possessing misinterpretive frames is distinctively epistemically pernicious: concealed incompetence and epistemic contamination. In the former, the mistaken sense of understanding conferred by grasping an inapt interpretive structure obstructs recognition of one’s own epistemic failures. In the latter, deploying a misinterpretive frame to interpret new evidence renders it misleading, polluting otherwise valuable epistemic resources. Finally, through an examination of naturalization and normalization, I show how these distorting frames may obscure and perpetuate injustice.",
-      "authors": [
-        "Emilia L. Wilson"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6243",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Ethics and Social Philosophy",
-      "journal_id": "J071",
-      "origin": "crossref",
-      "title": "Misinterpretive Frames and Epistemic Contamination",
-      "url": "https://doi.org/10.26556/jesp.v31i5.6243"
-    },
-    {
-      "abstract": "The public ownership thesis is a Kantian-Rousseavian model of shared property. Its advocates argue that it is a superior model to those that can be derived from Lockeanism insofar as private property and common property cannot realize the distinct values that publicly owned property can. On this view, resources that are sites of shared activities must be owned by the public as a whole. I argue that the various values ascribed to public ownership can be realized by common property on the Lockean model, and the Lockean model is also better at dealing with the challenges of scarcity and disagreement that are central to questions of property rights.",
-      "authors": [
-        "Billy Christmas"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6250",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Ethics and Social Philosophy",
-      "journal_id": "J071",
-      "origin": "crossref",
-      "title": "Against the Public Ownership Conception of Shared Property",
-      "url": "https://doi.org/10.26556/jesp.v31i5.6250"
-    },
-    {
-      "abstract": "Our sense of self is distinctively social. It deeply matters to who we take ourselves to be that others recognize the claims we make on them and that we recognize the claims they make on us. Significant work on ideology and oppression characterizes how oppressive ideologies deny this kind of second-personal recognition. Yet not enough attention is given to the disturbing possibility that, even when successful, the personhood-constituting role of second-personal recognition can serve oppressive ideologies. Here I characterize such a mechanism. Some second-personal claims, I argue, are virulent. Their recognition co-opts their target’s agency as their success presupposes her own endorsement of her subordinated position with respect to the agent who issues these claims. At the same time, however, failure to recognize these claims deeply hurts the issuing agent, as their failure amounts to denying and rejecting a social standing that he deeply values. Crucially, this double binding profile of virulent claims illuminates a distinctive way in which ideology preserves itself—not only by shaping what we believe or what we do but also by shaping who we are.",
-      "authors": [
-        "Alejandro Vesga"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6252",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Ethics and Social Philosophy",
-      "journal_id": "J071",
-      "origin": "crossref",
-      "title": "Virulent Claims",
-      "url": "https://doi.org/10.26556/jesp.v31i5.6252"
-    },
-    {
-      "abstract": "Distinguishing between authoritative and formal normativity is a staple component in the metanormative literature. Norms such as morality and prudence count as genuinely or authoritatively normative, while those norms concocted on the spot are only formally normative. In this article, I question the common reliance on a monolithic divide between these two kinds of normativity. First, I argue that the same kind of skepticism that plagues the adjacent concept of an ought simpliciter applies equally to a definition of ‘authoritativeness’. Second, I point out the limits of primitivist responses to this challenge of developing a proper definition. Due to the abundance of intuitive differences between paradigmatic instances of authoritative and formal normativity, glossing at intuition is insufficient to demarcate authoritative normativity. Finally, I provide some motivation for abandoning the dualist orthodoxy and eschewing a monolithic understanding of the authoritative/formal divide in favor of a form of metanormative pluralism: there are multiple dimensions along which one might describe norms as being either authoritative or formal.",
-      "authors": [
-        "Michael Vollmer"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6260",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Ethics and Social Philosophy",
-      "journal_id": "J071",
-      "origin": "crossref",
-      "title": "Revisiting the Authoritative/Formal Distinction",
-      "url": "https://doi.org/10.26556/jesp.v31i5.6260"
-    },
-    {
-      "abstract": "In “Freedom, Desire, and Necessity,” Pascal Brixel defends an “Aristotelian-Marxian” necessary condition for autonomous activity: “One does something freely … only if one does it for its own sake—that is, on account of its perceived intrinsic value—and not merely instrumentally”—that is, merely for the sake of some other end. Brixel argues that this necessary condition can vindicate and explain the common intuition that both volitional coercion and duress are enemies of freedom in that they both force their victims to act in such a way that they undermine their self-determination. In this discussion, I focus on volitional coercion, and I argue that Brixel’s proposed Aristotelian-Marxian necessary condition for autonomous activity is mistaken—a person can still count as acting freely even when they are acting merely instrumentally—and as a result, we need a different account of how it is that volitional coercion undermines a person’s freedom.",
-      "authors": [
-        "Daniel Koltonski"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6261",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Ethics and Social Philosophy",
-      "journal_id": "J071",
-      "origin": "crossref",
-      "title": "Coercion and Instrumental Necessity",
-      "url": "https://doi.org/10.26556/jesp.v31i5.6261"
-    },
     {
       "abstract": "",
       "authors": [
@@ -13798,6 +13332,21 @@
       "url": "https://doi.org/10.1111/theo.70135"
     },
     {
+      "abstract": "Abstract I focus on Katsafanas’s conceptions of devotion and dialectical invulnerability, including the kinds of reasons to which devotions are invulnerable. I suggest friendly amendments to the notions of devotion and dialectical invulnerability that narrow the range of what counts as a devotion and as genuine dialectical invulnerability. I also suggest that maintaining personal commitments and devotions involves, at most, dialectical invulnerability to considerations justifying the impersonal value of what we are committed or devoted to. Emphasis is placed on the way commitments and devotions constitutively involve the agent taking a valuing attitude to the object of their commitment and devotion; on distinguishing between not regarding any disfavoring reasons as sufficient to undermine a devotion and regarding justifying reasons as entirely irrelevant; and on the importance of having at least some reasons, even if not objective, impersonal ones, that support one’s valuing attitude in the case of personal devotions.",
+      "authors": [
+        "Cheshire Calhoun"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-11",
+      "doi": "10.1163/17455243-bja10198",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Journal of Moral Philosophy",
+      "journal_id": "J070",
+      "origin": "crossref",
+      "title": "Devotion and Dialectical Invulnerability",
+      "url": "https://doi.org/10.1163/17455243-bja10198"
+    },
+    {
       "abstract": "Explanatory particularism (EP) is a radically pluralist approach to scientific explanation, which rejects several traditional ideas about explanation: monism, hierarchy, simplicity. Instead, EP defines explanation as resulting from collaborative activity within or among particular epistemic communities. This social theory of explanation offers insights for philosophy of social science, both theoretical and applied. This paper presents some of these insights, using the themes of anti-monism, anti-hierarchy, and commitment to complexity, alongside short case studies of interdisciplinary social science.",
       "authors": [
         "Melinda Bonnie Fagan"
@@ -14074,9 +13623,161 @@
       "origin": "crossref",
       "title": "Apparent competence, hidden influence: why Gillick competence requires a digital contextual framework",
       "url": "https://doi.org/10.1136/jme-2026-112033"
+    },
+    {
+      "abstract": "Abstract This paper examines the implications of the Non-Identity Problem (NIP) for real-world climate change-related duties, responding to Lukas Tank’s Minor Difference Claim. Tank argues that robust climate action (involving mitigation, adaptation, and compensation) is already required to respond to the foreseeable negative effects on individuals whose identities are fixed, so accepting (or “biting the bullet” on) the NIP makes only a minor difference to our climate change-related duties. We challenge this view by arguing that accepting the NIP makes a not-so-minor difference for compensatory climate duties. First, it affects their extent. Second, it generates highly unequal compensatory claims both across individuals born at different times ( intragenerational difference ) and among those exposed to the same climate impacts at different times ( intertemporal difference ). We conclude that one must either accept these implications or develop a strategy to resolve or avoid the NIP.",
+      "authors": [
+        "Eike Düvel",
+        "Laura García-Portela"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1017/s0953820826100612",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Utilitas",
+      "journal_id": "J052",
+      "origin": "crossref",
+      "title": "Non-Identity and Compensation for Climate Change: The Not-So-Minor Difference Claim",
+      "url": "https://doi.org/10.1017/s0953820826100612"
+    },
+    {
+      "abstract": "Abstract Institutional transformations of the judiciary may affect the conditions under which professional roles are performed. This article develops the concept of deontological injury to the legal professional, understood as the systematic subordination of role-constitutive reasons within professional deliberation. Drawing on H. L. A. Hart’s internal point of view and on J. Raz’s and J. C. Bayón’s accounts of normativity and reasons for action, it argues that acceptance of the legal system may persist even when role-based reasons lose their guiding position, thereby opening the possibility of a rupture between the normativity of the system and that of the professional role. Mexico’s 2024 judicial reform provides a setting in which to examine this fracture under a comprehensive model of popular judicial elections. When political or prudential reasons become functionally relevant to access to or continued tenure in judicial office, deontological injury may appear.",
+      "authors": [
+        "Leopoldo Gama"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1093/icon/moag111",
+      "first_seen_jst": "2026-11-14",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
+      "origin": "crossref",
+      "title": "Lesión deontológica del jurista: elección judicial y escisión entre sistema y rol en México",
+      "url": "https://doi.org/10.1093/icon/moag111"
+    },
+    {
+      "abstract": "Abstract National self-determination has an inherently territorial dimension: people who live together in a shared polity require land that can host the population, whose resources can be extracted for the common good, and whose history they find meaningful. This paper explores a particular kind of land that is of distinguished importance in political philosophy: the homeland. Homelands are significant because of the role that is often attributed to them in justifying territorial rights. However, on reflection, the metaphysical nature of homelands is curious. Some of the platitudes we tend to hold about them imply that they resemble large material objects, while others suggest that we should treat them as space-time locations. In this paper, I consider several possible accounts of homelands that allow us to reconcile these intuitions with each other, ultimately coming down in favour of a conception of homelands as set-theoretic constructions. I combine this idea with a particular view of what turns a mere piece of land into a homeland, which I call the worked land view. The worked land view has far-ranging consequences not only for metaphysicians but for political philosophers as well: among other things, it helps us overcome a recalcitrant problem about self-determination referenda.",
+      "authors": [
+        "David Mark Kovacs"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1093/mind/fzag053",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Mind",
+      "journal_id": "J091",
+      "origin": "crossref",
+      "title": "The Metaphysics of Homelands",
+      "url": "https://doi.org/10.1093/mind/fzag053"
+    },
+    {
+      "abstract": "Abstract The article analyses the framing of scope 3 emissions in corporate climate litigation and the narratives they give rise to. It examines scope 3’s origins and its presence in legislative and other regulatory measures before analysing scope 3 emissions framing in a series of landmark cases globally. The case law on scope 3 is presented across five broad categories involving corporations: business challenges to climate disclosure legislation, and then greenwashing, project, due diligence and liability cases brought by the climate movement. How do we and how should we frame what a company’s emissions are, for which it is legally responsible? The article outlines how the case law reflects a framing contest over what emissions properly belong to a company. It then discusses narratives involved in some of the key scope 3 emissions categories. While finding that there are strategically positive narratives for the climate movement, it argues that some of its corporate climate litigation plays into problematic private governance and market-led narratives. A case is made for a carbon takeback obligation (CTBO) as part of a policy-led narrative to help resolve these tensions.",
+      "authors": [
+        "Chris Hilson"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1093/ojls/gqag034",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Oxford Journal of Legal Studies",
+      "journal_id": "J003",
+      "origin": "crossref",
+      "title": "Scope 3 Emissions Framing and Corporate Climate Litigation: Encouraging the Right Narratives?",
+      "url": "https://doi.org/10.1093/ojls/gqag034"
+    },
+    {
+      "abstract": "Abstract Some duties are completed by the performance they require. Others remain live because their defining aim remains unrealized. I argue that standing duties of active repair are of the second kind. Their force is not fixed by the permanent fact of a past wrong, nor are they discharged by any discrete act of apology, compensation, or settlement as such. That force varies with the state of the injury they aim to undo. Historical injustice is the hard case: the wrong does not lapse, but its continuing operation in present social relations may deepen, weaken, fall dormant, or cease. I call this view operation-bounded responsibility. It explains how reparative duties can be bounded in their active demands, and in principle completed, without treating the wrong as morally extinguished; and it identifies how a historical wrong fixes the content, the claimants, and the answerability of what is now owed.",
+      "authors": [
+        "Wenxuan Hou"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1093/pq/pqag084",
+      "first_seen_jst": "2026-11-14",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
+      "origin": "crossref",
+      "title": "Standing duties over time: Operation-bounded responsibility and historical injustice",
+      "url": "https://doi.org/10.1093/pq/pqag084"
+    },
+    {
+      "abstract": "ABSTRACT The assessment of “irremediability” in mental health constitutes the most complex bioethical challenge within medical assistance in dying laws, given the structural uncertainty inherent in psychiatry. This article proposes a four‐level analytical framework designed to transform diagnostic ambiguity into a prudent and auditable decision. In the first level (technical), “incurability” is delimited as a nosographic judgment based on treatment futility and traceability, as opposed to “irremediability” as a clinical‐pragmatic judgment. The second level (phenomenological) defines irremediability as a ‘frozen temporality’ and a closure of the biographical horizon, where suffering becomes structural. The third level (ethical) advocates for “relational autonomy” and the two‐track approach as safeguards against both therapeutic obstinacy and abandonment, ensuring that intensive rehabilitation coexists with the request. Finally, the fourth level (legal) analyzes how certain euthanasia legislations integrate biographical functionality, moving beyond a purely biological paradigm. It is concluded that the transition from a nosographic model to a biographical one allows for the respect of individual autonomy and life history without abdicating clinical responsibility, offering a decision‐making standard that harmonizes technical rigor with compassion.",
+      "authors": [
+        "Sergio Ramos‐Pozón",
+        "Silvia Poveda‐Moral"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1111/bioe.70215",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "From Nosography to Biography: A Four‐Level Framework for Evaluating Irremediability in Medical Assistance in Dying for Mental Health",
+      "url": "https://doi.org/10.1111/bioe.70215"
+    },
+    {
+      "abstract": "Abstract Most research on artificial intelligence (AI) in the administrative state focuses on its use by officials. This article addresses a comparatively neglected issue: the impact of the use of AI tools by the public themselves. Drawing on a qualitative survey with over 500 civil servants in the United Kingdom, it argues that AI use by the public is increasingly disrupting the front line of the administrative state. The argument is set out in three parts. First, as the administrative state increasingly relies on text‐based inputs, officials use correspondence as a proxy for individuals – a longstanding assumption of ‘autographic’ authorship that the diffusion of generative AI tools unsettles. Second, the problem can be characterized as ‘AI slop’: AI‐generated correspondence with high volume and velocity that adopts a particular voice in interactions with officials. Third, this AI slop causes three forms of disruption: to the signals that officials draw from correspondence, to trust between officials and the public, and to systems that are ill‐equipped to deal with it. The article concludes by arguing that the status quo itself fails to adequately meet the needs of many people accessing services, and that systems need to be redesigned not only for a society beset by AI slop, but also in ways that address the drivers of it.",
+      "authors": [
+        "JED MEERS"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1111/jols.70084",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "‘Chucking their stuff into ChatGPT and hitting send’: AI slop in the administrative state",
+      "url": "https://doi.org/10.1111/jols.70084"
+    },
+    {
+      "abstract": "Abstract Kant claims that every lie is as grave as perjury. Kant also believed in the opacity of the self. Even if under the impression of telling the truth, the testifier might be lying. Every declaration therefore incurs the risk of being gravely wrong. But instead of being a man of few words, Kant has a career total of two million words. Augustine and Aquinas also forbid all lies. These two prefigurers of Kant rank some lies as far less wrong than other lies. Augustine and Aquinas are also less pessimistic about authors' ability to detect their own lying. Nevertheless, the risk of grave lying remains too high to reconcile with the volubility of Augustine and Aquinas. These giants among the never‐liars exhibit a quantitative weakness that is also present among less prolific and more qualified prohibitors of lying, such as W. D. Ross.",
+      "authors": [
+        "Roy Sorensen"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1111/meta.70055",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Metaphilosophy",
+      "journal_id": "J103",
+      "origin": "crossref",
+      "title": "Quantitative Self‐Defeat Among the Never‐Liars: Kant, Augustine, and Aquinas",
+      "url": "https://doi.org/10.1111/meta.70055"
+    },
+    {
+      "abstract": "Abstract This paper engages with Kramer's provocative analysis of disjunctive quantification. His idea is that someone can owe a duty to a disjunction of agents (and some such disjunction can together hold the correlative claim‐right). I find this idea very puzzling and I also see more difficulties than Kramer does in the proposition that a disjunction can pass his own test for right‐holding. I therefore offer the reader two ways to avoid having to rely on disjunctive quantification. One way distinguishes directed duties from undirected duties, while the other introduces a constructive ambiguity in what it means to owe a duty to someone.",
+      "authors": [
+        "Gopal Sreenivasan"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1111/raju.70037",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Ratio Juris",
+      "journal_id": "J005",
+      "origin": "crossref",
+      "title": "Owing and Quantification",
+      "url": "https://doi.org/10.1111/raju.70037"
+    },
+    {
+      "abstract": "This review examines Niko Kolodny's The Pecking Order and George Letsas's Status in Law and Morality. Kolodny's is an impressively ambitious treatment of social hierarchy as a philosophical problem. Yet he risks treating asymmetry as a pathology to be explained away or tempered. Letsas's achievement is to give this insight a legal form. Status is one way in which the law can acknowledge asymmetry without converting it into hierarchy.",
+      "authors": [
+        "Cécile Laborde"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1177/14748851261503757",
+      "first_seen_jst": "2026-11-14",
+      "journal": "European Journal of Political Theory",
+      "journal_id": "J034",
+      "origin": "crossref",
+      "title": "Unobjectionable inequalities Nico Kolodny,\n                    The Pecking Order. Social Hierarchy as a Philosophical Problem\n                    (Harvard University Press, 2023).George Letsas,\n                    Status in Law and Morality\n                    (Oxford University Press, 2026).",
+      "url": "https://doi.org/10.1177/14748851261503757"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-13",
-  "window_start": "2026-09-29"
+  "window_end": "2026-11-14",
+  "window_start": "2026-09-30"
 }

@@ -1,72 +1,8 @@
 {
-  "checked_at_utc": "2026-11-12T21:52:58.130912+00:00",
-  "collected_on": "2026-11-13",
-  "count": 73,
+  "checked_at_utc": "2026-11-13T21:28:41.123268+00:00",
+  "collected_on": "2026-11-14",
+  "count": 67,
   "items": [
-    {
-      "crossref_candidate_date": "2026-09-29",
-      "doi": "10.1017/s0034670526101193",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "Pluralism vs. Moralism"
-    },
-    {
-      "crossref_candidate_date": "2026-09-29",
-      "doi": "10.1177/00905917261487669",
-      "first_seen_jst": "2026-11-06",
-      "journal_id": "J031",
-      "status": "unverified_not_introduced",
-      "title": "Book Review:\n                    Democracy and Beauty: The Political Aesthetics of W.E.B. Du Bois\n                    , by Robert Gooding-Williams Democracy and Beauty: The Political Aesthetics of W.E.B. Du Bois, by Gooding-WilliamsRobert, New York, NY: Columbia University Press, 2025, 272 pp."
-    },
-    {
-      "crossref_candidate_date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6238",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J071",
-      "status": "unverified_not_introduced",
-      "title": "Moral Motivation and Rich Representation"
-    },
-    {
-      "crossref_candidate_date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6243",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J071",
-      "status": "unverified_not_introduced",
-      "title": "Misinterpretive Frames and Epistemic Contamination"
-    },
-    {
-      "crossref_candidate_date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6250",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J071",
-      "status": "unverified_not_introduced",
-      "title": "Against the Public Ownership Conception of Shared Property"
-    },
-    {
-      "crossref_candidate_date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6252",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J071",
-      "status": "unverified_not_introduced",
-      "title": "Virulent Claims"
-    },
-    {
-      "crossref_candidate_date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6260",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J071",
-      "status": "unverified_not_introduced",
-      "title": "Revisiting the Authoritative/Formal Distinction"
-    },
-    {
-      "crossref_candidate_date": "2026-09-29",
-      "doi": "10.26556/jesp.v31i5.6261",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J071",
-      "status": "unverified_not_introduced",
-      "title": "Coercion and Instrumental Necessity"
-    },
     {
       "crossref_candidate_date": "2026-09-30",
       "doi": "10.1057/s41296-026-00847-3",
@@ -586,6 +522,22 @@
       "journal_id": "J041",
       "status": "unverified_not_introduced",
       "title": "Because They Are (Like) Us\n                    : On Schopenhauer’s Pioneering Role in Animal Ethics and His Contribution to the Contemporary Debate"
+    },
+    {
+      "crossref_candidate_date": "2026-11-11",
+      "doi": "10.1163/17455243-bja10198",
+      "first_seen_jst": "2026-11-14",
+      "journal_id": "J070",
+      "status": "unverified_not_introduced",
+      "title": "Devotion and Dialectical Invulnerability"
+    },
+    {
+      "crossref_candidate_date": "2026-11-13",
+      "doi": "10.1177/14748851261503757",
+      "first_seen_jst": "2026-11-14",
+      "journal_id": "J034",
+      "status": "unverified_not_introduced",
+      "title": "Unobjectionable inequalities Nico Kolodny,\n                    The Pecking Order. Social Hierarchy as a Philosophical Problem\n                    (Harvard University Press, 2023).George Letsas,\n                    Status in Law and Morality\n                    (Oxford University Press, 2026)."
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

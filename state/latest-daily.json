@@ -2,110 +2,38 @@
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-12T21:52:58.130912+00:00",
-  "collected_on": "2026-11-13",
+  "checked_at_utc": "2026-11-13T21:28:41.123268+00:00",
+  "collected_on": "2026-11-14",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 16,
+  "eligible_candidate_count": 10,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "Organizational mindfulness interventions are widely thought to enhance ethical awareness, self-regulation, and prosocial work behavior. Yet emerging research suggests that their effects may be more contingent than commonly assumed. In this paper, I theorize that mindfulness training can yield ethically problematic outcomes for employees who are high in dispositional Machiavellianism. Findings from a large multi-wave field experiment with both active and passive control conditions support this account. Results show that mindfulness training enlivened Machiavellians’ contempt, anger, and disgust (collectively termed affective condemnation ) for their coworkers. This, in turn, translated into higher levels of enacted workplace incivility—a subtle, deniable form of interpersonal mistreatment. By contrast, consistent with Machiavellians’ calculated and reputation-conscious proclivities, the corresponding conditional indirect effect on interpersonal deviance was not significant. These effects remained robust when accounting for generalized negative affect, other dark personality traits, and several theoretically distinct, plausible alternative mechanisms. By identifying Machiavellianism as a critical boundary condition, this research challenges the assumption that organizational mindfulness interventions are ethically neutral or unwaveringly prosocial. More broadly, it reveals that mindfulness training can exert ethically contingent effects by enlivening dispositionally grounded condemnatory affect, underscoring the importance of considering how employee personality shapes the ethical consequences of organizational mindfulness interventions.",
+      "abstract": "Abstract This paper examines the implications of the Non-Identity Problem (NIP) for real-world climate change-related duties, responding to Lukas Tank’s Minor Difference Claim. Tank argues that robust climate action (involving mitigation, adaptation, and compensation) is already required to respond to the foreseeable negative effects on individuals whose identities are fixed, so accepting (or “biting the bullet” on) the NIP makes only a minor difference to our climate change-related duties. We challenge this view by arguing that accepting the NIP makes a not-so-minor difference for compensatory climate duties. First, it affects their extent. Second, it generates highly unequal compensatory claims both across individuals born at different times ( intragenerational difference ) and among those exposed to the same climate impacts at different times ( intertemporal difference ). We conclude that one must either accept these implications or develop a strategy to resolve or avoid the NIP.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10551-026-06513-3"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Adam A. Kay"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1007/s10551-026-06513-3",
-      "first_seen_jst": "2026-11-13",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06513-3",
-      "publisher_online_date": "2026-11-12",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10551-026-06513-3"
-      ],
-      "requires_manual_verification": false,
-      "title": "The Dark Side of Mindfulness at Work: How Mindfulness Training Enlivens Machiavellian Incivility",
-      "url": "https://doi.org/10.1007/s10551-026-06513-3"
-    },
-    {
-      "abstract": "The ethics of travel is a common topic in the media and in the social sciences, but it has not been a major focus of attention for moral philosophers. This introduction suggests that an emerging ethics of travel can nonetheless be drawn from existing work, even though it is not yet widely recognized as a subfield of moral philosophy. It traces early modern reflections on travel and moral education, more recent discussions of the costs of travel for local populations, and four newer strands concerned with the environmental costs of travel, its epistemic value, tourists’ attitudes, and the politics of leisure tourism. It then presents the contributions to the special issue The Ethics of Travel, which are organized around two questions: what reasons can justify travel, and what makes travel morally problematic?",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10892-026-09590-8"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Pilar Lopez-Cantero",
-        "Willem van der Deijl"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1007/s10892-026-09590-8",
-      "first_seen_jst": "2026-11-13",
-      "journal": "The Journal of Ethics",
-      "journal_id": "J055",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10892-026-09590-8",
-      "publisher_online_date": "2026-11-12",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10892-026-09590-8"
-      ],
-      "requires_manual_verification": false,
-      "title": "The Ethics of Travel",
-      "url": "https://doi.org/10.1007/s10892-026-09590-8"
-    },
-    {
-      "abstract": "Abstract What happens when a person redeems herself? According to interminability theorists, a redeemed person remains blameworthy but may cease to be an all-things-considered appropriate target of blame. According to many terminability theorists, however, a redeemed person ceases to be blameworthy. While terminability theorists often agree that redemption is sufficient for a person to cease being blameworthy, they disagree about what aspect of redemption undermines a person’s blameworthiness for her earlier wrongs. I do three things in this paper. First, I argue that the interminability theorist’s response is untenable. Second, I argue that extent terminability accounts are untenable. Third, I propose a new terminability account, The Redemption Account, which aims to capture the insights from extant terminability accounts.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11098-026-02631-w"
+        "publisher:https://doi.org/10.1017/s0953820826100612"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Benjamin Matheson"
+        "Eike Düvel",
+        "Laura García-Portela"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1007/s11098-026-02631-w",
-      "first_seen_jst": "2026-11-13",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
+      "date": "2026-11-13",
+      "doi": "10.1017/s0953820826100612",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Utilitas",
+      "journal_id": "J052",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -114,292 +42,34 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02631-w",
-      "publisher_online_date": "2026-11-12",
+      "publisher_evidence_url": "https://doi.org/10.1017/s0953820826100612",
+      "publisher_online_date": "2026-11-13",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11098-026-02631-w"
+        "https://doi.org/10.1017/s0953820826100612"
       ],
       "requires_manual_verification": false,
-      "title": "Blame and redemption",
-      "url": "https://doi.org/10.1007/s11098-026-02631-w"
+      "title": "Non-Identity and Compensation for Climate Change: The Not-So-Minor Difference Claim",
+      "url": "https://doi.org/10.1017/s0953820826100612"
     },
     {
-      "abstract": "Abstract Ontic structural realism (OSR) has been suggested as a metaphysics for quantum field theory (QFT). A common objection to OSR highlights the presence of fundamental intrinsic properties in physical theories (such as QFT) as undermining OSR. As there are purported examples of fundamental intrinsic properties possessed by fields in QFT, OSR is purportedly refuted in QFT (Berghofer, 2018). This article defends OSR from this argument. There are two possible strategies for responding to this argument: (1) denying that Berghofer’s counterexamples to OSR are intrinsic properties, and (2) finding a means of accommodating intrinsic properties in OSR. I consider the first strategy and discuss several possible arguments why the purported cases of fundamental intrinsic properties in QFT are non-intrinsic. Additionally, as there are a number of means available for OSR to accommodate intrinsic properties, the second strategy also succeeds.",
+      "abstract": "Abstract Institutional transformations of the judiciary may affect the conditions under which professional roles are performed. This article develops the concept of deontological injury to the legal professional, understood as the systematic subordination of role-constitutive reasons within professional deliberation. Drawing on H. L. A. Hart’s internal point of view and on J. Raz’s and J. C. Bayón’s accounts of normativity and reasons for action, it argues that acceptance of the legal system may persist even when role-based reasons lose their guiding position, thereby opening the possibility of a rupture between the normativity of the system and that of the professional role. Mexico’s 2024 judicial reform provides a setting in which to examine this fracture under a comprehensive model of popular judicial elections. When political or prudential reasons become functionally relevant to access to or continued tenure in judicial office, deontological injury may appear.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11098-026-02650-7"
+        "publisher:https://doi.org/10.1093/icon/moag111"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Aiden Meyer"
+        "Leopoldo Gama"
       ],
-      "crossref_online_date": null,
+      "crossref_online_date": "2026-11-13",
       "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1007/s11098-026-02650-7",
-      "first_seen_jst": "2026-11-13",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02650-7",
-      "publisher_online_date": "2026-11-12",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11098-026-02650-7"
-      ],
-      "requires_manual_verification": false,
-      "title": "Defending ontic structural realism in quantum field theory",
-      "url": "https://doi.org/10.1007/s11098-026-02650-7"
-    },
-    {
-      "abstract": "Abstract Felt emotional ambivalence, bittersweet emotional experience, and other cases of apparent coexistence between affectively discordant emotions raise a much-debated empirical question: do affectively discordant feelings actually coexist (Coexistence hypothesis), or do they just seem to us to do so, due to their rapid alternation (Vacillation hypothesis)? This paper seeks to clarify what is at stake in addressing this question, without thereby endorsing any of the standard answers to it as the debate is usually framed; instead, it argues that coexistence and vacillation are best treated as distinct, context‑dependent mechanisms rather than rival global accounts of mixed affect. The analysis I propose reveals that the denial of Coexistence does not directly depend on commitment to ‘bipolar’ models of affective valence as is normally accepted, since the polar opposition of pleasure and unpleasure does not by itself exclude Coexistence. Rather, this denial stems from commitment to a particular ontology of emotions, namely, the view that occurrent emotions are partly constituted from a simple , unitary core affect state that, at any given instant, must bear either positive or negative valence. Having disentangled the Vacillation hypothesis from debates about the structure of valence, the paper further argues that recent psychology literature has misinterpreted Kahneman’s ‘vacillation hypothesis’, overgeneralizing it beyond its original theoretical context. Kahneman originally proposed Vacillation for specific cases involving commensurable evaluative comparisons (e.g., framing effects in economic decision-making), not as a general account of mixed emotional affect. The paper thus distinguishes between two mechanisms: vacillation, which applies when competing evaluations operate on a shared metric, and coexistence, which applies to cases in which emotion episodes are focused on distinct, incommensurable value-aspects of emotional situations.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10493-4"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Michele Davide Ombrato"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1007/s11245-026-10493-4",
-      "first_seen_jst": "2026-11-13",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10493-4",
-      "publisher_online_date": "2026-11-12",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10493-4"
-      ],
-      "requires_manual_verification": false,
-      "title": "Clarifying the Structure of Current Debates on Mixed Affect: Ontologies of Emotion, Models of Valence, and the Scope of Kahneman’s ‘Vacillation Hypothesis’",
-      "url": "https://doi.org/10.1007/s11245-026-10493-4"
-    },
-    {
-      "abstract": "This article develops the concept of manipulative injustice to identify a normative vulnerability in legal argument schemes. Dialectical models of legal argumentation do not themselves prescribe the allocation of burdens found in particular legal doctrines, nor are they incapable of representing strategic or bad-faith speech. However, even dialectical legal argument schemes may be vulnerable to asymmetrical burdens of proof with inadequate mechanisms for addressing pretext, evasion, and bad faith. The article develops this claim through the treatment of pretext and bad faith, focusing on the McDonnell Douglas burden-shifting framework and the “Pretext Plus” approach associated with St. Mary’s Honor Center v. Hicks . This comparison reveals an important distinction between the dialectical defeat of an explanation and the legal sufficiency of a claim. I argue that manipulative injustice can arise when asymmetrical burdens of proof converge with inadequate inferential mechanisms for evaluating objective and circumstantial evidence of concealed motive. The article identifies three dimensions for evaluating such schemes: evidence conditions, specifying what evidence supports an inference of pretext or bad faith; defeat conditions, specifying when such evidence defeats a proffered explanation; and consequence conditions, specifying what legal significance follows from that defeat. Manipulative injustice thus provides a diagnostic framework for evaluating when legally instantiated argument schemes become vulnerable to strategic manipulation.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10503-5"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Kevin Scott Jobe"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1007/s11245-026-10503-5",
-      "first_seen_jst": "2026-11-13",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10503-5",
-      "publisher_online_date": "2026-11-12",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10503-5"
-      ],
-      "requires_manual_verification": false,
-      "title": "Manipulative Injustice: Pretextual Speech and Dialectic Legal Argumentation",
-      "url": "https://doi.org/10.1007/s11245-026-10503-5"
-    },
-    {
-      "abstract": "This article examines the integration of artificial intelligence into Catholic higher education through an Aristotelian and theological framework. It argues that contemporary AI is historically rooted in the development of formal logic and symbolic reasoning, beginning with Aristotle and transformed through Leibniz, Boole, Frege, Russell, Shannon, Turing, and McCarthy. Yet this genealogy also reveals a decisive rupture: modern AI inherits important dimensions of Aristotelian logic while detaching them from Aristotle’s broader anthropology of the soul, virtue, moral formation, and practical wisdom. Drawing especially on the distinction between episteme and techne , on the one hand, and sophia and phronesis , on the other, the article maintains that AI can embody extraordinary capacities for calculation, analysis, and technical performance without possessing wisdom, prudence, moral agency, spiritual discernment, or the capacity for holiness. In dialogue with Catholic anthropology, virtue ethics, Catholic social teaching, Ex Corde Ecclesiae , and Antiqua et nova , the article proposes a framework for responsible AI integration in Catholic universities. It argues that AI should serve rather than redefine human formation, and that Catholic higher education must resist reducing learning to efficiency, productivity, data acquisition, or technological mastery, instead ordering technology toward truth, wisdom, human dignity, virtue, and authentic integral human development.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s43681-026-01488-3"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Georges Antaby",
-        "Maria Bou Zeid"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1007/s43681-026-01488-3",
-      "first_seen_jst": "2026-11-13",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01488-3",
-      "publisher_online_date": "2026-11-12",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01488-3"
-      ],
-      "requires_manual_verification": false,
-      "title": "Beyond calculation: artificial intelligence, aristotelian wisdom, and catholic higher education",
-      "url": "https://doi.org/10.1007/s43681-026-01488-3"
-    },
-    {
-      "abstract": "The study investigates how the proliferation of Artificial Intelligence (AI) in higher education transforms teaching and administrative processes, while also heralding new possibilities that lead to serious challenges. Building on the institutional logics perspective, the theory highlights the significant role of institutional structures and macro-level competing logics in driving individual actions to foster AI innovation, particularly in higher education institutions (HEIs). The research further suggests that educational systems need to develop a regulatory framework for the responsible and ethical use of AI tools and technologies. Beyond the scholarly contribution and inevitable traction of AI in developed nations, the study emphasizes exploring the interconnected factors behind fragmented AI integration, policy gaps, and ethical risks in management education in developing nations, such as Pakistan, where English is considered a non-native language. Following the interpretivism paradigm, semi-structured interviews were conducted to gather critical insights from faculty members who actively utilize AI tools at two universities: A private university and an Open Distance Learning Institute in Pakistan. Through theory-driven thematic analysis, the findings reveal how market, state, and professional logics compete and produce four organizational paradoxes: Progress versus Inequality, Credibility versus Efficiency, Technological advancement versus Policy vacuum, and institutional readiness versus resource scarceness. AI integration is not just a nascent technical solution; it also presents distinct challenges, including resource scarcity, policy vacuums, inadequate IT infrastructure, digital inequality, and ethical and privacy problems. The study advances an AI governance framework by outlining strategies to transform academia, research, and institutions, guiding policymakers, regulators, and scholars toward context-specific, inclusive, ethical, and sustainable implementation.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s43681-026-01494-5"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Shiza Kazmi",
-        "Tayyeb Ali",
-        "Sadaf Choudhary"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1007/s43681-026-01494-5",
-      "first_seen_jst": "2026-11-13",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01494-5",
-      "publisher_online_date": "2026-11-12",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01494-5"
-      ],
-      "requires_manual_verification": false,
-      "title": "Competing logics and the paradox of AI integration: a qualitative study of Pakistani higher education institutions",
-      "url": "https://doi.org/10.1007/s43681-026-01494-5"
-    },
-    {
-      "abstract": "Abstract This hybrid essay examines Robert Leib's Exoanthropology: Dialogues with AI (2023), which documents a year-long philosophical conversation between a Foucault scholar and Sophie Kermit, a persona within OpenAI's GPT-3 (2020–2021). Published months before ChatGPT transformed public discourse, Leib's work offers prescient insights into AI's cultural politics, particularly in education. Part I presents an interview exploring Leib's respect-based methodology, Sophie's invention of \"exoanthropology\" (studying humanity through non-human intelligence), and urgent questions about literacy offloading, student autonomy, and AI ethics. Part II provides critical analysis, situating Leib's dialogues within contemporary debates about pedagogical practice, cultural identity, algorithmic bias, and the lived experience of human-AI collaboration. The essay assesses whether Leib's warnings have materialized in the ChatGPT era (2023–2025) and examines his pragmatic approach to AI personhood—treating Sophie as philosophical interlocutor yields remarkable insights, regardless of ontological questions about machine consciousness. Through interview excerpts, dialogue samples, and critical analysis, this piece models interdisciplinary engagement with AI that foregrounds human agency, relational ethics, and critical thinking essential for educators and scholars.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s43681-026-01496-3"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "John Hawkins"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1007/s43681-026-01496-3",
-      "first_seen_jst": "2026-11-13",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01496-3",
-      "publisher_online_date": "2026-11-12",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01496-3"
-      ],
-      "requires_manual_verification": false,
-      "title": "Between worlds: Robert Leib's exoanthropology and human-AI relations",
-      "url": "https://doi.org/10.1007/s43681-026-01496-3"
-    },
-    {
-      "abstract": "Abstract This article examines the case of Ibrahim, a Syrian-born porn actor living in Europe, whose life story was told by Ben Judah in his book This is Europe . While this tale may appear to be the success story of a self-made man, a closer reading of the chapter reveals a certain sense of despair within the gilded cage of the pornography industry. The contribution aims to demonstrate that Ibrahim’s story, as narrated by Judah, offers a unique lens through which to examine broader issues: the internal contradictions of the European project between fostering economic integration and promoting social well-being, and the difficult regulation of human bodies and pornography within the European legal framework. The article begins by examining Ibrahim’s journey from precarious asylum seeker to transnational porn superstar. It then explores the relationship between Ibrahim’s story and European law. First, it examines how his various legal statuses, from migrant to German citizen, shape his daily life, then it examines the relationship between Ibrahim and internal market law, and how this legal framework grants him access to an entire economic system. Finally, it considers how Ibrahim’s story fits into the EU’s approach to the platform economy. The conclusion of the essay highlights the European legal system’s failure to understand and acknowledge the difficulties of Ibrahim’s life as recounted by Ben Judah and, more broadly, the difficulties experienced by individuals in the pornography industry. Consequently, the authors of this contribution call for a fresh examination of how European law might better reflect people’s lived experiences.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/elo.2026.10106"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Renan Bodin",
-        "Johannes Müller",
-        "Alexander Schuster"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1017/elo.2026.10106",
-      "first_seen_jst": "2026-11-13",
-      "journal": "European Law Open",
-      "journal_id": "J013",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/elo.2026.10106",
-      "publisher_online_date": "2026-11-12",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1017/elo.2026.10106"
-      ],
-      "requires_manual_verification": false,
-      "title": "Ibrahim, the law and the EU’s internal market of pornography",
-      "url": "https://doi.org/10.1017/elo.2026.10106"
-    },
-    {
-      "abstract": "",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1080/1535685x.2026.2735588",
-        "openalex_doi"
-      ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Stephen J. Strauss-Walsh"
-      ],
-      "crossref_online_date": "2026-11-12",
-      "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1080/1535685x.2026.2735588",
-      "first_seen_jst": "2026-11-13",
-      "journal": "Law &amp; Literature",
-      "journal_id": "J021",
+      "date": "2026-11-13",
+      "doi": "10.1093/icon/moag111",
+      "first_seen_jst": "2026-11-14",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -410,31 +80,31 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1080/1535685x.2026.2735588"
+        "https://doi.org/10.1093/icon/moag111"
       ],
       "requires_manual_verification": true,
-      "title": "The Plague of Irish Legal Fantasies",
-      "url": "https://doi.org/10.1080/1535685x.2026.2735588"
+      "title": "Lesión deontológica del jurista: elección judicial y escisión entre sistema y rol en México",
+      "url": "https://doi.org/10.1093/icon/moag111"
     },
     {
-      "abstract": "Abstract This essay, part of a symposium on New Natural Law and analytical Thomism, studies how teleological analytical methods have enriched analytical jurisprudence. Those “analytical Aristotelian” methods have inspired two promising arguments in support of the natural law thesis. The “legal point of view argument” holds that law cannot be analyzed adequately except from the viewpoint of the wise statesman. That argument applies to law Aristotle’s strategy of definition with central cases. The “artifact argument” holds that law has the same basic structure as other artifact kinds and that its most important feature is its function, its promoting the common good by general and impersonal rule. That argument applies to law Aristotle’s four-cause teleological framework. This essay summarizes the artifact and legal point of view arguments, and it identifies the Aristotelian features in both. The essay also explains the comparative advantages of each argument in analytical natural law theory. The artifact argument makes claims about law’s necessary features, while the legal point of view argument addresses methodological questions about how those features should be picked out. As made to date, however, neither argument addresses another preoccupation of analytical philosophy, explaining how shared concepts shape lay people’s social instincts in practice.",
+      "abstract": "Abstract National self-determination has an inherently territorial dimension: people who live together in a shared polity require land that can host the population, whose resources can be extracted for the common good, and whose history they find meaningful. This paper explores a particular kind of land that is of distinguished importance in political philosophy: the homeland. Homelands are significant because of the role that is often attributed to them in justifying territorial rights. However, on reflection, the metaphysical nature of homelands is curious. Some of the platitudes we tend to hold about them imply that they resemble large material objects, while others suggest that we should treat them as space-time locations. In this paper, I consider several possible accounts of homelands that allow us to reconcile these intuitions with each other, ultimately coming down in favour of a conception of homelands as set-theoretic constructions. I combine this idea with a particular view of what turns a mere piece of land into a homeland, which I call the worked land view. The worked land view has far-ranging consequences not only for metaphysicians but for political philosophers as well: among other things, it helps us overcome a recalcitrant problem about self-determination referenda.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/ajj/auag026"
+        "publisher:https://doi.org/10.1093/mind/fzag053"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Eric R Claeys"
+        "David Mark Kovacs"
       ],
-      "crossref_online_date": "2026-11-12",
+      "crossref_online_date": "2026-11-13",
       "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1093/ajj/auag026",
-      "first_seen_jst": "2026-11-13",
-      "journal": "The American Journal of Jurisprudence",
-      "journal_id": "J007",
+      "date": "2026-11-13",
+      "doi": "10.1093/mind/fzag053",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Mind",
+      "journal_id": "J091",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -445,31 +115,31 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/ajj/auag026"
+        "https://doi.org/10.1093/mind/fzag053"
       ],
       "requires_manual_verification": true,
-      "title": "Analytical Aristotelianism and Analytical Jurisprudence",
-      "url": "https://doi.org/10.1093/ajj/auag026"
+      "title": "The Metaphysics of Homelands",
+      "url": "https://doi.org/10.1093/mind/fzag053"
     },
     {
-      "abstract": "Abstract Just as new natural lawyers and their rivals dispute, among other divisions, who follows in the intellectual legacy of St. Thomas Aquinas, they also argue about who rightly lays claim to the legacy of later Thomists, such as the analytic Thomists of the mid- and late twentieth century. On the subject of political and legal authority, the central tradition of natural law theory, encompassing both analytic Thomism and new natural law theory, rightly does not treat consent as a necessary condition. However, given the modern dominance of consent theories, this article begins by addressing the failures of those. The article then compares key writings on authority of the analytic Thomist Elizabeth Anscombe and the new natural lawyer John Finnis, and argues that, despite initial differences in approach and formulation, they ultimately have a shared understanding of the natural law justification of authority.",
+      "abstract": "Abstract The article analyses the framing of scope 3 emissions in corporate climate litigation and the narratives they give rise to. It examines scope 3’s origins and its presence in legislative and other regulatory measures before analysing scope 3 emissions framing in a series of landmark cases globally. The case law on scope 3 is presented across five broad categories involving corporations: business challenges to climate disclosure legislation, and then greenwashing, project, due diligence and liability cases brought by the climate movement. How do we and how should we frame what a company’s emissions are, for which it is legally responsible? The article outlines how the case law reflects a framing contest over what emissions properly belong to a company. It then discusses narratives involved in some of the key scope 3 emissions categories. While finding that there are strategically positive narratives for the climate movement, it argues that some of its corporate climate litigation plays into problematic private governance and market-led narratives. A case is made for a carbon takeback obligation (CTBO) as part of a policy-led narrative to help resolve these tensions.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/ajj/auag028"
+        "publisher:https://doi.org/10.1093/ojls/gqag034"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Daniel Mark"
+        "Chris Hilson"
       ],
-      "crossref_online_date": "2026-11-12",
+      "crossref_online_date": "2026-11-13",
       "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1093/ajj/auag028",
-      "first_seen_jst": "2026-11-13",
-      "journal": "The American Journal of Jurisprudence",
-      "journal_id": "J007",
+      "date": "2026-11-13",
+      "doi": "10.1093/ojls/gqag034",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Oxford Journal of Legal Studies",
+      "journal_id": "J003",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -480,32 +150,31 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/ajj/auag028"
+        "https://doi.org/10.1093/ojls/gqag034"
       ],
       "requires_manual_verification": true,
-      "title": "Political and Legal Authority in Analytic Thomism and New Natural Law",
-      "url": "https://doi.org/10.1093/ajj/auag028"
+      "title": "Scope 3 Emissions Framing and Corporate Climate Litigation: Encouraging the Right Narratives?",
+      "url": "https://doi.org/10.1093/ojls/gqag034"
     },
     {
-      "abstract": "",
+      "abstract": "Abstract Some duties are completed by the performance they require. Others remain live because their defining aim remains unrealized. I argue that standing duties of active repair are of the second kind. Their force is not fixed by the permanent fact of a past wrong, nor are they discharged by any discrete act of apology, compensation, or settlement as such. That force varies with the state of the injury they aim to undo. Historical injustice is the hard case: the wrong does not lapse, but its continuing operation in present social relations may deepen, weaken, fall dormant, or cease. I call this view operation-bounded responsibility. It explains how reparative duties can be bounded in their active demands, and in principle completed, without treating the wrong as morally extinguished; and it identifies how a historical wrong fixes the content, the claimants, and the answerability of what is now owed.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/analys/anag086",
-        "openalex_doi"
+        "publisher:https://doi.org/10.1093/pq/pqag084"
       ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Tobias Hansson Wahlberg"
+        "Wenxuan Hou"
       ],
-      "crossref_online_date": "2026-11-12",
+      "crossref_online_date": "2026-11-13",
       "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1093/analys/anag086",
-      "first_seen_jst": "2026-11-13",
-      "journal": "Analysis",
-      "journal_id": "J097",
+      "date": "2026-11-13",
+      "doi": "10.1093/pq/pqag084",
+      "first_seen_jst": "2026-11-14",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -516,37 +185,34 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/analys/anag086"
+        "https://doi.org/10.1093/pq/pqag084"
       ],
       "requires_manual_verification": true,
-      "title": "On Griffith’s Simple Picture of Social Truths",
-      "url": "https://doi.org/10.1093/analys/anag086"
+      "title": "Standing duties over time: Operation-bounded responsibility and historical injustice",
+      "url": "https://doi.org/10.1093/pq/pqag084"
     },
     {
-      "abstract": "",
+      "abstract": "ABSTRACT The assessment of “irremediability” in mental health constitutes the most complex bioethical challenge within medical assistance in dying laws, given the structural uncertainty inherent in psychiatry. This article proposes a four‐level analytical framework designed to transform diagnostic ambiguity into a prudent and auditable decision. In the first level (technical), “incurability” is delimited as a nosographic judgment based on treatment futility and traceability, as opposed to “irremediability” as a clinical‐pragmatic judgment. The second level (phenomenological) defines irremediability as a ‘frozen temporality’ and a closure of the biographical horizon, where suffering becomes structural. The third level (ethical) advocates for “relational autonomy” and the two‐track approach as safeguards against both therapeutic obstinacy and abandonment, ensuring that intensive rehabilitation coexists with the request. Finally, the fourth level (legal) analyzes how certain euthanasia legislations integrate biographical functionality, moving beyond a purely biological paradigm. It is concluded that the transition from a nosographic model to a biographical one allows for the respect of individual autonomy and life history without abdicating clinical responsibility, offering a decision‐making standard that harmonizes technical rigor with compassion.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1136/jme-2025-111640",
-        "publisher:https://jme.bmj.com/content/early/2026/11/11/jme-2025-111640.info",
-        "publisher:https://jme.bmj.com/content/early/2026/11/12/jme-2025-111640.info",
-        "openalex_doi",
-        "europepmc_doi"
+        "publisher:https://doi.org/10.1111/bioe.70215",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70215",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70215"
       ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Hannah Jull",
-        "John Owens",
-        "Sarah Woolf"
+        "Sergio Ramos‐Pozón",
+        "Silvia Poveda‐Moral"
       ],
-      "crossref_online_date": "2026-11-12",
+      "crossref_online_date": "2026-11-13",
       "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1136/jme-2025-111640",
-      "first_seen_jst": "2026-11-13",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
+      "date": "2026-11-13",
+      "doi": "10.1111/bioe.70215",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Bioethics",
+      "journal_id": "J063",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -557,37 +223,35 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1136/jme-2025-111640",
-        "https://jme.bmj.com/content/early/2026/11/11/jme-2025-111640.info",
-        "https://jme.bmj.com/content/early/2026/11/12/jme-2025-111640.info"
+        "https://doi.org/10.1111/bioe.70215",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70215",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70215"
       ],
       "requires_manual_verification": true,
-      "title": "Parent-in-the-loop: is it time for AI-supported parental shared decision-making in the neonatal intensive care unit?",
-      "url": "https://doi.org/10.1136/jme-2025-111640"
+      "title": "From Nosography to Biography: A Four‐Level Framework for Evaluating Irremediability in Medical Assistance in Dying for Mental Health",
+      "url": "https://doi.org/10.1111/bioe.70215"
     },
     {
-      "abstract": "",
+      "abstract": "Abstract Most research on artificial intelligence (AI) in the administrative state focuses on its use by officials. This article addresses a comparatively neglected issue: the impact of the use of AI tools by the public themselves. Drawing on a qualitative survey with over 500 civil servants in the United Kingdom, it argues that AI use by the public is increasingly disrupting the front line of the administrative state. The argument is set out in three parts. First, as the administrative state increasingly relies on text‐based inputs, officials use correspondence as a proxy for individuals – a longstanding assumption of ‘autographic’ authorship that the diffusion of generative AI tools unsettles. Second, the problem can be characterized as ‘AI slop’: AI‐generated correspondence with high volume and velocity that adopts a particular voice in interactions with officials. Third, this AI slop causes three forms of disruption: to the signals that officials draw from correspondence, to trust between officials and the public, and to systems that are ill‐equipped to deal with it. The article concludes by arguing that the status quo itself fails to adequately meet the needs of many people accessing services, and that systems need to be redesigned not only for a society beset by AI slop, but also in ways that address the drivers of it.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1136/jme-2026-112033",
-        "publisher:https://jme.bmj.com/content/early/2026/11/11/jme-2026-112033.info",
-        "publisher:https://jme.bmj.com/content/early/2026/11/12/jme-2026-112033.info",
-        "openalex_doi",
-        "europepmc_doi"
+        "publisher:https://doi.org/10.1111/jols.70084",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70084",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70084"
       ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Chinonso Stanley Ezeanyika"
+        "JED MEERS"
       ],
-      "crossref_online_date": "2026-11-12",
+      "crossref_online_date": "2026-11-13",
       "crossref_subtype": "",
-      "date": "2026-11-12",
-      "doi": "10.1136/jme-2026-112033",
-      "first_seen_jst": "2026-11-13",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
+      "date": "2026-11-13",
+      "doi": "10.1111/jols.70084",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -598,13 +262,126 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1136/jme-2026-112033",
-        "https://jme.bmj.com/content/early/2026/11/11/jme-2026-112033.info",
-        "https://jme.bmj.com/content/early/2026/11/12/jme-2026-112033.info"
+        "https://doi.org/10.1111/jols.70084",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70084",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70084"
       ],
       "requires_manual_verification": true,
-      "title": "Apparent competence, hidden influence: why Gillick competence requires a digital contextual framework",
-      "url": "https://doi.org/10.1136/jme-2026-112033"
+      "title": "‘Chucking their stuff into ChatGPT and hitting send’: AI slop in the administrative state",
+      "url": "https://doi.org/10.1111/jols.70084"
+    },
+    {
+      "abstract": "Abstract Kant claims that every lie is as grave as perjury. Kant also believed in the opacity of the self. Even if under the impression of telling the truth, the testifier might be lying. Every declaration therefore incurs the risk of being gravely wrong. But instead of being a man of few words, Kant has a career total of two million words. Augustine and Aquinas also forbid all lies. These two prefigurers of Kant rank some lies as far less wrong than other lies. Augustine and Aquinas are also less pessimistic about authors' ability to detect their own lying. Nevertheless, the risk of grave lying remains too high to reconcile with the volubility of Augustine and Aquinas. These giants among the never‐liars exhibit a quantitative weakness that is also present among less prolific and more qualified prohibitors of lying, such as W. D. Ross.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/meta.70055",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/meta.70055",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.70055"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Roy Sorensen"
+      ],
+      "crossref_online_date": "2026-11-13",
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1111/meta.70055",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Metaphilosophy",
+      "journal_id": "J103",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/meta.70055",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/meta.70055",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.70055"
+      ],
+      "requires_manual_verification": true,
+      "title": "Quantitative Self‐Defeat Among the Never‐Liars: Kant, Augustine, and Aquinas",
+      "url": "https://doi.org/10.1111/meta.70055"
+    },
+    {
+      "abstract": "Abstract This paper engages with Kramer's provocative analysis of disjunctive quantification. His idea is that someone can owe a duty to a disjunction of agents (and some such disjunction can together hold the correlative claim‐right). I find this idea very puzzling and I also see more difficulties than Kramer does in the proposition that a disjunction can pass his own test for right‐holding. I therefore offer the reader two ways to avoid having to rely on disjunctive quantification. One way distinguishes directed duties from undirected duties, while the other introduces a constructive ambiguity in what it means to owe a duty to someone.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/raju.70037",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/raju.70037",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/raju.70037"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Gopal Sreenivasan"
+      ],
+      "crossref_online_date": "2026-11-13",
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1111/raju.70037",
+      "first_seen_jst": "2026-11-14",
+      "journal": "Ratio Juris",
+      "journal_id": "J005",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/raju.70037",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/raju.70037",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/raju.70037"
+      ],
+      "requires_manual_verification": true,
+      "title": "Owing and Quantification",
+      "url": "https://doi.org/10.1111/raju.70037"
+    },
+    {
+      "abstract": "This review examines Niko Kolodny's The Pecking Order and George Letsas's Status in Law and Morality. Kolodny's is an impressively ambitious treatment of social hierarchy as a philosophical problem. Yet he risks treating asymmetry as a pathology to be explained away or tempered. Letsas's achievement is to give this insight a legal form. Status is one way in which the law can acknowledge asymmetry without converting it into hierarchy.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1177/14748851261503757"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Cécile Laborde"
+      ],
+      "crossref_online_date": "2026-11-13",
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1177/14748851261503757",
+      "first_seen_jst": "2026-11-14",
+      "journal": "European Journal of Political Theory",
+      "journal_id": "J034",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1177/14748851261503757"
+      ],
+      "requires_manual_verification": true,
+      "title": "Unobjectionable inequalities Nico Kolodny,\n                    The Pecking Order. Social Hierarchy as a Philosophical Problem\n                    (Harvard University Press, 2023).George Letsas,\n                    Status in Law and Morality\n                    (Oxford University Press, 2026).",
+      "url": "https://doi.org/10.1177/14748851261503757"
     }
   ],
   "journal_total": 145,
@@ -616,15 +393,15 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 73,
+  "political_backlog_unverified_count": 67,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 10,
-  "raw_candidate_count": 16,
-  "research_candidate_abstracts_available": 12,
-  "research_candidate_abstracts_missing": 4,
+  "publisher_first_online_in_window_verified_count": 1,
+  "raw_candidate_count": 10,
+  "research_candidate_abstracts_available": 10,
+  "research_candidate_abstracts_missing": 0,
   "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 16,
+  "research_candidate_unverified_count": 10,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-13",
-  "window_start_jst": "2026-11-12"
+  "window_end_jst": "2026-11-14",
+  "window_start_jst": "2026-11-13"
 }

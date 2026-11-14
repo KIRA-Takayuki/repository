@@ -2,38 +2,38 @@
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-13T21:28:41.123268+00:00",
-  "collected_on": "2026-11-14",
+  "checked_at_utc": "2026-11-14T19:58:15.770577+00:00",
+  "collected_on": "2026-11-15",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 10,
+  "eligible_candidate_count": 8,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "Abstract This paper examines the implications of the Non-Identity Problem (NIP) for real-world climate change-related duties, responding to Lukas Tank’s Minor Difference Claim. Tank argues that robust climate action (involving mitigation, adaptation, and compensation) is already required to respond to the foreseeable negative effects on individuals whose identities are fixed, so accepting (or “biting the bullet” on) the NIP makes only a minor difference to our climate change-related duties. We challenge this view by arguing that accepting the NIP makes a not-so-minor difference for compensatory climate duties. First, it affects their extent. Second, it generates highly unequal compensatory claims both across individuals born at different times ( intragenerational difference ) and among those exposed to the same climate impacts at different times ( intertemporal difference ). We conclude that one must either accept these implications or develop a strategy to resolve or avoid the NIP.",
+      "abstract": "Drawing on ethics of care and Conservation of Resources (COR) theories, this research examined how organizational cynicism shapes employees’ daily emotional balance and how multispecies care contexts may condition these effects. Across two diary studies, we tested whether daily work alienation would mediate the relationship between morning organizational cynicism and end-of-day emotions’ ratio, and whether the work–pet family interface would function as a contextual moderator. Study 1 (Level-2 N = 126; Level-1 N = 1,260) showed a negative indirect association between morning organizational cynicism and end-of-day emotional balance through increased work alienation. Work–pet family conflict significantly moderated this process, but contrary to our hypothesis, the conditional indirect association became weaker rather than stronger as conflict increased. Study 2 (Level-2 N = 102; Level-1 N = 502) extended the model by incorporating daily work–pet family enrichment, revealing that enrichment weakened the indirect effect of cynicism via work alienation by providing alternative emotional and relational resources. Together, the findings highlight how multispecies care contexts shape employees’ emotional experiences at work and suggest that inclusion extends beyond human relationships to encompass employees’ relationships and care responsibilities involving companion animals. By integrating ethics of care with COR theory, this study challenges anthropocentric assumptions in work–family research and highlights non-human animals as ethically relevant stakeholders in employees’ emotional work lives.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/s0953820826100612"
+        "publisher:https://doi.org/10.1007/s10551-026-06510-6"
       ],
       "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
+      "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Eike Düvel",
-        "Laura García-Portela"
+        "Ana Junça-Silva",
+        "Rita Rueff Lopes"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-13",
-      "doi": "10.1017/s0953820826100612",
-      "first_seen_jst": "2026-11-14",
-      "journal": "Utilitas",
-      "journal_id": "J052",
+      "date": "2026-11-14",
+      "doi": "10.1007/s10551-026-06510-6",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -42,34 +42,109 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/s0953820826100612",
-      "publisher_online_date": "2026-11-13",
+      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06510-6",
+      "publisher_online_date": "2026-11-14",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/s0953820826100612"
+        "https://doi.org/10.1007/s10551-026-06510-6"
       ],
       "requires_manual_verification": false,
-      "title": "Non-Identity and Compensation for Climate Change: The Not-So-Minor Difference Claim",
-      "url": "https://doi.org/10.1017/s0953820826100612"
+      "title": "Multispecies Care and Emotional Life at Work: Organizational Cynicism, Work Alienation, and the Moderating Role of the Work–Pet Family Interface",
+      "url": "https://doi.org/10.1007/s10551-026-06510-6"
     },
     {
-      "abstract": "Abstract Institutional transformations of the judiciary may affect the conditions under which professional roles are performed. This article develops the concept of deontological injury to the legal professional, understood as the systematic subordination of role-constitutive reasons within professional deliberation. Drawing on H. L. A. Hart’s internal point of view and on J. Raz’s and J. C. Bayón’s accounts of normativity and reasons for action, it argues that acceptance of the legal system may persist even when role-based reasons lose their guiding position, thereby opening the possibility of a rupture between the normativity of the system and that of the professional role. Mexico’s 2024 judicial reform provides a setting in which to examine this fracture under a comprehensive model of popular judicial elections. When political or prudential reasons become functionally relevant to access to or continued tenure in judicial office, deontological injury may appear.",
+      "abstract": "Abstract How do our decisions bear on our reasons for action? Raz holds that decision-making is a way of exercising our normative powers to create reasons for ourselves. Normative powers have been on the rise in moral and legal philosophy. Scanlon is an exception to this trend, holding that on source-externalism the normativity of decisions can be explained simply in virtue of the changes they can bring about in our practical situation. However, I argue that Scanlon’s account and Kolodny’s subsequent supplementation are wanting. In response, I propose a shift of attention to the deliberative conditions under which our earlier deciding self can consider the merits of a case compared to our future acting self. On this basis, I develop a new situational account that lies in the improvement to our future choice in combination with the costs of revisiting the issue. Hence, I conclude that normative powers are unnecessary for explaining the normativity of decisions.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/icon/moag111"
+        "publisher:https://doi.org/10.1007/s10982-026-09601-7"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Leopoldo Gama"
+        "Andreas Vassiliou"
       ],
-      "crossref_online_date": "2026-11-13",
+      "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-13",
-      "doi": "10.1093/icon/moag111",
-      "first_seen_jst": "2026-11-14",
-      "journal": "International Journal of Constitutional Law",
-      "journal_id": "J124",
+      "date": "2026-11-14",
+      "doi": "10.1007/s10982-026-09601-7",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Law and Philosophy",
+      "journal_id": "J001",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10982-026-09601-7",
+      "publisher_online_date": "2026-11-14",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10982-026-09601-7"
+      ],
+      "requires_manual_verification": false,
+      "title": "Decisions, Normative Powers, and Practical Situations",
+      "url": "https://doi.org/10.1007/s10982-026-09601-7"
+    },
+    {
+      "abstract": "This article develops a political reading of women’s courts and tribunals through Hannah Arendt’s reflections on factual truth, storytelling, and organized lying. While existing scholarship has interpreted these feminist initiatives primarily within the frameworks of international law and transitional justice, I argue that their distinctive significance emerges only when they are understood as forms of political action. To capture this dimension, I introduce the concept of ‘narra(c)tion’, understood as the inseparable relation between narration and action: public testimony is not merely the representation of past events but a political practice through which women disclose experiences of violence before others and challenge their exclusion from the common world. Drawing on Arendt, I argue that the political problem addressed by women’s courts is not primarily the verification of facts but the defactualization of realities that are already widely documented yet systematically denied, ignored, or deprived of political significance. Their political function therefore lies less in providing new evidence of violence against women or in pursuing an ideal of justice than in public truth-telling: by narrating their own stories publicly, women create the political conditions under which experiences rejected ‘out of the world’ by official institutions and public opinion can reappear, be heard, and once again count politically.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1057/s41296-026-00857-1"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Natascia Tosel"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-14",
+      "doi": "10.1057/s41296-026-00857-1",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Contemporary Political Theory",
+      "journal_id": "J048",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1057/s41296-026-00857-1",
+      "publisher_online_date": "2026-11-14",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1057/s41296-026-00857-1"
+      ],
+      "requires_manual_verification": false,
+      "title": "The politics of narra(c)tion against the policy of lying: reading Hannah Arendt in women's courts",
+      "url": "https://doi.org/10.1057/s41296-026-00857-1"
+    },
+    {
+      "abstract": "ABSTRACT The Asymmetry in population ethics holds that creating a miserable person is morally impermissible, while not creating a happy person is morally permissible, all else being equal. Harm‐avoidance theories explain the Asymmetry by claiming that, in certain contexts, only actions resulting in harm are impermissible. Two problems threaten these theories: (i) The Problem of Improvable Life Avoidance—requiring agents to avoid creating improvable good lives—and (ii) requiring dominated options. Sophisticated harm‐avoidance theories avoid both problems. However, we show that any harm‐avoidance theory entails either (1) a worse form of The Problem of Improvable Life Avoidance, (2) a troubling form of sadism, (3) an implausibly extreme priority for avoiding a small harm for one person over greater harms for many people, or (4) spurious prohibition dilemmas. Furthermore, we argue that any reasonable theory of the Asymmetry entails at least one of (1)–(4).",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/nous.70074",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/nous.70074",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/nous.70074"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Tim Campbell",
+        "Patrick Kaczmarek"
+      ],
+      "crossref_online_date": "2026-11-14",
+      "crossref_subtype": "",
+      "date": "2026-11-14",
+      "doi": "10.1111/nous.70074",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Noûs",
+      "journal_id": "J086",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -80,31 +155,33 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/icon/moag111"
+        "https://doi.org/10.1111/nous.70074",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/nous.70074",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/nous.70074"
       ],
       "requires_manual_verification": true,
-      "title": "Lesión deontológica del jurista: elección judicial y escisión entre sistema y rol en México",
-      "url": "https://doi.org/10.1093/icon/moag111"
+      "title": "Improving Lives and Avoiding Harm",
+      "url": "https://doi.org/10.1111/nous.70074"
     },
     {
-      "abstract": "Abstract National self-determination has an inherently territorial dimension: people who live together in a shared polity require land that can host the population, whose resources can be extracted for the common good, and whose history they find meaningful. This paper explores a particular kind of land that is of distinguished importance in political philosophy: the homeland. Homelands are significant because of the role that is often attributed to them in justifying territorial rights. However, on reflection, the metaphysical nature of homelands is curious. Some of the platitudes we tend to hold about them imply that they resemble large material objects, while others suggest that we should treat them as space-time locations. In this paper, I consider several possible accounts of homelands that allow us to reconcile these intuitions with each other, ultimately coming down in favour of a conception of homelands as set-theoretic constructions. I combine this idea with a particular view of what turns a mere piece of land into a homeland, which I call the worked land view. The worked land view has far-ranging consequences not only for metaphysicians but for political philosophers as well: among other things, it helps us overcome a recalcitrant problem about self-determination referenda.",
+      "abstract": "I challenge forms of social normativism that treat social normative entities—deontic statuses, deontic powers, and social norms—as indispensable to the explanation of action. I distinguish two roles these entities are said to play: causal and justificatory. Against the causal role, I argue that every causal explanation invoking social normative entities has a corresponding explanation that does not. Against the justificatory role, I argue that social scientists can adopt a methodological fictionalist stance toward justificatory explanations without thereby incurring ontological commitment. Realists therefore owe an account of why ontological commitment remains necessary for explanation.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/mind/fzag053"
+        "publisher:https://doi.org/10.1177/00483931261505199"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "David Mark Kovacs"
+        "Erim Bakkal"
       ],
-      "crossref_online_date": "2026-11-13",
+      "crossref_online_date": "2026-11-14",
       "crossref_subtype": "",
-      "date": "2026-11-13",
-      "doi": "10.1093/mind/fzag053",
-      "first_seen_jst": "2026-11-14",
-      "journal": "Mind",
-      "journal_id": "J091",
+      "date": "2026-11-14",
+      "doi": "10.1177/00483931261505199",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -115,31 +192,32 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/mind/fzag053"
+        "https://doi.org/10.1177/00483931261505199"
       ],
       "requires_manual_verification": true,
-      "title": "The Metaphysics of Homelands",
-      "url": "https://doi.org/10.1093/mind/fzag053"
+      "title": "Social Normativity Without Realism: A Fictionalist Challenge",
+      "url": "https://doi.org/10.1177/00483931261505199"
     },
     {
-      "abstract": "Abstract The article analyses the framing of scope 3 emissions in corporate climate litigation and the narratives they give rise to. It examines scope 3’s origins and its presence in legislative and other regulatory measures before analysing scope 3 emissions framing in a series of landmark cases globally. The case law on scope 3 is presented across five broad categories involving corporations: business challenges to climate disclosure legislation, and then greenwashing, project, due diligence and liability cases brought by the climate movement. How do we and how should we frame what a company’s emissions are, for which it is legally responsible? The article outlines how the case law reflects a framing contest over what emissions properly belong to a company. It then discusses narratives involved in some of the key scope 3 emissions categories. While finding that there are strategically positive narratives for the climate movement, it argues that some of its corporate climate litigation plays into problematic private governance and market-led narratives. A case is made for a carbon takeback obligation (CTBO) as part of a policy-led narrative to help resolve these tensions.",
+      "abstract": "Classical political economists identified the three factors of production: land, labor, and capital. However, neoclassical economists reduced them to two by treating land as a subset of capital. We argue that this was a mistake and develop our own version of the three-factor model through a hylomorphic account of capital goods and by integrating the Austrian analysis of interest as arising from time preference. The revised three-factor model provides a more realistic picture of the production process and tracks important economic, political, and normative patterns.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/ojls/gqag034"
+        "publisher:https://doi.org/10.1177/00483931261505201"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Chris Hilson"
+        "Martin Jacobson",
+        "Paul Forrester"
       ],
-      "crossref_online_date": "2026-11-13",
+      "crossref_online_date": "2026-11-14",
       "crossref_subtype": "",
-      "date": "2026-11-13",
-      "doi": "10.1093/ojls/gqag034",
-      "first_seen_jst": "2026-11-14",
-      "journal": "Oxford Journal of Legal Studies",
-      "journal_id": "J003",
+      "date": "2026-11-14",
+      "doi": "10.1177/00483931261505201",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -150,31 +228,31 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/ojls/gqag034"
+        "https://doi.org/10.1177/00483931261505201"
       ],
       "requires_manual_verification": true,
-      "title": "Scope 3 Emissions Framing and Corporate Climate Litigation: Encouraging the Right Narratives?",
-      "url": "https://doi.org/10.1093/ojls/gqag034"
+      "title": "In Defense of the Three-Factor Model of Production: Land, Labor, and Capital in Political Economy and Philosophy",
+      "url": "https://doi.org/10.1177/00483931261505201"
     },
     {
-      "abstract": "Abstract Some duties are completed by the performance they require. Others remain live because their defining aim remains unrealized. I argue that standing duties of active repair are of the second kind. Their force is not fixed by the permanent fact of a past wrong, nor are they discharged by any discrete act of apology, compensation, or settlement as such. That force varies with the state of the injury they aim to undo. Historical injustice is the hard case: the wrong does not lapse, but its continuing operation in present social relations may deepen, weaken, fall dormant, or cease. I call this view operation-bounded responsibility. It explains how reparative duties can be bounded in their active demands, and in principle completed, without treating the wrong as morally extinguished; and it identifies how a historical wrong fixes the content, the claimants, and the answerability of what is now owed.",
+      "abstract": "In this paper I make two contributions to recent developments in the science and values debate by analyzing a social epidemiological research project and its guiding research question. First, I extend the adequacy-for-purpose framework, which was introduced for assessment of scientific models, to the process of asking and answering research questions. Insofar as the purposes of asking questions are both epistemic and non-epistemic, their assessment has to be responsive to both types of considerations. Second, the analysis suggests that research questions straddle the supposed boundary between “internal” and “external” stages of research, thus putting further pressure on the value-free ideal.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/pq/pqag084"
+        "publisher:https://doi.org/10.1177/00483931261505203"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Wenxuan Hou"
+        "Victoria Min-Yi Wang"
       ],
-      "crossref_online_date": "2026-11-13",
+      "crossref_online_date": "2026-11-14",
       "crossref_subtype": "",
-      "date": "2026-11-13",
-      "doi": "10.1093/pq/pqag084",
-      "first_seen_jst": "2026-11-14",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
+      "date": "2026-11-14",
+      "doi": "10.1177/00483931261505203",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -185,34 +263,31 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1093/pq/pqag084"
+        "https://doi.org/10.1177/00483931261505203"
       ],
       "requires_manual_verification": true,
-      "title": "Standing duties over time: Operation-bounded responsibility and historical injustice",
-      "url": "https://doi.org/10.1093/pq/pqag084"
+      "title": "Can Research Questions Be Adequate-For-Purpose? A Lesson From Social Epidemiology",
+      "url": "https://doi.org/10.1177/00483931261505203"
     },
     {
-      "abstract": "ABSTRACT The assessment of “irremediability” in mental health constitutes the most complex bioethical challenge within medical assistance in dying laws, given the structural uncertainty inherent in psychiatry. This article proposes a four‐level analytical framework designed to transform diagnostic ambiguity into a prudent and auditable decision. In the first level (technical), “incurability” is delimited as a nosographic judgment based on treatment futility and traceability, as opposed to “irremediability” as a clinical‐pragmatic judgment. The second level (phenomenological) defines irremediability as a ‘frozen temporality’ and a closure of the biographical horizon, where suffering becomes structural. The third level (ethical) advocates for “relational autonomy” and the two‐track approach as safeguards against both therapeutic obstinacy and abandonment, ensuring that intensive rehabilitation coexists with the request. Finally, the fourth level (legal) analyzes how certain euthanasia legislations integrate biographical functionality, moving beyond a purely biological paradigm. It is concluded that the transition from a nosographic model to a biographical one allows for the respect of individual autonomy and life history without abdicating clinical responsibility, offering a decision‐making standard that harmonizes technical rigor with compassion.",
+      "abstract": "Contemporary democracies are increasingly threatened by political actors who transgress democratic norms to entrench their own power. When, if ever, is it democratically permissible to respond to such transgressions by reciprocating—that is, by deviating from democratic rules? A key concern is that this response risks triggering an escalating cycle of democratic transgressions, thereby severely eroding democratic norms. I argue that reciprocal deviations can instead play a central role in enforcing, and therefore preserving, democratic norms. Crucially, this enforcement rationale entails distinctive normative constraints on when, how, and by whom reciprocal deviations should be deployed—constraints which, I argue, diverge meaningfully from those recommended by other rationales for reciprocation. I then address two objections: that reciprocation is not needed to enforce democratic norms; and that my argument is overly idealized. While neither objection is decisive, each helps further specify the circumstances under which the present defense applies.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1111/bioe.70215",
-        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70215",
-        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70215"
+        "publisher:https://doi.org/10.1177/1470594x261508090"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Sergio Ramos‐Pozón",
-        "Silvia Poveda‐Moral"
+        "Maxime Lepoutre"
       ],
-      "crossref_online_date": "2026-11-13",
+      "crossref_online_date": "2026-11-14",
       "crossref_subtype": "",
-      "date": "2026-11-13",
-      "doi": "10.1111/bioe.70215",
-      "first_seen_jst": "2026-11-14",
-      "journal": "Bioethics",
-      "journal_id": "J063",
+      "date": "2026-11-14",
+      "doi": "10.1177/1470594x261508090",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Politics, Philosophy &amp; Economics",
+      "journal_id": "J039",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -223,165 +298,11 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1111/bioe.70215",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70215",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70215"
+        "https://doi.org/10.1177/1470594x261508090"
       ],
       "requires_manual_verification": true,
-      "title": "From Nosography to Biography: A Four‐Level Framework for Evaluating Irremediability in Medical Assistance in Dying for Mental Health",
-      "url": "https://doi.org/10.1111/bioe.70215"
-    },
-    {
-      "abstract": "Abstract Most research on artificial intelligence (AI) in the administrative state focuses on its use by officials. This article addresses a comparatively neglected issue: the impact of the use of AI tools by the public themselves. Drawing on a qualitative survey with over 500 civil servants in the United Kingdom, it argues that AI use by the public is increasingly disrupting the front line of the administrative state. The argument is set out in three parts. First, as the administrative state increasingly relies on text‐based inputs, officials use correspondence as a proxy for individuals – a longstanding assumption of ‘autographic’ authorship that the diffusion of generative AI tools unsettles. Second, the problem can be characterized as ‘AI slop’: AI‐generated correspondence with high volume and velocity that adopts a particular voice in interactions with officials. Third, this AI slop causes three forms of disruption: to the signals that officials draw from correspondence, to trust between officials and the public, and to systems that are ill‐equipped to deal with it. The article concludes by arguing that the status quo itself fails to adequately meet the needs of many people accessing services, and that systems need to be redesigned not only for a society beset by AI slop, but also in ways that address the drivers of it.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1111/jols.70084",
-        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70084",
-        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70084"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "JED MEERS"
-      ],
-      "crossref_online_date": "2026-11-13",
-      "crossref_subtype": "",
-      "date": "2026-11-13",
-      "doi": "10.1111/jols.70084",
-      "first_seen_jst": "2026-11-14",
-      "journal": "Journal of Law and Society",
-      "journal_id": "J018",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1111/jols.70084",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70084",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70084"
-      ],
-      "requires_manual_verification": true,
-      "title": "‘Chucking their stuff into ChatGPT and hitting send’: AI slop in the administrative state",
-      "url": "https://doi.org/10.1111/jols.70084"
-    },
-    {
-      "abstract": "Abstract Kant claims that every lie is as grave as perjury. Kant also believed in the opacity of the self. Even if under the impression of telling the truth, the testifier might be lying. Every declaration therefore incurs the risk of being gravely wrong. But instead of being a man of few words, Kant has a career total of two million words. Augustine and Aquinas also forbid all lies. These two prefigurers of Kant rank some lies as far less wrong than other lies. Augustine and Aquinas are also less pessimistic about authors' ability to detect their own lying. Nevertheless, the risk of grave lying remains too high to reconcile with the volubility of Augustine and Aquinas. These giants among the never‐liars exhibit a quantitative weakness that is also present among less prolific and more qualified prohibitors of lying, such as W. D. Ross.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1111/meta.70055",
-        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/meta.70055",
-        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.70055"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Roy Sorensen"
-      ],
-      "crossref_online_date": "2026-11-13",
-      "crossref_subtype": "",
-      "date": "2026-11-13",
-      "doi": "10.1111/meta.70055",
-      "first_seen_jst": "2026-11-14",
-      "journal": "Metaphilosophy",
-      "journal_id": "J103",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1111/meta.70055",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/meta.70055",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.70055"
-      ],
-      "requires_manual_verification": true,
-      "title": "Quantitative Self‐Defeat Among the Never‐Liars: Kant, Augustine, and Aquinas",
-      "url": "https://doi.org/10.1111/meta.70055"
-    },
-    {
-      "abstract": "Abstract This paper engages with Kramer's provocative analysis of disjunctive quantification. His idea is that someone can owe a duty to a disjunction of agents (and some such disjunction can together hold the correlative claim‐right). I find this idea very puzzling and I also see more difficulties than Kramer does in the proposition that a disjunction can pass his own test for right‐holding. I therefore offer the reader two ways to avoid having to rely on disjunctive quantification. One way distinguishes directed duties from undirected duties, while the other introduces a constructive ambiguity in what it means to owe a duty to someone.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1111/raju.70037",
-        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/raju.70037",
-        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/raju.70037"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Gopal Sreenivasan"
-      ],
-      "crossref_online_date": "2026-11-13",
-      "crossref_subtype": "",
-      "date": "2026-11-13",
-      "doi": "10.1111/raju.70037",
-      "first_seen_jst": "2026-11-14",
-      "journal": "Ratio Juris",
-      "journal_id": "J005",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1111/raju.70037",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/raju.70037",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/raju.70037"
-      ],
-      "requires_manual_verification": true,
-      "title": "Owing and Quantification",
-      "url": "https://doi.org/10.1111/raju.70037"
-    },
-    {
-      "abstract": "This review examines Niko Kolodny's The Pecking Order and George Letsas's Status in Law and Morality. Kolodny's is an impressively ambitious treatment of social hierarchy as a philosophical problem. Yet he risks treating asymmetry as a pathology to be explained away or tempered. Letsas's achievement is to give this insight a legal form. Status is one way in which the law can acknowledge asymmetry without converting it into hierarchy.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1177/14748851261503757"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Cécile Laborde"
-      ],
-      "crossref_online_date": "2026-11-13",
-      "crossref_subtype": "",
-      "date": "2026-11-13",
-      "doi": "10.1177/14748851261503757",
-      "first_seen_jst": "2026-11-14",
-      "journal": "European Journal of Political Theory",
-      "journal_id": "J034",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1177/14748851261503757"
-      ],
-      "requires_manual_verification": true,
-      "title": "Unobjectionable inequalities Nico Kolodny,\n                    The Pecking Order. Social Hierarchy as a Philosophical Problem\n                    (Harvard University Press, 2023).George Letsas,\n                    Status in Law and Morality\n                    (Oxford University Press, 2026).",
-      "url": "https://doi.org/10.1177/14748851261503757"
+      "title": "Enforcing democratic norms through reciprocal transgressions",
+      "url": "https://doi.org/10.1177/1470594x261508090"
     }
   ],
   "journal_total": 145,
@@ -395,13 +316,13 @@
   },
   "political_backlog_unverified_count": 67,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 1,
-  "raw_candidate_count": 10,
-  "research_candidate_abstracts_available": 10,
+  "publisher_first_online_in_window_verified_count": 3,
+  "raw_candidate_count": 8,
+  "research_candidate_abstracts_available": 8,
   "research_candidate_abstracts_missing": 0,
   "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 10,
+  "research_candidate_unverified_count": 8,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-14",
-  "window_start_jst": "2026-11-13"
+  "window_end_jst": "2026-11-15",
+  "window_start_jst": "2026-11-14"
 }

@@ -1,24 +1,8 @@
 {
-  "checked_at_utc": "2026-11-13T21:28:41.123268+00:00",
-  "collected_on": "2026-11-14",
+  "checked_at_utc": "2026-11-14T19:58:15.770577+00:00",
+  "collected_on": "2026-11-15",
   "count": 67,
   "items": [
-    {
-      "crossref_candidate_date": "2026-09-30",
-      "doi": "10.1057/s41296-026-00847-3",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "Power and powerlessness: the liberalism of fear in the twenty-first century"
-    },
-    {
-      "crossref_candidate_date": "2026-09-30",
-      "doi": "10.1163/17455243-20263069",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "Virtue Ethics for the Real World: Improving Character Without Idealization, written by Howard J. Curzer"
-    },
     {
       "crossref_candidate_date": "2026-10-01",
       "doi": "10.1017/s0034670526101247",
@@ -538,6 +522,22 @@
       "journal_id": "J034",
       "status": "unverified_not_introduced",
       "title": "Unobjectionable inequalities Nico Kolodny,\n                    The Pecking Order. Social Hierarchy as a Philosophical Problem\n                    (Harvard University Press, 2023).George Letsas,\n                    Status in Law and Morality\n                    (Oxford University Press, 2026)."
+    },
+    {
+      "crossref_candidate_date": "2026-11-14",
+      "doi": "10.1057/s41296-026-00857-1",
+      "first_seen_jst": "2026-11-15",
+      "journal_id": "J048",
+      "status": "unverified_not_introduced",
+      "title": "The politics of narra(c)tion against the policy of lying: reading Hannah Arendt in women's courts"
+    },
+    {
+      "crossref_candidate_date": "2026-11-14",
+      "doi": "10.1177/1470594x261508090",
+      "first_seen_jst": "2026-11-15",
+      "journal_id": "J039",
+      "status": "unverified_not_introduced",
+      "title": "Enforcing democratic norms through reciprocal transgressions"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

@@ -1,371 +1,6 @@
 {
-  "collected_on": "2026-11-14",
+  "collected_on": "2026-11-15",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Matheus Bento de Souza",
-        "José Nunes de Alencar"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1007/s11017-026-09770-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Theoretical Medicine and Bioethics",
-      "journal_id": "J059",
-      "origin": "crossref",
-      "title": "Likelihood ratios and the dependence of clinical evidence: should individual LRs be taken at face value?",
-      "url": "https://doi.org/10.1007/s11017-026-09770-5"
-    },
-    {
-      "abstract": "Abstract This study explores how parents seeking information about stem cell therapies (SCT) for autism spectrum disorder (ASD) understand and navigate a complex landscape of scientific uncertainty, commercial claims, and clinical advice. We conducted a quantitative content analysis of 54 enquiries submitted to the Stem Cells Australia website (2018–2023), alongside semi-structured interviews with 12 parents. Parents were highly engaged information-seekers, drawing on online sources, social media, other parents, and health professionals. However, they encountered inconsistent and often ambiguous guidance, particularly from clinicians, and reported difficulty assessing the credibility of competing claims. While many parents expressed scepticism about the efficacy of SCT, hope for improvement, fear of missing a critical intervention window, and positive accounts from other parents contributed to their ongoing interest. Risk perceptions were variable and often incomplete, particularly regarding procedural risks and long-term harms. Most participants had not pursued SCT, citing cost, uncertainty, and safety concerns. These findings highlight the need for clearer clinical guidance, improved risk communication, and stronger governance of unproven stem cell interventions to support families navigating ethically complex decisions.",
-      "authors": [
-        "Fiona Lynch",
-        "Christopher Gyngell",
-        "Silvia Velasco",
-        "Megan Munsie"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1007/s12152-026-09677-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Neuroethics",
-      "journal_id": "J078",
-      "origin": "crossref",
-      "title": "“I was so Desperate”: Australasian Parents’ Expectations and Understandings of Stem Cell Therapy for Autism",
-      "url": "https://doi.org/10.1007/s12152-026-09677-x"
-    },
-    {
-      "abstract": "Abstract Artificial intelligence (AI) alignment is often framed as the problem of making a model reliably pursue human intentions or values. That work is indispensable, but deployed systems also raise a governance problem: who controls information, private context, correction, escalation, and action? This conceptual article proposes triarchic corrigibility as a role-separated governance design pattern for AI-assisted decision-making. The pattern combines (1) an embodied and answerable human, or an accountable human decision body; (2) a strictly isolated local AI layer for private contextual continuity; and (3) an externally connected AI layer for current public-world evidence. Final authorization of consequential action remains human, while epistemic and procedural competences are deliberately distributed so that no component can unilaterally control framing, memory, procedure, and execution. The article specifies a normative basis, trust-domain separation, decision rights, human-mediated data flows, reciprocal challenge, escalation, affected-party recourse, proportionate audit, and exit procedures. It distinguishes personal and organizational instantiations, compares the pattern with single-assistant, local-only, edge–cloud, multi-agent, human-in-the-loop, meaningful-human-control, and polycentric approaches, and provides criteria and rejection conditions for evaluating its value. It also advances an evolutionary-symbiotic hypothesis: repeated, bounded dependence on complementary roles may make correction and cooperative continuity preferable to unilateral control while preserving interruption, replacement, and exit. A worked case illustrates the protocol. The result is a testable governance hypothesis whose capacity to reduce correlated failure, preserve privacy and human judgment, and sustain correction under residual uncertainty requires empirical evaluation.",
-      "authors": [
-        "Markus Wagner"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1007/s43681-026-01362-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Triarchic corrigibility: a role-separated governance design pattern for AI-assisted decision-making",
-      "url": "https://doi.org/10.1007/s43681-026-01362-2"
-    },
-    {
-      "abstract": "Abstract This study explores the potential of counterfactual explanations to assess artificial intelligence (AI) fairness, especially in critical decision-making systems. Predictive models may amplify biases inherent in data sets or algorithms, and given the absence of a universally accepted fairness metric, a case-specific approach becomes mandatory. Existing statistical fairness metrics may not capture all aspects that are relevant to a context-aware assessment of non-discrimination. The goal of this work is to define a measure of fairness for AI systems based on explainable artificial intelligence concepts. Specifically, it leverages the analysis of counterfactual explanations of individuals/groups and their comparison with similar individuals/groups. Compared to existing state-of-the-art works, the contributions are (i) extending the definition of individual fairness, not limiting unfairness to decisions based on sensitive attributes but also ensuring similar treatment amongst similar individuals; (ii) revisiting (and generalising) existing notions and introducing new, more refined notions of group fairness based on counterfactuals; (iii) defining quantitative fairness metrics that reflect the evidence gathered through the analysis/comparison of counterfactual explanations.",
-      "authors": [
-        "Federico Sabbatini",
-        "Roberta Calegari"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1007/s43681-026-01411-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Individual and group fairness assessments via counterfactual explanations",
-      "url": "https://doi.org/10.1007/s43681-026-01411-w"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "David Hampton-Musseau",
-        "Anne-Laure Gatignon-Turnau",
-        "Yann Landon"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1007/s43681-026-01427-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Humanness not just a feature: AI, meaningful work, and the structural imperatives of flourishing",
-      "url": "https://doi.org/10.1007/s43681-026-01427-2"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Madani Ahmiddouch",
-        "Abdelghni el amoumri"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1007/s43681-026-01440-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Trust, clarity, and contestability: an Islamic information ethics framework for public-sector AI",
-      "url": "https://doi.org/10.1007/s43681-026-01440-5"
-    },
-    {
-      "abstract": "Abstract Judges often cite legal scholars. Sometimes they defer argumentatively to scholars as authorities. Such arguments, we claim, are neither sound nor legitimate. Legal scholarship serves two functions. One is modest and descriptive: reporting the undisputed content of legal sources and existing consensuses on some point of law. Such matters can lend themselves to authoritative settlement. But the core function of legal scholarship, involving the substantive reconstruction of suboptimal legal sources, is normative. And on such matters, we argue—by discussing the structure of arguments from authority and what counts as genuine authority—there is no room to treat scholarly pronouncements as authoritative.",
-      "authors": [
-        "Luís Duarte d’Almeida",
-        "Fábio Perin Shecaira"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1017/cjlj.2026.10073",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Canadian Journal of Law &amp; Jurisprudence",
-      "journal_id": "J004",
-      "origin": "crossref",
-      "title": "When Are Arguments from Scholarly Legal Authority Legitimate?",
-      "url": "https://doi.org/10.1017/cjlj.2026.10073"
-    },
-    {
-      "abstract": "Abstract Has there been a rise or fall in negative integration in the last 50 years? Three competing views on this question can today be distinguished. One asserts that there has been a decline of negative integration; another one argues that negative integration has, instead, risen; while a third view, finally, contends that there has been neither a fall nor a rise, because the normative degree of negative integration has remained stable over time. In the last five years, Jan Zglinski has published several provocative pieces that have come to defend a modified version of the declining-integration view. Negative integration, he claims, has become ever weaker over time due, mainly, to a judicial rise of political deference towards the Member States. Negative integration has thus assumed ‘a stronger national flavour’ and may even be coming to an end! Importantly and innovatively, Zglinski arrives at this result by means of an ‘empirical legal studies’ method; and this ELS-method aims to settle the debate. For an ardent defender of the second view on the evolution of the internal market and a devotee of an historical-conceptual approach to European Union law this poses a tricky question: did Zglinski’s ‘data’ really meet the ‘law’ better than all qualitative-doctrinal views that preceded him?",
-      "authors": [
-        "Robert Schütze"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1017/elo.2026.10087",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Law Open",
-      "journal_id": "J013",
-      "origin": "crossref",
-      "title": "The end of negative integration? Critical thoughts on Zglinski (and the ELS movement)",
-      "url": "https://doi.org/10.1017/elo.2026.10087"
-    },
-    {
-      "abstract": "Abstract In this article, I propose an expanded conceptualization of epistemic appropriation. I argue that epistemic appropriation can be either wrongful or non-wrongful, and that it can occur in all directions – from marginalized to dominant communities, but also from dominant to marginalized communities. Furthermore, I argue that epistemic appropriation can take place both inter- and intra-communally. Lastly, I argue that the epistemic resources that are appropriated do not have to originate in the community they are appropriated from to be considered appropriation, as this can also take place when a community has a stake in a certain use of these resources. In doing so, I come to the following, stripped-down, definition: epistemic appropriation is the uptake of epistemic resources that obscures something about the resources.",
-      "authors": [
-        "Sara Kok"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1017/epi.2026.10146",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "Expanding Epistemic Appropriation",
-      "url": "https://doi.org/10.1017/epi.2026.10146"
-    },
-    {
-      "abstract": "Abstract Facing expanded criminal dockets, justice systems around the world are looking for ways to expedite proceedings and save resources while still offering credible procedures for adjudicating criminal cases. In the United States, defendants tend to face an all-or-nothing choice between two alternatives: a full trial at which all relevant evidence is presented and examined; or a plea bargain leading to a conviction without any presentation of evidence and the waiver of the defendant’s procedural rights in exchange for a reduced sentence. Even in routine misdemeanor cases, a full trial requires substantial expenditures of resources, and its procedural complexity may be out of proportion to the minor seriousness of such cases. Traditional plea bargaining, however, brings inordinate pressure to bear on defendants to plead guilty, often fails to elucidate the facts, and lacks sufficient guarantees of a fair outcome. In many jurisdictions, “intermediate” dispositions have developed, aimed at adjudicating cases both efficiently and fairly. We discuss solutions from Germany, Italy, and select U.S. states. They include bench trials and brief proceedings based on defendants’ acceptance of responsibility. After describing their scope and application, we argue that they can deliver efficiency without unduly compromising fairness, transparency, and just outcomes.",
-      "authors": [
-        "Michele Caianiello",
-        "Jenia Turner",
-        "Thomas Weigend"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1017/glj.2026.10232",
-      "first_seen_jst": "2026-10-21",
-      "journal": "German Law Journal",
-      "journal_id": "J126",
-      "origin": "crossref",
-      "title": "Negotiated Outcomes and Abbreviated Trials in Criminal Cases: Balancing Fairness and Efficiency in Three Legal Systems",
-      "url": "https://doi.org/10.1017/glj.2026.10232"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Hilkje Charlotte Hänel",
-        "Franziska Storm"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1017/hyp.2026.10079",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Hypatia",
-      "journal_id": "J075",
-      "origin": "crossref",
-      "title": "From Consent to Sexual Agency and Back - “The Joy of Consent: A Philosophy of Good Sex” by Manon Garcia  (Harvard University Press, 2023)",
-      "url": "https://doi.org/10.1017/hyp.2026.10079"
-    },
-    {
-      "abstract": "Abstract As many care and relational ethicists have rightly contended, an ethical wrong and a form of social and political injustice occurs when genuine needs and legitimate wants for care go unfulfilled to a minimally satisfactory degree. Yet, as I argue here, injustice also occurs when groups and individuals are systematically prevented from fulfilling genuine needs and legitimate wants to care for those they love and as the subjects of their care genuinely need and legitimately want in turn. Being systematically and forcibly deprived of sufficient, meaningful opportunities to support the wellbeing of those one cares about is a form of cruel and degrading treatment unbecoming of a decent society and a grave injustice. At the same time that a radical practice of self-care demands critically scrutinizing one’s investments of care in an effort to undo those that are self-demeaning and that may themselves be the products of injustice and oppression, so too does it demand supporting the development and sufficient satisfaction of genuine needs and legitimate wants to care for others insofar as the satisfaction of these needs and wants can be just as vital to one’s own welfare as it is to that of those for whom one cares.",
-      "authors": [
-        "Katharine Wolfe"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1017/hyp.2026.10107",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Hypatia",
-      "journal_id": "J075",
-      "origin": "crossref",
-      "title": "Radical Self-Care and the Need to Care for Others: On the Injustice of Being Denied Sufficient Opportunities to Care for Those One Loves",
-      "url": "https://doi.org/10.1017/hyp.2026.10107"
-    },
-    {
-      "abstract": "Abstract In response to an increase in state bans and restrictions of gender-affirming care, many states have enacted laws protecting patients and providers. This essay analyzes these protective state laws and offers recommendations to strengthen safeguards and ensure continued access to gender-affirming care nationwide.",
-      "authors": [
-        "Ryan Knox",
-        "Coral Katave"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1017/jme.2026.10287",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Law, Medicine &amp; Ethics",
-      "journal_id": "J068",
-      "origin": "crossref",
-      "title": "Evaluating State Laws Protecting Access to Gender-Affirming Care: Considerations for Patients and Providers",
-      "url": "https://doi.org/10.1017/jme.2026.10287"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Kritika Maheshwari"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1017/s095382082610048x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Utilitas",
-      "journal_id": "J052",
-      "origin": "crossref",
-      "title": "Theron Pummer,\n                    The Rules of Rescue: Cost, Distance, and Effective Altruism\n                    (Oxford University Press, 2023), pp. 264 – CORRIGENDUM",
-      "url": "https://doi.org/10.1017/s095382082610048x"
-    },
-    {
-      "abstract": "Abstract Indigenous movements in Bolivia have long struggled for legal recognition and autonomy, culminating in constitutional reforms that formally recognise Indigenous jurisdiction as a key dimension of self-determination. This article argues, however, that the practical operation of legal pluralism in Bolivia is shaped less by constitutional design than by the institutional weakness of the Constitutional Court. Through analysis of the Zongo case, it examines how the Court’s pluralist rulings, while doctrinally affirming Indigenous jurisdiction and advancing intercultural and decolonial reasoning, remain ineffectively enforced, producing two interrelated consequences. First, Indigenous communities are continuously criminalised for actions undertaken within constitutionally recognised Indigenous jurisdiction. Second, criminalisation compels them to engage defensively with ordinary jurisdiction, generating juridification that destabilises collective authority. Together, these dynamics show how legal pluralism, when selectively enforced, operates in practice as neocolonial governance: Indigenous autonomy is formally affirmed yet subordinated by the persistent supremacy of ordinary legal power.",
-      "authors": [
-        "Paolo Baffero"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1017/s1744552326100676",
-      "first_seen_jst": "2026-10-21",
-      "journal": "International Journal of Law in Context",
-      "journal_id": "J125",
-      "origin": "crossref",
-      "title": "Destabilisation of Indigenous governance under neocolonial legal pluralism: the Zongo case in Bolivia",
-      "url": "https://doi.org/10.1017/s1744552326100676"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Rebecca Buxton"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1057/s41296-026-00847-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Contemporary Political Theory",
-      "journal_id": "J048",
-      "origin": "crossref",
-      "title": "Power and powerlessness: the liberalism of fear in the twenty-first century",
-      "url": "https://doi.org/10.1057/s41296-026-00847-3"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "James Fishkin",
-        "Lisa Disch",
-        "Eric Beerbohm",
-        "Alex Zakaras",
-        "Samuel Hayat",
-        "Cristina Lafont",
-        "Nadia Urbinati"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1057/s41296-026-00852-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Contemporary Political Theory",
-      "journal_id": "J048",
-      "origin": "crossref",
-      "title": "Lottery: friend or foe to democracy?",
-      "url": "https://doi.org/10.1057/s41296-026-00852-6"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Maarten Coëgnarts"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1080/0020174x.2026.2740597",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "Sense-making in art through metaphor: an epistemic arc approach",
-      "url": "https://doi.org/10.1080/0020174x.2026.2740597"
-    },
-    {
-      "abstract": "Abstract Alethic nihilism, as presented by Will Gamester and David Liggins, is the view that nothing is true. In a recent paper, we offered a “revenge problem” for a Gamester-style form of alethic nihilism. Gamester has replied to our paper in this Journal. He claims that generalizing on the reasoning that we employed in posing the revenge problem generates what he calls the Unacceptability Paradox. He attempts to solve this paradox and our revenge problem by introducing a distinction within unacceptability. In this paper, we show that, even employing this distinction, alethic nihilism still cannot resolve our revenge problem, which also calls into question Gamester’s response to the Unacceptability Paradox. We conclude by noting that alethic non-nihilists do not face the same problems.",
-      "authors": [
-        "Bradley Armour-Garb",
-        "James A Woodridge"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1093/analys/anag076",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "title": "The ‘Unacceptability’ of Alethic Nihilism",
-      "url": "https://doi.org/10.1093/analys/anag076"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Christopher Belshaw"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1093/pq/pqag075",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Do Not Go Gentle: The Case Against Assisted Death",
-      "url": "https://doi.org/10.1093/pq/pqag075"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ammar Younas"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1111/theo.70125",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Theoria",
-      "journal_id": "J094",
-      "origin": "crossref",
-      "title": "Bacteria to\n                    AI\n                    : Human Futures With Our Nonhuman Symbionts. By N.Katherine Hayles, Chicago: University of Chicago Press, 2025. 304 pp. $27.50 (paperback). ISBN: 9780226837475",
-      "url": "https://doi.org/10.1111/theo.70125"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "David M. DiQuattro"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1163/17455243-20263069",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Virtue Ethics for the Real World: Improving Character Without Idealization, written by Howard J. Curzer",
-      "url": "https://doi.org/10.1163/17455243-20263069"
-    },
-    {
-      "abstract": "Citizens of democracies should live democratic lives and develop democratic habits. That is one of Mary Parker Follett’s core insights on democracy. A child of the Gilded Age, Follett experienced the erosion of communal relationships, the intensification of socio-economic inequalities, and the alienation of ordinary people from the complex political system that governed their lives. She saw democracy become remote and foreign to citizens who had little control over what happened to them. Her solution was simple: to reinject a dose of democracy into the everyday life of citizens. This paper retrieves Follett’s embodied and habitual vision of democracy for contemporary political theory. Follett claimed that citizens should participate actively in the democratic life of their society; however, she conceived of democratic participation as going beyond decision-making and deliberative activities. She thought that participation in simple forms of embodied joint actions, like recreation and collective chores, could also benefit democracy. Drawing from Follett, I argue that participation in a wide variety of embodied practices of collective action provides benefits to individuals and society by instilling democratic habits in citizens. Those habits incline those who develop them to enter and maintain relationships as free and equal peers with all sorts of people to reach common ends. When faced with collective problems, therefore, these individuals are more likely to choose democratic collective action and to do so more effectively.",
-      "authors": [
-        "Etienne Cardin-Trudeau"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-09-30",
-      "doi": "10.1177/00905917261487609",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Political Theory",
-      "journal_id": "J031",
-      "origin": "crossref",
-      "title": "A Habit-Building View of Democracy: Mary Parker Follett and Motor Activities",
-      "url": "https://doi.org/10.1177/00905917261487609"
-    },
     {
       "abstract": "",
       "authors": [
@@ -13641,6 +13276,22 @@
       "url": "https://doi.org/10.1017/s0953820826100612"
     },
     {
+      "abstract": "Abstract The involuntary confinement of persons with disabilities during psychiatric crises is one of the most intractable debates in international human rights law. The interpretation of article 14 of the Convention on the Rights of Persons with Disabilities has produced an impasse: whereas the CRPD Committee holds that commitment grounded in disability is prohibited, other bodies and courts continue to admit exceptions premised on risk. The Inter-American system has drawn remarkably little attention in this debate. This article maps the competing interpretations in international law and examines the Inter-American response through Guachalá Chimbó v. Ecuador. We argue that the Inter-American Commission and Court have generated an institutional ambiguity: they combined incompatible models —absolute prohibition, a risk-based exception, and a functional reading of consent— without acknowledging the underlying normative disagreement, thereby generating legal uncertainty.",
+      "authors": [
+        "Renata Anahí Bregaglio Lazarte",
+        "Renato Antonio Constantino Caycho"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1093/icon/moag110",
+      "first_seen_jst": "2026-11-15",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
+      "origin": "crossref",
+      "title": "Ambigüedad institucional: la enredada respuesta del Sistema interamericano al internamiento involuntario en situaciones de crisis psiquiátricas",
+      "url": "https://doi.org/10.1093/icon/moag110"
+    },
+    {
       "abstract": "Abstract Institutional transformations of the judiciary may affect the conditions under which professional roles are performed. This article develops the concept of deontological injury to the legal professional, understood as the systematic subordination of role-constitutive reasons within professional deliberation. Drawing on H. L. A. Hart’s internal point of view and on J. Raz’s and J. C. Bayón’s accounts of normativity and reasons for action, it argues that acceptance of the legal system may persist even when role-based reasons lose their guiding position, thereby opening the possibility of a rupture between the normativity of the system and that of the professional role. Mexico’s 2024 judicial reform provides a setting in which to examine this fracture under a comprehensive model of popular judicial elections. When political or prudential reasons become functionally relevant to access to or continued tenure in judicial office, deontological injury may appear.",
       "authors": [
         "Leopoldo Gama"
@@ -13732,6 +13383,53 @@
       "url": "https://doi.org/10.1111/jols.70084"
     },
     {
+      "abstract": "Abstract This article challenges enduring legal and economic ideals that portray commercial disputes as based solely on financial demands and governed by rational calculation devoid of emotions. Drawing on ethnographic observations of commercial mediations in Italy, it shows how distrust shapes decision making and interaction in individual–business as well as business–business conflicts. Combining sociological perspectives on epistemic and moral emotions with theories of status and power, the article conceptualizes distrust as an epistemic‐moral emotion that shapes how disputants interpret facts, assign blame, and evaluate future cooperation. The analysis demonstrates that in individual–business mediations distrust is expressed through narratives of suffering and moral outrage that demand empathic recognition and moral validation, whereas in business–business mediations distrust centres on perceived violations of professional integrity, credibility, and prestige, prompting status defence and power reassertion. In this way, the article contributes to socio‐legal studies on mediation, economic interaction, and decision making.",
+      "authors": [
+        "ALESSANDRA MINISSALE"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1111/jols.70085",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "To trust or not to trust? The epistemic and moral dimensions of distrust in Italian commercial mediations",
+      "url": "https://doi.org/10.1111/jols.70085"
+    },
+    {
+      "abstract": "Abstract This article investigates the transformation of Canary Wharf into a banking and finance district in the 1980s and 1990s as a global event and part of the broader efforts to overcome the profitability crisis of British capitalism. The account illustrates the ways in which elevating the political economy of place over that of the national territory became crucial to the transition from post‐imperial to global Britain, while exposing the British economy to the legally facilitated uncertainties of the neoliberal global economy. The article advances the argument that law's role in the privatization of public lands should be understood not only as ‘stabilizing’ the interests of capital but also in relation to capitalism's secular crises and spatial uncertainties. The current restructuring of Canary Wharf, aimed at restoring the profitability rate, is similarly taking shape within the context of the ‘Long Downturn of Capitalism’ that has gripped the advanced capitalist core since the 1970s.",
+      "authors": [
+        "NEGAR MANSOURI"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1111/jols.70089",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "The enclosure of London's Canary Wharf: the intertwined lives of local and global relations of production",
+      "url": "https://doi.org/10.1111/jols.70089"
+    },
+    {
+      "abstract": "Abstract This article examines how narrative power shapes recognition and legitimacy in state‐led consultation procedures with Indigenous communities. Analysing two non‐binding consultations involving the Bedouin community in Israel, the study applies a voice‐centric computational methodology to over 200 oral testimonies. Using topic modelling and statistical analysis, it reveals a persistent narrative divide: Bedouin speakers foregrounded historical narratives of communal land possession with odds more than eight times higher than those of non‐Bedouin participants, while state actors relied predominantly on legalistic and procedural discourse oriented towards future governance. This divergence reflects competing conceptions of justice. For Indigenous participants, the past constituted the foundation of their claims, and the recognition of historical connection and dispossession was a prerequisite for negotiating future arrangements. The state, by contrast, largely bracketed history in favour of formal legal entitlements and procedural frameworks that operate to the detriment of Bedouin claims. An analysis of the Goldberg Commission's final report shows that this legalistic framing was ultimately adopted as the Commission's dominant narrative. By shifting analytical attention from speaking to listening, the article advances socio‐legal scholarship and offers methodological and policy insights for designing consultation processes that more meaningfully engage with and listen to Indigenous voices.",
+      "authors": [
+        "RONIT LEVINE‐SCHNUR",
+        "RENANA KEYDAR",
+        "NOAM MAEIR"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-13",
+      "doi": "10.1111/jols.70090",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "Narrative power and justice: computational insights into Indigenous–state consultation dynamics",
+      "url": "https://doi.org/10.1111/jols.70090"
+    },
+    {
       "abstract": "Abstract Kant claims that every lie is as grave as perjury. Kant also believed in the opacity of the self. Even if under the impression of telling the truth, the testifier might be lying. Every declaration therefore incurs the risk of being gravely wrong. But instead of being a man of few words, Kant has a career total of two million words. Augustine and Aquinas also forbid all lies. These two prefigurers of Kant rank some lies as far less wrong than other lies. Augustine and Aquinas are also less pessimistic about authors' ability to detect their own lying. Nevertheless, the risk of grave lying remains too high to reconcile with the volubility of Augustine and Aquinas. These giants among the never‐liars exhibit a quantitative weakness that is also present among less prolific and more qualified prohibitors of lying, such as W. D. Ross.",
       "authors": [
         "Roy Sorensen"
@@ -13775,9 +13473,132 @@
       "origin": "crossref",
       "title": "Unobjectionable inequalities Nico Kolodny,\n                    The Pecking Order. Social Hierarchy as a Philosophical Problem\n                    (Harvard University Press, 2023).George Letsas,\n                    Status in Law and Morality\n                    (Oxford University Press, 2026).",
       "url": "https://doi.org/10.1177/14748851261503757"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ana Junça-Silva",
+        "Rita Rueff Lopes"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-14",
+      "doi": "10.1007/s10551-026-06510-6",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Multispecies Care and Emotional Life at Work: Organizational Cynicism, Work Alienation, and the Moderating Role of the Work–Pet Family Interface",
+      "url": "https://doi.org/10.1007/s10551-026-06510-6"
+    },
+    {
+      "abstract": "Abstract How do our decisions bear on our reasons for action? Raz holds that decision-making is a way of exercising our normative powers to create reasons for ourselves. Normative powers have been on the rise in moral and legal philosophy. Scanlon is an exception to this trend, holding that on source-externalism the normativity of decisions can be explained simply in virtue of the changes they can bring about in our practical situation. However, I argue that Scanlon’s account and Kolodny’s subsequent supplementation are wanting. In response, I propose a shift of attention to the deliberative conditions under which our earlier deciding self can consider the merits of a case compared to our future acting self. On this basis, I develop a new situational account that lies in the improvement to our future choice in combination with the costs of revisiting the issue. Hence, I conclude that normative powers are unnecessary for explaining the normativity of decisions.",
+      "authors": [
+        "Andreas Vassiliou"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-14",
+      "doi": "10.1007/s10982-026-09601-7",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Law and Philosophy",
+      "journal_id": "J001",
+      "origin": "crossref",
+      "title": "Decisions, Normative Powers, and Practical Situations",
+      "url": "https://doi.org/10.1007/s10982-026-09601-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Natascia Tosel"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-14",
+      "doi": "10.1057/s41296-026-00857-1",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Contemporary Political Theory",
+      "journal_id": "J048",
+      "origin": "crossref",
+      "title": "The politics of narra(c)tion against the policy of lying: reading Hannah Arendt in women's courts",
+      "url": "https://doi.org/10.1057/s41296-026-00857-1"
+    },
+    {
+      "abstract": "ABSTRACT The Asymmetry in population ethics holds that creating a miserable person is morally impermissible, while not creating a happy person is morally permissible, all else being equal. Harm‐avoidance theories explain the Asymmetry by claiming that, in certain contexts, only actions resulting in harm are impermissible. Two problems threaten these theories: (i) The Problem of Improvable Life Avoidance—requiring agents to avoid creating improvable good lives—and (ii) requiring dominated options. Sophisticated harm‐avoidance theories avoid both problems. However, we show that any harm‐avoidance theory entails either (1) a worse form of The Problem of Improvable Life Avoidance, (2) a troubling form of sadism, (3) an implausibly extreme priority for avoiding a small harm for one person over greater harms for many people, or (4) spurious prohibition dilemmas. Furthermore, we argue that any reasonable theory of the Asymmetry entails at least one of (1)–(4).",
+      "authors": [
+        "Tim Campbell",
+        "Patrick Kaczmarek"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-14",
+      "doi": "10.1111/nous.70074",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Noûs",
+      "journal_id": "J086",
+      "origin": "crossref",
+      "title": "Improving Lives and Avoiding Harm",
+      "url": "https://doi.org/10.1111/nous.70074"
+    },
+    {
+      "abstract": "I challenge forms of social normativism that treat social normative entities—deontic statuses, deontic powers, and social norms—as indispensable to the explanation of action. I distinguish two roles these entities are said to play: causal and justificatory. Against the causal role, I argue that every causal explanation invoking social normative entities has a corresponding explanation that does not. Against the justificatory role, I argue that social scientists can adopt a methodological fictionalist stance toward justificatory explanations without thereby incurring ontological commitment. Realists therefore owe an account of why ontological commitment remains necessary for explanation.",
+      "authors": [
+        "Erim Bakkal"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-14",
+      "doi": "10.1177/00483931261505199",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
+      "origin": "crossref",
+      "title": "Social Normativity Without Realism: A Fictionalist Challenge",
+      "url": "https://doi.org/10.1177/00483931261505199"
+    },
+    {
+      "abstract": "Classical political economists identified the three factors of production: land, labor, and capital. However, neoclassical economists reduced them to two by treating land as a subset of capital. We argue that this was a mistake and develop our own version of the three-factor model through a hylomorphic account of capital goods and by integrating the Austrian analysis of interest as arising from time preference. The revised three-factor model provides a more realistic picture of the production process and tracks important economic, political, and normative patterns.",
+      "authors": [
+        "Martin Jacobson",
+        "Paul Forrester"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-14",
+      "doi": "10.1177/00483931261505201",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
+      "origin": "crossref",
+      "title": "In Defense of the Three-Factor Model of Production: Land, Labor, and Capital in Political Economy and Philosophy",
+      "url": "https://doi.org/10.1177/00483931261505201"
+    },
+    {
+      "abstract": "In this paper I make two contributions to recent developments in the science and values debate by analyzing a social epidemiological research project and its guiding research question. First, I extend the adequacy-for-purpose framework, which was introduced for assessment of scientific models, to the process of asking and answering research questions. Insofar as the purposes of asking questions are both epistemic and non-epistemic, their assessment has to be responsive to both types of considerations. Second, the analysis suggests that research questions straddle the supposed boundary between “internal” and “external” stages of research, thus putting further pressure on the value-free ideal.",
+      "authors": [
+        "Victoria Min-Yi Wang"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-14",
+      "doi": "10.1177/00483931261505203",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
+      "origin": "crossref",
+      "title": "Can Research Questions Be Adequate-For-Purpose? A Lesson From Social Epidemiology",
+      "url": "https://doi.org/10.1177/00483931261505203"
+    },
+    {
+      "abstract": "Contemporary democracies are increasingly threatened by political actors who transgress democratic norms to entrench their own power. When, if ever, is it democratically permissible to respond to such transgressions by reciprocating—that is, by deviating from democratic rules? A key concern is that this response risks triggering an escalating cycle of democratic transgressions, thereby severely eroding democratic norms. I argue that reciprocal deviations can instead play a central role in enforcing, and therefore preserving, democratic norms. Crucially, this enforcement rationale entails distinctive normative constraints on when, how, and by whom reciprocal deviations should be deployed—constraints which, I argue, diverge meaningfully from those recommended by other rationales for reciprocation. I then address two objections: that reciprocation is not needed to enforce democratic norms; and that my argument is overly idealized. While neither objection is decisive, each helps further specify the circumstances under which the present defense applies.",
+      "authors": [
+        "Maxime Lepoutre"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-14",
+      "doi": "10.1177/1470594x261508090",
+      "first_seen_jst": "2026-11-15",
+      "journal": "Politics, Philosophy &amp; Economics",
+      "journal_id": "J039",
+      "origin": "crossref",
+      "title": "Enforcing democratic norms through reciprocal transgressions",
+      "url": "https://doi.org/10.1177/1470594x261508090"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-14",
-  "window_start": "2026-09-30"
+  "window_end": "2026-11-15",
+  "window_start": "2026-10-01"
 }

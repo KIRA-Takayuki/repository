@@ -1,72 +1,8 @@
 {
-  "checked_at_utc": "2026-11-14T19:58:15.770577+00:00",
-  "collected_on": "2026-11-15",
-  "count": 67,
+  "checked_at_utc": "2026-11-15T20:25:48.068283+00:00",
+  "collected_on": "2026-11-16",
+  "count": 58,
   "items": [
-    {
-      "crossref_candidate_date": "2026-10-01",
-      "doi": "10.1017/s0034670526101247",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "Svetozar Y. Minkov and Rasoul Namazi: Leo Strauss on Religion: Writings and Interpretations. (Albany, NY: State University of New York Press, 2025. Pp. 418.)"
-    },
-    {
-      "crossref_candidate_date": "2026-10-01",
-      "doi": "10.1017/s0034670526101284",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "Roslyn Weiss: Justice in Plato’s “Republic”: The Lessons of Book 1. (Cambridge and New York: Cambridge University Press, 2024. Pp. viii, 208.)"
-    },
-    {
-      "crossref_candidate_date": "2026-10-01",
-      "doi": "10.1017/s0034670526101302",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "Russell Muirhead and Nancy L. Rosenblum: Ungoverning:The Attack on the Administrative State and the Politics of Chaos. (Princeton: Princeton University Press, 2024. Pp. xi, 264.)"
-    },
-    {
-      "crossref_candidate_date": "2026-10-01",
-      "doi": "10.1111/josp.70071",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J035",
-      "status": "unverified_not_introduced",
-      "title": "In Defence of Open Voting"
-    },
-    {
-      "crossref_candidate_date": "2026-10-01",
-      "doi": "10.1111/papa.12265",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J026",
-      "status": "unverified_not_introduced",
-      "title": "Issue Information"
-    },
-    {
-      "crossref_candidate_date": "2026-10-01",
-      "doi": "10.1163/17455243-bja10202",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "Philosophy for an Ending World, written by Tim Mulgan"
-    },
-    {
-      "crossref_candidate_date": "2026-10-01",
-      "doi": "10.1177/00905917261479646",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J031",
-      "status": "unverified_not_introduced",
-      "title": "The Perils of Improvement: Burke, Slavery, and Colonial Governance in the West Indies"
-    },
-    {
-      "crossref_candidate_date": "2026-10-01",
-      "doi": "10.1177/00905917261487670",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J031",
-      "status": "unverified_not_introduced",
-      "title": "Reassessing Elitism, Rethinking Democracy Elites and Democracy, by DrochonHugo, Princeton/Oxford: Princeton University Press, 2026, 296 pp.Democratic Elitism: The Founding Myth of American Political Science, by PianoNatascha, Cambridge/London: Harvard University Press, 2025, 256 pp."
-    },
     {
       "crossref_candidate_date": "2026-10-02",
       "doi": "10.16995/pp.27807",
@@ -202,14 +138,6 @@
       "journal_id": "J048",
       "status": "unverified_not_introduced",
       "title": "Atrocity without punishment: a political theory of leniency in Mexico’s war on drugs"
-    },
-    {
-      "crossref_candidate_date": "2026-10-08",
-      "doi": "10.1515/mopp-2026-frontmatter2",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J041",
-      "status": "unverified_not_introduced",
-      "title": "Frontmatter"
     },
     {
       "crossref_candidate_date": "2026-10-09",
@@ -525,19 +453,19 @@
     },
     {
       "crossref_candidate_date": "2026-11-14",
-      "doi": "10.1057/s41296-026-00857-1",
-      "first_seen_jst": "2026-11-15",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "The politics of narra(c)tion against the policy of lying: reading Hannah Arendt in women's courts"
-    },
-    {
-      "crossref_candidate_date": "2026-11-14",
       "doi": "10.1177/1470594x261508090",
       "first_seen_jst": "2026-11-15",
       "journal_id": "J039",
       "status": "unverified_not_introduced",
       "title": "Enforcing democratic norms through reciprocal transgressions"
+    },
+    {
+      "crossref_candidate_date": "2026-11-16",
+      "doi": "10.1163/17455243-bja10196",
+      "first_seen_jst": "2026-11-16",
+      "journal_id": "J070",
+      "status": "unverified_not_introduced",
+      "title": "Welfare’s Role in the Mechanics of Claims: Reply to Sinclair and Yuan"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

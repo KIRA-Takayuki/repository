@@ -2,152 +2,77 @@
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-14T19:58:15.770577+00:00",
-  "collected_on": "2026-11-15",
+  "checked_at_utc": "2026-11-15T20:25:48.068283+00:00",
+  "collected_on": "2026-11-16",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 8,
+  "eligible_candidate_count": 2,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "Drawing on ethics of care and Conservation of Resources (COR) theories, this research examined how organizational cynicism shapes employees’ daily emotional balance and how multispecies care contexts may condition these effects. Across two diary studies, we tested whether daily work alienation would mediate the relationship between morning organizational cynicism and end-of-day emotions’ ratio, and whether the work–pet family interface would function as a contextual moderator. Study 1 (Level-2 N = 126; Level-1 N = 1,260) showed a negative indirect association between morning organizational cynicism and end-of-day emotional balance through increased work alienation. Work–pet family conflict significantly moderated this process, but contrary to our hypothesis, the conditional indirect association became weaker rather than stronger as conflict increased. Study 2 (Level-2 N = 102; Level-1 N = 502) extended the model by incorporating daily work–pet family enrichment, revealing that enrichment weakened the indirect effect of cynicism via work alienation by providing alternative emotional and relational resources. Together, the findings highlight how multispecies care contexts shape employees’ emotional experiences at work and suggest that inclusion extends beyond human relationships to encompass employees’ relationships and care responsibilities involving companion animals. By integrating ethics of care with COR theory, this study challenges anthropocentric assumptions in work–family research and highlights non-human animals as ethically relevant stakeholders in employees’ emotional work lives.",
+      "abstract": "",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10551-026-06510-6"
+        "publisher:https://doi.org/10.1080/17449626.2026.2763373",
+        "openalex_doi"
       ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Ana Junça-Silva",
-        "Rita Rueff Lopes"
+        "Yoonil Auh",
+        "Chanmi Kim"
+      ],
+      "crossref_online_date": "2026-11-15",
+      "crossref_subtype": "",
+      "date": "2026-11-15",
+      "doi": "10.1080/17449626.2026.2763373",
+      "first_seen_jst": "2026-11-16",
+      "journal": "Journal of Global Ethics",
+      "journal_id": "J066",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1080/17449626.2026.2763373"
+      ],
+      "requires_manual_verification": true,
+      "title": "Reconstructing moral foundations in global citizenship education",
+      "url": "https://doi.org/10.1080/17449626.2026.2763373"
+    },
+    {
+      "abstract": "Abstract The mechanics of claims (MOC) provides a framework for taking people’s pro tanto rights, or claims, into account and determining who has a right to do what or to get what treatment from others. It is grounded on three principles: the Autonomy Principle, the Equality Principle, and the Welfare Principle. Thomas Sinclair and Yuan Yuan argue in different ways that the Welfare Principle raises problems for the plausibility of the MOC. Sinclair highlights an important distinction between two kinds of permissions agents can have to act: clean permissions that require no justifications and carry no moral residue, and conflict permissions that require justifications and do carry a moral residue. He points out that the Welfare Principle makes it hard to see how these can be distinguished. Yuan argues that the Welfare Principle makes it seem that property rights are quite unreliable, and that the occasions for unilateral enforcement of rights are too pervasive under the MOC. In response to Sinclair, I argue that we can distinguish clean from conflict permissions by paying attention to agent claims not to have to serve the welfare of others. And in response to Yuan, I argue that property rights are actually about as reliable as they should be on the MOC, and that it does not too often allow for unilateral enforcement of rights.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1163/17455243-bja10196"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Alec Walen"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-14",
-      "doi": "10.1007/s10551-026-06510-6",
-      "first_seen_jst": "2026-11-15",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
+      "date": "2026-11-16",
+      "doi": "10.1163/17455243-bja10196",
+      "first_seen_jst": "2026-11-16",
+      "journal": "Journal of Moral Philosophy",
+      "journal_id": "J070",
       "origin": "crossref",
       "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06510-6",
-      "publisher_online_date": "2026-11-14",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10551-026-06510-6"
-      ],
-      "requires_manual_verification": false,
-      "title": "Multispecies Care and Emotional Life at Work: Organizational Cynicism, Work Alienation, and the Moderating Role of the Work–Pet Family Interface",
-      "url": "https://doi.org/10.1007/s10551-026-06510-6"
-    },
-    {
-      "abstract": "Abstract How do our decisions bear on our reasons for action? Raz holds that decision-making is a way of exercising our normative powers to create reasons for ourselves. Normative powers have been on the rise in moral and legal philosophy. Scanlon is an exception to this trend, holding that on source-externalism the normativity of decisions can be explained simply in virtue of the changes they can bring about in our practical situation. However, I argue that Scanlon’s account and Kolodny’s subsequent supplementation are wanting. In response, I propose a shift of attention to the deliberative conditions under which our earlier deciding self can consider the merits of a case compared to our future acting self. On this basis, I develop a new situational account that lies in the improvement to our future choice in combination with the costs of revisiting the issue. Hence, I conclude that normative powers are unnecessary for explaining the normativity of decisions.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10982-026-09601-7"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Andreas Vassiliou"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-14",
-      "doi": "10.1007/s10982-026-09601-7",
-      "first_seen_jst": "2026-11-15",
-      "journal": "Law and Philosophy",
-      "journal_id": "J001",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10982-026-09601-7",
-      "publisher_online_date": "2026-11-14",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10982-026-09601-7"
-      ],
-      "requires_manual_verification": false,
-      "title": "Decisions, Normative Powers, and Practical Situations",
-      "url": "https://doi.org/10.1007/s10982-026-09601-7"
-    },
-    {
-      "abstract": "This article develops a political reading of women’s courts and tribunals through Hannah Arendt’s reflections on factual truth, storytelling, and organized lying. While existing scholarship has interpreted these feminist initiatives primarily within the frameworks of international law and transitional justice, I argue that their distinctive significance emerges only when they are understood as forms of political action. To capture this dimension, I introduce the concept of ‘narra(c)tion’, understood as the inseparable relation between narration and action: public testimony is not merely the representation of past events but a political practice through which women disclose experiences of violence before others and challenge their exclusion from the common world. Drawing on Arendt, I argue that the political problem addressed by women’s courts is not primarily the verification of facts but the defactualization of realities that are already widely documented yet systematically denied, ignored, or deprived of political significance. Their political function therefore lies less in providing new evidence of violence against women or in pursuing an ideal of justice than in public truth-telling: by narrating their own stories publicly, women create the political conditions under which experiences rejected ‘out of the world’ by official institutions and public opinion can reappear, be heard, and once again count politically.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1057/s41296-026-00857-1"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Natascia Tosel"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-14",
-      "doi": "10.1057/s41296-026-00857-1",
-      "first_seen_jst": "2026-11-15",
-      "journal": "Contemporary Political Theory",
-      "journal_id": "J048",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1057/s41296-026-00857-1",
-      "publisher_online_date": "2026-11-14",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1057/s41296-026-00857-1"
-      ],
-      "requires_manual_verification": false,
-      "title": "The politics of narra(c)tion against the policy of lying: reading Hannah Arendt in women's courts",
-      "url": "https://doi.org/10.1057/s41296-026-00857-1"
-    },
-    {
-      "abstract": "ABSTRACT The Asymmetry in population ethics holds that creating a miserable person is morally impermissible, while not creating a happy person is morally permissible, all else being equal. Harm‐avoidance theories explain the Asymmetry by claiming that, in certain contexts, only actions resulting in harm are impermissible. Two problems threaten these theories: (i) The Problem of Improvable Life Avoidance—requiring agents to avoid creating improvable good lives—and (ii) requiring dominated options. Sophisticated harm‐avoidance theories avoid both problems. However, we show that any harm‐avoidance theory entails either (1) a worse form of The Problem of Improvable Life Avoidance, (2) a troubling form of sadism, (3) an implausibly extreme priority for avoiding a small harm for one person over greater harms for many people, or (4) spurious prohibition dilemmas. Furthermore, we argue that any reasonable theory of the Asymmetry entails at least one of (1)–(4).",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1111/nous.70074",
-        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/nous.70074",
-        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/nous.70074"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Tim Campbell",
-        "Patrick Kaczmarek"
-      ],
-      "crossref_online_date": "2026-11-14",
-      "crossref_subtype": "",
-      "date": "2026-11-14",
-      "doi": "10.1111/nous.70074",
-      "first_seen_jst": "2026-11-15",
-      "journal": "Noûs",
-      "journal_id": "J086",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_evidence_level": "unconfirmed",
       "publication_date_is_api_candidate": true,
       "publisher_check_status": "publisher_request_failed_HTTPError",
       "publisher_date_conflict": false,
@@ -155,154 +80,11 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1111/nous.70074",
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/nous.70074",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/nous.70074"
+        "https://doi.org/10.1163/17455243-bja10196"
       ],
       "requires_manual_verification": true,
-      "title": "Improving Lives and Avoiding Harm",
-      "url": "https://doi.org/10.1111/nous.70074"
-    },
-    {
-      "abstract": "I challenge forms of social normativism that treat social normative entities—deontic statuses, deontic powers, and social norms—as indispensable to the explanation of action. I distinguish two roles these entities are said to play: causal and justificatory. Against the causal role, I argue that every causal explanation invoking social normative entities has a corresponding explanation that does not. Against the justificatory role, I argue that social scientists can adopt a methodological fictionalist stance toward justificatory explanations without thereby incurring ontological commitment. Realists therefore owe an account of why ontological commitment remains necessary for explanation.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1177/00483931261505199"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Erim Bakkal"
-      ],
-      "crossref_online_date": "2026-11-14",
-      "crossref_subtype": "",
-      "date": "2026-11-14",
-      "doi": "10.1177/00483931261505199",
-      "first_seen_jst": "2026-11-15",
-      "journal": "Philosophy of the Social Sciences",
-      "journal_id": "J108",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1177/00483931261505199"
-      ],
-      "requires_manual_verification": true,
-      "title": "Social Normativity Without Realism: A Fictionalist Challenge",
-      "url": "https://doi.org/10.1177/00483931261505199"
-    },
-    {
-      "abstract": "Classical political economists identified the three factors of production: land, labor, and capital. However, neoclassical economists reduced them to two by treating land as a subset of capital. We argue that this was a mistake and develop our own version of the three-factor model through a hylomorphic account of capital goods and by integrating the Austrian analysis of interest as arising from time preference. The revised three-factor model provides a more realistic picture of the production process and tracks important economic, political, and normative patterns.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1177/00483931261505201"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Martin Jacobson",
-        "Paul Forrester"
-      ],
-      "crossref_online_date": "2026-11-14",
-      "crossref_subtype": "",
-      "date": "2026-11-14",
-      "doi": "10.1177/00483931261505201",
-      "first_seen_jst": "2026-11-15",
-      "journal": "Philosophy of the Social Sciences",
-      "journal_id": "J108",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1177/00483931261505201"
-      ],
-      "requires_manual_verification": true,
-      "title": "In Defense of the Three-Factor Model of Production: Land, Labor, and Capital in Political Economy and Philosophy",
-      "url": "https://doi.org/10.1177/00483931261505201"
-    },
-    {
-      "abstract": "In this paper I make two contributions to recent developments in the science and values debate by analyzing a social epidemiological research project and its guiding research question. First, I extend the adequacy-for-purpose framework, which was introduced for assessment of scientific models, to the process of asking and answering research questions. Insofar as the purposes of asking questions are both epistemic and non-epistemic, their assessment has to be responsive to both types of considerations. Second, the analysis suggests that research questions straddle the supposed boundary between “internal” and “external” stages of research, thus putting further pressure on the value-free ideal.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1177/00483931261505203"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Victoria Min-Yi Wang"
-      ],
-      "crossref_online_date": "2026-11-14",
-      "crossref_subtype": "",
-      "date": "2026-11-14",
-      "doi": "10.1177/00483931261505203",
-      "first_seen_jst": "2026-11-15",
-      "journal": "Philosophy of the Social Sciences",
-      "journal_id": "J108",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1177/00483931261505203"
-      ],
-      "requires_manual_verification": true,
-      "title": "Can Research Questions Be Adequate-For-Purpose? A Lesson From Social Epidemiology",
-      "url": "https://doi.org/10.1177/00483931261505203"
-    },
-    {
-      "abstract": "Contemporary democracies are increasingly threatened by political actors who transgress democratic norms to entrench their own power. When, if ever, is it democratically permissible to respond to such transgressions by reciprocating—that is, by deviating from democratic rules? A key concern is that this response risks triggering an escalating cycle of democratic transgressions, thereby severely eroding democratic norms. I argue that reciprocal deviations can instead play a central role in enforcing, and therefore preserving, democratic norms. Crucially, this enforcement rationale entails distinctive normative constraints on when, how, and by whom reciprocal deviations should be deployed—constraints which, I argue, diverge meaningfully from those recommended by other rationales for reciprocation. I then address two objections: that reciprocation is not needed to enforce democratic norms; and that my argument is overly idealized. While neither objection is decisive, each helps further specify the circumstances under which the present defense applies.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1177/1470594x261508090"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Maxime Lepoutre"
-      ],
-      "crossref_online_date": "2026-11-14",
-      "crossref_subtype": "",
-      "date": "2026-11-14",
-      "doi": "10.1177/1470594x261508090",
-      "first_seen_jst": "2026-11-15",
-      "journal": "Politics, Philosophy &amp; Economics",
-      "journal_id": "J039",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1177/1470594x261508090"
-      ],
-      "requires_manual_verification": true,
-      "title": "Enforcing democratic norms through reciprocal transgressions",
-      "url": "https://doi.org/10.1177/1470594x261508090"
+      "title": "Welfare’s Role in the Mechanics of Claims: Reply to Sinclair and Yuan",
+      "url": "https://doi.org/10.1163/17455243-bja10196"
     }
   ],
   "journal_total": 145,
@@ -314,15 +96,15 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 67,
+  "political_backlog_unverified_count": 58,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 3,
-  "raw_candidate_count": 8,
-  "research_candidate_abstracts_available": 8,
-  "research_candidate_abstracts_missing": 0,
+  "publisher_first_online_in_window_verified_count": 0,
+  "raw_candidate_count": 2,
+  "research_candidate_abstracts_available": 1,
+  "research_candidate_abstracts_missing": 1,
   "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 8,
+  "research_candidate_unverified_count": 2,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-15",
-  "window_start_jst": "2026-11-14"
+  "window_end_jst": "2026-11-16",
+  "window_start_jst": "2026-11-15"
 }

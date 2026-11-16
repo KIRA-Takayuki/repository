@@ -1,24 +1,8 @@
 {
-  "checked_at_utc": "2026-11-15T20:25:48.068283+00:00",
-  "collected_on": "2026-11-16",
-  "count": 58,
+  "checked_at_utc": "2026-11-16T23:00:10.569379+00:00",
+  "collected_on": "2026-11-17",
+  "count": 59,
   "items": [
-    {
-      "crossref_candidate_date": "2026-10-02",
-      "doi": "10.16995/pp.27807",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J027",
-      "status": "unverified_not_introduced",
-      "title": "Debate:  Why Exchange Reasons? Rejecting the Epistemic Inference"
-    },
-    {
-      "crossref_candidate_date": "2026-10-02",
-      "doi": "10.16995/pp.29183",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J027",
-      "status": "unverified_not_introduced",
-      "title": "Self-Determination and the Right to Do Wrong"
-    },
     {
       "crossref_candidate_date": "2026-10-05",
       "doi": "10.1080/13698230.2026.2738108",
@@ -458,6 +442,30 @@
       "journal_id": "J039",
       "status": "unverified_not_introduced",
       "title": "Enforcing democratic norms through reciprocal transgressions"
+    },
+    {
+      "crossref_candidate_date": "2026-11-16",
+      "doi": "10.1080/13698230.2026.2763272",
+      "first_seen_jst": "2026-11-17",
+      "journal_id": "J038",
+      "status": "unverified_not_introduced",
+      "title": "Cultural majorities in political theory: theoretical, conceptual, and normative puzzles"
+    },
+    {
+      "crossref_candidate_date": "2026-11-16",
+      "doi": "10.1080/13698230.2026.2763277",
+      "first_seen_jst": "2026-11-17",
+      "journal_id": "J038",
+      "status": "unverified_not_introduced",
+      "title": "Equal citizenship vs. multiculturalism: navigating challenges of civic equality in an anti-multicultural era"
+    },
+    {
+      "crossref_candidate_date": "2026-11-16",
+      "doi": "10.1080/13698230.2026.2763278",
+      "first_seen_jst": "2026-11-17",
+      "journal_id": "J038",
+      "status": "unverified_not_introduced",
+      "title": "Majority cultural vulnerability as an issue of global concern"
     },
     {
       "crossref_candidate_date": "2026-11-16",

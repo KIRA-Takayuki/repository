@@ -2,22 +2,94 @@
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-15T20:25:48.068283+00:00",
-  "collected_on": "2026-11-16",
+  "checked_at_utc": "2026-11-16T23:00:10.569379+00:00",
+  "collected_on": "2026-11-17",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 2,
+  "eligible_candidate_count": 14,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
+      "abstract": "Abstract In the philosophical literature, it is often assumed that disinformation leads to false beliefs. However, empirical work in the social sciences has established that much disinformation rather creates uncertainty. Taking seriously these empirical findings, I develop a non-doxastic theory of disinformation which I call the “live possibility model”. The core claim of my theory is that disinformation introduces live possibilities the victim cannot reject. Live possibilities are epistemic possibilities which are likely enough to be relevant for thought and action. When a live possibility is introduced, it forces a suspension of judgement. In the resulting context of uncertainty, the subject navigates by use of non-doxastic attitudes, such as hope, fear, faith, etc. Unlike most other philosophical accounts of disinformation, this model does not ascribe irrationality to disinformed subjects. Instead, it suggests that disinformation exploits processes of critical thinking. While there have been some other recent philosophical attempts to understand disinformation in terms of uncertainty—due to Blake-Turner, Harris, and Rini—I demonstrate how the live possibility model incorporates their insights while surpassing them theoretically.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s10670-026-01186-w"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Carl-Johan Palmqvist"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1007/s10670-026-01186-w",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10670-026-01186-w",
+      "publisher_online_date": "2026-11-16",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10670-026-01186-w"
+      ],
+      "requires_manual_verification": false,
+      "title": "The Live Possibility Model of Disinformation: A Non-doxastic Account",
+      "url": "https://doi.org/10.1007/s10670-026-01186-w"
+    },
+    {
+      "abstract": "As humanoid robots become increasingly embedded in social life, they can acquire socially meaningful roles and elicit trust, empathy, attachment, and concern. Relational approaches to human–robot interaction explain how such forms of social otherness emerge through interaction, yet they leave open whether the moral claims drawn from them are warranted. This paper characterizes normative corrosion as the process through which socially elicited responses come to function as self-validating grounds for moral ascription. Drawing on Honneth’s theory of recognition and Levinas’s account of alterity, it develops bounded otherness as a normative framework for current and near-term humanoid robots that limits the inference from social otherness to moral standing. The framework comprises three interconnected principles: ontological denial constrains the attribution of moral subjecthood, role delimitation evaluates the normative expectations attached to socially embedded robot roles, and ethical immunity distinguishes affective significance from warranted moral attribution. The paper further develops the practical and structural implications of bounded otherness for design, discourse, education, and governance, arguing that moral ascription in HRI must remain open to justification as social meanings and roles become stabilized within broader socio-technical environments.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11948-026-00631-x"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Huaping Wang"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1007/s11948-026-00631-x",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Science and Engineering Ethics",
+      "journal_id": "J072",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11948-026-00631-x",
+      "publisher_online_date": "2026-11-16",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11948-026-00631-x"
+      ],
+      "requires_manual_verification": false,
+      "title": "Bounded Otherness: Delimiting Moral Ascription Against Normative Corrosion",
+      "url": "https://doi.org/10.1007/s11948-026-00631-x"
+    },
+    {
       "abstract": "",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1080/17449626.2026.2763373",
+        "publisher:https://doi.org/10.1080/13698230.2026.2763272",
         "openalex_doi"
       ],
       "abstract_review_status": "missing",
@@ -25,16 +97,15 @@
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Yoonil Auh",
-        "Chanmi Kim"
+        "Lior Erez"
       ],
-      "crossref_online_date": "2026-11-15",
+      "crossref_online_date": "2026-11-16",
       "crossref_subtype": "",
-      "date": "2026-11-15",
-      "doi": "10.1080/17449626.2026.2763373",
-      "first_seen_jst": "2026-11-16",
-      "journal": "Journal of Global Ethics",
-      "journal_id": "J066",
+      "date": "2026-11-16",
+      "doi": "10.1080/13698230.2026.2763272",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "journal_id": "J038",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
@@ -45,11 +116,322 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1080/17449626.2026.2763373"
+        "https://doi.org/10.1080/13698230.2026.2763272"
       ],
       "requires_manual_verification": true,
-      "title": "Reconstructing moral foundations in global citizenship education",
-      "url": "https://doi.org/10.1080/17449626.2026.2763373"
+      "title": "Cultural majorities in political theory: theoretical, conceptual, and normative puzzles",
+      "url": "https://doi.org/10.1080/13698230.2026.2763272"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1080/13698230.2026.2763277",
+        "openalex_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Tamar de Waal"
+      ],
+      "crossref_online_date": "2026-11-16",
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1080/13698230.2026.2763277",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "journal_id": "J038",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1080/13698230.2026.2763277"
+      ],
+      "requires_manual_verification": true,
+      "title": "Equal citizenship vs. multiculturalism: navigating challenges of civic equality in an anti-multicultural era",
+      "url": "https://doi.org/10.1080/13698230.2026.2763277"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1080/13698230.2026.2763278",
+        "openalex_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Michael Da Silva",
+        "Daniel Weinstock"
+      ],
+      "crossref_online_date": "2026-11-16",
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1080/13698230.2026.2763278",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "journal_id": "J038",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1080/13698230.2026.2763278"
+      ],
+      "requires_manual_verification": true,
+      "title": "Majority cultural vulnerability as an issue of global concern",
+      "url": "https://doi.org/10.1080/13698230.2026.2763278"
+    },
+    {
+      "abstract": "Abstract A central question in debates about motivating reasons is whether sentences that ascribe motivating reasons are factive. This paper argues that the answer is Yes. The key evidence lies in examining the commitments we incur when speculating about each other's motives.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1093/analys/anag088"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Adam Marushak"
+      ],
+      "crossref_online_date": "2026-11-16",
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1093/analys/anag088",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1093/analys/anag088"
+      ],
+      "requires_manual_verification": true,
+      "title": "Speculating About Reasons",
+      "url": "https://doi.org/10.1093/analys/anag088"
+    },
+    {
+      "abstract": "Abstract The long “Introduction” to the Phenomenology of Perception begins with a rejection of the classical notion of sensation as “the most confused notion there is.” And yet Merleau‐Ponty continues to speak of sensation throughout the Phenomenology , and indeed, throughout his corpus. This poses an obvious interpretive puzzle, and one which has not received a focal treatment in the literature. In this paper, I consider three questions: 1) What view of sensing does Merleau‐Ponty reject in the Introduction? 2) On the other hand, what view of sensation does he wish to maintain? 3) How exactly does sensation, on his view, differ from perception? By working through these questions, I propose an interpretation on which sensation is conceived as a kind of perception, and one which is expressively basic (in a sense to be explained), such that in being given, it discloses other phenomena that are not properly given.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/ejop.70132",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/ejop.70132",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/ejop.70132"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Peter Antich"
+      ],
+      "crossref_online_date": "2026-11-16",
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1111/ejop.70132",
+      "first_seen_jst": "2026-11-17",
+      "journal": "European Journal of Philosophy",
+      "journal_id": "J102",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/ejop.70132",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/ejop.70132",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/ejop.70132"
+      ],
+      "requires_manual_verification": true,
+      "title": "Sensation and Perception in Merleau‐Ponty",
+      "url": "https://doi.org/10.1111/ejop.70132"
+    },
+    {
+      "abstract": "Abstract This article examines legal pluralism in Ecuador between 2007 and 2017. By theorizing legal pluralism as a regime, I analyse the articulation between its institutional design, formal and informal rules of coordination between jurisdictions, and actors’ legal strategies, discourses, and practices in gender‐based violence cases against Indigenous women. The study draws on documentary analysis of seven judicial files involving the activation of both the ordinary jurisdiction and the Indigenous jurisdiction that led to a jurisdictional conflict, alongside 43 interviews with Indigenous authorities, women leaders, victims, judicial officials, and policymakers. Rules governing legal pluralism enabled asymmetric legal interactions and jurisdictional disputes through which local power was contested. Indigenous women faced a choice between two constrained pathways: community processes reproducing discrimination or punitive state frameworks limiting transformative reparations. These findings suggest that strategic legal mobilization reshaped institutional landscapes while reproducing colonial formations. Conceptualizing legal pluralism as a regime shifts the focus beyond state‐centred accounts, foregrounding everyday negotiations and power relations.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/jols.70086",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70086",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70086"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "LILIAM FIALLO"
+      ],
+      "crossref_online_date": "2026-11-16",
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1111/jols.70086",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/jols.70086",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70086",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70086"
+      ],
+      "requires_manual_verification": true,
+      "title": "Legal pluralism in Ecuador: gender‐based violence, Indigenous women, and processes of dispute resolution\n                    *",
+      "url": "https://doi.org/10.1111/jols.70086"
+    },
+    {
+      "abstract": "Abstract This article examines the implementation of trauma‐informed lawyering within models of independent legal advice (ILA) and independent legal representation (ILR) for complainants in sexual violence cases. Drawing on an international qualitative study at a time of significant reform across several jurisdictions, it identifies the key features of trauma‐informed practice in this context and explores its less visible effects on lawyers and the criminal justice system. Using Cyrus Tata's concept of ‘inverting the lens’, the article highlights the emotional demands placed on lawyers, including the risk of vicarious trauma, and examines the institutional constraints that shape the delivery of trauma‐informed ILA and ILR. While trauma‐informed lawyering can enhance complainant agency and mitigate some of the harms associated with the adversarial process, it cannot resolve systemic problems such as delays, underfunding, and marginalization. The article argues that while trauma‐informed ILA and ILR represent an important intervention, they may also risk legitimizing a criminal justice system that remains structurally flawed.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/jols.70087",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70087",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70087"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "JACQUELINE KINGHAN",
+        "JAMES CHALMERS",
+        "EAMON P. H. KEANE",
+        "FIONA LEVERICK"
+      ],
+      "crossref_online_date": "2026-11-16",
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1111/jols.70087",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/jols.70087",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70087",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70087"
+      ],
+      "requires_manual_verification": true,
+      "title": "Trauma‐informed lawyering in practice: an inverted lens on independent legal advice and representation for complainants in sexual violence cases",
+      "url": "https://doi.org/10.1111/jols.70087"
+    },
+    {
+      "abstract": "Abstract This article reconceptualizes access to justice for social welfare legal problems through a relational framework, foregrounding interactions between formal advice services, informal community organizations, and the social networks through which people navigate everyday problems. Drawing on theories of social capital and relational governance, it adapts frameworks from development studies and health systems research to examine how community relationships shape advice seeking and problem resolution. The article combines qualitative community mapping, interviews, and quantitative social network analysis within case study communities in England and Wales. The findings demonstrate that access to justice is shaped by the quality of bridging and linking relationships within communities, alongside the effectiveness of formal advice provision. While strong social networks can facilitate well‐being and access to help, they may also reinforce exclusion, misinformation, and informal gatekeeping. The article argues for a relational understanding of access to justice, recognizing the interdependence of formal institutions, informal organizations, and local social infrastructures.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/jols.70088",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70088",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70088"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "SARAH NASON",
+        "LORIEN JASNY",
+        "SARA CLOSS‐DAVIES",
+        "PETER BUTCHER"
+      ],
+      "crossref_online_date": "2026-11-16",
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1111/jols.70088",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/jols.70088",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70088",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70088"
+      ],
+      "requires_manual_verification": true,
+      "title": "Reconceptualizing access to justice for social welfare legal problems: a relational framework",
+      "url": "https://doi.org/10.1111/jols.70088"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1136/jme-2026-111979",
+        "publisher:https://jme.bmj.com/content/early/2026/11/15/jme-2026-111979.info",
+        "publisher:https://jme.bmj.com/content/early/2026/11/16/jme-2026-111979.info",
+        "openalex_doi",
+        "europepmc_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Davide Battisti"
+      ],
+      "crossref_online_date": "2026-11-16",
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1136/jme-2026-111979",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Journal of Medical Ethics",
+      "journal_id": "J067",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1136/jme-2026-111979",
+        "https://jme.bmj.com/content/early/2026/11/15/jme-2026-111979.info",
+        "https://jme.bmj.com/content/early/2026/11/16/jme-2026-111979.info"
+      ],
+      "requires_manual_verification": true,
+      "title": "Beyond parental responsibility: physicians’ duties to future patients in reproductive genome editing",
+      "url": "https://doi.org/10.1136/jme-2026-111979"
     },
     {
       "abstract": "Abstract The mechanics of claims (MOC) provides a framework for taking people’s pro tanto rights, or claims, into account and determining who has a right to do what or to get what treatment from others. It is grounded on three principles: the Autonomy Principle, the Equality Principle, and the Welfare Principle. Thomas Sinclair and Yuan Yuan argue in different ways that the Welfare Principle raises problems for the plausibility of the MOC. Sinclair highlights an important distinction between two kinds of permissions agents can have to act: clean permissions that require no justifications and carry no moral residue, and conflict permissions that require justifications and do carry a moral residue. He points out that the Welfare Principle makes it hard to see how these can be distinguished. Yuan argues that the Welfare Principle makes it seem that property rights are quite unreliable, and that the occasions for unilateral enforcement of rights are too pervasive under the MOC. In response to Sinclair, I argue that we can distinguish clean from conflict permissions by paying attention to agent claims not to have to serve the welfare of others. And in response to Yuan, I argue that property rights are actually about as reliable as they should be on the MOC, and that it does not too often allow for unilateral enforcement of rights.",
@@ -85,6 +467,76 @@
       "requires_manual_verification": true,
       "title": "Welfare’s Role in the Mechanics of Claims: Reply to Sinclair and Yuan",
       "url": "https://doi.org/10.1163/17455243-bja10196"
+    },
+    {
+      "abstract": "This project explores the roles that non-epistemic values play in the use of highly idealized models in social science contexts. Focusing on the use of bargaining models for predictions about interventions, I argue that epistemological challenges for such inferences highlight the need for inductive risk assessments: we must normatively evaluate the consequences of over-confidence and under-confidence in the relevant conclusions. However, I also show that evaluating these consequences is complex, so that inferences from these models to predictive inferences may be difficult to support. I then consider broader implications for recent research on the epistemic risks of using models.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1177/00483931261505202"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Patricia Marino"
+      ],
+      "crossref_online_date": "2026-11-16",
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1177/00483931261505202",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1177/00483931261505202"
+      ],
+      "requires_manual_verification": true,
+      "title": "Idealized Models, Counterfactual Reasoning, and Inductive Risk in Social Science Contexts: The Case of Minimal Models for Inequity",
+      "url": "https://doi.org/10.1177/00483931261505202"
+    },
+    {
+      "abstract": "As one of Houston's most famous strip clubs, Club Onyx has gained notoriety as one of the bastions of the Black South's erotic culture and hip-hop scene. By effectively capturing the commercial desire that surrounds the Black femme body on display, Club Onyx, and other erotic cities in the Black South, have long relied on strippers to promote and solidify their cultural and economic successes. Adrienne Raquel's exhibition ONYX, however, offers a critique of how observers encounter strippers, using a non-objectifying gaze she describes as the “female gaze” - an attempt to capture strippers who are dancing for themselves. “The s(trip club) got something to say!” pursues the visual vocabularies offered beneath Raquel's female gaze. The practice of Raquel's female gaze perhaps provides a way to queer how we, as scholars and admirers of Black feminist sex study, linger with, rather than merely observe, the strip club and its dancers. As a demonstration of lingering with, I sit with Raquel's silhouettes in ONYX, which draw viewers into the shadows of Houston's strip club and the aesthetic maintenance that creates sensorial and embodied intimacy among dancers.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1177/14647001261490884"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Endia Hayes"
+      ],
+      "crossref_online_date": "2026-11-16",
+      "crossref_subtype": "",
+      "date": "2026-11-16",
+      "doi": "10.1177/14647001261490884",
+      "first_seen_jst": "2026-11-17",
+      "journal": "Feminist Theory",
+      "journal_id": "J074",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1177/14647001261490884"
+      ],
+      "requires_manual_verification": true,
+      "title": "“The S(trip Club) Got Something to Say!”: Adrienne Raquel's\n                    ONYX\n                    and the female gaze",
+      "url": "https://doi.org/10.1177/14647001261490884"
     }
   ],
   "journal_total": 145,
@@ -96,15 +548,15 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 58,
+  "political_backlog_unverified_count": 59,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 0,
-  "raw_candidate_count": 2,
-  "research_candidate_abstracts_available": 1,
-  "research_candidate_abstracts_missing": 1,
+  "publisher_first_online_in_window_verified_count": 2,
+  "raw_candidate_count": 14,
+  "research_candidate_abstracts_available": 10,
+  "research_candidate_abstracts_missing": 4,
   "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 2,
+  "research_candidate_unverified_count": 14,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-16",
-  "window_start_jst": "2026-11-15"
+  "window_end_jst": "2026-11-17",
+  "window_start_jst": "2026-11-16"
 }

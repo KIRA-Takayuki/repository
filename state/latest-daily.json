@@ -1,8 +1,8 @@
 {
-  "already_introduced_count": 0,
+  "already_introduced_count": 3,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-16T23:00:10.569379+00:00",
+  "checked_at_utc": "2026-11-16T23:47:08.919445+00:00",
   "collected_on": "2026-11-17",
   "counts": {
     "checked": 135,
@@ -10,7 +10,7 @@
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 14,
+  "eligible_candidate_count": 11,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
@@ -21,7 +21,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Carl-Johan Palmqvist"
@@ -57,7 +57,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Huaping Wang"
@@ -202,7 +202,7 @@
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
+      "already_introduced": true,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
         "Adam Marushak"

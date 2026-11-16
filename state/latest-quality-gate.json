@@ -2,14 +2,14 @@
   "status": "structurally_valid_not_semantically_verified",
   "checked_on_jst": "2026-11-17",
   "raw_candidates": 14,
-  "already_introduced": 0,
-  "eligible_candidates": 14,
+  "already_introduced": 3,
+  "eligible_candidates": 11,
   "publisher_date_evidence_counts": {
-    "publisher_doi_matched": 2,
-    "crossref_published_online_only": 11,
+    "publisher_doi_matched": 0,
+    "crossref_published_online_only": 10,
     "unconfirmed": 1
   },
-  "manual_review_required_count": 12,
+  "manual_review_required_count": 11,
   "manual_review_required": [
     {
       "doi": "10.1080/13698230.2026.2763272",
@@ -30,12 +30,6 @@
       "reasons": [
         "publisher first-online date not independently verified",
         "abstract absent or suspect"
-      ]
-    },
-    {
-      "doi": "10.1093/analys/anag088",
-      "reasons": [
-        "publisher first-online date not independently verified"
       ]
     },
     {
@@ -92,7 +86,7 @@
   "errors": [],
   "warnings": [
     "4 research candidates lack abstracts",
-    "12 eligible candidates require manual semantic verification"
+    "11 eligible candidates require manual semantic verification"
   ],
   "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."
 }

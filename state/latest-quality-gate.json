@@ -1,82 +1,132 @@
 {
   "status": "structurally_valid_not_semantically_verified",
-  "checked_on_jst": "2026-11-17",
-  "raw_candidates": 14,
-  "already_introduced": 3,
-  "eligible_candidates": 11,
+  "checked_on_jst": "2026-11-18",
+  "raw_candidates": 20,
+  "already_introduced": 0,
+  "eligible_candidates": 20,
   "publisher_date_evidence_counts": {
-    "publisher_doi_matched": 0,
-    "crossref_published_online_only": 10,
-    "unconfirmed": 1
+    "publisher_doi_matched": 2,
+    "crossref_published_online_only": 18,
+    "unconfirmed": 0
   },
-  "manual_review_required_count": 11,
+  "manual_review_required_count": 18,
   "manual_review_required": [
     {
-      "doi": "10.1080/13698230.2026.2763272",
+      "doi": "10.1080/1535685x.2026.2709985",
       "reasons": [
         "publisher first-online date not independently verified",
         "abstract absent or suspect"
       ]
     },
     {
-      "doi": "10.1080/13698230.2026.2763277",
+      "doi": "10.1080/1535685x.2026.2740974",
       "reasons": [
         "publisher first-online date not independently verified",
         "abstract absent or suspect"
       ]
     },
     {
-      "doi": "10.1080/13698230.2026.2763278",
+      "doi": "10.1080/1535685x.2026.2740977",
       "reasons": [
         "publisher first-online date not independently verified",
         "abstract absent or suspect"
       ]
     },
     {
-      "doi": "10.1111/ejop.70132",
-      "reasons": [
-        "publisher first-online date not independently verified"
-      ]
-    },
-    {
-      "doi": "10.1111/jols.70086",
-      "reasons": [
-        "publisher first-online date not independently verified"
-      ]
-    },
-    {
-      "doi": "10.1111/jols.70087",
-      "reasons": [
-        "publisher first-online date not independently verified"
-      ]
-    },
-    {
-      "doi": "10.1111/jols.70088",
-      "reasons": [
-        "publisher first-online date not independently verified"
-      ]
-    },
-    {
-      "doi": "10.1136/jme-2026-111979",
+      "doi": "10.1080/1535685x.2026.2740978",
       "reasons": [
         "publisher first-online date not independently verified",
         "abstract absent or suspect"
       ]
     },
     {
-      "doi": "10.1163/17455243-bja10196",
+      "doi": "10.1093/ajj/auag025",
       "reasons": [
         "publisher first-online date not independently verified"
       ]
     },
     {
-      "doi": "10.1177/00483931261505202",
+      "doi": "10.1093/mind/fzag057",
       "reasons": [
         "publisher first-online date not independently verified"
       ]
     },
     {
-      "doi": "10.1177/14647001261490884",
+      "doi": "10.1093/pq/pqag086",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1093/pq/pqag088",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1111/bioe.70213",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1111/bioe.70217",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1136/jme-2026-112291",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1136/jme-2026-112391",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1136/jme-2026-112656",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1136/jme-2026-112666",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1136/jme-2026-112674",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1136/jme-2026-112677",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1136/jme-2026-112807",
+      "reasons": [
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1177/14647001261507558",
       "reasons": [
         "publisher first-online date not independently verified"
       ]
@@ -85,8 +135,8 @@
   "ready_for_automatic_formal_introduction": false,
   "errors": [],
   "warnings": [
-    "4 research candidates lack abstracts",
-    "11 eligible candidates require manual semantic verification"
+    "12 research candidates lack abstracts",
+    "18 eligible candidates require manual semantic verification"
   ],
   "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."
 }

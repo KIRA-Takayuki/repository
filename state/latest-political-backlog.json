@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-11-17T22:54:40.198925+00:00",
-  "collected_on": "2026-11-18",
-  "count": 59,
+  "checked_at_utc": "2026-11-18T22:38:37.863706+00:00",
+  "collected_on": "2026-11-19",
+  "count": 68,
   "items": [
     {
       "crossref_candidate_date": "2026-10-05",
@@ -380,6 +380,62 @@
       "title": "Traditions and Perspectives"
     },
     {
+      "crossref_candidate_date": "2026-11-01",
+      "doi": "10.53765/20512988.47.3.393",
+      "first_seen_jst": "2026-11-19",
+      "journal_id": "J047",
+      "status": "unverified_not_introduced",
+      "title": "Aristotle's Persian Monarchy, Between Plato and Xenophon"
+    },
+    {
+      "crossref_candidate_date": "2026-11-01",
+      "doi": "10.53765/20512988.47.3.416",
+      "first_seen_jst": "2026-11-19",
+      "journal_id": "J047",
+      "status": "unverified_not_introduced",
+      "title": "'The Archtyrant of the Earth': Papal Monarchy and Political Tyranny in English Protestant Thought, Ca. 1530 – 1645"
+    },
+    {
+      "crossref_candidate_date": "2026-11-01",
+      "doi": "10.53765/20512988.47.3.459",
+      "first_seen_jst": "2026-11-19",
+      "journal_id": "J047",
+      "status": "unverified_not_introduced",
+      "title": "The Epistemology of Alexander Hamilton"
+    },
+    {
+      "crossref_candidate_date": "2026-11-01",
+      "doi": "10.53765/20512988.47.3.479",
+      "first_seen_jst": "2026-11-19",
+      "journal_id": "J047",
+      "status": "unverified_not_introduced",
+      "title": "'All Wickedness Comes from Weakness': Rousseau on the Origin of Evil"
+    },
+    {
+      "crossref_candidate_date": "2026-11-01",
+      "doi": "10.53765/20512988.47.3.502",
+      "first_seen_jst": "2026-11-19",
+      "journal_id": "J047",
+      "status": "unverified_not_introduced",
+      "title": "Polis\n                    to Parliament: John Stuart Mill's Educative Model of Representation"
+    },
+    {
+      "crossref_candidate_date": "2026-11-01",
+      "doi": "10.53765/20512988.47.3.530",
+      "first_seen_jst": "2026-11-19",
+      "journal_id": "J047",
+      "status": "unverified_not_introduced",
+      "title": "'Fictitious Capital', Bills of Exchange, and Marx's Missing Analysis of Bank Capital"
+    },
+    {
+      "crossref_candidate_date": "2026-11-01",
+      "doi": "10.53765/20512988.47.3.560",
+      "first_seen_jst": "2026-11-19",
+      "journal_id": "J047",
+      "status": "unverified_not_introduced",
+      "title": "'The Most Fateful People in the History of The World' : Rethinking the Conception of Jews and Judaism in Nietzsche"
+    },
+    {
       "crossref_candidate_date": "2026-11-06",
       "doi": "10.1163/17455243-bja10234",
       "first_seen_jst": "2026-11-07",
@@ -474,6 +530,22 @@
       "journal_id": "J070",
       "status": "unverified_not_introduced",
       "title": "Welfare’s Role in the Mechanics of Claims: Reply to Sinclair and Yuan"
+    },
+    {
+      "crossref_candidate_date": "2026-11-17",
+      "doi": "10.1080/13698230.2026.2763276",
+      "first_seen_jst": "2026-11-19",
+      "journal_id": "J038",
+      "status": "unverified_not_introduced",
+      "title": "Liberal nationalism and the protection of majority cultures"
+    },
+    {
+      "crossref_candidate_date": "2026-11-17",
+      "doi": "10.1111/papa.70038",
+      "first_seen_jst": "2026-11-19",
+      "journal_id": "J026",
+      "status": "unverified_not_introduced",
+      "title": "Ignorance and Indifference of the Deaths of (Select) Others"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

@@ -1,48 +1,8 @@
 {
-  "checked_at_utc": "2026-11-18T22:38:37.863706+00:00",
-  "collected_on": "2026-11-19",
-  "count": 68,
+  "checked_at_utc": "2026-11-19T22:42:09.191259+00:00",
+  "collected_on": "2026-11-20",
+  "count": 64,
   "items": [
-    {
-      "crossref_candidate_date": "2026-10-05",
-      "doi": "10.1080/13698230.2026.2738108",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J038",
-      "status": "unverified_not_introduced",
-      "title": "Unequal language recognition reconsidered: voluntary migration, expectation interest, and recent challenges"
-    },
-    {
-      "crossref_candidate_date": "2026-10-05",
-      "doi": "10.1163/17455243-bja10216",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "Justice for Animals: Our Collective Responsibility, written by Nussbaum, Martha"
-    },
-    {
-      "crossref_candidate_date": "2026-10-05",
-      "doi": "10.1163/17455243-bja10217",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "The Ethics of Humanitarian Intervention: An Introduction, written by Jonathan Parry"
-    },
-    {
-      "crossref_candidate_date": "2026-10-05",
-      "doi": "10.1163/17455243-bja10218",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "How to Pool Risks Across Generations: The Case for Collective Pensions, written by Michael Otsuka"
-    },
-    {
-      "crossref_candidate_date": "2026-10-05",
-      "doi": "10.1163/17455243-bja10227",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "The Examined Run: Why Good People Make Better Runners, written by Sabrina B. Little"
-    },
     {
       "crossref_candidate_date": "2026-10-06",
       "doi": "10.1163/17455243-bja10222",
@@ -546,6 +506,14 @@
       "journal_id": "J026",
       "status": "unverified_not_introduced",
       "title": "Ignorance and Indifference of the Deaths of (Select) Others"
+    },
+    {
+      "crossref_candidate_date": "2026-11-18",
+      "doi": "10.1111/josp.70074",
+      "first_seen_jst": "2026-11-20",
+      "journal_id": "J035",
+      "status": "unverified_not_introduced",
+      "title": "Doing It for the Plot"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

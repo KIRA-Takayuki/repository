@@ -1,363 +1,6 @@
 {
-  "collected_on": "2026-11-19",
+  "collected_on": "2026-11-20",
   "items": [
-    {
-      "abstract": "Abstract The audit expectation gap exists and persists due to changing “…social, economic, and political developments of the time.” (Sikka, et al., 1998) Like stakeholders’ demands for and the profession’s response to fraud detection in the 2000s, investors are increasingly interested in C-suite employees’ and entity’s illegal acts, finding them both relevant and material (Cline, Walkling & Yore, 2018). This study identifies a gap between auditors’ and investors’ relevance and materiality judgments of a CEO’s illegal act. Varying role (auditor vs. investor) and using experience as a control (audit vs no audit), results show that non-auditor investors rate a CEO’s illegal act as significantly more relevant and material than do auditors placed in either role, while auditors in an investor role find a CEO’s illegal act significantly more material than auditors in an auditor role. Qualitative comments indicate that investors see managers’ personal misconduct as indicative of their lack of personal integrity and lose trust in them across personal to work situations. Auditors do not make the same connection. Our findings highlight challenges for the audit profession in meeting investors’ expectations in the context of managers’ illegal acts.",
-      "authors": [
-        "Eileen Z. Taylor",
-        "Nicole S. Wright"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1007/s10551-026-06477-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "The Relevance and Materiality of Illegal Acts: Examining Auditor and Investor Judgments",
-      "url": "https://doi.org/10.1007/s10551-026-06477-4"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Anne-Karen Hueske",
-        "Kai Hockerts"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1007/s10551-026-06480-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "Ethical Foundations of Social Entrepreneurship Competencies: A Systematic Review and Integrative Framework",
-      "url": "https://doi.org/10.1007/s10551-026-06480-9"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ben Middleton"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1007/s11098-026-02616-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "A new double prevention model of dualist interaction",
-      "url": "https://doi.org/10.1007/s11098-026-02616-9"
-    },
-    {
-      "abstract": "Abstract Research on the position of intersex persons within the international refugee law system is extremely limited. Intersex persons are commonly grouped with LGBT+ issues within policy guidance, but little attention has been given to the specificity of intersex children’s needs. This Article aims to develop an approach to intersex refugee law from the perspective of children’s rights and health law. To do so, it will largely focus on the ways in which the current refugee law framework should be used to provide effective protection to intersex children, particularly when accompanied by their parents or legal guardians to flee harmful practices. Such research will rely on the work of the Committee on the Rights of the Child and other UN bodies which have slowly centered intersex issues in their works. Altogether, this Article aims to provide an overview of the current situation of intersex children seeking asylum, as well as avenues for developing better practices.",
-      "authors": [
-        "Elias Tissandier-Nasom"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1017/glj.2026.10237",
-      "first_seen_jst": "2026-10-21",
-      "journal": "German Law Journal",
-      "journal_id": "J126",
-      "origin": "crossref",
-      "title": "Protecting the Rights and Health of Intersex Children Seeking Asylum: A Child Rights Approach to Qualification as a Refugee for Intersex Children",
-      "url": "https://doi.org/10.1017/glj.2026.10237"
-    },
-    {
-      "abstract": "Abstract The 2024–2026 reform of the EU return procedure constitutes the most far–reaching transformation of the European return acquis since the adoption of the key instrument governing returns—Directive 2008/115/EC. This Article critically assesses the impact of the reform on the EU return acquis and more generally on the migration regulatory framework. First, it introduces the concept of “exceptionalized pluralism” to describe the defining structural feature of the reform: the multiplication of derogatory return tracks—at external and internal EU borders and extraterritorially—that systematically displace the procedural safeguards constitutionalized by the Court of Justice of the European Union (CJEU), progressively relegating the common return procedure from norm to residual exception. Second, it argues that this architecture raises constitutional concerns on four interconnected fronts: the codification of numerous accelerated border transfer procedures institutionalizing harmonization as the coordination of coercion rather than the harmonization of rights; the European Return Order reproducing the structural accountability gaps of the Dublin system; the systematic expansion of pre-removal detention recalibrating the constitutional relationship between the right to liberty and executive power beyond what Article 6 of the Charter of Fundamental Rights of the EU (CFR) and the CJEU permit; and the formalization of return externalization through “return hubs” raising rule of law and accountability issues. In conclusion, the Article argues that the legitimacy of the emerging European return system will depend not on its operational speed or uniformity, but on whether enforcement harmonization is matched by concrete implementation of Charter-based safeguards. Moreover, it warns that, absent such implementation, “exceptionalized pluralism” will continue to operate as a self-reinforcing regulatory logic, expanding its derogatory tracks and leaving courts to fulfill, under conditions of mounting institutional pressure, a constitutional function that the legislative design has failed to assume.",
-      "authors": [
-        "Madalina Bianca Moraru"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1017/glj.2026.10239",
-      "first_seen_jst": "2026-10-21",
-      "journal": "German Law Journal",
-      "journal_id": "J126",
-      "origin": "crossref",
-      "title": "Reforming the EU Return Acquis through “Exceptionalized Pluralism”: From Internal Borders to Offshore Enforcement",
-      "url": "https://doi.org/10.1017/glj.2026.10239"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Maria Tzanakopoulou"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1017/s1744552326100664",
-      "first_seen_jst": "2026-10-21",
-      "journal": "International Journal of Law in Context",
-      "journal_id": "J125",
-      "origin": "crossref",
-      "title": "The Other End of the Needle: Continuity and Change Among Tattoo Workers - By David C. Lane, New Brunswick, Camden and Newark, New Jersey, and London: Rutgers University Press, 2021. 224 pp.",
-      "url": "https://doi.org/10.1017/s1744552326100664"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Zeynep Pamuk",
-        "Lisa Herzog",
-        "Alfred Moore",
-        "Mark B. Brown",
-        "Cathrine Holst"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1057/s41296-026-00853-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Contemporary Political Theory",
-      "journal_id": "J048",
-      "origin": "crossref",
-      "title": "Universities, science, and politics",
-      "url": "https://doi.org/10.1057/s41296-026-00853-5"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Runan Jin"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1080/13698230.2026.2738108",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Critical Review of International Social and Political Philosophy",
-      "journal_id": "J038",
-      "origin": "crossref",
-      "title": "Unequal language recognition reconsidered: voluntary migration, expectation interest, and recent challenges",
-      "url": "https://doi.org/10.1080/13698230.2026.2738108"
-    },
-    {
-      "abstract": "Abstract This essay examines, both philosophically and historically, two competing accounts of rights with their derivative and competing accounts of women’s rights: the early modern account and the natural law account. The decades-long triumph of a distinctively early modern account of the rights of women rests on a mythic image of the self-sufficient and self-owning individual theorized in the work of John Locke. A natural law account of women’s rights—put forth by Mary Wollstonecraft and the early women’s rights advocates of the mid-nineteenth century—draws from a deeper philosophical well and better connects rights with responsibilities. The differences between these two frameworks are briefly laid bare in their distinctive treatment of abortion. Finally, given the central place of morally formative education in the natural law account, I conclude the essay by applying the natural law framework I’ve developed to single-sex education vis-à-vis antidiscrimination law. In particular, I revisit the argumentation and outcome in United States v. Virginia, the 1996 case that opened the doors of a historically all-male state military academy to women, posing a counterfactual set of facts and arguments in which the academy might justly have remained single-sex.",
-      "authors": [
-        "Erika Bachiochi"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1093/ajj/auag022",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Jurisprudence",
-      "journal_id": "J007",
-      "origin": "crossref",
-      "title": "The Rights of Women: How the Natural Law Tradition Provides a More Humane Rationale",
-      "url": "https://doi.org/10.1093/ajj/auag022"
-    },
-    {
-      "abstract": "Abstract The natural law tradition has experienced a dramatic revival in Anglo-American thought since the publication of John Finnis’s groundbreaking Natural Law and Natural Rights in 1980. One of the most important current debates in the tradition is over the role(s) of first-order practical reasoning in ascertaining the law’s meaning. Some scholars have argued for a robust place for practical reason in ascertaining the law. There are a variety of other positions articulated by scholars. One particularly important manifestation of this debate is in the context of interpretation of the United States Constitution. This article makes three key moves within this debate. First, it describes how originalism’s own theoretical evolution, coupled with the revival of natural law in the Anglo-American world, allowed for a rapprochement between the two. Second, it argues that originalism, best understood, has a modest place for interpreter practical reason, and that this is a determinatio of the American constitutional system. Third, it articulates four reasons that support originalism’s economical use of interpreter practical reason. To the extent my argument is successful, it provides an example of a successful, mature legal system that employs interpreter practical reason moderately.",
-      "authors": [
-        "Lee J Strang"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1093/ajj/auag023",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Jurisprudence",
-      "journal_id": "J007",
-      "origin": "crossref",
-      "title": "The Modest Place of Practical Reason within Originalism",
-      "url": "https://doi.org/10.1093/ajj/auag023"
-    },
-    {
-      "abstract": "Abstract This article revisits the 1987 decision of the French Conseil constitutionnel (Constitutional Council) that conferred constitutional status on the jurisdiction of the administrative courts, framing it not as a straightforward defense of legal tradition but as a strategic response to neoliberal reforms. Drawing on previously unexamined archival materials from the Conseil d’État and the Conseil constitutionnel, it reconstructs the legal and political struggles surrounding the creation of a new competition authority and the decision to entrust judicial review of its actions to the civil rather than the administrative courts. Although the decision appeared to resist neoliberal reforms, it in fact reveals how the Conseil d’État successfully repurposed constitutional law to preserve its institutional authority amid growing criticism of the administrative state. The case illustrates how constitutional principles in France may emerge not from textual mandates or enduring legal doctrine but from tactical institutional positioning. It also sheds light on why France has experienced a more ambivalent form of neoliberalization, with state institutions such as the Conseil d’État adapting and even expanding their influence in the face of market-driven reforms.",
-      "authors": [
-        "Thomas Perroud"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1093/icon/moag101",
-      "first_seen_jst": "2026-10-21",
-      "journal": "International Journal of Constitutional Law",
-      "journal_id": "J124",
-      "origin": "crossref",
-      "title": "Constitutional law, neoliberalism, and the state: The reinvention of administrative justice in 1980s France",
-      "url": "https://doi.org/10.1093/icon/moag101"
-    },
-    {
-      "abstract": "ABSTRACT Tiredness is taken seriously in healthcare where clinicians are concerned since good decisions require the ability to think clearly. The impact of patient tiredness is neglected. This is surprising, as there are healthcare contexts, like maternity care, where tiredness is nearly ubiquitous. Empirical research into sleep deprivation suggests that tiredness undermines substantially our abilities to understand and reason about potential choices. Since these abilities are necessary components of having capacity, tired patients may lack capacity in moments when important choices have to be made, for example a late intervention in active labour. I defend this argument. Tiredness can sometimes impair capacity and so justifies testing for capacity in some cases. Taking tiredness seriously and assessing it in practice is not paternalistic. Indeed, I argue that recognising the impact of tiredness, while failing to act on that fact, constitutes ‘dependency denial’ which harms women in maternity care.",
-      "authors": [
-        "Luke Brunning"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1111/bioe.70199",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "Tiredness and the Capacity to Decide: The Example of Maternity Care",
-      "url": "https://doi.org/10.1111/bioe.70199"
-    },
-    {
-      "abstract": "Genome-wide sequencing (GWS) has become an important tool in paediatric medicine, but it may uncover secondary findings (SFs) through opportunistic screening. The disclosure of adult-onset SFs in children, who cannot consent, raises ethical concerns regarding potential psychosocial harm and future autonomy. This paper examines whether parents should have the option to consent to opportunistic screening for actionable adult-onset conditions in their young children. Although there is consensus on disclosing actionable childhood-onset conditions, international guidelines remain divided on the return of adult-onset findings in paediatric populations. Drawing on existing literature, this paper argues for greater consensus around a risk-benefit framework centred on medical actionability. Emerging evidence suggests that the psychological harms associated with predictive testing may be less severe than previously assumed, while actionable findings may provide meaningful benefits to both the child and family. This paper further argues that upholding parental authority through shared decision-making and the concept of family benefit further supports offering parents the option to receive actionable adult-onset findings. In contrast, the disclosure of non-actionable adult-onset conditions is more difficult to justify given the absence of meaningful clinical benefit. In the absence of clear evidence of harm, a more family-centred approach that incorporates pretest counselling and ongoing support offers a practical framework for moving towards greater consensus on this long-debated issue.",
-      "authors": [
-        "Emily Wheeler",
-        "Wayne Shelton",
-        "Gina Geis"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1136/jme-2026-111946",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "Ethics of opportunistic genomic screening in paediatrics: rethinking the risk-benefit ratio",
-      "url": "https://doi.org/10.1136/jme-2026-111946"
-    },
-    {
-      "abstract": "Alasdair MacIntyre’s (1929–2025) work in moral philosophy was wide-ranging, erudite and controversial. Following his death in 2025, it is appropriate to reappraise the relevance of his work to bioethics. MacIntyre’s analysis may helpfully be divided into his ‘critical project’, which criticises modern moral philosophy and reveals and explains its shortcomings, several of which arguably affect bioethics; and his ‘constructive project’, which sets out MacIntyre’s version of neo-Aristotelian virtue ethics. We summarise these ‘projects’ and how they have been used within bioethics. Our claim is that there is still significant untapped potential for work in medical ethics/bioethics inspired by MacIntyre. We propose further uses of MacIntyre under the five headings critical, diagnostic, revisionist, normative and hermeneutic. The article ends with a brief reflection on the merits and limits of a MacIntyrean bioethics.",
-      "authors": [
-        "Morten Magelssen",
-        "Søren Holm",
-        "Eilev Hegstad",
-        "Skylar Christoffersen"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1136/jme-2026-112142",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "MacIntyrean bioethics: reappraisal and outline of a research programme",
-      "url": "https://doi.org/10.1136/jme-2026-112142"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Ryan Kulesa"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1163/17455243-bja10216",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Justice for Animals: Our Collective Responsibility, written by Nussbaum, Martha",
-      "url": "https://doi.org/10.1163/17455243-bja10216"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Linda Eggert"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1163/17455243-bja10217",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "The Ethics of Humanitarian Intervention: An Introduction, written by Jonathan Parry",
-      "url": "https://doi.org/10.1163/17455243-bja10217"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Kevin Hartmann-Cortés",
-        "Manuel Sá Valente"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1163/17455243-bja10218",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "How to Pool Risks Across Generations: The Case for Collective Pensions, written by Michael Otsuka",
-      "url": "https://doi.org/10.1163/17455243-bja10218"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Erik A. Anderson"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.1163/17455243-bja10227",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "The Examined Run: Why Good People Make Better Runners, written by Sabrina B. Little",
-      "url": "https://doi.org/10.1163/17455243-bja10227"
-    },
-    {
-      "abstract": "All Humeans hold, roughly, that laws are informative summaries of non-lawful matters of fact. Pragmatic Humeans go further: for them, what makes these summaries the laws is their usefulness to agents like us. By adding elements of our specific epistemic interests and constraints, pragmatists contend, we can arrive at satisfying explanations of otherwise surprising features of our actual laws and our actual scientific practice. But the pragmatic shift is not without problems. The more elements of our particular psychology we add to our nomic formula, the more susceptible we are to idealistic ratbaggery. Intuitively, what can or must happen does not depend on our particular cognitive architecture: we cannot change the laws by changing us. But if laws are distinguished from accidents by features of our psychology, then changes in our psychology might lead to differences in what the laws of nature allow. My aim here is to clarify the role of pragmatic constraints, and thereby respond to this challenge from creeping idealism. My strategy has two parts. First, I argue that pragmatic constraints determine the laws only indirectly, by generating a nomic formula that itself makes no reference to agents. Second, I discuss what sorts of agents are agents like us. I argue that pragmatists should appeal to a particular sort of idealized agent, one whose specific limitations and interests have been idealized away.",
-      "authors": [
-        "Michael Townsen Hicks"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.3998/phimp.2968",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophers' Imprint",
-      "journal_id": "J106",
-      "origin": "crossref",
-      "title": "A Practitioner's Guide to Pragmatic Humeanism",
-      "url": "https://doi.org/10.3998/phimp.2968"
-    },
-    {
-      "abstract": "There is a general impression among Kant scholars that Kant has no robust theory of work. Most of his references to the topic appear in his historical and anthropological writings, where he tells us that work is burdensome, and valuable only for the sake of whatever we produce. In this paper, I argue that Kant has an under-explored theory of work in the third Critique. This theory bears little resemblance to his depiction of work in the historical and anthropological writings. The third Critique will depict work as self-expressive, creative, and free, features Kant will go on to associate with art. Kant's contention is that when work resembles art, it is both agreeable and something we enjoy for its own sake. However, when work fails to resemble art – when it is, in Kant's words, natural, scientific, and mercenary – it is both disagreeable and constrained, and begins to sound like his description of work from the historical and anthropological writings. Kant's theory of work in the third Critique has a number of important implications. The first is that it provides a new foundation for a contemporary philosophy of work that places freedom and creativity at the center of the labor process. My analysis also engages a part of Kant scholarship that has, until recently, been largely neglected. It is only in the last decade that the English-language Kant literature has taken up the question of how to make sense of Kant's remarks about work. However, the focus is rarely on Kant's aesthetic theory of work, but rather on the place of work in his moral and political philosophy. I discuss the implications of Kant's third Critique theory of work for these other debates, as well as for our understanding of the third Critique as a whole.",
-      "authors": [
-        "Tyler Colby Re"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.3998/phimp.5822",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophers' Imprint",
-      "journal_id": "J106",
-      "origin": "crossref",
-      "title": "The Art of Work in Kant’s Critique of Judgment",
-      "url": "https://doi.org/10.3998/phimp.5822"
-    },
-    {
-      "abstract": "We often have a visceral negative reaction to the prospect of AI taking over our creative activities or being used to demonstrate care and concern. What justifies this reaction? In this paper, I argue that AI raises two existential threats to our valuing practices. The first existential threat is forward-looking—when we offload our labor onto AI, we risk flattening our valuing landscape, turning activities and products that could have once been valued for the meaningful processes that resulted in their creation into things that can only be valued for their functionality. The second threat is backward-looking—AI forces us to reckon with the valuing discord that already exists in our lives. When we see that other people don’t care about whether the art or writing they’re consuming is AI-produced, we must reckon with the fact that they never shared in our valuing practices.",
-      "authors": [
-        "Jordan MacKenzie"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.3998/phimp.7153",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophers' Imprint",
-      "journal_id": "J106",
-      "origin": "crossref",
-      "title": "Fear and Loathing in Silicon Valley: Does AI Threaten our Valuing Practices?",
-      "url": "https://doi.org/10.3998/phimp.7153"
-    },
-    {
-      "abstract": "Berkeley defends idealism partly by taking ordinary objects such as tables and stones to consist of ideas. Materialists reject this account of ordinary objects. I argue that Berkeley can undermine this rejection by making quasi-realist moves of the kind that many expressivists about normativity make. This ultimately results in a version of idealism that we cannot believe, since trying to believe it will make us believe materialism. But I argue that this version of idealism may nevertheless be true.",
-      "authors": [
-        "Bart Streumer"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.3998/phimp.7876",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophers' Imprint",
-      "journal_id": "J106",
-      "origin": "crossref",
-      "title": "How Berkeley Can Go Quasi and Lose His Mind-Dependence",
-      "url": "https://doi.org/10.3998/phimp.7876"
-    },
-    {
-      "abstract": "What happens to a mind that embraces skepticism? On familiar classical and contemporary accounts, it suspends judgment about the matters skepticism calls into question. For Hume, such suspension can occur only temporarily. He claims that skepticism's more enduring effect is weaker: it lowers the vivacity of, and thus our confidence in, beliefs, typically leaving commonplace ones intact. Hume's associationism offers at least two explanatory mechanisms for this effect, one doxastic and one emotional. In the doxastic mechanism, causal reasoning about our failures in reasoning decreases the vivacity of beliefs formed through reasoning. In the emotional mechanism, appreciating our cognitive failures diminishes certain passions, and with them the vivacity of beliefs otherwise augmented by those passions, especially pride. Understanding these mechanisms not only resolves exegetical puzzles about Hume's apparently flippant attitudes toward skepticism, but also provides a psychologically rich picture of how minds might self-correct without exaggeration.",
-      "authors": [
-        "Charles Goldhaber"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-05",
-      "doi": "10.3998/phimp.9316",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophers' Imprint",
-      "journal_id": "J106",
-      "origin": "crossref",
-      "title": "Mechanisms for Hume's Skepticism",
-      "url": "https://doi.org/10.3998/phimp.9316"
-    },
     {
       "abstract": "",
       "authors": [
@@ -12667,6 +12310,51 @@
       "url": "https://doi.org/10.1093/monist/onag028"
     },
     {
+      "abstract": "ABSTRACT The decolonial category of exteriority indexes communities in which people think, act, and feel “otherwise” to Western capitalist modernity. Recent proposals to decolonize critical theory have recognized the methodological importance of theorizing from exteriorities as sites of exclusion. In this article, I evaluate exteriority and, specifically, whether this idea ignores the realities of capitalist globalization. After explaining the role that exteriority plays in analectical critique, which is proposed as a non‐Eurocentric alternative to critical theory's dialectical methods, I assess two versions of the concern that decolonial criticism romanticizes and distorts social reality. The Marxian objection asserts the implausibility of existing “outside” the global capitalist totality. The poststructuralist objection challenges the essentialist and reifying conceptions of culture thought to undergird claims of exteriority. In response to both, I build on existing decolonial accounts, especially the work of Enrique Dussel, to articulate a viable conception of exteriority and thus of analectics.",
+      "authors": [
+        "Patricia Cipollitti Rodríguez"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-18",
+      "doi": "10.1111/1467-8675.70086",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Constellations",
+      "journal_id": "J049",
+      "origin": "crossref",
+      "title": "Evaluating the Decolonial Category of “Exteriority”: Reconsidering Globalization",
+      "url": "https://doi.org/10.1111/1467-8675.70086"
+    },
+    {
+      "abstract": "ABSTRACT Populist resentment is ostensibly rooted in elite misrecognition of the virtues of the ordinary people. This suggests a relatively benign view of populist recognition struggle. This paper suggests an alternative, more complex, reading, focusing on the dimension of normative authority always present in recognition claims. This suggests that populist resentment is primarily rooted in claims to superior social status and authority. Populist recognition struggles have two important dimensions—remedying a recognition deficit by constituting themselves as the “real people” and simultaneously defying the authority of the liberal elite. Finally, the normative authority view traces the well‐known insecurity of populists to the self‐defeating character of their assertion of the unlimited authority of the will of the people.",
+      "authors": [
+        "Cillian McBride"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-18",
+      "doi": "10.1111/1467-8675.70095",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Constellations",
+      "journal_id": "J049",
+      "origin": "crossref",
+      "title": "Populism and Recognition",
+      "url": "https://doi.org/10.1111/1467-8675.70095"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Luigi Lonardo"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-18",
+      "doi": "10.1111/1468-2230.70086",
+      "first_seen_jst": "2026-11-20",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "DanielNaurin, UrškaŠadl and JanZglinski, Empirical Legal Studies in EU Law, Cambridge, Cambridge University Press, 2026, hb, 436pp, £115.00",
+      "url": "https://doi.org/10.1111/1468-2230.70086"
+    },
+    {
       "abstract": "ABSTRACT Standard models of reproductive autonomy presuppose a singular and bounded subject. This paper challenges that assumption by analysing the limit case of dicephalus parapagus conjoined twins where two distinct persons share a single reproductive system. I argue that this physiological configuration creates an ontological indeterminacy that biological essentialism cannot resolve. Drawing on a previous constructivist framework of reproduction, I demonstrate that when gestation is a shared biological event but personhood is distinct, the designation of “mother” cannot be discovered in the tissue but must be acknowledged through intention. The analysis proceeds to examine the severe ethical conflict arising when one twin wishes to reproduce while the other does not. I contend that prioritizing the reproductive desire of one sister over the refusal of the other constitutes a violation of bodily integrity analogous to involuntary gestational surrogacy. Consequently, I argue that in shared bodies, the non‐reproducing person must hold an absolute power of veto. This aligns with established bioethical precedents, such as those discussed by Robertson, where the right to avoid involuntary biological parenthood is often held to supersede a former partner's desire to gestate shared embryos. Finally, this paper posits that the principles derived from this extreme case offer a necessary heuristic for broader bioethical issues. The example of conjoined twins validates the distributed maternity of Reciprocal IVF in lesbian couples while simultaneously reinforcing the protections against coercive surrogacy. By deconstructing the most extreme form of shared biology, this paper offers an exploration of a case of fragmented maternity and its implications.",
       "authors": [
         "Adrian Villalba"
@@ -12697,6 +12385,36 @@
       "url": "https://doi.org/10.1111/jols.70091"
     },
     {
+      "abstract": "ABSTRACT The phrase “Do it for the plot” was recently coined by the actress and influencer Serena Kerrigan in a viral TikTok video where she urged viewers to remember that “if something works out, great, and if it doesn't, it's for the plot.” She explained that: “Do it for the plot” is an extension of the idea of being the main character of one's life (…). I think that people just get pretty upset when things don't go their way, or they are embarrassed if they got drunk one night and I'm like “its for the plot (…).” In this paper, I take Kerrigan's suggestion seriously and explore it as an idea worthy of philosophical investigation. In doing so, I examine a category of actions and conducts that has been overlooked by philosophers, as well as the reasons we might have for performing them. I argue that we have compelling reasons to sometimes “do it for the plot,” and that they are best understood as esthetic reasons supporting actions with final esthetic value. In the second half of the paper, I also show how doing it for the plot can enhance our well‐being by making our life's stories better stories.",
+      "authors": [
+        "Agnès Baehni"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-18",
+      "doi": "10.1111/josp.70074",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Journal of Social Philosophy",
+      "journal_id": "J035",
+      "origin": "crossref",
+      "title": "Doing It for the Plot",
+      "url": "https://doi.org/10.1111/josp.70074"
+    },
+    {
+      "abstract": "ABSTRACT Is it possible to imagine a digital ecological democracy? There are reasons it may not be. Chief among them is the environmental unsustainability of the existing digital transition. Despite this, green political theory (ecologism) cannot dismiss digitalisation: the current digital trajectory is not inevitable and its possibilities bear on the theory's central commitments. This article asks what digitalisation means for green political theory by examining its implications for the debate over ecological democracy. It contrasts the deliberative model advanced by Eckersley with the radical democratic alternatives proposed by Machin and Lepori, arguing that digitalisation exacerbates the weaknesses of the latter while offering, in reimagined form, resources for the former. In particular, Landemore's model of digital deliberative democracy is explored as a means of addressing the practical constraints that have long beset ecological deliberative theory. Digitalisation thus alters the balance of argument in ecologism. The article concludes that while digitalisation, as it stands, is neither democratic nor ecological, reconfigured forms of digitalisation may become normatively compelling within ecologism insofar as they make ecological democratic commitments more practicable. This capacity to reshape the terms of debate within green political theory warrants wider inquiry into digitalisation's implications across ecologism.",
+      "authors": [
+        "Michael Keary"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-18",
+      "doi": "10.1111/theo.70130",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Theoria",
+      "journal_id": "J094",
+      "origin": "crossref",
+      "title": "Ecological Digital Democracy: Digitalisation and the Contestation of Ecological Democracy",
+      "url": "https://doi.org/10.1111/theo.70130"
+    },
+    {
       "abstract": "ABSTRACT This paper explains, from a broadly evolutionary perspective, why the category of knowledge is central to intelligent life, since the adaptive value of having a mind in the first place is to enable animals to adjust their actions flexibly and appropriately to a complex and rapidly changing environment, which in turn requires them to know what is going on in their environment. This is often a matter of life or death. Acting on knowledge is more adaptive than acting on belief. An intermediate hypothesis is that what matters is acting on true belief. This watering down loses explanatory value, although the category of belief can be understood in terms of the category of knowledge. The paper then turns from the priority of knowledge over belief to the priority of cognising in terms of knowledge over cognising in terms of belief. Many non‐human animals and very small children implicitly distinguish between what others know and what they don't know, but can't distinguish between what others believe and what they don't believe. This asymmetry is the opposite of what many epistemologists and other philosophers had assumed. It can be explained by considerations of efficiency, feasibility and heuristics in the psychological task of mindreading, in particular by an ‘open world’ default. (An application is made to the problematic role of common knowledge assumptions in some social scientific explanations.) Gettier cases of justified true belief without knowledge are often thought to show that the category of knowledge must be tricky and sophisticated. On the contrary, it is explained how very simple heuristics usable even by monkeys enable what epistemologists call Gettier cases to be recognised as cases of non‐knowledge.",
       "authors": [
         "Timothy Williamson"
@@ -12710,6 +12428,21 @@
       "origin": "crossref",
       "title": "Why Knowledge Is First",
       "url": "https://doi.org/10.1111/theo.70133"
+    },
+    {
+      "abstract": "ABSTRACT This paper argues that Spinoza's definition of causa sui at the opening of the Ethics is a deliberate rejection of creationism. While most interpretations focus on whether causa sui expresses formal or efficient causation, they overlook the theological force of Spinoza's opening move. I suggest that the first definition—‘that whose essence involves existence’—mirrors and inverts Genesis 1:1, where Scripture begins with divine creation; Spinoza begins with self‐causation, replacing will and temporal beginning with necessity and eternity. Tracing the role of causa sui through Part I of the Ethics and culminating in the Appendix, I show that Spinoza systematically eliminates the conceptual basis of creation. If God is self‐caused, divine causation cannot be temporal or purposive. The critique of teleology and anthropomorphism follows directly from this shift. Reading causa sui against Genesis thus reveals a systematic connection between Spinoza's rejection of creationism and his critique of the theological foundations of morality, establishing the metaphysical conditions for the naturalistic ethics developed in the subsequent parts of the Ethics .",
+      "authors": [
+        "Noa Lahav Ayalon"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-18",
+      "doi": "10.1111/theo.70136",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Theoria",
+      "journal_id": "J094",
+      "origin": "crossref",
+      "title": "Causa Sui\n                    and Creationism in Spinoza",
+      "url": "https://doi.org/10.1111/theo.70136"
     },
     {
       "abstract": "",
@@ -12742,9 +12475,270 @@
       "origin": "crossref",
       "title": "Justifying Parental Authority Without Ownership",
       "url": "https://doi.org/10.35297/001c.173690"
+    },
+    {
+      "abstract": "Abstract The conscious Turing machine (CTM) is a model of consciousness developed by Lenore and Manuel Blum. Just as the Turing machine is an abstract formal model of computation, the CTM is an abstract formal model of consciousness. It provides a high-level description of processes that might be realised in conscious human beings and other conscious systems. Since it is not a model of brain function, it does not specify how it may be implemented in a living brain. The CTM might even entail false claims about the processes underlying consciousness in human beings. It is thus not obvious how the CTM can explain or contribute to our understanding of consciousness. This paper argues that the CTM may provide different forms of scientific understanding. It may provide a deepened understanding by generalising explanations provided by empirical theories of consciousness. It may also provide mathematical explanations of algorithmic properties. Whether the CTM actually provides these forms of understanding largely depends on whether it constitutes an accurate model of (human) consciousness. This is mostly an empirical question. Other forms of understanding, however, may not dependent on the CTM’s accuracy. Therefore, I also discuss to what extent the CTM may deepen our understanding of consciousness by enabling how-possibly explanations and non-explanatory understanding by unification.",
+      "authors": [
+        "Wanja Wiese"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1007/s10670-026-01176-y",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "A Philosophy of Science Perspective on the Conscious Turing Machine",
+      "url": "https://doi.org/10.1007/s10670-026-01176-y"
+    },
+    {
+      "abstract": "Abstract Philosophers of memory often assume that the extended mind hypothesis is compatible with the causal theory of memory. For extracranial resources can, the idea goes, sustain the causal connection between a past event and a present representation of it that, on causalist views, distinguishes genuine remembering. Some go as far as to claim that constructive versions of the causal theory can accommodate complementarity-based versions of the extended mind hypothesis. This paper casts doubt on these ideas by defending two claims. First, the existing arguments for compatibility are flawed. While some conflate external information storage with cognitive extension, others wrongly hold that fulfilling the conditions for cognitive extension secures the appropriate kind of causal connection for remembering. Second, constructive versions of the causal theory and complementarity-based versions of the extended mind hypothesis are in fact incompatible. For constructive causal theories require of memory traces features that functionally disparate but complementary extracranial resources systematically lack. The paper concludes by considering how parity-based versions of the extended mind hypothesis might fare within the causal theory, and how other theories of memory might be assessed for compatibility with the extended mind hypothesis.",
+      "authors": [
+        "Juan F. Álvarez"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1007/s10670-026-01185-x",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Mnemic Extension and Appropriate Causation",
+      "url": "https://doi.org/10.1007/s10670-026-01185-x"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Konrad Szocik"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1007/s11017-026-09773-2",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Theoretical Medicine and Bioethics",
+      "journal_id": "J059",
+      "origin": "crossref",
+      "title": "Procreative ethics as a limit on future space settlement",
+      "url": "https://doi.org/10.1007/s11017-026-09773-2"
+    },
+    {
+      "abstract": "Abstract Agentic AI systems now act, rather than merely advise, within social and institutional settings. The persistent gap lies less in principles than in deciding which obligations a deployment should attract as the relationships around it change. Risk-based regulation classifies by declared intended purpose and does not register the dependence that forms around a system once it is in use. We propose the Onto-Relational-Sophic (ORS) framework, whose core contribution is to treat that dependence, rated as social embedding, as a trigger for reclassification. A system-in-deployment is rated on autonomy, social embedding, and moral relevance; each rating triggers a module of obligations on providers, deployers, and institutions; nine explicit rules govern assignment, conflicts, and reclassification, including the rating of multi-agent ensembles as wholes and the prospective rating of systems designed to induce dependence; and categories serve as summary labels. Two supporting pillars, grounded in Cyberism, structure the framework: a Cyber-Physical-Social-Thinking ontology that organises the evidence for each rating, and Cybersophy, an axiology that applies a reversibility priority when principles conflict. Three scenarios and a structured comparison with existing EU law show where ORS converges with current obligations and where it adds to them, most clearly when people come to depend on one certified system in different ways. No legal personality is conferred on any system. The rating scales and rules are proposed rather than validated: the social-embedding instrument has not been tested for inter-rater reliability, and the worked classifications rest on the authors’ own ratings. A reliability study should precede regulatory use.",
+      "authors": [
+        "Huansheng Ning",
+        "Jianguo Ding"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1007/s43681-026-01546-w",
+      "first_seen_jst": "2026-11-20",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Governing Agentic AI: An Onto-Relational-Sophic (ORS) Framework for Deployment-Sensitive Governance",
+      "url": "https://doi.org/10.1007/s43681-026-01546-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Zaher Haddad",
+        "Saralees Nadarajah"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1007/s43681-026-01548-8",
+      "first_seen_jst": "2026-11-20",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Legal findings, algorithmic targeting, and corporate complicity: a commentary on the Gaza conflict’s documentation record",
+      "url": "https://doi.org/10.1007/s43681-026-01548-8"
+    },
+    {
+      "abstract": "Abstract This article offers an ideology critique of the European Court of Human Rights’ jurisprudence on housing. It argues that the court does not just operate within, but actively sustains, a capitalist understanding of housing. The article thus exposes the role of European human rights law in configuring the relation of politics to the economy in the housing sphere. This is crucial given the fundamental role that housing plays in capitalism as the largest and most significant asset class today. Bringing together insights from ideology critique with the literature on the political economy of housing under capitalism, the article dissects the judicial tools commonly adopted by the court in its case law; the determination of the definitional scope of protection; the margin of appreciation; and proportionality. By tracing the application of these tools across the court’s case law on access to housing, evictions and rent control under Article 8, read in tandem with the case law under Article 1 of Protocol No. 1 to the European Convention on Human Rights, the article demonstrates that the court’s judgments undertake an ideological function. In doing so, it shows that the court’s treatment of housing is structured by a capitalist logic whereby the court legitimates the use of housing as a means of profit while it simultaneously refuses to recognise a right of access to housing, abstracts away the social relations of rent to the detriment of tenants and naturalises the protection of private property as common sense.",
+      "authors": [
+        "Serde Atalay"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1017/elo.2026.10112",
+      "first_seen_jst": "2026-11-20",
+      "journal": "European Law Open",
+      "journal_id": "J013",
+      "origin": "crossref",
+      "title": "Housing Before the European Court of Human Rights: A Critique of Ideology",
+      "url": "https://doi.org/10.1017/elo.2026.10112"
+    },
+    {
+      "abstract": "Abstract Good pharmaceutical innovation policy requires good data about R&D costs. By looking at the economics of the pharmaceutical R&D process, with the use of accurate data about costs, risks, and returns, policymakers can more accurately respond to competing claims for access and incentives to innovate and find ways of promoting affordable, accessible, and innovative drugs while discouraging redundant investments in high cost, low value added drugs. If our pharmaceutical innovation policy goal is truly to make positive contributions to public health, this kind of data should be readily available in usable forms for all drugs and should be used to inform public spending and the design of regulatory incentives.",
+      "authors": [
+        "Liza Vertinsky"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1017/jme.2026.10297",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Journal of Law, Medicine &amp; Ethics",
+      "journal_id": "J068",
+      "origin": "crossref",
+      "title": "Informing Pharmaceutical Innovation Policy: The Health Value of R&D Cost Transparency",
+      "url": "https://doi.org/10.1017/jme.2026.10297"
+    },
+    {
+      "abstract": "Abstract C. D. Broad gives an account of common sense morality on which rightness is a function of fittingness and utility. He claims that this account avoids worries that Sidgwick raises about common sense morality. He also raises a doubt about fittingness that resembles current evolutionary debunking arguments. I present and evaluate Broad’s arguments.",
+      "authors": [
+        "Robert Shaver"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1017/s0953820826100557",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Utilitas",
+      "journal_id": "J052",
+      "origin": "crossref",
+      "title": "C. D. Broad on Sidgwick and Common Sense Morality",
+      "url": "https://doi.org/10.1017/s0953820826100557"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Cora Han",
+        "Naomi Lefkovitz",
+        "Julie Nethery Snyder",
+        "Deven McGraw",
+        "Gary Isaac",
+        "Leila Mureebe",
+        "Doug Williams",
+        "Alya Sulaiman",
+        "Richard Eng",
+        "Uttam Ghosh",
+        "Matthew Elmore",
+        "Nicoleta J. Economou Zavlanos"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1080/15265161.2026.2754686",
+      "first_seen_jst": "2026-11-20",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Privacy and Cybersecurity Guardrails for AI in Healthcare: Consensus-Based Guidance",
+      "url": "https://doi.org/10.1080/15265161.2026.2754686"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Antoinette R. Esce",
+        "Calvin R. Gross",
+        "Robert M. Arnold"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1080/15265161.2026.2756632",
+      "first_seen_jst": "2026-11-20",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "The Patient-Regarding Reasons Principle: A New Intervention Principle for Surrogate Decisions",
+      "url": "https://doi.org/10.1080/15265161.2026.2756632"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Olivia Schuman",
+        "Lindsay Semler",
+        "Eleanor Gilmore-Szott",
+        "Marjorie Hodges Shaw",
+        "Janet Malek"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1080/15265161.2026.2756640",
+      "first_seen_jst": "2026-11-20",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Who Should Do Clinical Ethics Work? Defining Appropriate Roles for the “Ethics-Interested”",
+      "url": "https://doi.org/10.1080/15265161.2026.2756640"
+    },
+    {
+      "abstract": "Abstract This paper argues that Ruth Millikan’s official definitions in Language, Thought, and Other Biological Categories admit persistence-based direct proper functions. These definitions do not require reproductions to involve numerically distinct persisting items, thus supporting a broader account than her surrounding prose suggests. I demonstrate how this interpretation extends through Millikan’s first-order machinery and into her definition of direct proper function. Accordingly, direct proper functions can be conferred on synapses via synapse selection and, more implausibly, on rocks via rockfalls. I examine three strategies for blocking this result: a reproduction requirement, a population requirement, and a service requirement. Given Millikan’s explanatory aims, I argue that she should reject these as general requirements, but accept them for theoretically important subclasses.",
+      "authors": [
+        "Fabian Hundertmark"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1093/analys/anag087",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "title": "Millikan, Persistence, and Direct Proper Functions: A Slippery Rockslide?",
+      "url": "https://doi.org/10.1093/analys/anag087"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Adrian Kind",
+        "Sam Fellowes",
+        "Douglas W Heinrichs"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1093/analys/anag089",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "title": "The Case for Models and Modeling in Philosophy of Psychiatry",
+      "url": "https://doi.org/10.1093/analys/anag089"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mohammad Emdadi Masuleh"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1093/pq/pqag085",
+      "first_seen_jst": "2026-11-20",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
+      "origin": "crossref",
+      "title": "One Life to Lead: The Mysteries of Time and the Goods of Attachment",
+      "url": "https://doi.org/10.1093/pq/pqag085"
+    },
+    {
+      "abstract": "Analogy is recognized as a heuristic and rhetorical resource in economics, but economists have paid less attention to its epistemic function and to how to assess competing analogies. Bringing critical realism into dialogue with analogical hermeneutics supports an onto-hermeneutic approach to analogy in which analogical transfer is constrained by the target domain’s causal properties and empirical evidence. An analogy can structure and interpret economic representations without validating them. Here, proportional adequacy provides a criterion for distinguishing legitimate relational transfers. This allows plural economic approaches and representations while preserving empirical accountability and avoiding the treatment of alternative analogies as epistemically equivalent.",
+      "authors": [
+        "Atilano Pena-López"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1177/00483931261509236",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
+      "origin": "crossref",
+      "title": "Analogy as Conceptual Infrastructure: Rethinking the Ontology and Methodology of Economics",
+      "url": "https://doi.org/10.1177/00483931261509236"
+    },
+    {
+      "abstract": "In Cognitive Science and the Reconceptualization of Social Theory , Stephen P. Turner naturalizes the social sciences, replacing concepts like culture and norms with a deflationary neurobiological approach. This review acknowledges the rigor of his critique against disembodied entities but argues his sociological eliminativism encounters a severe epistemological limit. By reducing human thought to sub-discursive pattern recognition, Turner dismisses the essential explanatory role of symbolically mediated meaning. Dispensing with the semantic nature of understanding renders the genesis of culture, language, and social action incomprehensible. By sacrificing subjectivity, this attempt to ground social theory in neurobiology fails to account for social life.",
+      "authors": [
+        "Nathalie Bulle"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1177/00483931261510390",
+      "first_seen_jst": "2026-11-20",
+      "journal": "Philosophy of the Social Sciences",
+      "journal_id": "J108",
+      "origin": "crossref",
+      "title": "The Squirrel, the Symbol, and the Social: On Stephen Turner’s Naturalistic Reconstruction of Social Theory",
+      "url": "https://doi.org/10.1177/00483931261510390"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-19",
-  "window_start": "2026-10-05"
+  "window_end": "2026-11-20",
+  "window_start": "2026-10-06"
 }

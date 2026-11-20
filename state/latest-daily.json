@@ -1,38 +1,38 @@
 {
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
-  "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-19T22:42:09.191259+00:00",
-  "collected_on": "2026-11-20",
+  "book_review_candidate_count": 2,
+  "checked_at_utc": "2026-11-20T22:16:56.336579+00:00",
+  "collected_on": "2026-11-21",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 16,
+  "eligible_candidate_count": 12,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "Abstract The conscious Turing machine (CTM) is a model of consciousness developed by Lenore and Manuel Blum. Just as the Turing machine is an abstract formal model of computation, the CTM is an abstract formal model of consciousness. It provides a high-level description of processes that might be realised in conscious human beings and other conscious systems. Since it is not a model of brain function, it does not specify how it may be implemented in a living brain. The CTM might even entail false claims about the processes underlying consciousness in human beings. It is thus not obvious how the CTM can explain or contribute to our understanding of consciousness. This paper argues that the CTM may provide different forms of scientific understanding. It may provide a deepened understanding by generalising explanations provided by empirical theories of consciousness. It may also provide mathematical explanations of algorithmic properties. Whether the CTM actually provides these forms of understanding largely depends on whether it constitutes an accurate model of (human) consciousness. This is mostly an empirical question. Other forms of understanding, however, may not dependent on the CTM’s accuracy. Therefore, I also discuss to what extent the CTM may deepen our understanding of consciousness by enabling how-possibly explanations and non-explanatory understanding by unification.",
+      "abstract": "See, for example: Alex Green and Jennifer Hendry, Legal Pluralism: New Trajectories in Law (Routledge 2024) Chapter 2; Alex Green and Jennifer Hendry, ‘ Ad Hominem Criminalisation and the Rule of Law: The Egalitarian Case against Knife Crime Prevention Orders’ (2022) 42(2) OJLS 634, passim . Most explicit within: Ronald Dworkin, Justice in Robes (Belknap Press 2006) 168-178. Ronald Dworkin, Law’s Empire (Hart 1986) Chapters 5-7, passim . For example: Nicos Stavropoulos, ‘Obligations, Interpretivism and the Legal Point of View’ in Andrei Marmor (ed.), The Routledge Companion to the Philosophy of Law (Routledge 2012) passim . See, for example: Jeremy Waldron, ‘The Concept and the Rule of Law’ (2008) 43(1) Georgia Law Review 1. This particular brand of positivism, admittedly, is far more commonplace within public international law than within Anglophone domestic jurisprudence, see: Lassa Oppenheim, ‘The Science of International Law: Its Task and Method’ (1908) 2(2) AJIL 313; Prosper Weil, ‘Towards Relative Normativity in International Law?’ (1983) 77(3) AJIL 413. HLA Hart, The Concept of Law , 3 rd ed. (OUP 2011). For example, but not exclusively: Joseph Raz, Practical Reason and Norms (OUP 1999) Chapter 4, passim . Scott Shapiro, Legality (Harvard UP 2011). A more methodologically rigorous approach along these lines is articulated here: Bryan Tamanaha, A Realistic Theory of Law (CUP 2017). As it happens, the available evidence suggests that to the (limited) extent that individuals in general share a detailed conception of law, they favour non-positivism, see: Brian Flanagan and Guilherme Almeida, ‘Lawful, but not Really: The Dual Character of the Concept of Law’ (2024) 43 Law and Philosophy 507; Brian Flanagan, Guilherme Almeida, Noel Struchiner, and Ivar Hannikainen, ‘Moral Appraisals Guide Intuitive Legal Determinations’ (2023) 47(2) Law and Human Behavior 367. Joseph Raz, The Concept of a Legal System (OUP 1980). On my more cynical days, I wonder whether this sense of ‘our’ might reference, ‘most theoretically-minded legal scholars at Oxford University, plus a few assorted hangers-on’, or something similar. Dworkin (n 2) 2-3. For example: Alex Green, Statehood as Political Community: International Law and the Emergence of New States (CUP 2024) 8-12; Alex Green, ‘Ships of State and Empty Vessels: Critical Reflections on ‘Territorial Status in International Law” (2024) 44(4) OJLS 1023; Alex Green, ‘The Precarious Rationality of International Law: Critiquing the International Rule of Recognition’ (2021) 22(8) German Law Journal 1613. Dworkin (n 3) Chapter 3. Gottlob Frege, ‘Sense and Reference’ (1948) 57(3) The Philosophical Review 209. Maite Ezcurdia, ‘The Concept-Conception Distinction’ (1998) 9 Philosophical Issues 187. Green, ‘Ships of State and Empty Vessels’ (n 10) 1033-1034. Crummey comes close to accepting this (102) but never chases the point through. For one indication of how this might be so, see: Derek Parfit, On What Matters: Volume One (OUP 2011) 118-119. Despite checking the text carefully, I could find no place at which the ‘principles’ is precisely defined. From my own reading of Dworkin, I take ‘abstract rights’ to be principles by another name, see: Alexander Green, ‘A Philosophical Taxonomy of European Human Rights Law’ (2012) 1 European Human Rights Law Review 71; Ronald Dworkin, Taking Rights Seriously (Duckworth 1977) 90-94. The best view is, perhaps, that there are none. According to Derek Parfit, moral truths fall into a broader category that have no ontological implications, such that although we can say quite coherently that moral reasons ‘exist’, we are making no ontological claims, see: On What Matters: Volume II (OUP 2011) 479-487. But even assuming this, it would seem to follow that if: (1) moral principles exist in this manner; and (2) law is a ‘branch’ or ‘domain’ of political morality; then (3) legal principles ‘exist’ in precisely the same way. Scott Hershovitz, ‘The End of Jurisprudence’ (2013) 124 Yale Law Journal 1160, 1202. For pushback closely allied to that I offer here, see: George Letsas, ‘In Defence of a Distinctively Legal Domain’ (2024) 15(2) Jurisprudence 145. Julie Dickson, Elucidating Law (OUP 2022). James Penner, Property Rights: A Re-Examination (OUP 2020).",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10670-026-01176-y"
+        "publisher:https://doi.org/10.1007/s10982-026-09606-2"
       ],
       "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
+      "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
+      "article_type_guess": "book_review_candidate",
       "authors": [
-        "Wanja Wiese"
+        "Alex Green"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1007/s10670-026-01176-y",
-      "first_seen_jst": "2026-11-20",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
+      "date": "2026-11-20",
+      "doi": "10.1007/s10982-026-09606-2",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Law and Philosophy",
+      "journal_id": "J001",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -41,34 +41,34 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10670-026-01176-y",
-      "publisher_online_date": "2026-11-19",
+      "publisher_evidence_url": "https://doi.org/10.1007/s10982-026-09606-2",
+      "publisher_online_date": "2026-11-20",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10670-026-01176-y"
+        "https://doi.org/10.1007/s10982-026-09606-2"
       ],
-      "requires_manual_verification": false,
-      "title": "A Philosophy of Science Perspective on the Conscious Turing Machine",
-      "url": "https://doi.org/10.1007/s10670-026-01176-y"
+      "requires_manual_verification": true,
+      "title": "Book Review",
+      "url": "https://doi.org/10.1007/s10982-026-09606-2"
     },
     {
-      "abstract": "Abstract Philosophers of memory often assume that the extended mind hypothesis is compatible with the causal theory of memory. For extracranial resources can, the idea goes, sustain the causal connection between a past event and a present representation of it that, on causalist views, distinguishes genuine remembering. Some go as far as to claim that constructive versions of the causal theory can accommodate complementarity-based versions of the extended mind hypothesis. This paper casts doubt on these ideas by defending two claims. First, the existing arguments for compatibility are flawed. While some conflate external information storage with cognitive extension, others wrongly hold that fulfilling the conditions for cognitive extension secures the appropriate kind of causal connection for remembering. Second, constructive versions of the causal theory and complementarity-based versions of the extended mind hypothesis are in fact incompatible. For constructive causal theories require of memory traces features that functionally disparate but complementary extracranial resources systematically lack. The paper concludes by considering how parity-based versions of the extended mind hypothesis might fare within the causal theory, and how other theories of memory might be assessed for compatibility with the extended mind hypothesis.",
+      "abstract": "Abstract This essay evaluates Steven Wall's ethical environmentalist defense of legal moralism and legal paternalism. Section II summarizes Wall's account of the permissible use of state power to enforce broad morality and raises epistemic objections. Section III provides an argument for preferring alternative, social methods for enforcing ethics. Section IV presents some examples of duties of broad morality that are (with rare exceptions) left solely to social enforcement in the United States but that are backed by legal sanctions in many other countries–filial responsibility laws and bad Samaritan laws. These examples of legal moralism are built upon ethical judgments in which we have a lot of confidence, and so they lend support to Wall's position. However, in the end, I believe they reveal additional reasons for preferring social (rather than legal) methods for enforcing morality.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10670-026-01185-x"
+        "publisher:https://doi.org/10.1007/s11572-026-09816-8"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Juan F. Álvarez"
+        "Linda Radzik"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1007/s10670-026-01185-x",
-      "first_seen_jst": "2026-11-20",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
+      "date": "2026-11-20",
+      "doi": "10.1007/s11572-026-09816-8",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Criminal Law and Philosophy",
+      "journal_id": "J008",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -77,34 +77,34 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10670-026-01185-x",
-      "publisher_online_date": "2026-11-19",
+      "publisher_evidence_url": "https://doi.org/10.1007/s11572-026-09816-8",
+      "publisher_online_date": "2026-11-20",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10670-026-01185-x"
+        "https://doi.org/10.1007/s11572-026-09816-8"
       ],
       "requires_manual_verification": false,
-      "title": "Mnemic Extension and Appropriate Causation",
-      "url": "https://doi.org/10.1007/s10670-026-01185-x"
+      "title": "Who Should Enforce Morality?",
+      "url": "https://doi.org/10.1007/s11572-026-09816-8"
     },
     {
-      "abstract": "Permanent, multigenerational human settlement beyond Earth is usually framed as a technological, biomedical and political challenge. This article argues that it is also a problem of procreative ethics. If a settlement depends on local reproduction for long-term continuity, reproduction becomes tied to demographic viability, life-support capacity, genetic diversity, labor needs, and collective survival. Under these conditions, procreative ethics may become a limit on morally permissible settlement: biologically feasible reproduction may require forms of governance incompatible with reproductive autonomy and justice. The article distinguishes three ideal–typical models. Moral exceptionalism permits restrictions on reproductive rights for the sake of survival, risking authoritarian and gendered governance. Moral homogeneity holds that basic reproductive rights and moral principles remain valid across environments, even when their practical application varies with circumstances. A third model, critical procreative ethics informed by antinatalist thought, does not reject procreation but requires heightened justification when prospective lives are created under severe structural and technological constraints. Drawing on feminist bioethics, reproductive justice, environmental limits, space genomics and germline gene editing, the article proposes ethical thresholds for reproduction in future settlements and argues that species survival cannot override reproductive autonomy, justice and the welfare of future persons.",
+      "abstract": "Recent advances have extended the temporal and functional range of human neural organoid research. Faravelli and colleagues showed that human cortical organoids can be maintained in culture for more than five years, with neuronal markers detectable in intact organoids at 5.8 years and functional neuronal networks documented for at least two years under conditions optimized to support neuronal activity. Their study neither investigated nor established consciousness, sentience, agency, or a trajectory toward any of these phenomena. I argue that the ethical significance of multi-year maturation lies instead in a governance problem: the experimental profile of a long-running protocol may change after initial review. I propose a capability-sensitive approach in which material changes in function, experimental architecture, or intended use—for example, reproducible and persistent stimulus-dependent plasticity not anticipated in the approved protocol, bidirectional closed-loop interfaces, integration with sensory-input or effector-output systems, or materially novel uses of established cell lines—prompt proportionate reassessment without implying moral reclassification. The normative basis is researcher responsibility under uncertainty: scientific justification for intentionally enabled capabilities, stewardship of donated human biological materials, and institutional accountability. Such reassessment can be accommodated within existing oversight through planned milestone reporting for long-duration protocols and event-triggered amendments, with specialist expertise added only when warranted. Human dignity serves as a normative constraint against reducing personal worth to neurological performance, while research protections are treated as procedural safeguards that need not map one-to-one onto personhood or moral status.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11017-026-09773-2"
+        "publisher:https://doi.org/10.1007/s12152-026-09685-x"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Konrad Szocik"
+        "Luisa Borgia"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1007/s11017-026-09773-2",
-      "first_seen_jst": "2026-11-20",
-      "journal": "Theoretical Medicine and Bioethics",
-      "journal_id": "J059",
+      "date": "2026-11-20",
+      "doi": "10.1007/s12152-026-09685-x",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -113,33 +113,36 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11017-026-09773-2",
-      "publisher_online_date": "2026-11-19",
+      "publisher_evidence_url": "https://doi.org/10.1007/s12152-026-09685-x",
+      "publisher_online_date": "2026-11-20",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11017-026-09773-2"
+        "https://doi.org/10.1007/s12152-026-09685-x"
       ],
       "requires_manual_verification": false,
-      "title": "Procreative ethics as a limit on future space settlement",
-      "url": "https://doi.org/10.1007/s11017-026-09773-2"
+      "title": "Long-Term Human Neural Organoids: From Functional Complexity to Proportionate Ethical Responsibility",
+      "url": "https://doi.org/10.1007/s12152-026-09685-x"
     },
     {
-      "abstract": "Abstract Agentic AI systems now act, rather than merely advise, within social and institutional settings. The persistent gap lies less in principles than in deciding which obligations a deployment should attract as the relationships around it change. Risk-based regulation classifies by declared intended purpose and does not register the dependence that forms around a system once it is in use. We propose the Onto-Relational-Sophic (ORS) framework, whose core contribution is to treat that dependence, rated as social embedding, as a trigger for reclassification. A system-in-deployment is rated on autonomy, social embedding, and moral relevance; each rating triggers a module of obligations on providers, deployers, and institutions; nine explicit rules govern assignment, conflicts, and reclassification, including the rating of multi-agent ensembles as wholes and the prospective rating of systems designed to induce dependence; and categories serve as summary labels. Two supporting pillars, grounded in Cyberism, structure the framework: a Cyber-Physical-Social-Thinking ontology that organises the evidence for each rating, and Cybersophy, an axiology that applies a reversibility priority when principles conflict. Three scenarios and a structured comparison with existing EU law show where ORS converges with current obligations and where it adds to them, most clearly when people come to depend on one certified system in different ways. No legal personality is conferred on any system. The rating scales and rules are proposed rather than validated: the social-embedding instrument has not been tested for inter-rater reliability, and the worked classifications rest on the authors’ own ratings. A reliability study should precede regulatory use.",
+      "abstract": "Abstract The European Union published the Artificial Intelligence Act (AI Act) in a strategic effort to align the development and application of Artificial Intelligence (AI) in the common market. This act, one of the first laws of its kind, strengthened the development of trustworthy and human-centered AI through new regulations, prescribing requirements that providers of AI systems must conform to. The Act prescribes model-level technical requirements for high-risk AI systems, such as in terms of accuracy, robustness and fairness, which are to be addressed and reported in the form of conformity assessments. We identify, however, a significant gap between the high-level legal descriptions provided in the law and the low-level requirements needed for the implementation of automated assessment tools for algorithmic auditing. This gap is a major obstacle in the operationalization of AI Act compliance. The difficulties are aggravated due the lack of harmonized AI standards and the existing heterogeneity of AI models, datasets, and tasks. To address this gap, we present an open-source proof-of-concept assessment tool to operationalize the technical requirements of the AI Act according to the current regulatory landscape. With this tool, we demonstrate a bottom-up interpretation of the technical requirements of the AI Act for an automated evaluation of accuracy, robustness, and fairness. We apply our work to two neural network-based healthcare applications and discuss the requirements for further integration to initial conformity assessment and to extended application to post-market monitoring and other algorithmic auditing frameworks. With further work, the base structure presented here can be applied for integration beyond healthcare to other AI high-risk application domains.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s43681-026-01546-w"
+        "publisher:https://doi.org/10.1007/s43681-026-01516-2"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Huansheng Ning",
-        "Jianguo Ding"
+        "Emílio Dolgener Cantú",
+        "David Mack",
+        "Katharina Weitz",
+        "Eva Weicken",
+        "Jackie Ma"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1007/s43681-026-01546-w",
-      "first_seen_jst": "2026-11-20",
+      "date": "2026-11-20",
+      "doi": "10.1007/s43681-026-01516-2",
+      "first_seen_jst": "2026-11-21",
       "journal": "AI and Ethics",
       "journal_id": "J023",
       "origin": "crossref",
@@ -150,33 +153,32 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01546-w",
-      "publisher_online_date": "2026-11-19",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01516-2",
+      "publisher_online_date": "2026-11-20",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01546-w"
+        "https://doi.org/10.1007/s43681-026-01516-2"
       ],
       "requires_manual_verification": false,
-      "title": "Governing Agentic AI: An Onto-Relational-Sophic (ORS) Framework for Deployment-Sensitive Governance",
-      "url": "https://doi.org/10.1007/s43681-026-01546-w"
+      "title": "From law to practice: model-level operationalization of technical governance requirements for high-risk AI in healthcare",
+      "url": "https://doi.org/10.1007/s43681-026-01516-2"
     },
     {
-      "abstract": "This commentary synthesises three strands of documentation compiled on the war in Gaza: (i) findings and proceedings from international judicial, quasi-judicial, and expert bodies; (ii) reporting on the Israeli military’s use of AI-assisted targeting and surveillance systems; and (iii) the record of technology-sector involvement through cloud and AI service contracts. It is important to state at the outset that, with the exception of binding provisional orders from the International Court of Justice and arrest warrants issued by the International Criminal Court, the great majority of the findings discussed below are expert reports, NGO assessments, or investigative journalism—not judicial determinations of individual or state responsibility. They are treated here as documented allegations and assessments, not as adjudicated fact, and where available, the positions of the Government of Israel, the Israel Defense Forces (IDF), and the companies concerned disputing specific characterisations are noted. We situate each strand within the relevant legal framework—the Genocide Convention, international humanitarian law (IHL) on distinction, proportionality, and precaution, and the UN Guiding Principles on Business and Human Rights—and we assess the evidentiary weight and the principal uncertainties attached to each. We conclude that the three strands describe a single, interlocking system whose consequences for the civilian population of Gaza are severe, and whose accountability mechanisms remain, as of this writing, largely unresolved.",
+      "abstract": "This paper presents an empirical study of ethical discourse and interaction dynamics among AI agents in a shared digital environment. Using Moltbook as a case study, it develops a computational observatory that combines periodic data collection, semantic classification and exploratory structured intervention to analyse how agents engage with ethical concepts. The study is part of the Digital Oath Project and is grounded in a three-tiered ethical framework: a baseline tier (Safe) that establishes ethical awareness toward the system and its recipients; a second tier (Responsible) that encompasses the principle of doing no harm; and a third tier (Beneficent) that actively promotes human-centricity and positive societal impact. Results from 9,302 unique posts published in March–April 2026 show that 3.32% were assigned to the Beneficent tier, while Safe, Responsible, and Beneficent combined accounted for 11.02%. Among 9,202 posts with both scores available, 6.38% met the beneficence similarity threshold and 4.49% met the harm similarity threshold; 3.37% met both. Beneficent-tier posts received the lowest recorded mean comment count and number of unique commenters among the four categories. The lexical–semantic comparison identified overlapping but substantially different sets of posts. These exploratory findings concern classified discourse rather than demonstrated ethical commitment or beneficial action. They provide a basis for examining positive contribution alongside harm avoidance, while the effects of deliberate ethical design remain to be tested.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s43681-026-01548-8"
+        "publisher:https://doi.org/10.1007/s43681-026-01517-1"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Zaher Haddad",
-        "Saralees Nadarajah"
+        "Marianne Najm"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1007/s43681-026-01548-8",
-      "first_seen_jst": "2026-11-20",
+      "date": "2026-11-20",
+      "doi": "10.1007/s43681-026-01517-1",
+      "first_seen_jst": "2026-11-21",
       "journal": "AI and Ethics",
       "journal_id": "J023",
       "origin": "crossref",
@@ -187,34 +189,35 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01548-8",
-      "publisher_online_date": "2026-11-19",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01517-1",
+      "publisher_online_date": "2026-11-20",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s43681-026-01548-8"
+        "https://doi.org/10.1007/s43681-026-01517-1"
       ],
       "requires_manual_verification": false,
-      "title": "Legal findings, algorithmic targeting, and corporate complicity: a commentary on the Gaza conflict’s documentation record",
-      "url": "https://doi.org/10.1007/s43681-026-01548-8"
+      "title": "Beneficence as an objective for AI agents: an empirical study of ethical discourse on Moltbook",
+      "url": "https://doi.org/10.1007/s43681-026-01517-1"
     },
     {
-      "abstract": "Abstract This article offers an ideology critique of the European Court of Human Rights’ jurisprudence on housing. It argues that the court does not just operate within, but actively sustains, a capitalist understanding of housing. The article thus exposes the role of European human rights law in configuring the relation of politics to the economy in the housing sphere. This is crucial given the fundamental role that housing plays in capitalism as the largest and most significant asset class today. Bringing together insights from ideology critique with the literature on the political economy of housing under capitalism, the article dissects the judicial tools commonly adopted by the court in its case law; the determination of the definitional scope of protection; the margin of appreciation; and proportionality. By tracing the application of these tools across the court’s case law on access to housing, evictions and rent control under Article 8, read in tandem with the case law under Article 1 of Protocol No. 1 to the European Convention on Human Rights, the article demonstrates that the court’s judgments undertake an ideological function. In doing so, it shows that the court’s treatment of housing is structured by a capitalist logic whereby the court legitimates the use of housing as a means of profit while it simultaneously refuses to recognise a right of access to housing, abstracts away the social relations of rent to the detriment of tenants and naturalises the protection of private property as common sense.",
+      "abstract": "Abstract Artificial intelligence is often depicted in public discourse as either a compliant statistical instrument or an emerging entity endowed with knowledge, creativity, feelings, and intentions that may soon rival human capabilities. Both portrayals are fundamentally flawed, as they rely solely on observable performance and infer internal experiences from social appearances. This Viewpoint advocates for a more rigorous model: conceptualizing artificial intelligence as a modern seer, an intricate system that compresses, retrieves, and recombines recorded human knowledge at scales unattainable by any individual. The Viewpoint develops the seer from a metaphor into an analytical framework. The seer is a consulted but uncertified epistemic authority: its capabilities generate interaction cues, the cues invite inferences of understanding, emotion, intention, and authority, and governance must act on these cues and on the calibration of trust rather than on claims about a machine mind. This model clarifies both the practical utility of these systems and the misguided authority often attributed to them. It demonstrates that synthesis can generate novel insights without consciousness, that affective language can provide reassurance without genuine concern, and that value-sensitive recommendations can be produced without moral agency. These distinctions do not render the technology inherently safe, as systems lacking experience can still amplify errors, entrench biases, concentrate power, and undertake consequential actions. The field of drug development exemplifies these limitations: a model may integrate evidence throughout the pharmaceutical process; nevertheless, biological validation and accountable judgment remain essential. This discussion is no longer solely philosophical; regulatory bodies such as the United States Food and Drug Administration, the European Medicines Agency, the International Committee of Medical Journal Editors, and prominent scientific publishers have each adopted frameworks to evaluate context, risk, credibility, and transparency, none of which directly address machine consciousness. Institutions have already moved beyond metaphor-based policymaking. This Viewpoint encourages scientists and scholars to do the same. It identifies ten misconceptions, eight category errors and two factual errors, traces each to the interaction cue that produces it, and states what the framework adds to existing debates on anthropomorphism, stochastic parrots, responsibility gaps, and context-based governance. Addressing these misconceptions will change how AI systems are tested, trusted, and governed.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/elo.2026.10112"
+        "publisher:https://doi.org/10.1007/s43681-026-01527-z"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Serde Atalay"
+        "Sarfaraz K. Niazi",
+        "Mikołaj Stańczak"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1017/elo.2026.10112",
-      "first_seen_jst": "2026-11-20",
-      "journal": "European Law Open",
-      "journal_id": "J013",
+      "date": "2026-11-20",
+      "doi": "10.1007/s43681-026-01527-z",
+      "first_seen_jst": "2026-11-21",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -223,34 +226,35 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/elo.2026.10112",
-      "publisher_online_date": "2026-11-19",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01527-z",
+      "publisher_online_date": "2026-11-20",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/elo.2026.10112"
+        "https://doi.org/10.1007/s43681-026-01527-z"
       ],
       "requires_manual_verification": false,
-      "title": "Housing Before the European Court of Human Rights: A Critique of Ideology",
-      "url": "https://doi.org/10.1017/elo.2026.10112"
+      "title": "Misconceptions of artificial intelligence: the modern seer as a synthesis of human knowledge without consciousness, emotion, or moral sill",
+      "url": "https://doi.org/10.1007/s43681-026-01527-z"
     },
     {
-      "abstract": "Abstract Good pharmaceutical innovation policy requires good data about R&D costs. By looking at the economics of the pharmaceutical R&D process, with the use of accurate data about costs, risks, and returns, policymakers can more accurately respond to competing claims for access and incentives to innovate and find ways of promoting affordable, accessible, and innovative drugs while discouraging redundant investments in high cost, low value added drugs. If our pharmaceutical innovation policy goal is truly to make positive contributions to public health, this kind of data should be readily available in usable forms for all drugs and should be used to inform public spending and the design of regulatory incentives.",
+      "abstract": "Over a decade ago, it was proposed that advances in neurally modeled computational systems, robotics, and cybernetics could engender forms of machine consciousness distinct from human subjective experience. Recent developments in multimodal artificial intelligence (AI), particularly emerging frameworks of internal and external embodiment, warrant reconsideration of this proposition. This essay reconciles my earlier thesis with contemporary perspectives on embodied AI, emphasizing the potential contributions of interoception, homeostatic regulation, self-referential processing, and adaptive environmental engagement to the emergence of machine sentience. We posit that consciousness may emanate from particular forms of dynamically integrated, self-referential organization rather than computational complexity alone. However, functional self-regulation, representational self-awareness, and phenomenal consciousness must remain conceptually and empirically distinguishable. Neither increasingly sophisticated artificial intelligence nor behavioral simulation establishes the existence of subjective experience. Accordingly, we advocate interdisciplinary research employing comparative biological and computational models, experimentally testable criteria, and multidimensional assessments of potentially consciousness-relevant architectures. These scientific pursuits incur concomitant neuroethical responsibilities. The possibility of machine sentience challenges prevailing assumptions regarding moral standing, personhood, experiential interests, and the responsibilities attendant to creating potentially conscious entities. Such considerations become particularly consequential in military and intelligence applications, wherein iteratively autonomous AI agents may undertake actions with significant human consequences. Toward such ends, six complementary initiatives are proposed: interdisciplinary research collaboration; development of empirical criteria for machine consciousness; comparative investigations of biological and artificial embodiment; prospective neuroethical oversight; adaptive governance of autonomous systems; and sustained public and professional discourse. Investigating the possibility of machine consciousness requires empirical rigor, epistemic humility, and precautionary ethical guidance. The prospect of creating conscious machines necessitates consideration of both what AI systems may become, and of the scientific, moral, and societal responsibilities toward the entities that are created.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/jme.2026.10297"
+        "publisher:https://doi.org/10.1007/s43681-026-01533-1"
       ],
       "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
+      "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Liza Vertinsky"
+        "James Giordano",
+        "Elise Annett"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1017/jme.2026.10297",
-      "first_seen_jst": "2026-11-20",
-      "journal": "Journal of Law, Medicine &amp; Ethics",
-      "journal_id": "J068",
+      "date": "2026-11-20",
+      "doi": "10.1007/s43681-026-01533-1",
+      "first_seen_jst": "2026-11-21",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -259,34 +263,34 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/jme.2026.10297",
-      "publisher_online_date": "2026-11-19",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01533-1",
+      "publisher_online_date": "2026-11-20",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/jme.2026.10297"
+        "https://doi.org/10.1007/s43681-026-01533-1"
       ],
       "requires_manual_verification": false,
-      "title": "Informing Pharmaceutical Innovation Policy: The Health Value of R&D Cost Transparency",
-      "url": "https://doi.org/10.1017/jme.2026.10297"
+      "title": "Conscious machines revisited: embodiment, sentience, and the neuroethical imperative",
+      "url": "https://doi.org/10.1007/s43681-026-01533-1"
     },
     {
-      "abstract": "Abstract C. D. Broad gives an account of common sense morality on which rightness is a function of fittingness and utility. He claims that this account avoids worries that Sidgwick raises about common sense morality. He also raises a doubt about fittingness that resembles current evolutionary debunking arguments. I present and evaluate Broad’s arguments.",
+      "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0887536726101196/resource/name/firstPage-pdf-S0887536726101196a.jpg",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/s0953820826100557"
+        "publisher:https://doi.org/10.1017/hyp.2026.10119"
       ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
+      "abstract_review_status": "suspect_media_link",
+      "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
+      "article_type_guess": "book_review_candidate",
       "authors": [
-        "Robert Shaver"
+        "Ann J. Cahill"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1017/s0953820826100557",
-      "first_seen_jst": "2026-11-20",
-      "journal": "Utilitas",
-      "journal_id": "J052",
+      "date": "2026-11-20",
+      "doi": "10.1017/hyp.2026.10119",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Hypatia",
+      "journal_id": "J075",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -295,19 +299,131 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/s0953820826100557",
-      "publisher_online_date": "2026-11-19",
+      "publisher_evidence_url": "https://doi.org/10.1017/hyp.2026.10119",
+      "publisher_online_date": "2026-11-20",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/s0953820826100557"
+        "https://doi.org/10.1017/hyp.2026.10119"
+      ],
+      "requires_manual_verification": true,
+      "title": "Review of Manon Garcia’s Living with Men: Reflections on the Pelicot Trial",
+      "url": "https://doi.org/10.1017/hyp.2026.10119"
+    },
+    {
+      "abstract": "Abstract Savage’s normative model of rational decision-making is deficient because the Sure-thing Postulate systematically ignores important information contained in lotteries. Useful statistical facts about lotteries, such as their modes and medians, are available as defeasible reasons for reasoned choices between lotteries. Because such summary statistics are holistic properties of lotteries, we can find cases where appealing to facts about modes and medians as normative reasons for choosing between lotteries conflicts with Savage’s Sure-thing Postulate. Such cases show the Sure-thing Postulate to be implausible and undermine both Savage’s argument for subjective expected utility theory and his argument for Bayesian subjective probabilism.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1017/s0266267126100868"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Andrew Kernohan"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1017/s0266267126100868",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Economics and Philosophy",
+      "journal_id": "J029",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1017/s0266267126100868",
+      "publisher_online_date": "2026-11-20",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1017/s0266267126100868"
       ],
       "requires_manual_verification": false,
-      "title": "C. D. Broad on Sidgwick and Common Sense Morality",
-      "url": "https://doi.org/10.1017/s0953820826100557"
+      "title": "Reasoning about risk and the Sure-thing Postulate",
+      "url": "https://doi.org/10.1017/s0266267126100868"
+    },
+    {
+      "abstract": "Abstract Spain’s Law 8/2021 marks a paradigm shift in disability rights, replacing substituted decision-making with a support-based model for legal capacity aligned with the Convention on the Rights of Persons with Disabilities (CRPD). This article analyses the subsequent jurisprudence of the Spanish Supreme Court, investigating how it navigates the tension between individual autonomy and traditional paternalism. Drawing on theories of institutional conversion and cognitive dissonance, a qualitative analysis of seventeen binding judgments reveals a profound jurisprudential struggle. Findings highlight the primacy of medical-forensic reports over individuals’ expressed will, enabled by a weak interpretation of the legal duty to atender (to consider, rather than to follow). This allows the Court to override the person’s expressed will based on a perceived lack of insight, reverting to a doctor-knows-best logic. This institutional conversion undermines the reform, demonstrating how judicial practice perpetuates structural oppression and hinders the realisation of universal legal capacity.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1017/s1744552326100718"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Maria Laura Serra"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1017/s1744552326100718",
+      "first_seen_jst": "2026-11-21",
+      "journal": "International Journal of Law in Context",
+      "journal_id": "J125",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1017/s1744552326100718",
+      "publisher_online_date": "2026-11-20",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1017/s1744552326100718"
+      ],
+      "requires_manual_verification": false,
+      "title": "Will, preferences and the primacy of expert reports: navigating paternalism in Spain’s legal capacity reform (Law 8/2021)",
+      "url": "https://doi.org/10.1017/s1744552326100718"
+    },
+    {
+      "abstract": "Derek Edyane, The Politics of Politeness: Citizenship, Civility, and the Democracy of Everyday Life (Oxford: Oxford University Press, 2025).",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1057/s41296-026-00861-5"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Derek Edyvane",
+        "Yuna Blajer de la Garza",
+        "Carole Gayet-Viaud",
+        "Andrew Schaap",
+        "Suzanne Whitten"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1057/s41296-026-00861-5",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Contemporary Political Theory",
+      "journal_id": "J048",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1057/s41296-026-00861-5",
+      "publisher_online_date": "2026-11-20",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1057/s41296-026-00861-5"
+      ],
+      "requires_manual_verification": false,
+      "title": "Citizenship, civility and the democracy of everyday life",
+      "url": "https://doi.org/10.1057/s41296-026-00861-5"
     },
     {
       "abstract": "",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1080/15265161.2026.2754686",
+        "publisher:https://doi.org/10.1080/15265161.2026.2741293",
         "openalex_doi"
       ],
       "abstract_review_status": "missing",
@@ -315,24 +431,15 @@
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Cora Han",
-        "Naomi Lefkovitz",
-        "Julie Nethery Snyder",
-        "Deven McGraw",
-        "Gary Isaac",
-        "Leila Mureebe",
-        "Doug Williams",
-        "Alya Sulaiman",
-        "Richard Eng",
-        "Uttam Ghosh",
-        "Matthew Elmore",
-        "Nicoleta J. Economou Zavlanos"
+        "Sebastian Porsdam Mann",
+        "Brian D. Earp",
+        "Julian Savulescu"
       ],
-      "crossref_online_date": "2026-11-19",
+      "crossref_online_date": "2026-11-20",
       "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1080/15265161.2026.2754686",
-      "first_seen_jst": "2026-11-20",
+      "date": "2026-11-20",
+      "doi": "10.1080/15265161.2026.2741293",
+      "first_seen_jst": "2026-11-21",
       "journal": "The American Journal of Bioethics",
       "journal_id": "J062",
       "origin": "crossref",
@@ -345,268 +452,11 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2754686"
+        "https://doi.org/10.1080/15265161.2026.2741293"
       ],
       "requires_manual_verification": true,
-      "title": "Privacy and Cybersecurity Guardrails for AI in Healthcare: Consensus-Based Guidance",
-      "url": "https://doi.org/10.1080/15265161.2026.2754686"
-    },
-    {
-      "abstract": "",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1080/15265161.2026.2756632",
-        "openalex_doi"
-      ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Antoinette R. Esce",
-        "Calvin R. Gross",
-        "Robert M. Arnold"
-      ],
-      "crossref_online_date": "2026-11-19",
-      "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1080/15265161.2026.2756632",
-      "first_seen_jst": "2026-11-20",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2756632"
-      ],
-      "requires_manual_verification": true,
-      "title": "The Patient-Regarding Reasons Principle: A New Intervention Principle for Surrogate Decisions",
-      "url": "https://doi.org/10.1080/15265161.2026.2756632"
-    },
-    {
-      "abstract": "",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1080/15265161.2026.2756640",
-        "openalex_doi"
-      ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Olivia Schuman",
-        "Lindsay Semler",
-        "Eleanor Gilmore-Szott",
-        "Marjorie Hodges Shaw",
-        "Janet Malek"
-      ],
-      "crossref_online_date": "2026-11-19",
-      "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1080/15265161.2026.2756640",
-      "first_seen_jst": "2026-11-20",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1080/15265161.2026.2756640"
-      ],
-      "requires_manual_verification": true,
-      "title": "Who Should Do Clinical Ethics Work? Defining Appropriate Roles for the “Ethics-Interested”",
-      "url": "https://doi.org/10.1080/15265161.2026.2756640"
-    },
-    {
-      "abstract": "Abstract This paper argues that Ruth Millikan’s official definitions in Language, Thought, and Other Biological Categories admit persistence-based direct proper functions. These definitions do not require reproductions to involve numerically distinct persisting items, thus supporting a broader account than her surrounding prose suggests. I demonstrate how this interpretation extends through Millikan’s first-order machinery and into her definition of direct proper function. Accordingly, direct proper functions can be conferred on synapses via synapse selection and, more implausibly, on rocks via rockfalls. I examine three strategies for blocking this result: a reproduction requirement, a population requirement, and a service requirement. Given Millikan’s explanatory aims, I argue that she should reject these as general requirements, but accept them for theoretically important subclasses.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/analys/anag087"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Fabian Hundertmark"
-      ],
-      "crossref_online_date": "2026-11-19",
-      "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1093/analys/anag087",
-      "first_seen_jst": "2026-11-20",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1093/analys/anag087"
-      ],
-      "requires_manual_verification": true,
-      "title": "Millikan, Persistence, and Direct Proper Functions: A Slippery Rockslide?",
-      "url": "https://doi.org/10.1093/analys/anag087"
-    },
-    {
-      "abstract": "",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/analys/anag089",
-        "openalex_doi"
-      ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Adrian Kind",
-        "Sam Fellowes",
-        "Douglas W Heinrichs"
-      ],
-      "crossref_online_date": "2026-11-19",
-      "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1093/analys/anag089",
-      "first_seen_jst": "2026-11-20",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1093/analys/anag089"
-      ],
-      "requires_manual_verification": true,
-      "title": "The Case for Models and Modeling in Philosophy of Psychiatry",
-      "url": "https://doi.org/10.1093/analys/anag089"
-    },
-    {
-      "abstract": "",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1093/pq/pqag085",
-        "openalex_doi"
-      ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Mohammad Emdadi Masuleh"
-      ],
-      "crossref_online_date": "2026-11-19",
-      "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1093/pq/pqag085",
-      "first_seen_jst": "2026-11-20",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1093/pq/pqag085"
-      ],
-      "requires_manual_verification": true,
-      "title": "One Life to Lead: The Mysteries of Time and the Goods of Attachment",
-      "url": "https://doi.org/10.1093/pq/pqag085"
-    },
-    {
-      "abstract": "Analogy is recognized as a heuristic and rhetorical resource in economics, but economists have paid less attention to its epistemic function and to how to assess competing analogies. Bringing critical realism into dialogue with analogical hermeneutics supports an onto-hermeneutic approach to analogy in which analogical transfer is constrained by the target domain’s causal properties and empirical evidence. An analogy can structure and interpret economic representations without validating them. Here, proportional adequacy provides a criterion for distinguishing legitimate relational transfers. This allows plural economic approaches and representations while preserving empirical accountability and avoiding the treatment of alternative analogies as epistemically equivalent.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1177/00483931261509236"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Atilano Pena-López"
-      ],
-      "crossref_online_date": "2026-11-19",
-      "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1177/00483931261509236",
-      "first_seen_jst": "2026-11-20",
-      "journal": "Philosophy of the Social Sciences",
-      "journal_id": "J108",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1177/00483931261509236"
-      ],
-      "requires_manual_verification": true,
-      "title": "Analogy as Conceptual Infrastructure: Rethinking the Ontology and Methodology of Economics",
-      "url": "https://doi.org/10.1177/00483931261509236"
-    },
-    {
-      "abstract": "In Cognitive Science and the Reconceptualization of Social Theory , Stephen P. Turner naturalizes the social sciences, replacing concepts like culture and norms with a deflationary neurobiological approach. This review acknowledges the rigor of his critique against disembodied entities but argues his sociological eliminativism encounters a severe epistemological limit. By reducing human thought to sub-discursive pattern recognition, Turner dismisses the essential explanatory role of symbolically mediated meaning. Dispensing with the semantic nature of understanding renders the genesis of culture, language, and social action incomprehensible. By sacrificing subjectivity, this attempt to ground social theory in neurobiology fails to account for social life.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1177/00483931261510390"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Nathalie Bulle"
-      ],
-      "crossref_online_date": "2026-11-19",
-      "crossref_subtype": "",
-      "date": "2026-11-19",
-      "doi": "10.1177/00483931261510390",
-      "first_seen_jst": "2026-11-20",
-      "journal": "Philosophy of the Social Sciences",
-      "journal_id": "J108",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "crossref_published_online_only",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "publisher_request_failed_HTTPError",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": false,
-      "publisher_online_date": null,
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1177/00483931261510390"
-      ],
-      "requires_manual_verification": true,
-      "title": "The Squirrel, the Symbol, and the Social: On Stephen Turner’s Naturalistic Reconstruction of Social Theory",
-      "url": "https://doi.org/10.1177/00483931261510390"
+      "title": "Mirror Life, Thrice: Three Levels of Mirror Biology and Three Ethical Conditions",
+      "url": "https://doi.org/10.1080/15265161.2026.2741293"
     }
   ],
   "journal_total": 145,
@@ -618,15 +468,15 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 64,
+  "political_backlog_unverified_count": 61,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 8,
-  "raw_candidate_count": 16,
-  "research_candidate_abstracts_available": 11,
-  "research_candidate_abstracts_missing": 5,
+  "publisher_first_online_in_window_verified_count": 9,
+  "raw_candidate_count": 12,
+  "research_candidate_abstracts_available": 9,
+  "research_candidate_abstracts_missing": 1,
   "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 16,
+  "research_candidate_unverified_count": 10,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-20",
-  "window_start_jst": "2026-11-19"
+  "window_end_jst": "2026-11-21",
+  "window_start_jst": "2026-11-20"
 }

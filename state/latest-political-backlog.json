@@ -1,40 +1,8 @@
 {
-  "checked_at_utc": "2026-11-19T22:42:09.191259+00:00",
-  "collected_on": "2026-11-20",
-  "count": 64,
+  "checked_at_utc": "2026-11-20T22:16:56.336579+00:00",
+  "collected_on": "2026-11-21",
+  "count": 61,
   "items": [
-    {
-      "crossref_candidate_date": "2026-10-06",
-      "doi": "10.1163/17455243-bja10222",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "The Ethics of Relying on Research Participants’ Altruism"
-    },
-    {
-      "crossref_candidate_date": "2026-10-06",
-      "doi": "10.1163/17455243-bja10226",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "What Kind of Death: The Ethics of Determining One’s Own Death, written by Govert den Hartogh"
-    },
-    {
-      "crossref_candidate_date": "2026-10-06",
-      "doi": "10.1163/17455243-bja10228",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "No Justice, No Peace: The Ethics of Violent Protest, written by Avia Pasternak"
-    },
-    {
-      "crossref_candidate_date": "2026-10-06",
-      "doi": "10.1163/17455243-bja10229",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "Goodness and Tradition, written by Irene Liu"
-    },
     {
       "crossref_candidate_date": "2026-10-07",
       "doi": "10.1017/s0034670526101296",
@@ -514,6 +482,14 @@
       "journal_id": "J035",
       "status": "unverified_not_introduced",
       "title": "Doing It for the Plot"
+    },
+    {
+      "crossref_candidate_date": "2026-11-20",
+      "doi": "10.1057/s41296-026-00861-5",
+      "first_seen_jst": "2026-11-21",
+      "journal_id": "J048",
+      "status": "unverified_not_introduced",
+      "title": "Citizenship, civility and the democracy of everyday life"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

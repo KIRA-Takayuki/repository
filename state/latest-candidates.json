@@ -1,259 +1,6 @@
 {
-  "collected_on": "2026-11-20",
+  "collected_on": "2026-11-21",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Tangli Ding",
-        "He Peng"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1007/s10551-026-06492-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "How Employees React to Unreasonable Tasks? The Role of Employees’ Attributions and Leadership Styles",
-      "url": "https://doi.org/10.1007/s10551-026-06492-5"
-    },
-    {
-      "abstract": "Abstract Cosmovisions of the Global South need to find a place in AI regulation, dominated by the Global North, to contextualize AI and to foster pluralistic global ethical AI. The worldwide UNESCO recommendation for the ethics of AI incorporates flourishing of all life, but still takes a human centric/rights approach. Indigenous Buen Vivir fosters circular, biocentric, participatory, thinking focusing on equality, integrality of life and rights of Nature. Buen Vivir demands a biocentric whole-of system approach across the tech stack; addressing unequal power relations and economic inequality by AI, going beyond ensuring non-discrimination. It highlights participatory consensus decision-making for AI with a voice for nature. Work is considered as giving meaning to life, and social bonds and community as cardinal for human wellbeing. This puts into question the tendency to implement AI to make human work and relations redundant. Buen Vivir can help programmers of quantum computers think in three-some (complementary opposition) instead of binary opposition, a topic for future research.",
-      "authors": [
-        "Dorine Eva van Norren"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1007/s43681-026-01403-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "A pluralistic view on AI ethics: perspectives from Buen Vivir",
-      "url": "https://doi.org/10.1007/s43681-026-01403-w"
-    },
-    {
-      "abstract": "Abstract Computer Vision is an emerging technology within Precision Livestock Farming (PLF), combining camera systems with artificial intelligence to monitor animal welfare. While animal ethicists recognize its potential benefits, they also raise concerns about possible negative implications for animal welfare. This paper argues that addressing ethical concerns cannot rely on solutions targeting isolated ethical risks; rather, potential solutions must account for the technology’s embeddedness within society-wide structures. The focus in this paper will be on foundational structures, these structures concern how the world is experienced and understood, what is taken as self-evident. Over centuries, humans have increasingly delegated tasks to machines and standardized the world in doing so. This process has fostered growing trust in the outcomes of (digital) technologies. These developments have changed human experience and understanding of the world in various ways. Farmers, as members of society, are unlikely to be exempt from this trend. Therefore, reflection on Computer Vision must go beyond the farming practice and take into account these foundational structures that are currently reshaping society at large. Computer Vision examined as embedded within foundational structures demonstrates that ethical issues are also embedded within these structures, consequently, potential solutions must take account of them to increase their effectiveness.",
-      "authors": [
-        "Mariska Thalitha Bosschaert",
-        "Bart Gremmen"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1007/s43681-026-01417-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Animal welfare in the world of digitalization: Computer Vision in the context of foundational structures",
-      "url": "https://doi.org/10.1007/s43681-026-01417-4"
-    },
-    {
-      "abstract": "Abstract This paper uses the theory of decoloniality to critically examine how African scholars have interrogated the dominant, global narratives surrounding responsible Artificial Intelligence (AI). Through a multivocal literature review, the paper reveals a range of critical perspectives that expose systemic exclusions and imbalances in the current responsible AI discourse. Key themes identified include the marginalisation of African epistemologies, values, and principles; the absence of representative African datasets, lack of locally grounded regulatory frameworks; the limited inclusion and or availability of African expertise and funding; and the persistent power asymmetries and coloniality embedded in global responsible AI ethics and governance. The review highlights emerging efforts towards reconstructing responsible AI from an African contextual lens. Central to this constructive turn is the proposal of a decoloniality framework that puts emphasis on African knowledge systems, reclaims agency in AI development, and reimagines responsible AI in ways that are contextually grounded, pluriversal, and socially acceptable. This review not only contributes to critical AI scholarship but also charts pathways for more inclusive and equitable AI futures on the continent.",
-      "authors": [
-        "Damian Eke",
-        "Makuochi Nkwo",
-        "Ibifuro Robert Jaja",
-        "Muhammad Adamu",
-        "Simisola Akintoye",
-        "Michael Ugom",
-        "Sarah Kiden"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1007/s43681-026-01418-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Whose responsibility? Deconstructing global responsible AI from the African lens: a review",
-      "url": "https://doi.org/10.1007/s43681-026-01418-3"
-    },
-    {
-      "abstract": "Abstract In this article, the concept of the law of the everyday is used to understand and describe how law shapes ordinary days in a person’s life. Reading the chapter ‘Baloga’ in Ben Judah’s This is Europe: The Way We Live Now , about a Romanian truck driver and his partner and co-driver, through a spatio-temporal lens provides insights into how their work and living conditions are largely governed by the detailed and comprehensive system of rules for workers and vehicles in the road transport sector (‘the Mobility Package’). To a significant extent, the Mobility Package consists of rules dependent on time and place: when and where the driver may operate the vehicle. The article takes one of its legal anchor points from the Mobility Package and the other from the European Union’s fundamental legal basis: the treaty-enshrined highly competitive social market economy – which, as the wording suggests, entails that extensive market-economic ambitions are to be balanced against social objectives. The rules in the Mobility Package constitute a legal expression of this pursuit of balance. At the same time, the market economy also entails additional spatio-temporal aspects: within the logistics sector, the optimal use of time and space is a decisive factor in maximising economic profit. Through the spatio-temporal lens and the bottom-up perspective implied by the law of the everyday, the article demonstrates the law’s extensive and highly concrete impact on most aspects of a long-distance truck driver’s life. It also highlights structural conditions inherent in the cross-border road transport sector, such as occupational risks, unequal treatment and a high social cost, as well as the ambivalent way in which the Mobility Package seeks to address them.",
-      "authors": [
-        "Mikael Ruukel"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1017/elo.2026.10110",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Law Open",
-      "journal_id": "J013",
-      "origin": "crossref",
-      "title": "The Truck Driver from Baloga: Driving Through Time and Space",
-      "url": "https://doi.org/10.1017/elo.2026.10110"
-    },
-    {
-      "abstract": "Abstract The guiding aim of the collection is to shift the focus of European studies from the institutional realities of European integration to the lived experience of it. However, it is not to separate the lived experience of Europe from the institutional and legal account of Europe but to show precisely how institutional and legal Europe is lived by individuals and social groups and, in the living, reflected and reproduced at the social level, generating various forms of injustices and indignities. This introduction presents the main concepts and approaches developed in the following series of essays.",
-      "authors": [
-        "Loïc Azoulai",
-        "Jack Meakin"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1017/elo.2026.10113",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Law Open",
-      "journal_id": "J013",
-      "origin": "crossref",
-      "title": "The law of the everyday: Europe’s method",
-      "url": "https://doi.org/10.1017/elo.2026.10113"
-    },
-    {
-      "abstract": "Abstract Evaluation of reasoning language models gained importance after it was observed that they can combine their existing capabilities into novel traces of intermediate steps before task completion and that the traces can sometimes help them to generalize better than past models. We show that better performance results not only from test time algorithmic improvements or model sizes but also from letting tasks from impactful benchmarks inspire curricula for learning. We call this benchmark-driven selection of AI and show its effects on DeepSeek-R1, the first open-weight large reasoning model, using a novel sequential decision-making problem that we contributed to the philosophy category of Humanity’s Last Exam, a frontier academic AI benchmark. Steering development of AI by impactful benchmarks trades evaluation for learning and makes novelty of test tasks key for measuring generalization capabilities of reasoning models. Consequently, some benchmarks inspire curricula for post-training that improve external validity of the models. Understanding public benchmarks as mere test sets risks confusing unseen tasks measuring uncontaminated generalization with known tasks that improve external validity. This paper explores new avenues for experimentation in epistemology and shows that formal AI evaluation problems are helpful for understanding model capabilities and their evolution.",
-      "authors": [
-        "Petr Spelda",
-        "Vit Stritecky"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1017/epi.2026.10139",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "Benchmark-Driven Selection of AI Can Improve Capabilities of Reasoning Language Models in Epistemology",
-      "url": "https://doi.org/10.1017/epi.2026.10139"
-    },
-    {
-      "abstract": "Abstract Many critics have argued that Meursault, the protagonist of Albert Camus’s L’Étranger , is profoundly aware that life is absurd. In this paper, I argue that this is partially correct: although Meursault believes that life lacks meaning (the existential lack), he has also failed to acknowledge the need for meaning (the existential demand). Since the Camusian account of the absurd involves both an existential demand and an existential lack, Meursault initially fails to completely recognize the absurdity of life. I analyze his initial failure to acknowledge the existential demand, its subsequent coming into conscious awareness in the second half of the novella, how it could have been out of awareness in the first place, and how the possibility of proactively pursuing a meaningful life is forlorn once he has become aware of the existential demand, which explains his sense of guilt at the end of the novella. This analysis offers crucial insight into both the phenomenology of the absurd and the normative implications that follow from the absurdity of life. The story, in short, implores us to embrace the existential demand – not only for the sake of integrity, but also to guide us towards a more meaningful life.",
-      "authors": [
-        "Thom Hamer"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1017/s0031819126101582",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophy",
-      "journal_id": "J145",
-      "origin": "crossref",
-      "title": "Coming to Terms with the Need for Meaning: How an Existential Demand Awakens in Camus’s\n                    L’Étranger",
-      "url": "https://doi.org/10.1017/s0031819126101582"
-    },
-    {
-      "abstract": "",
-      "authors": [],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1017/s0266267125100552",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Economics and Philosophy",
-      "journal_id": "J029",
-      "origin": "crossref",
-      "title": "EAP volume 42 issue 3 Cover and Front matter",
-      "url": "https://doi.org/10.1017/s0266267125100552"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Alexios Stamatiadis-Bréhier",
-        "Anthony Hatzimoysis"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1080/0020174x.2026.2740598",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "The source of normativity lies in its identity",
-      "url": "https://doi.org/10.1080/0020174x.2026.2740598"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Céline Henne",
-        "Yvonne Huetter-Almerigi",
-        "Matteo Santarelli"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1093/analys/anag066",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "title": "The Politics of Conceptualization",
-      "url": "https://doi.org/10.1093/analys/anag066"
-    },
-    {
-      "abstract": "Abstract Over the past decade, criminal law theory has witnessed a growing discussion about the right approach to theorising about criminal law and punishment between legal moralists and what has been termed the political or public law turn in criminal law theory. This article aims to bring this discussion to the forefront by reflecting on how we should theorise about criminal law and punishment. It offers an overview of the roots and historical development of the ongoing discussion, as well as the rise of the political turn in criminal law theory. It argues that the turn to political philosophy is underlined by a deeper issue, which is the lack of realism in criminal law theory, and draws on a similar discussion in political theory between political moralism and realism as a way to organise and develop the diverse ideas of the political turn into a coherent methodological framework that can guide research in criminal law theory.",
-      "authors": [
-        "Hend Hanafy"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1093/ojls/gqag032",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Oxford Journal of Legal Studies",
-      "journal_id": "J003",
-      "origin": "crossref",
-      "title": "Political Philosophy and Realism in Criminal Law Theory",
-      "url": "https://doi.org/10.1093/ojls/gqag032"
-    },
-    {
-      "abstract": "Abstract We examine the ethics of enrolling individuals in research that poses net health risks by appealing to their altruism. We argue that it is permissible to enroll individuals who are motivated by altruism when (i) they autonomously consent; and (ii) the net health risks are outweighed by the combination of (ii-a) the extent to which participation furthers their considered aims and thereby contributes to their wellbeing and agency and (ii-b) the study’s social value. Further, it is permissible to enroll altruistic individuals who cannot consent when: (I) their surrogate consents and they assent, ideally because it furthers their aims; and (II) the net health risks are outweighed by the extent to which participation contributes to their wellbeing and agency. This account leads us to suggest a revision of consent forms to include more information about studies’ social value and a reduction of barriers to the enrollment of participants who cannot consent.",
-      "authors": [
-        "Alex Voorhoeve",
-        "Aaron Eli Segal",
-        "David Wendler"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1163/17455243-bja10222",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "The Ethics of Relying on Research Participants’ Altruism",
-      "url": "https://doi.org/10.1163/17455243-bja10222"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Philip Reed"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1163/17455243-bja10226",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "What Kind of Death: The Ethics of Determining One’s Own Death, written by Govert den Hartogh",
-      "url": "https://doi.org/10.1163/17455243-bja10226"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Kyle Fruh"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1163/17455243-bja10228",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "No Justice, No Peace: The Ethics of Violent Protest, written by Avia Pasternak",
-      "url": "https://doi.org/10.1163/17455243-bja10228"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Helen Han Wei Luo"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-06",
-      "doi": "10.1163/17455243-bja10229",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Goodness and Tradition, written by Irene Liu",
-      "url": "https://doi.org/10.1163/17455243-bja10229"
-    },
     {
       "abstract": "",
       "authors": [
@@ -12708,6 +12455,21 @@
       "url": "https://doi.org/10.1093/pq/pqag085"
     },
     {
+      "abstract": "Abstract This article pays tribute to Robert Alexy (1945–2026), examining both his intellectual and personal legacy. It traces the development of his philosophical system through his seminal contributions to legal argumentation, constitutional rights, and the nature of law, highlighting their enduring significance for contemporary legal philosophy. Particular attention is devoted to the untapped metaphysical potential of his discourse‐theoretical account of law. The article also reflects on Alexy's extraordinary contribution to the international community of legal philosophy, especially through his teaching and mentorship in Kiel. It concludes with the author's personal appreciation of Alexy's intellectual generosity, moral integrity, and unwavering devotion to his students, colleagues, and loved ones.",
+      "authors": [
+        "George Pavlakos"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-19",
+      "doi": "10.1111/raju.70040",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Ratio Juris",
+      "journal_id": "J005",
+      "origin": "crossref",
+      "title": "Robert Alexy (1945–2026): In Memory and Tribute",
+      "url": "https://doi.org/10.1111/raju.70040"
+    },
+    {
       "abstract": "Analogy is recognized as a heuristic and rhetorical resource in economics, but economists have paid less attention to its epistemic function and to how to assess competing analogies. Bringing critical realism into dialogue with analogical hermeneutics supports an onto-hermeneutic approach to analogy in which analogical transfer is constrained by the target domain’s causal properties and empirical evidence. An analogy can structure and interpret economic representations without validating them. Here, proportional adequacy provides a criterion for distinguishing legitimate relational transfers. This allows plural economic approaches and representations while preserving empirical accountability and avoiding the treatment of alternative analogies as epistemically equivalent.",
       "authors": [
         "Atilano Pena-López"
@@ -12736,9 +12498,201 @@
       "origin": "crossref",
       "title": "The Squirrel, the Symbol, and the Social: On Stephen Turner’s Naturalistic Reconstruction of Social Theory",
       "url": "https://doi.org/10.1177/00483931261510390"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Alex Green"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1007/s10982-026-09606-2",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Law and Philosophy",
+      "journal_id": "J001",
+      "origin": "crossref",
+      "title": "Book Review",
+      "url": "https://doi.org/10.1007/s10982-026-09606-2"
+    },
+    {
+      "abstract": "Abstract This essay evaluates Steven Wall's ethical environmentalist defense of legal moralism and legal paternalism. Section II summarizes Wall's account of the permissible use of state power to enforce broad morality and raises epistemic objections. Section III provides an argument for preferring alternative, social methods for enforcing ethics. Section IV presents some examples of duties of broad morality that are (with rare exceptions) left solely to social enforcement in the United States but that are backed by legal sanctions in many other countries–filial responsibility laws and bad Samaritan laws. These examples of legal moralism are built upon ethical judgments in which we have a lot of confidence, and so they lend support to Wall's position. However, in the end, I believe they reveal additional reasons for preferring social (rather than legal) methods for enforcing morality.",
+      "authors": [
+        "Linda Radzik"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1007/s11572-026-09816-8",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Criminal Law and Philosophy",
+      "journal_id": "J008",
+      "origin": "crossref",
+      "title": "Who Should Enforce Morality?",
+      "url": "https://doi.org/10.1007/s11572-026-09816-8"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Luisa Borgia"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1007/s12152-026-09685-x",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
+      "origin": "crossref",
+      "title": "Long-Term Human Neural Organoids: From Functional Complexity to Proportionate Ethical Responsibility",
+      "url": "https://doi.org/10.1007/s12152-026-09685-x"
+    },
+    {
+      "abstract": "Abstract The European Union published the Artificial Intelligence Act (AI Act) in a strategic effort to align the development and application of Artificial Intelligence (AI) in the common market. This act, one of the first laws of its kind, strengthened the development of trustworthy and human-centered AI through new regulations, prescribing requirements that providers of AI systems must conform to. The Act prescribes model-level technical requirements for high-risk AI systems, such as in terms of accuracy, robustness and fairness, which are to be addressed and reported in the form of conformity assessments. We identify, however, a significant gap between the high-level legal descriptions provided in the law and the low-level requirements needed for the implementation of automated assessment tools for algorithmic auditing. This gap is a major obstacle in the operationalization of AI Act compliance. The difficulties are aggravated due the lack of harmonized AI standards and the existing heterogeneity of AI models, datasets, and tasks. To address this gap, we present an open-source proof-of-concept assessment tool to operationalize the technical requirements of the AI Act according to the current regulatory landscape. With this tool, we demonstrate a bottom-up interpretation of the technical requirements of the AI Act for an automated evaluation of accuracy, robustness, and fairness. We apply our work to two neural network-based healthcare applications and discuss the requirements for further integration to initial conformity assessment and to extended application to post-market monitoring and other algorithmic auditing frameworks. With further work, the base structure presented here can be applied for integration beyond healthcare to other AI high-risk application domains.",
+      "authors": [
+        "Emílio Dolgener Cantú",
+        "David Mack",
+        "Katharina Weitz",
+        "Eva Weicken",
+        "Jackie Ma"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1007/s43681-026-01516-2",
+      "first_seen_jst": "2026-11-21",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "From law to practice: model-level operationalization of technical governance requirements for high-risk AI in healthcare",
+      "url": "https://doi.org/10.1007/s43681-026-01516-2"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Marianne Najm"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1007/s43681-026-01517-1",
+      "first_seen_jst": "2026-11-21",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Beneficence as an objective for AI agents: an empirical study of ethical discourse on Moltbook",
+      "url": "https://doi.org/10.1007/s43681-026-01517-1"
+    },
+    {
+      "abstract": "Abstract Artificial intelligence is often depicted in public discourse as either a compliant statistical instrument or an emerging entity endowed with knowledge, creativity, feelings, and intentions that may soon rival human capabilities. Both portrayals are fundamentally flawed, as they rely solely on observable performance and infer internal experiences from social appearances. This Viewpoint advocates for a more rigorous model: conceptualizing artificial intelligence as a modern seer, an intricate system that compresses, retrieves, and recombines recorded human knowledge at scales unattainable by any individual. The Viewpoint develops the seer from a metaphor into an analytical framework. The seer is a consulted but uncertified epistemic authority: its capabilities generate interaction cues, the cues invite inferences of understanding, emotion, intention, and authority, and governance must act on these cues and on the calibration of trust rather than on claims about a machine mind. This model clarifies both the practical utility of these systems and the misguided authority often attributed to them. It demonstrates that synthesis can generate novel insights without consciousness, that affective language can provide reassurance without genuine concern, and that value-sensitive recommendations can be produced without moral agency. These distinctions do not render the technology inherently safe, as systems lacking experience can still amplify errors, entrench biases, concentrate power, and undertake consequential actions. The field of drug development exemplifies these limitations: a model may integrate evidence throughout the pharmaceutical process; nevertheless, biological validation and accountable judgment remain essential. This discussion is no longer solely philosophical; regulatory bodies such as the United States Food and Drug Administration, the European Medicines Agency, the International Committee of Medical Journal Editors, and prominent scientific publishers have each adopted frameworks to evaluate context, risk, credibility, and transparency, none of which directly address machine consciousness. Institutions have already moved beyond metaphor-based policymaking. This Viewpoint encourages scientists and scholars to do the same. It identifies ten misconceptions, eight category errors and two factual errors, traces each to the interaction cue that produces it, and states what the framework adds to existing debates on anthropomorphism, stochastic parrots, responsibility gaps, and context-based governance. Addressing these misconceptions will change how AI systems are tested, trusted, and governed.",
+      "authors": [
+        "Sarfaraz K. Niazi",
+        "Mikołaj Stańczak"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1007/s43681-026-01527-z",
+      "first_seen_jst": "2026-11-21",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Misconceptions of artificial intelligence: the modern seer as a synthesis of human knowledge without consciousness, emotion, or moral sill",
+      "url": "https://doi.org/10.1007/s43681-026-01527-z"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "James Giordano",
+        "Elise Annett"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1007/s43681-026-01533-1",
+      "first_seen_jst": "2026-11-21",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Conscious machines revisited: embodiment, sentience, and the neuroethical imperative",
+      "url": "https://doi.org/10.1007/s43681-026-01533-1"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ann J. Cahill"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1017/hyp.2026.10119",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Hypatia",
+      "journal_id": "J075",
+      "origin": "crossref",
+      "title": "Review of Manon Garcia’s Living with Men: Reflections on the Pelicot Trial",
+      "url": "https://doi.org/10.1017/hyp.2026.10119"
+    },
+    {
+      "abstract": "Abstract Savage’s normative model of rational decision-making is deficient because the Sure-thing Postulate systematically ignores important information contained in lotteries. Useful statistical facts about lotteries, such as their modes and medians, are available as defeasible reasons for reasoned choices between lotteries. Because such summary statistics are holistic properties of lotteries, we can find cases where appealing to facts about modes and medians as normative reasons for choosing between lotteries conflicts with Savage’s Sure-thing Postulate. Such cases show the Sure-thing Postulate to be implausible and undermine both Savage’s argument for subjective expected utility theory and his argument for Bayesian subjective probabilism.",
+      "authors": [
+        "Andrew Kernohan"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1017/s0266267126100868",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Economics and Philosophy",
+      "journal_id": "J029",
+      "origin": "crossref",
+      "title": "Reasoning about risk and the Sure-thing Postulate",
+      "url": "https://doi.org/10.1017/s0266267126100868"
+    },
+    {
+      "abstract": "Abstract Spain’s Law 8/2021 marks a paradigm shift in disability rights, replacing substituted decision-making with a support-based model for legal capacity aligned with the Convention on the Rights of Persons with Disabilities (CRPD). This article analyses the subsequent jurisprudence of the Spanish Supreme Court, investigating how it navigates the tension between individual autonomy and traditional paternalism. Drawing on theories of institutional conversion and cognitive dissonance, a qualitative analysis of seventeen binding judgments reveals a profound jurisprudential struggle. Findings highlight the primacy of medical-forensic reports over individuals’ expressed will, enabled by a weak interpretation of the legal duty to atender (to consider, rather than to follow). This allows the Court to override the person’s expressed will based on a perceived lack of insight, reverting to a doctor-knows-best logic. This institutional conversion undermines the reform, demonstrating how judicial practice perpetuates structural oppression and hinders the realisation of universal legal capacity.",
+      "authors": [
+        "Maria Laura Serra"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1017/s1744552326100718",
+      "first_seen_jst": "2026-11-21",
+      "journal": "International Journal of Law in Context",
+      "journal_id": "J125",
+      "origin": "crossref",
+      "title": "Will, preferences and the primacy of expert reports: navigating paternalism in Spain’s legal capacity reform (Law 8/2021)",
+      "url": "https://doi.org/10.1017/s1744552326100718"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Derek Edyvane",
+        "Yuna Blajer de la Garza",
+        "Carole Gayet-Viaud",
+        "Andrew Schaap",
+        "Suzanne Whitten"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1057/s41296-026-00861-5",
+      "first_seen_jst": "2026-11-21",
+      "journal": "Contemporary Political Theory",
+      "journal_id": "J048",
+      "origin": "crossref",
+      "title": "Citizenship, civility and the democracy of everyday life",
+      "url": "https://doi.org/10.1057/s41296-026-00861-5"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sebastian Porsdam Mann",
+        "Brian D. Earp",
+        "Julian Savulescu"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1080/15265161.2026.2741293",
+      "first_seen_jst": "2026-11-21",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Mirror Life, Thrice: Three Levels of Mirror Biology and Three Ethical Conditions",
+      "url": "https://doi.org/10.1080/15265161.2026.2741293"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-20",
-  "window_start": "2026-10-06"
+  "window_end": "2026-11-21",
+  "window_start": "2026-10-07"
 }

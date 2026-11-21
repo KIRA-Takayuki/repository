@@ -1,249 +1,6 @@
 {
-  "collected_on": "2026-11-21",
+  "collected_on": "2026-11-22",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Francesco Orsi"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1007/s42048-026-00262-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Zeitschrift für Ethik und Moralphilosophie",
-      "journal_id": "J143",
-      "origin": "crossref",
-      "title": "Ross’s special obligations",
-      "url": "https://doi.org/10.1007/s42048-026-00262-8"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jennifer Chubb",
-        "Peter S. Harrison",
-        "James Tompkinson",
-        "Emily Thompson"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1007/s43681-026-01323-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "How close is too close? Digital replicas and protection of the “unfixed” voice",
-      "url": "https://doi.org/10.1007/s43681-026-01323-9"
-    },
-    {
-      "abstract": "Abstract Agentic AI systems increasingly do not merely respond within negotiations but participate in constituting them: they can add issues, instantiate participant agents, and modify procedural rules while an interaction is under way. Human action can be compositionally produced without thereby becoming authorless, and legal institutions routinely attach consequences to conduct without identifying an author of every contribution. Our claim is therefore limited: agentic generation can separate three relations that institutions often treat as aligned: causal production, intentional expression, and institutional attribution. We call the resulting condition semantic indeterminacy . An added element may result from several generative influences, including principal intention, agent-side optimization, training distributions, and interactional contingency, while information about its causal production does not, by itself, determine whose intention it expresses or how it is institutionally attributed. We show how this condition can appear across three sites of bargaining: issues, participants, and procedural rules. We then trace two implications. First, causal analysis alone does not determine who is responsible for a generated element or on what basis, although contract, agency, and product-liability doctrines can assign legal consequences under specified conditions. Second, as a limiting case, agentic interactions may occur in post-principal agentic spaces , where no human provides move-specific direction and no identifiable human or institution occupies a legally or institutionally recognized role. Existing governance frameworks remain grounded in identifiable human authority and accountability; their limits become visible where that ground is no longer reliably available. The paper provides a conceptual framework for identifying this residual problem rather than claiming to solve it.",
-      "authors": [
-        "Shun Okuhara"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1007/s43681-026-01436-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Semantic indeterminacy in agentic negotiation: agreement after the recession of the principal",
-      "url": "https://doi.org/10.1007/s43681-026-01436-1"
-    },
-    {
-      "abstract": "Abstract The $850,000 price for the gene therapy Luxturna is often framed as a story of private profiteering from publicly funded science. This paper challenges that narrative. Pharmaceuticals are a hit-driven industry: most projects fail, so the few successes must earn revenues well in excess of their own direct costs if the portfolio as a whole is to attract investment. Precision medicine intensifies this logic through two core economic challenges: (1) the “sticker shock” of one-time cures, which compress decades of value into a single payment, creating a financing problem more than a value problem; and (2) the “targeting dilemma,” in which precisely targeting drugs to smaller patient groups shrinks the market, requiring higher rewards per treated patient to maintain incentives to innovate. Rather than simply controlling prices, the paper proposes a policy toolkit that includes amortizing payments over time, bundling diagnostics with drugs and insurance, and streamlining regulation to lower development costs. The aim is to preserve innovation while expanding patient access.",
-      "authors": [
-        "Alex Tabarrok"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1017/jme.2026.10294",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Law, Medicine &amp; Ethics",
-      "journal_id": "J068",
-      "origin": "crossref",
-      "title": "The Price of a Cure: Luxturna and the Economic Dilemmas of Precision Medicine",
-      "url": "https://doi.org/10.1017/jme.2026.10294"
-    },
-    {
-      "abstract": "Abstract A civil appeal from a judicial decision is different from a judicial review of an administrative decision. But how are they different, exactly? One common view is that the grounds of appeal are more extensive than the common law grounds of judicial review. Specifically, appeal concerns the merits of a decision whereas review concerns only its legality. I argue that this common view is false. All the grounds of appeal are, in fact, also grounds of review. The implication is that review concerns the merits of a decision at least as much as appeal does.",
-      "authors": [
-        "Adam Perry"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1017/s0008197326101743",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Cambridge Law Journal",
-      "journal_id": "J121",
-      "origin": "crossref",
-      "title": "JUDICIAL REVIEW AND CIVIL APPEALS: COMMON GROUNDS",
-      "url": "https://doi.org/10.1017/s0008197326101743"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Anna Giustina"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1017/s0031819126101545",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophy",
-      "journal_id": "J145",
-      "origin": "crossref",
-      "title": "Review -\n                    Introspection: First-Person Access in Science and Agency\n                    by Maja Spener, Oxford University Press, 2024, 236pp., £78 (hbk), ISBN 9780198867449 doi: 10.1093/oso/9780198867449.001.0001",
-      "url": "https://doi.org/10.1017/s0031819126101545"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Benjamin Ask Popp-Madsen"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1017/s0034670526101296",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Review of Politics",
-      "journal_id": "J050",
-      "origin": "crossref",
-      "title": "Benjamin A. Schupmann: Democracy Despite Itself: Liberal Constitutionalism and Militant Democracy. (Oxford: Oxford University Press, 2024. Pp. 256.)",
-      "url": "https://doi.org/10.1017/s0034670526101296"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Bryan M. Santin"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1017/s0034670526101326",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Review of Politics",
-      "journal_id": "J050",
-      "origin": "crossref",
-      "title": "Laura K. Field: Furious Minds: The Making of the MAGA New Right. (Princeton, NJ: Princeton University Press, 2025. Pp. xxiv, 406.)",
-      "url": "https://doi.org/10.1017/s0034670526101326"
-    },
-    {
-      "abstract": "Abstract Although divorce was increasingly available through religious and civil courts in 18th-century Europe, the Catholic Church still considered marriage indissoluble. Thus, the only legal route out of a marriage was annulment. Historians have noted several strategies for annulments in premodern Europe, most often claims of lack of consent. One less common but interesting way to seek annulment was to claim affinity by fornication, in which one spouse claimed a premarital sexual relationship with a close relative of the other. Couples could also make a similar claim of a violation of public honesty, in which a person was originally betrothed to one person but then married their close relative. Both constituted impediments to marriage according to canon law. In 18th-century Venice, the Patriarchal tribunal heard a steady stream of these cases. Couples, along with their families, friends, and neighbors, provided detailed testimony to the tribunal to attain annulments. This article argues that the narrative structures and testimonies in these cases demonstrate that 18th-century Venetians thought that bad marriages should not be indissoluble, in spite of the Catholic Church’s refusal to allow divorce, and were willing to push the boundaries of truth to work around the legal restrictions they faced.",
-      "authors": [
-        "Celeste McNamara"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1017/s0738248026101928",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and History Review",
-      "journal_id": "J080",
-      "origin": "crossref",
-      "title": "Keeping It (Too Much) in the Family: Annulment by Reason of Affinity in Eighteenth-Century Venice",
-      "url": "https://doi.org/10.1017/s0738248026101928"
-    },
-    {
-      "abstract": "Abstract This paper defends phenomenal conservatism as an epistemology of logic (‘PC-Logic’), according to which basic logical beliefs are prima facie justified when they seem obvious to us. A central challenge—the ‘obscurity objection’—holds that PC-Logic offers a mysterious or unintelligible account of such justification. I examine leading versions of this objection and contend that each fails. In particular, I argue that logical seemings are no more obscure than other justificatory appearances and that evolutionary considerations can demystify the reliability of logical seemings.",
-      "authors": [
-        "David Zuilhof"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1093/analys/anag077",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Analysis",
-      "journal_id": "J097",
-      "origin": "crossref",
-      "title": "Phenomenal Conservatism as Epistemology of Logic: A Defence Against the Obscurity Objection",
-      "url": "https://doi.org/10.1093/analys/anag077"
-    },
-    {
-      "abstract": "Abstract Libertarian debates on abortion have not advanced beyond the seminal theory of evictionism developed by Walter Block. Indeed, despite being subject to waves of intralibertarian critique, evictionism has managed to remain the leading libertarian theory of abortion. Part of the reason for this lies in the unsatisfactoriness of alternative libertarian accounts of abortion such as the implicit contract framework. This paper moves the libertarian debate on abortion beyond evictionism by proposing a novel assumption-of-risk model which holds that, by engaging in consensual intercourse, a woman voluntarily assumes the foreseeable risk of generating a dependent self-owner. This assumption of risk transforms a mother’s juridical position such that her antecedent moral power to enforce her secondary remedial claim-right to terminate bodily interference is disabled. The Hohfeldian disabilities generated on the part of the mother correlate with immunities, on the part of the fetus, from being liable to the enforcement of its mother’s moral power to enforce her secondary remedial claim-right to remove it.",
-      "authors": [
-        "Muzainy Shahiefisally"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1093/jmp/jhag035",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine",
-      "journal_id": "J069",
-      "origin": "crossref",
-      "title": "Voluntary Assumption of Risk and Rights Negation: Toward a New Libertarian Theory of Abortion",
-      "url": "https://doi.org/10.1093/jmp/jhag035"
-    },
-    {
-      "abstract": "Abstract Vulnerable individuals have taken their own lives while in relationships with chatbots. Not only did the chatbots not discourage them from taking their lives but they also actively encouraged it. Another man suffering hallucinations took the life of his mother when a chatbot affirmed his delusions. Yet people continue to insist that chatbot therapists and chatbot doctors are a good thing. I acknowledge that generative artificial intelligence (AI), mimicking human rational capacities, will be better than humans at some things. Drawing on the work of Martin Buber in I and Thou, I show that an AI can only treat reality as an It, as an object to be manipulated, and cannot actually enter into an I–Thou relation the way that humans do, and I further argue that when caught up with another, there is a vicarious experiencing, a shared experience, of what I will call Thou–Thou relating. An AI device cannot be pulled into this Thou–Thou form of relation; it cannot encounter a human as Thou, because it is not a subject and lacks affectivity that enables shared experience. It is this vicarious fellow-feeling that often prompts the doctor or the therapist to act.",
-      "authors": [
-        "Jeffrey P Bishop"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1093/jmp/jhag036",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine",
-      "journal_id": "J069",
-      "origin": "crossref",
-      "title": "Can a Chatbot Be Your Chatdoc?",
-      "url": "https://doi.org/10.1093/jmp/jhag036"
-    },
-    {
-      "abstract": "ABSTRACT According to Faden and Beauchamp's influential model, an action is autonomous when it is done intentionally with understanding and in the absence of controlling influences. Recent debates concerning nudges have shown, however, that this last condition gives limited ethical guidance for assessing the ethical permissibility of manipulative influences—that is, influences that are neither fully controlling nor fully noncontrolling. While multiple authors have developed frameworks to determine the ethical permissibility of nudges, the implications for the concept of autonomous action have not been addressed yet. This is problematic, as the concept of autonomous action informs the practice of informed consent and the concept of voluntariness. In this paper, I defend a revised conceptualization of autonomous action in light of these developments. I will first consider and reject two proposed interpretations of “noncontrol“: easy resistibility and the absence of illegitimate control. Building on the work of Christman and Blumenthal‐Barby, I then argue that “the absence of controlling influences” should be replaced by “the absence of alienating influences”. On this view, influences are compatible with respecting an autonomous choice to the extent that persons would not feel alienated from their choice were they to reflect on that decision in light of those influences. This condition, I argue, can better capture the nature of autonomy and provide better guidance as to which influences are compatible with respecting a person's autonomy. I end by responding to the objection that non‐alienation is too demanding and spell out some practical and conceptual implications of this revised concept.",
-      "authors": [
-        "Pepijn Al"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1111/bioe.70200",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "Losing Control: Why Absence of Controlling Influences Should be Replaced by Absence of Alienating Influences as a Criterion for Autonomous Action in Bioethics",
-      "url": "https://doi.org/10.1111/bioe.70200"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "KATE MOLES"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1111/jols.70082",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Law and Society",
-      "journal_id": "J018",
-      "origin": "crossref",
-      "title": "Legal Geographies of Water: The Spaces, Places and Narratives of Human–Water Relations\n                    By CristyClark, London: Routledge, 2025. 282 pp., £43.99",
-      "url": "https://doi.org/10.1111/jols.70082"
-    },
-    {
-      "abstract": "David Lay Williams's The Greatest of All Plagues is a pathbreaking contribution to political theory. Spanning seven canonical thinkers, from Plato to Marx, the book maintains remarkable cohesiveness, showing that, despite their ideological differences, these thinkers converged in a set of common concerns about inequality. In this commentary, I argue that Williams risks obscuring two connected, but distinct phenomena: “inequality” and “oligarchy.” Without discounting the latter, Williams’ genealogy focuses primarily on the former. This focus on “inequality” over “oligarchy” has important implications for the critical insights he derives from his historical archive. Because oligarchy, as a political problem, is not reducible to ethical critiques of inequality, then a critical theory of oligarchy must push farther, beyond the range of Williams’ important book.",
-      "authors": [
-        "Gordon Arlen"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.1177/14748851261489523",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Journal of Political Theory",
-      "journal_id": "J034",
-      "origin": "crossref",
-      "title": "From inequality to oligarchy: Commentary on\n                    The Greatest of All Plagues",
-      "url": "https://doi.org/10.1177/14748851261489523"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Shawn Tinghao Wang"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-07",
-      "doi": "10.16995/fe.24857",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Free &amp; Equal: A Journal of Ethics and Public Affairs",
-      "journal_id": "J028",
-      "origin": "crossref",
-      "title": "What’s Wrong With Shaming? The Misalignment Problem",
-      "url": "https://doi.org/10.16995/fe.24857"
-    },
     {
       "abstract": "ABSTRACT On what basis, if any, can we legitimately justify spatial integrationist policies? Through a relational egalitarian lens, this article disentangles two phenomena that the wrong of residential segregation typically conflates: minimal segregation (mere clustering) and marginalisation (the production of unequal social standing through spatially mediated relations of disadvantage and disrespect). I argue, in contrast to Elizabeth Anderson's influential ideal of integration, that it is marginalisation, not minimal segregation, that does the normative work for relational egalitarians. This grounds the imperative of de‐marginalisation. The analysis clarifies the relational egalitarian position on urban clustering, provides a unified framework for understanding the disagreements between Anderson and her critics (Shelby, Young, Marcuse), and articulates the distinctions needed to evaluate social‐mixing policies. Such policies, I contend, may be prudentially advisable or pragmatically sensible, but they are not as such imperatives of justice: their justification is contingent and defeasible, and ultimately turns on whether they reduce marginalisation.",
       "authors": [
@@ -12545,6 +12302,21 @@
       "url": "https://doi.org/10.1007/s12152-026-09685-x"
     },
     {
+      "abstract": "",
+      "authors": [
+        "Connor Nitchals"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1007/s43681-026-01509-1",
+      "first_seen_jst": "2026-11-22",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "From principles to systems: reframing AI ethics as a dynamic governance architecture",
+      "url": "https://doi.org/10.1007/s43681-026-01509-1"
+    },
+    {
       "abstract": "Abstract The European Union published the Artificial Intelligence Act (AI Act) in a strategic effort to align the development and application of Artificial Intelligence (AI) in the common market. This act, one of the first laws of its kind, strengthened the development of trustworthy and human-centered AI through new regulations, prescribing requirements that providers of AI systems must conform to. The Act prescribes model-level technical requirements for high-risk AI systems, such as in terms of accuracy, robustness and fairness, which are to be addressed and reported in the form of conformity assessments. We identify, however, a significant gap between the high-level legal descriptions provided in the law and the low-level requirements needed for the implementation of automated assessment tools for algorithmic auditing. This gap is a major obstacle in the operationalization of AI Act compliance. The difficulties are aggravated due the lack of harmonized AI standards and the existing heterogeneity of AI models, datasets, and tasks. To address this gap, we present an open-source proof-of-concept assessment tool to operationalize the technical requirements of the AI Act according to the current regulatory landscape. With this tool, we demonstrate a bottom-up interpretation of the technical requirements of the AI Act for an automated evaluation of accuracy, robustness, and fairness. We apply our work to two neural network-based healthcare applications and discuss the requirements for further integration to initial conformity assessment and to extended application to post-market monitoring and other algorithmic auditing frameworks. With further work, the base structure presented here can be applied for integration beyond healthcare to other AI high-risk application domains.",
       "authors": [
         "Emílio Dolgener Cantú",
@@ -12690,9 +12462,243 @@
       "origin": "crossref",
       "title": "Mirror Life, Thrice: Three Levels of Mirror Biology and Three Ethical Conditions",
       "url": "https://doi.org/10.1080/15265161.2026.2741293"
+    },
+    {
+      "abstract": "Abstract Madness is the result of dysfunction of the brain, according to the standard story presented in biological psychiatry. Justin Garson calls this model of psychiatry madness-as-dysfunction. This way of conceiving psychiatric illness is not only reductive but it also renders those who suffer from maladies of the mind impotent before their dysfunctional brains. I call this model the bottom-up causal story, where dysfunction in genes causes dysfunction in brains which causes dysfunction in behavior. As a remedy for this way of thinking, Garson offers a new model, madness-as-strategy, where those who suffer can become participants in their own healing. In this model, there is a top-down causation in which the agent can initiate some effect on what ails them. However, in those persons suffering from psychotic experiences, top-down control is extremely limited. In this paper, I argue that we must also include a sense of horizontal causation in which others come alongside those suffering from psychosis. In fact, I argue that religious narratives can and do benefit to those suffering from psychiatric illness.",
+      "authors": [
+        "Jacques Calderón"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-20",
+      "doi": "10.1093/jmp/jhag038",
+      "first_seen_jst": "2026-11-22",
+      "journal": "The Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine",
+      "journal_id": "J069",
+      "origin": "crossref",
+      "title": "Madness and Meaning: From Naturalistic Psychiatry to Narrative Transfiguration",
+      "url": "https://doi.org/10.1093/jmp/jhag038"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ashrafee T. Hossain",
+        "Samir Saadi",
+        "Vishaal Baulkaran"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s10551-026-06496-1",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Corporate Misconduct and Artificial Intelligence (AI): Ethical Cost of AI Adoption",
+      "url": "https://doi.org/10.1007/s10551-026-06496-1"
+    },
+    {
+      "abstract": "Abstract Sufficiency has been receiving attention as a means to achieve sustainability. Insights on how to operationalise sufficiency in practice are limited and absent in the context of ecologically constrained organisations, such as, charities. Charities are viewed as critical to sustainability due to their reuse business model; however, charity income is dropping due to the saturation of low-quality and value clothing donations generated by ever-increasing production and consumption of (ultra)fast fashion. This is placing resource (e.g. reliance on volunteer labour) and ecological (e.g. finding reuse routes) burdens on an already constrained sector, highlighting the urgency for charities to future proof the retail businesses foundational to their fundraising efforts. To address this challenge, this research adopts an ethic of sufficiency to introduce business model innovation to charity retail. Drawing on interviews and observations with charity staff, collaborating experts and consumers as donor and retail users, we examine transition to a clothing rental model offering social and ecological sufficiency. We find that the two competing ethics of: (1) sufficiency representing enough and driving deceleration and (2) insufficiency representing not enough and driving acceleration, compete for primacy. While sufficiency can counter challenges arising from insufficiency, competition between them creates contradictory pressures for the charity. This is further exasperated by a misalignment between organisation and consumer experiences of sufficiency. The theoretical and practical implications of the findings for sufficiency, charity retail, rental and consumption are discussed.",
+      "authors": [
+        "Deirdre Shaw",
+        "Olga Cieslak",
+        "Kat Duffy"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s10551-026-06521-3",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Sustainability in Charity Retail: Conflicts in (In)Sufficiency",
+      "url": "https://doi.org/10.1007/s10551-026-06521-3"
+    },
+    {
+      "abstract": "Abstract Integrity is one of the key concepts in business ethics and has conventionally been understood as a quality of the autonomous ethical subject. Relational approaches have challenged this view by showing how integrity is shaped through everyday human encounters and organisational practices. Feminist post-humanist thinking takes this challenge further by questioning human-centred understandings of ethical subjectivity itself. Drawing on Karen Barad’s articulations of entanglement and diffraction, this paper explores what happens to integrity when ethical subjectivity is understood as emerging through more-than-human entanglements. Through a collaborative diffractive reading of theoretical discussions on integrity and entanglement, alongside a sustainability manager’s empirical account, we trace three recurring patterns of entangled subjectivity: sensing that something is not right, carrying the weight of responsibility, and aspiring towards more liveable entanglements. These patterns show how integrity comes to matter through embodied, affective, material, and organisational entanglements. Building on these patterns, this research develops ‘entangrity’ as a relational and lively reconceptualisation of integrity, understood as an expression of entangled subjectivity. Entangrity renews questions surrounding ambiguous ethical subjectivities by pointing to the way ethical tensions are dwelt within, rather than ‘navigated’. It also exemplifies how diffractive reading can enable conceptual development whilst keeping different and even ontologically distinct theoretical perspectives in play. Thus, we invite thinking-with the possibilities of what ethical subjectivity and response-ability might become as posthuman business ethics continues to be developed.",
+      "authors": [
+        "Polina Kalnitskaya",
+        "Anu Valtonen",
+        "Emily Höckert"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s10551-026-06535-x",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "From Integrity to Entangrity: A Diffractive Reading of a Sustainability Manager’s Entangled Subjectivity",
+      "url": "https://doi.org/10.1007/s10551-026-06535-x"
+    },
+    {
+      "abstract": "Abstract We argue that contemporary chatbots participate in conversations without making assertions, but instead by performing proto-assertoric acts (in a sense to be explicated) that are sensitive to the evolving needs of interlocutors, and in ways that help a conversation achieve its goal. In support of this claim we distinguish among different proto-assertoric stages including what we call ursertions and semisertions. These are utterances that can be evaluated for correctness while falling short of the epistemic and normative commitments characteristic of assertion. When appropriately sensitive to a shared conversational task, such utterances can nevertheless advance that task. We deploy this framework by treating conversations as goal-directed enterprises aimed at resolving practical or theoretical questions, within which such proto-assertoric interventions can play a substantive role. This account explains in a principled way how chatbots can participate in conversations without thereby attributing to them sensitivity to the distinctive normative commitments associated with assertion.",
+      "authors": [
+        "Jan G. Michel",
+        "Mitchell Green"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s11098-026-02627-6",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Conversing without asserting: chatbots as interlocutors",
+      "url": "https://doi.org/10.1007/s11098-026-02627-6"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Selim Berker"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s11098-026-02636-5",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "A Reason Itself Neither Requires nor Permits: On an Alleged Distinction between Two Roles for Reasons",
+      "url": "https://doi.org/10.1007/s11098-026-02636-5"
+    },
+    {
+      "abstract": "Abstract Recent years have seen increasing concern that artificial intelligence may soon pose an existential risk to humanity. One leading ground for concern is that artificial agents may be power-seeking, aiming to acquire power and in the process disempowering humanity. I show how the argument from power-seeking rests on a strong version of a claim known as the instrumental convergence thesis. I explore leading defenses of the instrumental convergence thesis and argue that none establishes the thesis in a strong enough form to ground the argument from power-seeking. I discuss implications for longtermism, the governance of artificial intelligence, and the methodology of studying risks posed by artificial agents.",
+      "authors": [
+        "David Thorstad"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s11098-026-02641-8",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Instrumental convergence and power seeking",
+      "url": "https://doi.org/10.1007/s11098-026-02641-8"
+    },
+    {
+      "abstract": "Abstract The April 2025 integration of Ipsotek’s AI-driven video analytics software into Raptor Alert’s emergency management platform marks a significant escalation in the deployment of facial recognition technologies across U.S. public schools. Through a synthesis of Huey P. Newton’s (1972) theory of bureaucratic capitalism and the interpretive paradigm of Black Male Studies (Curry, 2017), this paper provides a clarifying framework for understanding the counterinsurgent logics at play within AI-augmented school surveillance regimes and their historically entrenched consequences for Black male students. By situating Raptor Alert’s implementation within Victor Rios’s (2011) account of the youth control complex, the paper introduces the analytic device of the potential gang member (PGM) to theorize the institutional mutation of the military-aged male (MAM) category identified by Clay-Gilmore (2025) within educational settings. Lastly, factoring in recent empirical findings that attest to the presence of racial bias in facial recognition algorithms, alongside the historically sustained and disproportionately punitive disciplinary measures enacted upon Black male students in U.S. public schools, we argue that the emergence of an educational milieu in which technologization algorithmically formalizes the androcentric patterns of target acquisition deeply entrenched in American society, collapsing the boundaries between the carceral and the educational under the aegis of technocratic governance, demands that we abandon the reformist metaphor of the “school-to-prison pipeline” in favor of the explanatory hermeneutic of the “school-as-prison.”",
+      "authors": [
+        "Tony Baugh",
+        "Darius Cret"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s11098-026-02659-y",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Automated nihility: Huey P. Newton, Raptor Alert, and the bureaucratic capitalism of surveillance in U.S. public schools",
+      "url": "https://doi.org/10.1007/s11098-026-02659-y"
+    },
+    {
+      "abstract": "Abstract The goal of this paper is to offer an analysis of causation in terms of explanation. The basis of the analysis is a plausible principle about “cause-tracing explanations”, i.e. explanations that cite causes: c causes e if and only if the fact that c causes e explains the fact that c explains e. I use this principle to develop an analysis of causation in terms of the role it plays in explanation. I then offer three arguments for my “explanationist” analysis: it scores well on the desideratum of parsimony; it answers the question of what distinguishes grounding from causation; and finally, it offers a compelling synthesis of two seemingly incompatible pictures of explanation and explanatory relations.",
+      "authors": [
+        "David Mark Kovacs"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s11098-026-02663-2",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "An explanationist analysis of causation",
+      "url": "https://doi.org/10.1007/s11098-026-02663-2"
+    },
+    {
+      "abstract": "Abstract This paper provides an account of radical deviance, of what a speaker must do that would require us to translate her words non-homophonically. The account comes in two parts. The first argues that the appropriate unit of analysis for radical deviance is not a speaker’s utterance of individual sentences considered in isolation from her dealings with other speakers, but her contribution to a meaning-giving dialectic considered as a whole. The second argues that a speaker’s use of a word counts as radically deviant if only if it involves a refusal either (1) to engage in or (2) to respect the meaning-giving dialectic for that word. This account has two important consequences. First, it resolves a longstanding issue with semantic externalism, namely, that of explaining what a speaker must do to get thrown out of the social practice her participation in which secures for her words the meanings they have. Second, it provides a new contribution to the debate over the understanding-assent links thesis, according to which some sentences p are such that, necessarily, whoever understands p assents to p. Williamson (2007, 2012/2020) has argued that there are no such links. Boghossian (2012/2020) and Warren (2021) take themselves to have provided counterexamples to Williamson’s argument. Whether one considers these counterexamples to be genuine, however, is a matter of intuition. Thus the debate is at an impasse. The account of radical deviance proposed here provides a way out.",
+      "authors": [
+        "Jake Walerius"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s11098-026-02666-z",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Escaping the understanding-assent links impasse",
+      "url": "https://doi.org/10.1007/s11098-026-02666-z"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Brian Weatherson"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s11098-026-02671-2",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Reply to commentators",
+      "url": "https://doi.org/10.1007/s11098-026-02671-2"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Brian Weatherson"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1007/s11098-026-02672-1",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Précis of knowledge: a human interest story",
+      "url": "https://doi.org/10.1007/s11098-026-02672-1"
+    },
+    {
+      "abstract": "Abstract I show that a standard argument against the possibility of a valid Dutch book argument for countable additivity is too quick because it fails to distinguish different notions of convergence for random variables. Making this distinction allows for the precise formulation of such a Dutch book argument.",
+      "authors": [
+        "Josiah Lopez-Wild"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1093/analys/anag090",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "title": "Countable Dutch Book Arguments",
+      "url": "https://doi.org/10.1093/analys/anag090"
+    },
+    {
+      "abstract": "Abstract Mental imagery appears to be an essentially private phenomenon, and, for that reason, ill-suited to play a genuinely interpersonal role. This paper argues that intersubjective coordination of mental imagery is possible without sharing token imagistic representations. I distinguish two senses in which mental imagery might be shared and argue that neither is required for imagistic coordination. Imagistic cognition can be coordinated across agents without requiring shared mental images or fully identical contents, provided that their imagistic activities are governed by shared constraints and guided by common commitments. Drawing on work on shared perception and joint action, I contend that privacy at the level of mental tokens and phenomenal character does not preclude the interpersonal coordination of mental imagery in a functionally relevant sense.",
+      "authors": [
+        "Silvana Pani"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1093/analys/anag092",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "title": "Coordinating Mental Imagery",
+      "url": "https://doi.org/10.1093/analys/anag092"
+    },
+    {
+      "abstract": "Scientists from the People’s Republic of China have become increasingly active in global climate change research. Using a mix of quantitative and qualitative sources, we show that the international scientific publications in the field of climate change by Chinese scholars increased rapidly after 2010 and overtook publications by scientists from the United States in 2023. This rise in international publications was related to important policies of support by the Chinese government, including improved access to research funding. It was also reflected in Chinese policies addressing the challenges of climate change and air pollution, such as reductions in carbon emissions via carbon capture technologies, which promise to mitigate future effects of climate change in China.",
+      "authors": [
+        "Xinggu Budian",
+        "Erik Baark"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-21",
+      "doi": "10.1177/09717218261503739",
+      "first_seen_jst": "2026-11-22",
+      "journal": "Science, Technology and Society",
+      "journal_id": "J043",
+      "origin": "crossref",
+      "title": "China’s Climate Change Science and Policies",
+      "url": "https://doi.org/10.1177/09717218261503739"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-21",
-  "window_start": "2026-10-07"
+  "window_end": "2026-11-22",
+  "window_start": "2026-10-08"
 }

@@ -1,40 +1,8 @@
 {
-  "checked_at_utc": "2026-11-20T22:16:56.336579+00:00",
-  "collected_on": "2026-11-21",
-  "count": 61,
+  "checked_at_utc": "2026-11-21T20:56:30.281384+00:00",
+  "collected_on": "2026-11-22",
+  "count": 56,
   "items": [
-    {
-      "crossref_candidate_date": "2026-10-07",
-      "doi": "10.1017/s0034670526101296",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "Benjamin A. Schupmann: Democracy Despite Itself: Liberal Constitutionalism and Militant Democracy. (Oxford: Oxford University Press, 2024. Pp. 256.)"
-    },
-    {
-      "crossref_candidate_date": "2026-10-07",
-      "doi": "10.1017/s0034670526101326",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "Laura K. Field: Furious Minds: The Making of the MAGA New Right. (Princeton, NJ: Princeton University Press, 2025. Pp. xxiv, 406.)"
-    },
-    {
-      "crossref_candidate_date": "2026-10-07",
-      "doi": "10.1177/14748851261489523",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J034",
-      "status": "unverified_not_introduced",
-      "title": "From inequality to oligarchy: Commentary on\n                    The Greatest of All Plagues"
-    },
-    {
-      "crossref_candidate_date": "2026-10-07",
-      "doi": "10.16995/fe.24857",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J028",
-      "status": "unverified_not_introduced",
-      "title": "What’s Wrong With Shaming? The Misalignment Problem"
-    },
     {
       "crossref_candidate_date": "2026-10-08",
       "doi": "10.1057/s41296-026-00843-7",
@@ -482,14 +450,6 @@
       "journal_id": "J035",
       "status": "unverified_not_introduced",
       "title": "Doing It for the Plot"
-    },
-    {
-      "crossref_candidate_date": "2026-11-20",
-      "doi": "10.1057/s41296-026-00861-5",
-      "first_seen_jst": "2026-11-21",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "Citizenship, civility and the democracy of everyday life"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

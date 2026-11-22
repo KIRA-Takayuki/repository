@@ -1,24 +1,8 @@
 {
-  "checked_at_utc": "2026-11-21T20:56:30.281384+00:00",
-  "collected_on": "2026-11-22",
-  "count": 56,
+  "checked_at_utc": "2026-11-22T21:05:48.403435+00:00",
+  "collected_on": "2026-11-23",
+  "count": 54,
   "items": [
-    {
-      "crossref_candidate_date": "2026-10-08",
-      "doi": "10.1057/s41296-026-00843-7",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "Toward a wellbeing state? reimagining welfare politics for the 21st century"
-    },
-    {
-      "crossref_candidate_date": "2026-10-08",
-      "doi": "10.1057/s41296-026-00854-4",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "Atrocity without punishment: a political theory of leniency in Mexico’s war on drugs"
-    },
     {
       "crossref_candidate_date": "2026-10-09",
       "doi": "10.1163/17455243-bja10231",
@@ -436,20 +420,20 @@
       "title": "Liberal nationalism and the protection of majority cultures"
     },
     {
-      "crossref_candidate_date": "2026-11-17",
-      "doi": "10.1111/papa.70038",
-      "first_seen_jst": "2026-11-19",
-      "journal_id": "J026",
+      "crossref_candidate_date": "2026-11-23",
+      "doi": "10.1163/17455243-bja10195",
+      "first_seen_jst": "2026-11-23",
+      "journal_id": "J070",
       "status": "unverified_not_introduced",
-      "title": "Ignorance and Indifference of the Deaths of (Select) Others"
+      "title": "Contractualism and Two Types of Non-Identity"
     },
     {
-      "crossref_candidate_date": "2026-11-18",
-      "doi": "10.1111/josp.70074",
-      "first_seen_jst": "2026-11-20",
-      "journal_id": "J035",
+      "crossref_candidate_date": "2026-11-23",
+      "doi": "10.1163/17455243-bja10236",
+      "first_seen_jst": "2026-11-23",
+      "journal_id": "J070",
       "status": "unverified_not_introduced",
-      "title": "Doing It for the Plot"
+      "title": "One Life to Lead: The Mysteries of Time and the Goods of Attachment, Written by Samuel Scheffler"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

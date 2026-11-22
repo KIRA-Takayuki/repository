@@ -1,32 +1,34 @@
 {
   "status": "structurally_valid_not_semantically_verified",
-  "checked_on_jst": "2026-11-22",
-  "raw_candidates": 14,
+  "checked_on_jst": "2026-11-23",
+  "raw_candidates": 12,
   "already_introduced": 0,
-  "eligible_candidates": 14,
+  "eligible_candidates": 12,
   "publisher_date_evidence_counts": {
-    "publisher_doi_matched": 11,
-    "crossref_published_online_only": 3,
-    "unconfirmed": 0
+    "publisher_doi_matched": 9,
+    "crossref_published_online_only": 1,
+    "unconfirmed": 2
   },
   "manual_review_required_count": 3,
   "manual_review_required": [
     {
-      "doi": "10.1093/analys/anag090",
+      "doi": "10.55613/jeet.v36i2.320",
       "reasons": [
         "publisher first-online date not independently verified"
       ]
     },
     {
-      "doi": "10.1093/analys/anag092",
+      "doi": "10.1163/17455243-bja10195",
       "reasons": [
         "publisher first-online date not independently verified"
       ]
     },
     {
-      "doi": "10.1177/09717218261503739",
+      "doi": "10.1163/17455243-bja10236",
       "reasons": [
-        "publisher first-online date not independently verified"
+        "publisher first-online date not independently verified",
+        "abstract absent or suspect",
+        "book review requires bibliographic and content verification"
       ]
     }
   ],

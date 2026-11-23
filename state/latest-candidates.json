@@ -1,303 +1,6 @@
 {
-  "collected_on": "2026-11-23",
+  "collected_on": "2026-11-24",
   "items": [
-    {
-      "abstract": "ABSTRACT Sameer Bajaj and Thomas Christiano have provided a new case for a duty to vote grounded in moral equality, arguing that only voting promotes justice in a holistic way. Bajaj and Christiano contend that their argument overcomes what Jason Brennan has called the particularity problem – they allegedly show that voting is not merely one of many alternative ways to discharge some underlying moral duty, but rather that voting is special in some respect that makes it obligatory. We argue that Bajaj and Christiano have not established a duty to vote. We review various specifications of the duty to holistically promote justice and conclude that each of these specifications either yields implausible implications or allows that the duty can be met without voting. Lastly, their view does not adequately account for a moral division of labor, whereby some individuals specialize in activities other than voting and other individuals specialize in promoting political goods.",
-      "authors": [
-        "Jason Brennan",
-        "Christopher Freiman"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1002/japp.70136",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Applied Philosophy",
-      "journal_id": "J053",
-      "origin": "crossref",
-      "title": "Does Moral Equality Imply a Duty to Vote?",
-      "url": "https://doi.org/10.1002/japp.70136"
-    },
-    {
-      "abstract": "Abstract Machine Learning models have become widely recognized for their potential to revolutionize science. In High-Energy Physics, they are of particular promise in propelling the field forward by fueling experimental discoveries. State-of-the-art uses of Machine Learning are considered ‘model-independent’ by the High-Energy Physics community; a verdict shared by several philosophers. In this paper, we dig into the details of unsupervised anomaly detection and show that even modest senses of model-independence are doubt-worthy, once considerations of robustness are factored in. We also offer reasons to think that the theme generalizes beyond the narrow context of High-Energy Physics.",
-      "authors": [
-        "Florian J. Boge",
-        "Michael Krämer",
-        "Christian Zeitnitz"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1007/s10670-026-01179-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Erkenntnis",
-      "journal_id": "J092",
-      "origin": "crossref",
-      "title": "Deep Learning Discovery Algorithms in High-Energy Physics and the Conflict Between Model-Independence and Robustness",
-      "url": "https://doi.org/10.1007/s10670-026-01179-9"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Wullianallur Raghupathi",
-        "Jie Ren",
-        "Aditya Saharia"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1007/s43681-026-01426-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Building responsible AI: a trilateral framework integrating ethics, design and regulation",
-      "url": "https://doi.org/10.1007/s43681-026-01426-3"
-    },
-    {
-      "abstract": "Abstract The rapid ascent of decentralized prediction platforms such as Polymarket signals more than a regulatory or financial controversy. This article argues that while prediction platforms represent a hyper-concentrated, automated case study, they instantiate a broader infrastructural condition of late technocapitalism: the hyperstitional collapse between representation and execution. Drawing on Nick Land’s accelerationist framework, the sociology of financial markets, and digital epistemology, we contend that prediction markets—much like conventional opinion polling, forward guidance, and algorithmic models—do not merely reflect probabilities but actively produce the futures they claim to forecast. However, whereas traditional polling operates through diffuse, human-mediated feedback loops (e.g., strategic voting and bandwagon dynamics), prediction markets intensify this operational logic by coupling real-time financial incentives, capital-weighted aggregation, and automated execution. We examine this hyperstitional condition across three registers: epistemological, ontological, and ethical.",
-      "authors": [
-        "Mirko Daniel Garasic"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1007/s43681-026-01432-5",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Shaping the future as we bet",
-      "url": "https://doi.org/10.1007/s43681-026-01432-5"
-    },
-    {
-      "abstract": "Abstract Emerging technologies pose various ethical challenges, including the need to assess their risks adequately. Still, the roles of different forms of rationality and power in assessing risks have not been fully scrutinized. To address this, we must differentiate forms of rationality to conceptualize power: instrumental, technical, and probabilistic. The latter has gained more power through the rise of artificial intelligence (AI), focusing mainly on optimization and accuracy. These forms of power and rationality lead to different conceptualizations of risk: real, hypothetical, and predictive risk. The ethical issues surrounding AI have not yet been fully scrutinized, since they are mainly approached through a lens of probabilistic rationality. I argue that optimizing algorithms to increase accuracy or engagement distracts from assessing whether AI-based systems are adequate for certain tasks. Furthermore, I discuss ways to govern AI-based systems through participatory processes and standardization that enable control and autonomous judgment in the deployment and use of such systems.",
-      "authors": [
-        "Florian Richter"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1007/s43681-026-01433-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Beyond optimization: power, rationality and ethical risk assessment of AI",
-      "url": "https://doi.org/10.1007/s43681-026-01433-4"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Farzaneh Hosseinian",
-        "Iman Sheikhansari"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1007/s43681-026-01437-0",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Toward understanding AI adoption in the Global South: an empirical study of creative practitioners’ experiences in Iran",
-      "url": "https://doi.org/10.1007/s43681-026-01437-0"
-    },
-    {
-      "abstract": "I start by assembling three images, the first and third of which can be found online.",
-      "authors": [
-        "Clare Mac Cumhaill"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1017/s0031819126101600",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophy",
-      "journal_id": "J145",
-      "origin": "crossref",
-      "title": "‘Are there no foxes in the human soul?’ A Midgleyean Metaphysics for Mixed Communities",
-      "url": "https://doi.org/10.1017/s0031819126101600"
-    },
-    {
-      "abstract": "Abstract Scholarship about the Chinese Question has largely understood it as a “coolie” question, but what if it was reframed in terms of merchants? Well-studied US anti-Chinese laws like the 1882 Chinese Exclusion Act targeted working-class rather than elite Chinese, like merchants and students. But in 1921, the US-controlled Insular Government in the Philippines enacted a statute known as the Chinese Bookkeeping Act (Act No. 2972), marking a moment when US Chinese exclusion laws were directed toward businessowners. The act banned Chinese-language record-keeping and affected merchants ranging from small storeowners to multi-millionaire tycoons. A group of Chinese merchants in the Philippines sued the colonial government and appealed their case to the US Supreme Court, which ruled the Bookkeeping Act unconstitutional in 1926. For the “coolie” Chinese question, the US Supreme Court said “yes” to exclusion, but for the merchant Chinese question, the Court said “no.” The Court’s rejection of a merchant Chinese exclusion became part of the Philippines’ transformation into a US colony. In relation to a patriotic Filipino capital and unmarked Euro-American capital, Chinese capital won rights even as it was framed within US law as “alien” by American and Filipino judges and politicians and, surprisingly, by the Chinese merchants themselves.",
-      "authors": [
-        "Jilene Adelina Chan Chua"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1017/s0738248026101837",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and History Review",
-      "journal_id": "J080",
-      "origin": "crossref",
-      "title": "From Exclusion to Protection: Chinese Merchant Capital in the Philippines Under US Law and Empire, 1921–1926",
-      "url": "https://doi.org/10.1017/s0738248026101837"
-    },
-    {
-      "abstract": "Abstract This paper presents a unified theory of the truth conditions and probability of indicative conditionals and their compounds in a trivalent framework. The semantics validates a Reduction Theorem: any compound of conditionals is semantically equivalent to a simple conditional. We obtain Stalnaker’s Thesis in full generality and generalize Adams’s p-validity into a criterion for valid uncertain inference. Finally, we show that Bayesian updating on an indicative conditional is tantamount to updating on the corresponding material conditional.",
-      "authors": [
-        "Paul Égré",
-        "Lorenzo Rossi",
-        "Jan Sprenger"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1093/mind/fzag023",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Mind",
-      "journal_id": "J091",
-      "origin": "crossref",
-      "title": "Probability for Trivalent Conditionals",
-      "url": "https://doi.org/10.1093/mind/fzag023"
-    },
-    {
-      "abstract": "This paper offers an original non‐consequentialist justification for the ‘bulk discount’ given to offenders who are sentenced for multiple counts in a single proceeding, a discount that is available in most jurisdictions. Existing justifications for this practice face serious objections. I propose a new account, ‘Lexical Local Justification’. On this account, imposing a long total sentence for a large number of minor offences is problematic because, in such a case, each individual sentence would materially contribute to depriving the offender of a high‐order good (such as the ability to pursue a meaningful life project) that a minor offence does not warrant taking away. One advantage of my account is that it preserves local punitive desert (the principle that the punishment for a particular crime should match that crime); it relies neither on non‐local punitive desert (the principle that the total punishment for a group of offences should match that group as a whole) nor on the claim that there is always an increasing returns relationship between the actual severity of a sentence and its length.",
-      "authors": [
-        "Peter Chau"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1111/1468-2230.70070",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "Why Bulk Discount for Multiple Offenders? A Lexical Local Justification",
-      "url": "https://doi.org/10.1111/1468-2230.70070"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "C. Bree Johnston",
-        "Harsukhjit Deol",
-        "Janice Gatzke"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1111/bioe.70201",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Bioethics",
-      "journal_id": "J063",
-      "origin": "crossref",
-      "title": "Codifying the Short Code",
-      "url": "https://doi.org/10.1111/bioe.70201"
-    },
-    {
-      "abstract": "ABSTRACT In Chaoan He's “Farewell to the Modal Theory of Luck,” he constructs a Frankfurt‐style counterexample to modal theories of luck (LOTTERY*), and he argues that this counterexample obviates standard modalist responses to other prominent counterexamples in the literature. However, as I argue in this reply, the counterexample is not as decisive as He suggests. In section 1, I explicate (i) the modal theory of luck, (ii) He's counterexample, and (iii) a possible modalist response. In section 2, I argue that this response is a version of a strategy that He himself considers effective against non‐Frankfurt‐style counterexamples. If my argument succeeds, then the modal theory remains viable. I do not propose revising the modal theory; rather, I argue that, once we attend to the modal profile of the generating process, standard modal resources suffice to explain the intuition of luck in LOTTERY*.",
-      "authors": [
-        "Samuel Kahn"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1111/theo.70126",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Theoria",
-      "journal_id": "J094",
-      "origin": "crossref",
-      "title": "Modal Combat: A Process‐Based Rejoinder to Luck's Farewell",
-      "url": "https://doi.org/10.1111/theo.70126"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Max J Rensink",
-        "Bjørn M Hofmann"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1136/jme-2025-111586",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "Staging disease without illness: ethical issues of the Huntington’s Disease Integrated Staging System (HD-ISS)",
-      "url": "https://doi.org/10.1136/jme-2025-111586"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Robert Mullins"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1163/17455243-bja10231",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "The Weight of Reasons: A Framework for Ethics, written by Chris Tucker",
-      "url": "https://doi.org/10.1163/17455243-bja10231"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Jan Willem Wieland"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1163/17455243-bja10232",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "What Should Individuals Do About Climate Change? A Debate, written by M. Hourdequin and D.C. Shahar",
-      "url": "https://doi.org/10.1163/17455243-bja10232"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Arturo Chang"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1177/00905917261490416",
-      "first_seen_jst": "2026-11-06",
-      "journal": "Political Theory",
-      "journal_id": "J031",
-      "origin": "crossref",
-      "title": "Book Review:\n                    The Invention of Order: On the Coloniality of Space\n                    , by Don Thomas Deere The Invention of Order: On the Coloniality of Space, by DeereDon Thomas, Durham, NC: Duke University Press, 2026, 160 pp.",
-      "url": "https://doi.org/10.1177/00905917261490416"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "A. Todd Franklin"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1177/00905917261490429",
-      "first_seen_jst": "2026-11-06",
-      "journal": "Political Theory",
-      "journal_id": "J031",
-      "origin": "crossref",
-      "title": "Book Review:\n                    Mending the Nation: Reclaiming “We the People” in a Populist Age\n                    , by Michael J. Illuzzi Mending the Nation: Reclaiming “We the People” in a Populist Age, by IlluzziMichael J., Lawrence, KS: University Press of Kansas, 2025, 224 pp.",
-      "url": "https://doi.org/10.1177/00905917261490429"
-    },
-    {
-      "abstract": "Individualised and neoliberal epistemologies of motherhood position mothers as sole bearers of responsibility for their children's outcomes, with detrimental consequences for maternal physical, mental and social health and wellbeing. The imperative to ‘be it all’ reproduces isolation, guilt and shame amid eroded support structures. This article intervenes by mobilising posthuman feminist theory to collectivise agency and foreground fluidity and emergence in the becoming-mother. Drawing on collaborative collage making with mothers, the article engages in situated, embodied and collective knowledge production. Through this analysis, we draw three interrelated posthuman feminist figurations – contingent needs, distributed agency and emergent knowing – which together materialise as mothering villages that enact collective response-ability. These figurations challenge liberal humanist models of agency and responsibility by foregrounding relationality, interdependence and the uneven material conditions through which mothering is enacted and sustained. We argue that response-ability for motherhood is a collective, materially embedded capacity that is differentially supported and politically structured. In doing so, the feminist village figurations contribute to feminist theory by reconceptualising maternal subjectivity as emergent, transversal and more-than-human, while insisting that care and accountability must be understood as political and collective. Together, they offer an agenda for future feminist theory, scholarship and social and political action orientated towards affirmative parenting futures.",
-      "authors": [
-        "Eva Neely",
-        "Ariel Moy"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1177/14647001261483828",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Feminist Theory",
-      "journal_id": "J074",
-      "origin": "crossref",
-      "title": "The mothering village: Posthuman feminist figurations for collective care",
-      "url": "https://doi.org/10.1177/14647001261483828"
-    },
-    {
-      "abstract": "This article examines how colonial histories endure within the intimate sphere, shaping desire and romantic attachment in the postcolonial present. Through a decolonial autoethnography, I reflect on my own experiences as a Filipina who, often half-jokingly, tells friends that ‘I only date colonizers.’ What begins as humor becomes a critical site of inquiry: Why does whiteness continue to hold affective and aesthetic power? What does it mean to seek love from those who historically occupied the role of colonizer? Engaging the work of Frantz Fanon, María Lugones, Chela Sandoval, Ann Laura Stoler, and bell hooks, I explore how the remains of empire manifest not only in beauty ideals and racialized fantasies but also in the emotional economies of care, validation, and belonging. I argue that coloniality persists not only through institutions and representation but also through the affective dynamics of intimate life. Through a series of autoethnographic vignettes, I examine how colonial histories become visible in experiences of attraction, misrecognition, desire, and care, while considering the possibilities of decolonial love as a practice of critical awareness. By bringing decolonial feminist theory into conversation with autoethnographic reflection, this article advances decolonial love as a feminist analytic for understanding how colonial histories continue to shape intimate life.",
-      "authors": [
-        "Zhea Katrina R. Estrada"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-09",
-      "doi": "10.1177/14647001261494404",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Feminist Theory",
-      "journal_id": "J074",
-      "origin": "crossref",
-      "title": "‘I only date colonizers’: Decolonial love and the remains of empire",
-      "url": "https://doi.org/10.1177/14647001261494404"
-    },
     {
       "abstract": "",
       "authors": [
@@ -12449,6 +12152,21 @@
       "url": "https://doi.org/10.1007/s11245-026-10520-4"
     },
     {
+      "abstract": "ABSTRACT A common objection to legalizing certain types of markets—in sex, organs, sorts of medical care—is that it would result in the coercion of some participants. But the general idea that expanding an agent's options can reduce his or her freedom strikes many as confused, and, indeed, its negation is taken as axiomatic in the formal literature on ranking opportunity sets in terms of freedom. In this paper, I motivate a general model of choice under constraints that is capable of capturing many philosophical concerns about the potential negative effects of menu expansion. Optimizing a preference relation subject to such constraints cannot in general be represented as unconstrained optimization of any binary relation. I then axiomatically characterize constraint‐sensitive generalizations of two prominent accounts of freedom. These characterizations provide proof of the possibility that menu expansion can reduce freedom within a disciplined generalization of the standard freedom ranking framework.",
+      "authors": [
+        "Rush T. Stewart"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-22",
+      "doi": "10.1111/papa.70035",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Philosophy &amp; Public Affairs",
+      "journal_id": "J026",
+      "origin": "crossref",
+      "title": "Freedom and Constraint",
+      "url": "https://doi.org/10.1111/papa.70035"
+    },
+    {
       "abstract": "This article introduces the notion of “theology of the algorithm” as an interpretive framework for understanding contemporary transformations in the relationship between technology, transcendence, and authority in digital societies. Starting from an account of secularization not as the mere disappearance of religion, but as the transformation and relocation of its symbolic functions, the article argues that algorithms increasingly assume roles functionally analogous to attributes traditionally associated with the divine: omniscience, omnipresence, predictive power, judgment, and a soteriological function. The article also traces this process to the capacity of digital technologies to address fundamental anthropological concerns related to memory, mortality, and the search for meaning. The theoretical core of the article interprets this new form of secularized transcendence through Feuerbach’s concept of alienation. Just as, in religion, human beings project their own qualities onto an entity subsequently perceived as autonomous and superior, so, in the digital sphere, collectively produced cognitive, mnemonic, and predictive capacities are embodied in algorithmic systems and perceived as independent of their creators. On this basis, the article develops the notion of “algorithmic disalienation”: a critical reappropriation of the human, social, and historical origins of algorithms, aimed at promoting transparency, responsibility, and democratic control over digital technologies",
       "authors": [
         "Teresa Caporale"
@@ -12462,6 +12180,307 @@
       "origin": "crossref",
       "title": "Theology of the Algorithm",
       "url": "https://doi.org/10.55613/jeet.v36i2.320"
+    },
+    {
+      "abstract": "Abstract Digital transformation is reshaping organizational governance, yet its ethical implications for corporate misconduct remain insufficiently understood. This study examines how strategic digital orientation (SDO), defined as a firm’s strategic commitment to developing and integrating digital capabilities, is associated with corporate fraud. Using 34,320 firm-year observations of Chinese listed firms from 2009 to 2022, we construct a multidimensional measure of SDO through textual analysis of Management Discussion and Analysis disclosures and measure corporate fraud using complementary regulatory databases. The results provide robust evidence of an asymmetric relationship between SDO and corporate fraud. Firms exhibiting relatively low to intermediate levels of SDO are associated with higher observed fraud risk, whereas the positive association weakens at higher levels of SDO. Moderation analyses show that internal control quality and innovation capability weaken the positive association between SDO and fraud, potentially by reducing governance misalignment associated with digital transformation. Mediation analyses reveal multiple competing governance mechanisms—audit quality, information asymmetry, technology intensity—with indirect effects that are statistically significant but economically modest. These findings are consistent with an asymmetric ethical risk framework in which technological opacity, accountability diffusion, and governance lag create ethical vulnerabilities that are partially offset by stronger monitoring and governance capabilities at higher levels of SDO. This research contributes to business ethics research by demonstrating how digital transformation reshapes accountability structures, redistributes moral responsibility, and generates asymmetric patterns of misconduct risk across firms exhibiting different levels of SDO.",
+      "authors": [
+        "R. M. Ammar Zahid",
+        "Irfan Haider Shakri",
+        "Haji Suleman Ali",
+        "Muhammad Jameel Hussain"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s10551-026-06520-4",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "The Digitalization–Fraud Paradox: Asymmetric Effects of Strategic Digital Orientation",
+      "url": "https://doi.org/10.1007/s10551-026-06520-4"
+    },
+    {
+      "abstract": "Abstract The concept of sufficiency presents a compelling alternative to the dominant paradigm of unrestrained economic growth and resource exploitation, emphasizing the importance of achieving a balance between needs and wants to ensure well-being within planetary boundaries. With intensifying ecological and social pressures, sufficiency offers not only a theoretical critique of unlimited growth but also a practical framework for moving toward sustainable lifestyles. Prior research, while examining sufficiency through practices like goods repair and seasonal consumption, has inadequately addressed the ethical grounding of these practices, despite the fact that practices are the means by which ethical principles become visible. To address this gap, this study investigates how ethical virtues serve as organizing principles for sufficiency practices, drawing on social practice theory to bridge virtue ethics and sufficiency. Utilizing qualitative data obtained from an Ecuadorian non-profit organization, we develop a process model that explains how sufficiency-ethical practices are established, formalized, disseminated and upheld. This work extends the literature on the intersection of sufficiency and ethics by providing a comprehensive exploration of organizational virtues as organizing principles for sufficiency practices and by shedding light on the potential for fostering sufficiency-oriented communities that enhance resilience, justice, solidarity and environmental stewardship.",
+      "authors": [
+        "Heidy Montero-Teran",
+        "Manon Filler",
+        "Laura Olkkonen"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s10551-026-06522-2",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Upholding Sufficiency-Ethical Practices: Insights from a Sufficiency-Oriented Community in Ecuador",
+      "url": "https://doi.org/10.1007/s10551-026-06522-2"
+    },
+    {
+      "abstract": "Abstract As the paradigm of perpetual economic growth is increasingly seen as incompatible with environmental and social sustainability, sufficiency has gained traction as an alternative organizing principle to align economic activity with socio-ecological well-being. This study advances understanding of why and how firms engage in sufficiency. We define corporate sufficiency as the practice of corporate self-restraint grounded in the imperative to operate within planetary boundaries, even at the risk of forgoing profits and growth. While prior scholarship has challenged profit maximization as a corporate guiding principle, less is known about why firms voluntarily practice self-restraint and how they enact sufficiency in an economic context geared toward growth. Through a qualitative analysis of 70 sufficiency-oriented firms, we identify three antecedents that either motivate or enable observed corporate sufficiency practices, namely responsibility, relationality, and excellence. We argue that these antecedents can be framed within the ethic of decency, which provides context-sensitive guidance for firms to deliberate on and enact self-restraint in production and consumption practices. Through the advancement of decency as an ethical framework for corporate sufficiency, this study extends and integrates sufficiency and business ethics scholarship. It challenges the instrumental logic that underpins the sustainable consumption discourse and proposes a normative framework for reconciling business conduct with the imperatives of planetary and human well-being.",
+      "authors": [
+        "Anna Sophia Burch",
+        "Fabian Takacs",
+        "Nien-hê Hsieh",
+        "Karolin Frankenberger"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s10551-026-06525-z",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "The Ethic of Decency and the Antecedents of Corporate Sufficiency",
+      "url": "https://doi.org/10.1007/s10551-026-06525-z"
+    },
+    {
+      "abstract": "Abstract Neo-Aristotelian approaches in business ethics often focus on the way that various actions or practices within organizations contribute to or obstruct human flourishing. Despite this focus, very little research within business ethics has directly considered how flourishing grounds or justifies more specific claims about the obligations of business persons. We draw upon recent metaethical debates between Neo-Aristotelians concerning the notion of human nature and its role in providing a basis for ethical claims to shed light on the role of human flourishing in business ethics research. This debate is divided between “first-nature” naturalists, such as Foot, for whom nature serves as a normative standard for ethical judgment, and “secondnature” naturalists, such as McDowell and the early MacIntyre, who eschew appeals to nature, turning, instead, to goods and/or reasons for action embedded within practices and traditions. We review this debate and, in the process, categorize various neo-Aristotelian perspectives in business ethics insofar as they fall within either side of this divide. After this, we turn to MacIntyre’s later work, arguing that he provides a way of combining aspects of first and second-nature naturalism in a manner that is relevant to future research in business ethics.",
+      "authors": [
+        "Caleb Bernacchio",
+        "Matthew Sinnicks"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s10551-026-06532-0",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Human Nature, Flourishing, and Virtue: Neo-Aristotelian Metaethics and Business Ethics",
+      "url": "https://doi.org/10.1007/s10551-026-06532-0"
+    },
+    {
+      "abstract": "Abstract We develop a normative account of artifact functions. Our aim is to address a central normative question in engineering and design: what kinds of artifacts should we create, and why do they deserve a place in our world? The teleological accounts which historically addressed these questions have largely been replaced by descriptive accounts. These accounts explain how artifacts come to exist and what they are intended to do, without considering whether they should exist at all. This paper contributes to the renewed interest in normative design questions by offering a conceptual engineering proposal for the term “function” as applied to artifacts. We clarify the deliberative roles that functions play in design and engineering, develop our account of normative artifact functions, and show how it applies to concrete artifacts and satisfies the usual desiderata for artifact functions. Finally, we motivate the account by illustrating how it fulfills these deliberative roles.",
+      "authors": [
+        "Sebastian Köhler",
+        "Herman Veluwenkamp"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s11098-026-02586-y",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Normative artifact functions: designing for what matters",
+      "url": "https://doi.org/10.1007/s11098-026-02586-y"
+    },
+    {
+      "abstract": "Abstract Artificial intelligence (AI) increasingly mediates educational documentation, workplace management, clinical screening, and other institutional processes that affect neurodivergent people. This article argues that prevailing approaches to AI governance, disability rights, and cognitive liberty may fail to make visible a category of harm that is structural, cumulative, and experienced through persistent misrecognition rather than a single identifiable adverse event. I call this problem the Invisible Harm Doctrine. Drawing on scholarship on autistic camouflaging, autistic burnout, sensory and perceptual difference, algorithmic management, automation bias, AI fairness, and emerging neurorights, the article develops a normative account of how apparently neutral AI-mediated systems may reproduce neurotypical assumptions about communication, attention, behavior, and performance. It draws on Epistemic Parallax, a construct developed in the author’s prior published work, as a conceptual account of the mismatch between the normative frames through which systems classify behavior and the lived contexts those classifications purport to assess. The article proposes neurodivergent cognitive liberty as a complementary normative formulation, not an existing legal right and not a replacement for present neurorights frameworks. It states the principal objections to the doctrine and responds to them, and it concludes by identifying research, design, and governance questions necessary to evaluate whether and how these harms can be detected, challenged, and mitigated. The article does not report new primary data, establish clinical efficacy, or propose a ready-to-adopt legal standard.",
+      "authors": [
+        "David Ruttenberg"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s12152-026-09687-9",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
+      "origin": "crossref",
+      "title": "The Invisible Harm Doctrine: Structural AI Harm And Neurodivergent Cognitive Liberty",
+      "url": "https://doi.org/10.1007/s12152-026-09687-9"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Josef A. Habdank"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01476-7",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "A testable framework for AI alignment: Simulation Worldview as an engineered reality model for silicon-based agents",
+      "url": "https://doi.org/10.1007/s43681-026-01476-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jiaxing Du"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01524-2",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Approval invalidation and renewed authorization in agentic AI: a conceptual synthesis of responsibility and human oversight",
+      "url": "https://doi.org/10.1007/s43681-026-01524-2"
+    },
+    {
+      "abstract": "Abstract Artificial intelligence used in adjudication can distribute errors unequally, obscure the grounds of decisions, and fragment responsibility among public institutions and private vendors. This article argues that ethically defensible judicial use of artificial intelligence requires a meaningful opportunity to challenge its role in a decision, supported by reliable records and legally available remedies. The article uses normative arguments and doctrinal analysis to develop three proposals. Computational Due Process sets a proposed minimum of notice, intelligible reasons, a meaningful opportunity to challenge material inputs and uses, and independent authority to correct the decision. The Blockchain Evidentiary Standard organizes proof of record integrity while leaving questions about the truth of its contents to other evidence. Blockchain is optional. The Proportional Algorithmic Liability Test structures allocation after the applicable legal regime establishes liability and identifies eligible actors. Worked hypotheticals illustrate evidentiary requirements and how different assumptions change the allocation. A comparison of the European Union, the United States, Singapore, and the United Arab Emirates identifies different routes to oversight under selected legal and policy instruments. The proposals remain untested in practice. Their application depends on local law, access to technical expertise, and the ability to refuse uses that cannot be justified.",
+      "authors": [
+        "Shahzeb Murad"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01538-w",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Algorithmic equity and digital jurisprudence: contestable AI, cybersecurity, and blockchain evidence in contemporary justice systems",
+      "url": "https://doi.org/10.1007/s43681-026-01538-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Hasan Gbouri",
+        "Husham Gburi"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01542-0",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Who must answer? Answerability, moral remainder, and the limits of the responsibility-gap debate in AI-mediated decision-making",
+      "url": "https://doi.org/10.1007/s43681-026-01542-0"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Maurice St Matthews",
+        "Paul Bleakley",
+        "Elliot Gamelin"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01544-y",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "“Hey Grok, Take My Clothes Off”: sexualization, shame, and the cultural policing of women’s bodies in an AI image-editing trend",
+      "url": "https://doi.org/10.1007/s43681-026-01544-y"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Paras P. Kalariya",
+        "Yagnesh B. Shukla"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01550-0",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Aligning artificial intelligence with universal human values: reflections from Madhyasth Darshan, the philosophy of coexistence",
+      "url": "https://doi.org/10.1007/s43681-026-01550-0"
+    },
+    {
+      "abstract": "Abstract The efforts and challenges of implementing innovative health technologies in middle-income countries and providing coverage to patients is rarely described beyond the financial costs of such access. This article is a firsthand account of the story and stakeholders behind the project aimed at making CAR T-cell therapy available in the public health system of Costa Rica. The case study illustrates how science diplomacy in practice can make life-saving technologies a reality in lower resource health systems.",
+      "authors": [
+        "Roman F. Macaya"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1017/jme.2026.10313",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Law, Medicine &amp; Ethics",
+      "journal_id": "J068",
+      "origin": "crossref",
+      "title": "The Costa Rican Experience Seeking Access to CAR T-Cell Therapy",
+      "url": "https://doi.org/10.1017/jme.2026.10313"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yael Peled"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1080/13698230.2026.2763279",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "journal_id": "J038",
+      "origin": "crossref",
+      "title": "The vocabulary of ‘majority language rights’",
+      "url": "https://doi.org/10.1080/13698230.2026.2763279"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Conrad Kunadu",
+        "Doni Bloomfield",
+        "Jassi Pannu"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1080/15265161.2026.2756651",
+      "first_seen_jst": "2026-11-24",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "title": "Beyond Anticipatory Governance: Defensive Steering for the Life Sciences in the Era of Artificial Intelligence",
+      "url": "https://doi.org/10.1080/15265161.2026.2756651"
+    },
+    {
+      "abstract": "Abstract This article examines the function and guarantees of judicial independence under illiberal constitutionalism through the case of Singapore. After defining illiberal constitutionalism and its two main variants —communitarian and national-populist— it analyses the constitutional design of the Singaporean judiciary: the appointment system, security of tenure and judicial remuneration. The article argues that Singapore’s legal order grants judges an independence sufficient in degree yet restricted in scope: effectively shielded from direct attacks, judges remain exposed to indirect political conditioning through temporary appointments, discretionary extensions and opaque remuneration components, while the courts’ jurisdiction contracts in politically sensitive matters. The Singaporean case reveals the replicability of these mechanisms and the possibility of a stable articulation of the relationship between courts and political power, different from the liberal-democratic one.",
+      "authors": [
+        "Marco Antonio Simonelli"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1093/icon/moag116",
+      "first_seen_jst": "2026-11-24",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
+      "origin": "crossref",
+      "title": "La independencia judicial en el constitucionalismo iliberal. Un análisis a partir del caso de Singapur",
+      "url": "https://doi.org/10.1093/icon/moag116"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Chetan Cetty"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1093/pq/pqag090",
+      "first_seen_jst": "2026-11-24",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
+      "origin": "crossref",
+      "title": "From the Best to the Rest: Idealistic Thinking In A Non-Ideal World",
+      "url": "https://doi.org/10.1093/pq/pqag090"
+    },
+    {
+      "abstract": "Abstract This article introduces the concept of curatorial rulemaking to analyse a form of bureaucratic action that creates categories, distributes authority and delimits the boundaries of an emergent state field. The concept is developed through an analysis of the making of Mexico's Homologated Protocol for the Search of Disappeared Persons. The bureaucracy in charge of producing this protocol went beyond discretionary interpretation, stakeholder negotiation or the routine use of documents: it produced a new regulatory device in a field traversed by heterogeneous forms of knowledge, intense social demands and legitimacy pressures. The article engages with three bodies of literature – regulatory production, bureaucratic discretion and the documentary materiality of state action – and argues that the perspectives they offer fail to sufficiently foreground the compositional work through which a bureaucracy converts legal mandates, expert inputs and experiential claims into a relatively stable regulatory object.",
+      "authors": [
+        "KARINA ANSOLABEHERE"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1111/jols.70093",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "Curatorial Rulemaking: How Bureaucracies Constitute Emergent Regulatory Fields – Evidence from Mexico",
+      "url": "https://doi.org/10.1111/jols.70093"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "ELENA COOPER"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1111/jols.70099",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "Copyright Reversion: Reclaiming Lost Culture and Getting Creators Paid\n                    By JoshuaYuvaraj and RebeccaGiblin, Cambridge: Cambridge University Press, 2025, 174 pp., £105.00",
+      "url": "https://doi.org/10.1111/jols.70099"
     },
     {
       "abstract": "Abstract Choices that affect how well off future people will be often also affect who they will be. This generates “the Non-Identity Problem”: the problem of explaining why it would be wrong to create someone whose life would be worth living, rather than a numerically non-identical person whose life would be better. A growing number of contractualists say that their theory solves this problem, and to great effect. Contractualism is uniquely positioned to demonstrate that the choice at issue would be wrong because it would wrong someone, and thus to deliver an attractive, non-consequentialist theory of intergenerational ethics. I argue this is a mistake. Contractualism can neither solve the Non-Identity Problem nor deliver the theory of intergenerational ethics promised. This conclusion proves consequential not only for contractualist moral theory, but for intergenerational ethics, generally.",
@@ -12492,9 +12511,41 @@
       "origin": "crossref",
       "title": "One Life to Lead: The Mysteries of Time and the Goods of Attachment, Written by Samuel Scheffler",
       "url": "https://doi.org/10.1163/17455243-bja10236"
+    },
+    {
+      "abstract": "Referendums are often seen as instruments to enhance the legitimacy of political decisions. However, rather than assuming that referendums merely aggregate citizens’ preferences, we conceptualize them as arenas of opinion formation. We examine this dynamic in three studies of national referendums on European integration. First, time-series cross-sectional analyses of Eurobarometer data from 15 countries (1973–2012) show that European Union referendums increase the proportion of citizens who have an opinion on the European Union. Second, analyses of a broader set of referendum outcomes demonstrate that public opinion, revealed through these outcomes, reacts to elite cues. Third, panel surveys from two European Union membership referendums trace opinion formation at the individual level. Together, these findings demonstrate that referendums not only allow citizens to voice their opinions on important issues but also provide a venue for these opinions to develop. Under certain conditions, referendums can also intensify political divisions on these issues.",
+      "authors": [
+        "Nelly Buntfuß",
+        "Felix Grünewald",
+        "Arndt Leininger"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1177/00323217261503763",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Political Studies",
+      "journal_id": "J032",
+      "origin": "crossref",
+      "title": "Opinion formation through popular votes: Elite cues and polarization in EU referendums",
+      "url": "https://doi.org/10.1177/00323217261503763"
+    },
+    {
+      "abstract": "This article examines the factors influencing state-level adoption of LGBTQ (lesbian, gay, bisexual, transgender, and queer) policies in the United States over the past three decades, focusing on both expansive and restrictive policies. Public opinion and policy on LGBTQ rights have shifted dramatically, with many changes occurring at the state level. Using a unique dataset of nearly 800 policy adoptions, I apply pooled event history analysis models to assess the role of policy diffusion, party control, and the initiative process. The results show that states are more likely to adopt LGBTQ policies when co-partisan states have done so, but this effect diminishes over time, indicating policy imitation. In addition, higher initiative usage is associated with increased adoption of expansive policies. These findings suggest that the dramatic increase in policymaking in this area is being driven by a desire for states to symbolically display their values rather than waiting to see the effect of policy adoption and suggest the policy network will remain heavily polarized by party control in the coming years.",
+      "authors": [
+        "Scott LaCombe"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1177/00323217261506854",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Political Studies",
+      "journal_id": "J032",
+      "origin": "crossref",
+      "title": "The diffusion of LGBTQ policies in the American states",
+      "url": "https://doi.org/10.1177/00323217261506854"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-23",
-  "window_start": "2026-10-09"
+  "window_end": "2026-11-24",
+  "window_start": "2026-10-10"
 }

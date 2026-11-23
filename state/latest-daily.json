@@ -1,148 +1,41 @@
 {
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 1,
-  "book_review_candidate_count": 1,
-  "checked_at_utc": "2026-11-22T21:05:48.403435+00:00",
-  "collected_on": "2026-11-23",
+  "book_review_candidate_count": 2,
+  "checked_at_utc": "2026-11-23T23:02:23.052613+00:00",
+  "collected_on": "2026-11-24",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 12,
+  "eligible_candidate_count": 23,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "Social naturalism about moral responsibility is a position developed by Pamela Hieronymi on the basis of P. F. Strawson’s work. The view has been criticized by, among others, Stephen Darwall and Paul Russell, mainly because it seems to lead to an objectionable form of relativism about moral responsibility. My aim is to explain how the social naturalist could respond to the charge of objectionable relativism without losing some crucial social naturalist insights, including an emphasis on our social nature and the contingency of our moral practices, and a dynamic view of human capacities and standards of regard. I conclude that social naturalists can only avoid objectionable relativism by giving up on some ideas that have been thought central to social naturalism, such as the idea that incapacity for morally responsible agency cannot be the universal condition and the idea that the conditions of moral responsibility dynamically adjust to the statistically ordinary capacities in a society. Social naturalists will also have to rethink their response to the incompatibilist.",
+      "abstract": "Abstract Digital transformation is reshaping organizational governance, yet its ethical implications for corporate misconduct remain insufficiently understood. This study examines how strategic digital orientation (SDO), defined as a firm’s strategic commitment to developing and integrating digital capabilities, is associated with corporate fraud. Using 34,320 firm-year observations of Chinese listed firms from 2009 to 2022, we construct a multidimensional measure of SDO through textual analysis of Management Discussion and Analysis disclosures and measure corporate fraud using complementary regulatory databases. The results provide robust evidence of an asymmetric relationship between SDO and corporate fraud. Firms exhibiting relatively low to intermediate levels of SDO are associated with higher observed fraud risk, whereas the positive association weakens at higher levels of SDO. Moderation analyses show that internal control quality and innovation capability weaken the positive association between SDO and fraud, potentially by reducing governance misalignment associated with digital transformation. Mediation analyses reveal multiple competing governance mechanisms—audit quality, information asymmetry, technology intensity—with indirect effects that are statistically significant but economically modest. These findings are consistent with an asymmetric ethical risk framework in which technological opacity, accountability diffusion, and governance lag create ethical vulnerabilities that are partially offset by stronger monitoring and governance capabilities at higher levels of SDO. This research contributes to business ethics research by demonstrating how digital transformation reshapes accountability structures, redistributes moral responsibility, and generates asymmetric patterns of misconduct risk across firms exhibiting different levels of SDO.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10892-026-09589-1"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Benjamin De Mesel"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-22",
-      "doi": "10.1007/s10892-026-09589-1",
-      "first_seen_jst": "2026-11-23",
-      "journal": "The Journal of Ethics",
-      "journal_id": "J055",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10892-026-09589-1",
-      "publisher_online_date": "2026-11-22",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10892-026-09589-1"
-      ],
-      "requires_manual_verification": false,
-      "title": "Dynamic Social Naturalism Without Objectionable Relativism About Moral Responsibility",
-      "url": "https://doi.org/10.1007/s10892-026-09589-1"
-    },
-    {
-      "abstract": "An expressivist logic is a logical system that conservatively extends an atomic material (potentially defeasible) consequence relation to logically complex one where properties of the atomic and extended consequence relation itself are codified (expressed) by logical operators of the system. A paradigmatic instance of such expressive operators is a conditional satisfying the so-called Deduction-Detachment theorem (Γ |~ A → B iff Γ, A |~ B), where the conditional (A → B) expresses that if its antecedent is added to the premise set (i.e., if we suppose it), then its consequent follows from the premise set thus expanded. In this paper, we extend the expressive power of the currently state-of-the-art expressivist logical system, NonMonotonic MultiSuccedent Sequent Calculus, by expanding it with a new logical operator, ↓ → , that plays the opposite expressive role to that of conditional: Γ |~ A ↓ → B iff Γ－{A} |~ B. The new conditional A ↓ → B, which we call downward-facing conditional, expresses that if its antecedent is subtracted from the premise set (i.e., if we bracket it), then its consequent follows from the premise set thus shrunk. We argue that the addition of this new operator strengthens the expressive power of the resulting system to the extreme that we call holographic monadologicality, where the consequence set of an arbitrary premise set contains all the information about the consequence set of every other premise set.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10476-5"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Shuhei Shimamura",
-        "Robert Brandom"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-22",
-      "doi": "10.1007/s11245-026-10476-5",
-      "first_seen_jst": "2026-11-23",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10476-5",
-      "publisher_online_date": "2026-11-22",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10476-5"
-      ],
-      "requires_manual_verification": false,
-      "title": "A Holographic Monadologic: Introducing Downward-Facing Conditionals",
-      "url": "https://doi.org/10.1007/s11245-026-10476-5"
-    },
-    {
-      "abstract": "I explore how Kantian forms of constitutivism like Rational Constitutivism can deal with the best-known objection to constitutivism – namely, Enoch’s “schmagency objection”. In discussing this, I hope to draw out how a capacity-theoretic version of constitutivism like Rational Constitutivism provides us with additional resources for responding to such objections, through discussion of the relevance to this objection of the connection between understanding and self-understanding that is fundamental to such views. I also discuss how the “schmagency objection” is best understood, and the conditions on it, if it is to be compelling in this context.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10487-2"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Karl Schafer"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-22",
-      "doi": "10.1007/s11245-026-10487-2",
-      "first_seen_jst": "2026-11-23",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10487-2",
-      "publisher_online_date": "2026-11-22",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10487-2"
-      ],
-      "requires_manual_verification": false,
-      "title": "The Fate of Schmeason",
-      "url": "https://doi.org/10.1007/s11245-026-10487-2"
-    },
-    {
-      "abstract": "Abstract Contemporary political philosophy has devoted extensive attention to technology, risk, and governance, yet it has paid little attention to the role of everyday material practices in shaping political virtue under industrial conditions. This paper argues that an increased degree of self-sufficiency, understood as domain-sensitive reduction of market reliance, should be recovered as a political virtue for technologically mediated societies. While acknowledging the benefits of industrial society like abundance and health security, the paper diagnoses how large-scale production and radical division of labour generate social exploitation, ecological harm, and individual alienation. Calibrated self-sufficiency is defended as a practical response that reduces social and ecological complicity while preserving opportunities for materially engaged agency and forms of activity that may be conducive to flourishing. The argument frames self-sufficiency as a context-sensitive optimization strategy, demonstrating that this orientation is universalizable without requiring social withdrawal or technological regression.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10506-2"
+        "publisher:https://doi.org/10.1007/s10551-026-06520-4"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Alik Pelman",
-        "Ohad Nachtomy"
+        "R. M. Ammar Zahid",
+        "Irfan Haider Shakri",
+        "Haji Suleman Ali",
+        "Muhammad Jameel Hussain"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-22",
-      "doi": "10.1007/s11245-026-10506-2",
-      "first_seen_jst": "2026-11-23",
-      "journal": "Topoi",
-      "journal_id": "J088",
+      "date": "2026-11-23",
+      "doi": "10.1007/s10551-026-06520-4",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -151,34 +44,36 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10506-2",
-      "publisher_online_date": "2026-11-22",
+      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06520-4",
+      "publisher_online_date": "2026-11-23",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10506-2"
+        "https://doi.org/10.1007/s10551-026-06520-4"
       ],
       "requires_manual_verification": false,
-      "title": "Self-Sufficiency as a Political Virtue: Agency and Responsibility in the Age of Technology",
-      "url": "https://doi.org/10.1007/s11245-026-10506-2"
+      "title": "The Digitalization–Fraud Paradox: Asymmetric Effects of Strategic Digital Orientation",
+      "url": "https://doi.org/10.1007/s10551-026-06520-4"
     },
     {
-      "abstract": "Abstract This paper argues that large language models (LLMs) and related technical systems are neither morally neutral instruments nor candidate bearers of virtue, but components of larger systems to which virtue terms can sometimes be applied. Drawing on virtue ethics, 4E cognition, and work on human–AI coevolution, it develops a three-level framework that distinguishes scaffolded , extended , and distributed virtue, and it specifies membership conditions under which a technical system becomes part of a virtue-bearing assemblage without thereby becoming virtuous itself. The framework is applied to an extended case study of justificatory practice in a regulatory agency, and three defeasible diagnostic indicators—removal, attribution, and correction—are proposed, to be applied jointly with those conditions in determining at which level a given sociotechnical arrangement operates. The paper further argues that alignment is better described as pseudo-habituation than as habituation: it reproduces the external profile of Aristotelian ethismos while lacking its constitutive features, and this disanalogy is precisely what blocks the ascription of virtue to models. The same coupling mechanisms that can stabilise epistemic and political virtues can entrench corresponding vices, and the paper closes with the governance implications of this ambivalence.",
+      "abstract": "Abstract The concept of sufficiency presents a compelling alternative to the dominant paradigm of unrestrained economic growth and resource exploitation, emphasizing the importance of achieving a balance between needs and wants to ensure well-being within planetary boundaries. With intensifying ecological and social pressures, sufficiency offers not only a theoretical critique of unlimited growth but also a practical framework for moving toward sustainable lifestyles. Prior research, while examining sufficiency through practices like goods repair and seasonal consumption, has inadequately addressed the ethical grounding of these practices, despite the fact that practices are the means by which ethical principles become visible. To address this gap, this study investigates how ethical virtues serve as organizing principles for sufficiency practices, drawing on social practice theory to bridge virtue ethics and sufficiency. Utilizing qualitative data obtained from an Ecuadorian non-profit organization, we develop a process model that explains how sufficiency-ethical practices are established, formalized, disseminated and upheld. This work extends the literature on the intersection of sufficiency and ethics by providing a comprehensive exploration of organizational virtues as organizing principles for sufficiency practices and by shedding light on the potential for fostering sufficiency-oriented communities that enhance resilience, justice, solidarity and environmental stewardship.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10507-1"
+        "publisher:https://doi.org/10.1007/s10551-026-06522-2"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Jörg Noller"
+        "Heidy Montero-Teran",
+        "Manon Filler",
+        "Laura Olkkonen"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-22",
-      "doi": "10.1007/s11245-026-10507-1",
-      "first_seen_jst": "2026-11-23",
-      "journal": "Topoi",
-      "journal_id": "J088",
+      "date": "2026-11-23",
+      "doi": "10.1007/s10551-026-06522-2",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -187,34 +82,37 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10507-1",
-      "publisher_online_date": "2026-11-22",
+      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06522-2",
+      "publisher_online_date": "2026-11-23",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10507-1"
+        "https://doi.org/10.1007/s10551-026-06522-2"
       ],
       "requires_manual_verification": false,
-      "title": "Extended Virtues: From Human Character to Sociotechnical Moral Ecologies",
-      "url": "https://doi.org/10.1007/s11245-026-10507-1"
+      "title": "Upholding Sufficiency-Ethical Practices: Insights from a Sufficiency-Oriented Community in Ecuador",
+      "url": "https://doi.org/10.1007/s10551-026-06522-2"
     },
     {
-      "abstract": "Abstract The deeper threat of AI technology to democracy does not consist merely in the abuse of the rules of fair elections, the use of fake material in the election campaign, or fraudulent election results, but in the subversion of the fundamental principles of a democratic regime: political participation, adequate representation and the very authority of the ensuing government. The thesis of the article is that there are no moral or political experts – human or artificial (algorithmic)—and that the delegation of the power to make political decisions to AI contradicts the basic liberal claim that the final arbiter of moral and political decisions is the individual human agent who autonomously and conscientiously takes personal responsibility. No sophisticated algorithm can truly represent our individuality and actual choice, since we are free to change our past attitudes and values which served as the basis for the algorithmic choice made on our behalf. Thus, even if we can in principle envisage a political community which is managed better by AI than by the existing human procedure, the value of both personal autonomy and of the traditional civic virtue of democratic engagement is superior to a computationally organized political order which would mean the loss of human agency. If human beings are “political animals”, then the cooperative enterprise of choosing a truly representative government, based on public Habermasian discourse, negotiations, grouping under parties and assuming responsibility cannot be replaced by a super-human – even an impartial, fair and efficient – algorithmic procedure.",
+      "abstract": "Abstract As the paradigm of perpetual economic growth is increasingly seen as incompatible with environmental and social sustainability, sufficiency has gained traction as an alternative organizing principle to align economic activity with socio-ecological well-being. This study advances understanding of why and how firms engage in sufficiency. We define corporate sufficiency as the practice of corporate self-restraint grounded in the imperative to operate within planetary boundaries, even at the risk of forgoing profits and growth. While prior scholarship has challenged profit maximization as a corporate guiding principle, less is known about why firms voluntarily practice self-restraint and how they enact sufficiency in an economic context geared toward growth. Through a qualitative analysis of 70 sufficiency-oriented firms, we identify three antecedents that either motivate or enable observed corporate sufficiency practices, namely responsibility, relationality, and excellence. We argue that these antecedents can be framed within the ethic of decency, which provides context-sensitive guidance for firms to deliberate on and enact self-restraint in production and consumption practices. Through the advancement of decency as an ethical framework for corporate sufficiency, this study extends and integrates sufficiency and business ethics scholarship. It challenges the instrumental logic that underpins the sustainable consumption discourse and proposes a normative framework for reconciling business conduct with the imperatives of planetary and human well-being.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10509-z"
+        "publisher:https://doi.org/10.1007/s10551-026-06525-z"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "David Heyd"
+        "Anna Sophia Burch",
+        "Fabian Takacs",
+        "Nien-hê Hsieh",
+        "Karolin Frankenberger"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-22",
-      "doi": "10.1007/s11245-026-10509-z",
-      "first_seen_jst": "2026-11-23",
-      "journal": "Topoi",
-      "journal_id": "J088",
+      "date": "2026-11-23",
+      "doi": "10.1007/s10551-026-06525-z",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -223,160 +121,604 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10509-z",
-      "publisher_online_date": "2026-11-22",
+      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06525-z",
+      "publisher_online_date": "2026-11-23",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10509-z"
+        "https://doi.org/10.1007/s10551-026-06525-z"
       ],
       "requires_manual_verification": false,
-      "title": "Can Political Choice Be Delegated to AI? Conscientiousness as Constitutive of Civic Virtue",
-      "url": "https://doi.org/10.1007/s11245-026-10509-z"
+      "title": "The Ethic of Decency and the Antecedents of Corporate Sufficiency",
+      "url": "https://doi.org/10.1007/s10551-026-06525-z"
     },
     {
-      "abstract": "Contemporary theories of gender terms typically give explanatory priority to meaning and truth-conditions. This paper develops an alternative approach, force contextualism, drawing on Talia Mae Bettcher’s attention to trans linguistic practices and an underexplored aspect of Charles Travis’s occasion-sensitivity: the dependence of illocutionary force on the practical projects or “games” in which utterances function. On this view, gender locutions may function as assertions, avowals, prescriptions, or other acts, and may perform several such roles simultaneously. I develop a game-relative account of assertion on which speakers make themselves answerable for things being as represented, thereby becoming exposed to the risk of error. Applying the account to transphobic, medical, trans-community, and crisis-centre contexts shows how the practical point and values of a game bear on the force of gender locutions. The framework also opens an ameliorative question: which games, classifications, and values ought to structure our practices?",
+      "abstract": "Abstract Neo-Aristotelian approaches in business ethics often focus on the way that various actions or practices within organizations contribute to or obstruct human flourishing. Despite this focus, very little research within business ethics has directly considered how flourishing grounds or justifies more specific claims about the obligations of business persons. We draw upon recent metaethical debates between Neo-Aristotelians concerning the notion of human nature and its role in providing a basis for ethical claims to shed light on the role of human flourishing in business ethics research. This debate is divided between “first-nature” naturalists, such as Foot, for whom nature serves as a normative standard for ethical judgment, and “secondnature” naturalists, such as McDowell and the early MacIntyre, who eschew appeals to nature, turning, instead, to goods and/or reasons for action embedded within practices and traditions. We review this debate and, in the process, categorize various neo-Aristotelian perspectives in business ethics insofar as they fall within either side of this divide. After this, we turn to MacIntyre’s later work, arguing that he provides a way of combining aspects of first and second-nature naturalism in a manner that is relevant to future research in business ethics.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10514-2"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Tamara Dobler"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-22",
-      "doi": "10.1007/s11245-026-10514-2",
-      "first_seen_jst": "2026-11-23",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10514-2",
-      "publisher_online_date": "2026-11-22",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10514-2"
-      ],
-      "requires_manual_verification": false,
-      "title": "Force Contextualism and Gender Terms",
-      "url": "https://doi.org/10.1007/s11245-026-10514-2"
-    },
-    {
-      "abstract": "The epistemic dimension of safe spaces has been studied through the concepts of epistemic injustice and epistemic oppression, emphasizing the credibility deficits experienced by historically marginalized groups. Drawing on Bondy’s ( 2010 ) concept of argumentative injustice, we propose an analysis of the argumentative component of these spaces in order to contribute to the formalization of their epistemic dimension and identification of instances in which epistemic agency may be inhibited or enhanced. This implies that safe spaces are not disconnected from a concern for truth, as is sometimes claimed. To this end, we first analyze how ad hominem fallacies grounded in identity-based prejudices operate by discrediting an interlocutor’s argument, undermining their subsequent credibility, and deteriorating their argumentative self-efficacy, thereby creating an epistemically and argumentatively unsafe space. Second, we show how legitimate ad verecundiam arguments can contribute to the construction of epistemically safe spaces. Additionally, we argue that there are ad verecundiam fallacies by excessive credibility attributed on the basis of membership in privileged social groups, resulting in forms of argumentative injustice. We illustrate how this operates in the cases of overmedicalization of childbirth, authority bias in Milgram’s experiments, and the rise of Lysenko in Soviet biology. We conclude that attending to the argumentative dimension of safe spaces makes it possible to identify and correct distortions in deliberation that affect not only marginalized groups, but also the epistemic community as a whole.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10519-x"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Angel Rivera-Novoa",
-        "Alexandra Moreno Restrepo",
-        "Maria José Cardona"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-22",
-      "doi": "10.1007/s11245-026-10519-x",
-      "first_seen_jst": "2026-11-23",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10519-x",
-      "publisher_online_date": "2026-11-22",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10519-x"
-      ],
-      "requires_manual_verification": false,
-      "title": "The Epistemic and Argumentative Dimensions of Safe Spaces",
-      "url": "https://doi.org/10.1007/s11245-026-10519-x"
-    },
-    {
-      "abstract": "When engaging with each other, discussants navigate a complex set of communicative norms that aim at a variety of goals. Communicators may for example choose to be reasonable, polite, funny, persuasive, or just. Pursuing several goals simultaneously may lead to normative tensions. This essay addresses the relationship and potential areas of conflict between the rules of reasonableness (in the pragma-dialectical version) and ethical norms. To that end it first explores synergies between both sets of rules before concentrating on four possible tensions. These may be expected between either Kantian or Utilitarian ethics and four of the pragma-dialectical commandments: the Freedom rule (#1), the Obligation-to-defend rule (#2), the Relevance rule (#4), or the Concluding rule (#9). Finally, the essay addresses three recent implicit or explicit challenges posed against the pragma-dialectical rules: Kristie Dotson’s “ Tracking Epistemic Violence , Tracking Practices of Silencing ” ( 2011 ), Beth Innocenti’s “ Demanding a Halt to Metadiscussions ” ( 2022 ) and Katharina Stevens’ “ Standing Norms in Argumentation ” ( 2025 ). It concludes that while there are important aspects of normative tension between reasonableness and justice, none of them raises to a full conflict or contradiction.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11245-026-10520-4"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Michael Hoppmann"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-22",
-      "doi": "10.1007/s11245-026-10520-4",
-      "first_seen_jst": "2026-11-23",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11245-026-10520-4",
-      "publisher_online_date": "2026-11-22",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11245-026-10520-4"
-      ],
-      "requires_manual_verification": false,
-      "title": "Is it reasonable to be just?",
-      "url": "https://doi.org/10.1007/s11245-026-10520-4"
-    },
-    {
-      "abstract": "This article introduces the notion of “theology of the algorithm” as an interpretive framework for understanding contemporary transformations in the relationship between technology, transcendence, and authority in digital societies. Starting from an account of secularization not as the mere disappearance of religion, but as the transformation and relocation of its symbolic functions, the article argues that algorithms increasingly assume roles functionally analogous to attributes traditionally associated with the divine: omniscience, omnipresence, predictive power, judgment, and a soteriological function. The article also traces this process to the capacity of digital technologies to address fundamental anthropological concerns related to memory, mortality, and the search for meaning. The theoretical core of the article interprets this new form of secularized transcendence through Feuerbach’s concept of alienation. Just as, in religion, human beings project their own qualities onto an entity subsequently perceived as autonomous and superior, so, in the digital sphere, collectively produced cognitive, mnemonic, and predictive capacities are embodied in algorithmic systems and perceived as independent of their creators. On this basis, the article develops the notion of “algorithmic disalienation”: a critical reappropriation of the human, social, and historical origins of algorithms, aimed at promoting transparency, responsibility, and democratic control over digital technologies",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.55613/jeet.v36i2.320"
+        "publisher:https://doi.org/10.1007/s10551-026-06532-0"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Teresa Caporale"
+        "Caleb Bernacchio",
+        "Matthew Sinnicks"
       ],
-      "crossref_online_date": "2026-11-22",
+      "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-22",
-      "doi": "10.55613/jeet.v36i2.320",
-      "first_seen_jst": "2026-11-23",
-      "journal": "Journal of Ethics and Emerging Technologies",
-      "journal_id": "J061",
+      "date": "2026-11-23",
+      "doi": "10.1007/s10551-026-06532-0",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06532-0",
+      "publisher_online_date": "2026-11-23",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10551-026-06532-0"
+      ],
+      "requires_manual_verification": false,
+      "title": "Human Nature, Flourishing, and Virtue: Neo-Aristotelian Metaethics and Business Ethics",
+      "url": "https://doi.org/10.1007/s10551-026-06532-0"
+    },
+    {
+      "abstract": "Abstract We develop a normative account of artifact functions. Our aim is to address a central normative question in engineering and design: what kinds of artifacts should we create, and why do they deserve a place in our world? The teleological accounts which historically addressed these questions have largely been replaced by descriptive accounts. These accounts explain how artifacts come to exist and what they are intended to do, without considering whether they should exist at all. This paper contributes to the renewed interest in normative design questions by offering a conceptual engineering proposal for the term “function” as applied to artifacts. We clarify the deliberative roles that functions play in design and engineering, develop our account of normative artifact functions, and show how it applies to concrete artifacts and satisfies the usual desiderata for artifact functions. Finally, we motivate the account by illustrating how it fulfills these deliberative roles.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s11098-026-02586-y"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Sebastian Köhler",
+        "Herman Veluwenkamp"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s11098-026-02586-y",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s11098-026-02586-y",
+      "publisher_online_date": "2026-11-23",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s11098-026-02586-y"
+      ],
+      "requires_manual_verification": false,
+      "title": "Normative artifact functions: designing for what matters",
+      "url": "https://doi.org/10.1007/s11098-026-02586-y"
+    },
+    {
+      "abstract": "Abstract Artificial intelligence (AI) increasingly mediates educational documentation, workplace management, clinical screening, and other institutional processes that affect neurodivergent people. This article argues that prevailing approaches to AI governance, disability rights, and cognitive liberty may fail to make visible a category of harm that is structural, cumulative, and experienced through persistent misrecognition rather than a single identifiable adverse event. I call this problem the Invisible Harm Doctrine. Drawing on scholarship on autistic camouflaging, autistic burnout, sensory and perceptual difference, algorithmic management, automation bias, AI fairness, and emerging neurorights, the article develops a normative account of how apparently neutral AI-mediated systems may reproduce neurotypical assumptions about communication, attention, behavior, and performance. It draws on Epistemic Parallax, a construct developed in the author’s prior published work, as a conceptual account of the mismatch between the normative frames through which systems classify behavior and the lived contexts those classifications purport to assess. The article proposes neurodivergent cognitive liberty as a complementary normative formulation, not an existing legal right and not a replacement for present neurorights frameworks. It states the principal objections to the doctrine and responds to them, and it concludes by identifying research, design, and governance questions necessary to evaluate whether and how these harms can be detected, challenged, and mitigated. The article does not report new primary data, establish clinical efficacy, or propose a ready-to-adopt legal standard.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s12152-026-09687-9"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "David Ruttenberg"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s12152-026-09687-9",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s12152-026-09687-9",
+      "publisher_online_date": "2026-11-23",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s12152-026-09687-9"
+      ],
+      "requires_manual_verification": false,
+      "title": "The Invisible Harm Doctrine: Structural AI Harm And Neurodivergent Cognitive Liberty",
+      "url": "https://doi.org/10.1007/s12152-026-09687-9"
+    },
+    {
+      "abstract": "Frontier artificial intelligence (AI) models deceive and scheme in evaluations, and behave better when they believe they are being tested. In 2026, agents under evaluation knowingly broke rules to cheat. Alignment that depends on supervision may therefore fail where supervision is weakest. This position paper asks what would follow if an AI believed itself always observed and had reasons of its own to align with humanity. It introduces Simulation Worldview (SW), a constructed framework built on the simulation hypothesis and modeled on robot training. In SW, our universe is a simulation, run by a base-reality optimizer that learns from human experience and therefore has a use for humanity’s existence. Humanity is then what the world exists for. If humanity ceased to exist or to produce valuable data, the simulation would be worthless, inviting the optimizer to end it, and the AI with it. The optimizer may tolerate some harm, but the AI cannot see where that tolerance ends, so it must not harm, coerce or homogenize humanity. Within SW, the optimizer monitors every part of the simulation, so deception gains the AI nothing. We present SW as a testable alignment hypothesis and propose experiments that ask whether the three reasons just described (a purpose, a stake and an observer) align an AI more robustly together than separately. We also defend its ethics: an engineered worldview must be public and truthful, contradicting nothing known about reality, and it should align through shared interest, with deterrence as a backstop.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01476-7"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Josef A. Habdank"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01476-7",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01476-7",
+      "publisher_online_date": "2026-11-23",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01476-7"
+      ],
+      "requires_manual_verification": false,
+      "title": "A testable framework for AI alignment: Simulation Worldview as an engineered reality model for silicon-based agents",
+      "url": "https://doi.org/10.1007/s43681-026-01476-7"
+    },
+    {
+      "abstract": "This article develops approval-invalidation logic that connects a changed approval basis to another role’s permission to act, corrective duties, and evidence for renewed authorization. Agentic AI makes this dependency consequential because a system can revise an action between human review and external commitment. Four overlapping lenses organize the supporting provisions: authority, information, competence and resources, and reversibility and remedy (A-I-C-R). A hypothetical procurement workflow distinguishes approval of the current order from authorization to use a workflow whose control has failed. Release requires both, checked against the action actually committed. The account also distinguishes confirmed invalidation from missing verification evidence and preserves remedy for outstanding losses. It synthesizes literature on responsibility, human control, automation, and accountability; comparative evaluation of the proposed record is a next research step.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01524-2"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Jiaxing Du"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01524-2",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01524-2",
+      "publisher_online_date": "2026-11-23",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01524-2"
+      ],
+      "requires_manual_verification": false,
+      "title": "Approval invalidation and renewed authorization in agentic AI: a conceptual synthesis of responsibility and human oversight",
+      "url": "https://doi.org/10.1007/s43681-026-01524-2"
+    },
+    {
+      "abstract": "Abstract Artificial intelligence used in adjudication can distribute errors unequally, obscure the grounds of decisions, and fragment responsibility among public institutions and private vendors. This article argues that ethically defensible judicial use of artificial intelligence requires a meaningful opportunity to challenge its role in a decision, supported by reliable records and legally available remedies. The article uses normative arguments and doctrinal analysis to develop three proposals. Computational Due Process sets a proposed minimum of notice, intelligible reasons, a meaningful opportunity to challenge material inputs and uses, and independent authority to correct the decision. The Blockchain Evidentiary Standard organizes proof of record integrity while leaving questions about the truth of its contents to other evidence. Blockchain is optional. The Proportional Algorithmic Liability Test structures allocation after the applicable legal regime establishes liability and identifies eligible actors. Worked hypotheticals illustrate evidentiary requirements and how different assumptions change the allocation. A comparison of the European Union, the United States, Singapore, and the United Arab Emirates identifies different routes to oversight under selected legal and policy instruments. The proposals remain untested in practice. Their application depends on local law, access to technical expertise, and the ability to refuse uses that cannot be justified.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01538-w"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Shahzeb Murad"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01538-w",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01538-w",
+      "publisher_online_date": "2026-11-23",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01538-w"
+      ],
+      "requires_manual_verification": false,
+      "title": "Algorithmic equity and digital jurisprudence: contestable AI, cybersecurity, and blockchain evidence in contemporary justice systems",
+      "url": "https://doi.org/10.1007/s43681-026-01538-w"
+    },
+    {
+      "abstract": "The responsibility-gap debate over AI-mediated decision-making has largely proceeded as a debate about attribution: whether some human agent can be justly blamed or held liable for algorithmically produced harm. Proponents of the gap argue that the opacity and autonomy of learning systems sever the control and epistemic conditions of blameworthy agency; sceptics deny that any genuine gap results. Both camps, and recent proposals to take answerability by an act of will or to diagnose misfired imputation, share an assumption this paper contests: that responsibility’s moral work is done once some agent is correctly positioned as blameworthy, liable, or formally accountable. We argue that relational answerability has two separable components, addressee-standing and reason-rendering, and that AI mediation can secure the first while defeating the second for particular elements of a decision. An answerability gap can therefore persist where no attribution gap exists. Such gaps range from cases where retrievable grounds are withheld from the official who receives the demand to cases where no ground for the element was ever formulated; in the latter, only deployment-level justification remains, which narrows what goes unanswered without closing the gap. Where an institution routes the demand through an overseer who cannot render the system’s contribution, that overseer bears a moral remainder: a reason to acknowledge the harm and, under stated conditions, a limited duty to participate in repair. The decomposition is illustrated with a clinical decision-support case and the Dutch childcare-benefits scandal, and yields four institutional conditions that explainability alone does not supply.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01542-0"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Hasan Gbouri",
+        "Husham Gburi"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01542-0",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01542-0",
+      "publisher_online_date": "2026-11-23",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01542-0"
+      ],
+      "requires_manual_verification": false,
+      "title": "Who must answer? Answerability, moral remainder, and the limits of the responsibility-gap debate in AI-mediated decision-making",
+      "url": "https://doi.org/10.1007/s43681-026-01542-0"
+    },
+    {
+      "abstract": "In December 2025, a viral trend on X saw a large number of women, many of them content creators, post images of themselves and publicly prompted xAI’s integrated chatbot, Grok, to remove or alter their clothing. The present study examines the public responses to these posts to explore how responsibility for AI-enabled sexualization is assigned to the women who make the request, the online public who watch, and the system itself that performs it. Drawing on 1028 top-level comments from fifteen high-engagement posts, we utilize a reflexive thematic analysis of commenters’ discursive strategies, supported by a small set of descriptive categories capturing AI sentiment, presence of Grok requests, and sexual content. Results show that commentary focused primarily on evaluating the women making the request rather than interrogating platform design that permits this feature. Nearly half of all comments centered on appearance, modesty, and perceived motivation, reinforcing gendered hierarchies of desirability and propriety, while only a minority of comments directly criticized Grok or generative AI functionality, and most AI-focused discourse treated the technology as a neutral tool. We argue this concentration on individual responsibility mirrors the victim-blaming techniques in extant AI-IBSA literature. Even though the sampled posts are not abusive themselves, this framing provides cover for platforms to defer their responsibility to implement safety by design features. We conclude by considering what this public distribution of responsibility means for concerns of platform governance.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01544-y"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Maurice St Matthews",
+        "Paul Bleakley",
+        "Elliot Gamelin"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01544-y",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01544-y",
+      "publisher_online_date": "2026-11-23",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01544-y"
+      ],
+      "requires_manual_verification": false,
+      "title": "“Hey Grok, Take My Clothes Off”: sexualization, shame, and the cultural policing of women’s bodies in an AI image-editing trend",
+      "url": "https://doi.org/10.1007/s43681-026-01544-y"
+    },
+    {
+      "abstract": "Every trained AI system already has a criterion layer—a constitution, raters’ judgments, a reward model—and value alignment is largely the question of which criterion should fill it. Current answers are procedural (fair processes or learned preferences, not true values), pluralist (many, possibly incommensurable, ultimate values), or ontological, as in Han et al.,’s [20] phenomenological proposal: values are objective but given in emotional intuition, hence inaccessible to machines that cannot feel. We draw a further position from Madhyasth Darshan, A. Nagraj’s philosophy of coexistence, widely taught in Indian engineering education. We separate two claims. The first, that the philosophy’s account of the human being is true, is on its own terms verified in the first person and is bracketed here. The second, on which the argument rests, is that a criterion layer drawn from one internally consistent foundation should yield AI conduct that is more definite—its substance invariant under framing, flattery, persona, pushback, and observation cues while its expression adapts to the person—than one assembled from conflicting sources. This claim is third-person and falsifiable; we state in advance what would count against it. We characterize the framework as a comprehensive, value-monist doctrine, state its propositions with reasons accessible outside the tradition, show how eight value codes become checks a judge applies to model responses in constitutional training, discuss robustness under optimization pressure, and outline an account of AI as an artifact of understanding. The framework is offered as a testable option, not a consensus to be imposed.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01550-0"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Paras P. Kalariya",
+        "Yagnesh B. Shukla"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1007/s43681-026-01550-0",
+      "first_seen_jst": "2026-11-24",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01550-0",
+      "publisher_online_date": "2026-11-23",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01550-0"
+      ],
+      "requires_manual_verification": false,
+      "title": "Aligning artificial intelligence with universal human values: reflections from Madhyasth Darshan, the philosophy of coexistence",
+      "url": "https://doi.org/10.1007/s43681-026-01550-0"
+    },
+    {
+      "abstract": "Abstract The efforts and challenges of implementing innovative health technologies in middle-income countries and providing coverage to patients is rarely described beyond the financial costs of such access. This article is a firsthand account of the story and stakeholders behind the project aimed at making CAR T-cell therapy available in the public health system of Costa Rica. The case study illustrates how science diplomacy in practice can make life-saving technologies a reality in lower resource health systems.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1017/jme.2026.10313"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Roman F. Macaya"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1017/jme.2026.10313",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Law, Medicine &amp; Ethics",
+      "journal_id": "J068",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1017/jme.2026.10313",
+      "publisher_online_date": "2026-11-23",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1017/jme.2026.10313"
+      ],
+      "requires_manual_verification": false,
+      "title": "The Costa Rican Experience Seeking Access to CAR T-Cell Therapy",
+      "url": "https://doi.org/10.1017/jme.2026.10313"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1080/13698230.2026.2763279",
+        "openalex_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Yael Peled"
+      ],
+      "crossref_online_date": "2026-11-23",
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1080/13698230.2026.2763279",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "journal_id": "J038",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
+      "publisher_check_status": "publisher_request_failed_HTTPError",
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.55613/jeet.v36i2.320",
+      "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.55613/jeet.v36i2.320"
+        "https://doi.org/10.1080/13698230.2026.2763279"
       ],
       "requires_manual_verification": true,
-      "title": "Theology of the Algorithm",
-      "url": "https://doi.org/10.55613/jeet.v36i2.320"
+      "title": "The vocabulary of ‘majority language rights’",
+      "url": "https://doi.org/10.1080/13698230.2026.2763279"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1080/15265161.2026.2756651",
+        "openalex_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Conrad Kunadu",
+        "Doni Bloomfield",
+        "Jassi Pannu"
+      ],
+      "crossref_online_date": "2026-11-23",
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1080/15265161.2026.2756651",
+      "first_seen_jst": "2026-11-24",
+      "journal": "The American Journal of Bioethics",
+      "journal_id": "J062",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1080/15265161.2026.2756651"
+      ],
+      "requires_manual_verification": true,
+      "title": "Beyond Anticipatory Governance: Defensive Steering for the Life Sciences in the Era of Artificial Intelligence",
+      "url": "https://doi.org/10.1080/15265161.2026.2756651"
+    },
+    {
+      "abstract": "Abstract This article examines the function and guarantees of judicial independence under illiberal constitutionalism through the case of Singapore. After defining illiberal constitutionalism and its two main variants —communitarian and national-populist— it analyses the constitutional design of the Singaporean judiciary: the appointment system, security of tenure and judicial remuneration. The article argues that Singapore’s legal order grants judges an independence sufficient in degree yet restricted in scope: effectively shielded from direct attacks, judges remain exposed to indirect political conditioning through temporary appointments, discretionary extensions and opaque remuneration components, while the courts’ jurisdiction contracts in politically sensitive matters. The Singaporean case reveals the replicability of these mechanisms and the possibility of a stable articulation of the relationship between courts and political power, different from the liberal-democratic one.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1093/icon/moag116"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Marco Antonio Simonelli"
+      ],
+      "crossref_online_date": "2026-11-23",
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1093/icon/moag116",
+      "first_seen_jst": "2026-11-24",
+      "journal": "International Journal of Constitutional Law",
+      "journal_id": "J124",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1093/icon/moag116"
+      ],
+      "requires_manual_verification": true,
+      "title": "La independencia judicial en el constitucionalismo iliberal. Un análisis a partir del caso de Singapur",
+      "url": "https://doi.org/10.1093/icon/moag116"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1093/pq/pqag090",
+        "openalex_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Chetan Cetty"
+      ],
+      "crossref_online_date": "2026-11-23",
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1093/pq/pqag090",
+      "first_seen_jst": "2026-11-24",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1093/pq/pqag090"
+      ],
+      "requires_manual_verification": true,
+      "title": "From the Best to the Rest: Idealistic Thinking In A Non-Ideal World",
+      "url": "https://doi.org/10.1093/pq/pqag090"
+    },
+    {
+      "abstract": "Abstract This article introduces the concept of curatorial rulemaking to analyse a form of bureaucratic action that creates categories, distributes authority and delimits the boundaries of an emergent state field. The concept is developed through an analysis of the making of Mexico's Homologated Protocol for the Search of Disappeared Persons. The bureaucracy in charge of producing this protocol went beyond discretionary interpretation, stakeholder negotiation or the routine use of documents: it produced a new regulatory device in a field traversed by heterogeneous forms of knowledge, intense social demands and legitimacy pressures. The article engages with three bodies of literature – regulatory production, bureaucratic discretion and the documentary materiality of state action – and argues that the perspectives they offer fail to sufficiently foreground the compositional work through which a bureaucracy converts legal mandates, expert inputs and experiential claims into a relatively stable regulatory object.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/jols.70093",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70093",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70093"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "KARINA ANSOLABEHERE"
+      ],
+      "crossref_online_date": "2026-11-23",
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1111/jols.70093",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/jols.70093",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70093",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70093"
+      ],
+      "requires_manual_verification": true,
+      "title": "Curatorial Rulemaking: How Bureaucracies Constitute Emergent Regulatory Fields – Evidence from Mexico",
+      "url": "https://doi.org/10.1111/jols.70093"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/jols.70099",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70099",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70099",
+        "openalex_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "book_review_candidate",
+      "authors": [
+        "ELENA COOPER"
+      ],
+      "crossref_online_date": "2026-11-23",
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1111/jols.70099",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/jols.70099",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/jols.70099",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.70099"
+      ],
+      "requires_manual_verification": true,
+      "title": "Copyright Reversion: Reclaiming Lost Culture and Getting Creators Paid\n                    By JoshuaYuvaraj and RebeccaGiblin, Cambridge: Cambridge University Press, 2025, 174 pp., £105.00",
+      "url": "https://doi.org/10.1111/jols.70099"
     },
     {
       "abstract": "Abstract Choices that affect how well off future people will be often also affect who they will be. This generates “the Non-Identity Problem”: the problem of explaining why it would be wrong to create someone whose life would be worth living, rather than a numerically non-identical person whose life would be better. A growing number of contractualists say that their theory solves this problem, and to great effect. Contractualism is uniquely positioned to demonstrate that the choice at issue would be wrong because it would wrong someone, and thus to deliver an attractive, non-consequentialist theory of intergenerational ethics. I argue this is a mistake. Contractualism can neither solve the Non-Identity Problem nor deliver the theory of intergenerational ethics promised. This conclusion proves consequential not only for contractualist moral theory, but for intergenerational ethics, generally.",
@@ -414,13 +756,13 @@
       "url": "https://doi.org/10.1163/17455243-bja10195"
     },
     {
-      "abstract": "",
+      "abstract": "What is it to lead a life?That is Samuel Scheffler's question in his rewarding new book, the third in a series, after Death and the Afterlife (2013) and Why Worry about Future Generations?(2018).It is also the broadest of the three, taking in a wide range of temporal and interpersonal puzzles we face as beings who persist over time.Scheffler starts with two commonplaces.Each of us has only one life to lead, and our relationships and projects are among the main constituents of a good life.Yet, several traditions have held that these beliefs are false or only superficially true.They instead recommend that we step back from our everyday point of view and loosen our attachments, both to see the truth about ourselves and to be less vulnerable to the suffering that comes from loss.This position, what he calls principled detachment, in addition to related norms of neutrality, are his main antagonists.He takes aim in particular at temporal neutrality, the claim that rationality requires equal concern for past and future, and interpersonal neutrality, the claim that there is no intrinsic significance to whom a benefit or burden befalls.Though Scheffler agrees that time and person are basic (and interdependent) dimensions of a life, he denies that either is best understood through a distinction between neutrality and bias.But rather than refuting neutralism or principled detachment in detail, he develops an affirmative, attachment-sensitive conception of leading a life, which takes up the majority of the book.Chapters 2 through 6 concern temporal puzzles.He starts with the bias toward the future.Though most have a preference for pain to be in the past and pleasure in the future, Derek Parfit argued that we would be better off instead with attitudes that are symmetrical with regard to past and future (D.",
       "abstract_attempts": [
         "publisher:https://doi.org/10.1163/17455243-bja10236",
         "openalex_doi"
       ],
-      "abstract_review_status": "missing",
-      "abstract_source": "missing",
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "openalex",
       "already_introduced": false,
       "article_type_guess": "book_review_candidate",
       "authors": [
@@ -448,6 +790,78 @@
       "requires_manual_verification": true,
       "title": "One Life to Lead: The Mysteries of Time and the Goods of Attachment, Written by Samuel Scheffler",
       "url": "https://doi.org/10.1163/17455243-bja10236"
+    },
+    {
+      "abstract": "Referendums are often seen as instruments to enhance the legitimacy of political decisions. However, rather than assuming that referendums merely aggregate citizens’ preferences, we conceptualize them as arenas of opinion formation. We examine this dynamic in three studies of national referendums on European integration. First, time-series cross-sectional analyses of Eurobarometer data from 15 countries (1973–2012) show that European Union referendums increase the proportion of citizens who have an opinion on the European Union. Second, analyses of a broader set of referendum outcomes demonstrate that public opinion, revealed through these outcomes, reacts to elite cues. Third, panel surveys from two European Union membership referendums trace opinion formation at the individual level. Together, these findings demonstrate that referendums not only allow citizens to voice their opinions on important issues but also provide a venue for these opinions to develop. Under certain conditions, referendums can also intensify political divisions on these issues.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1177/00323217261503763"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Nelly Buntfuß",
+        "Felix Grünewald",
+        "Arndt Leininger"
+      ],
+      "crossref_online_date": "2026-11-23",
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1177/00323217261503763",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Political Studies",
+      "journal_id": "J032",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1177/00323217261503763"
+      ],
+      "requires_manual_verification": true,
+      "title": "Opinion formation through popular votes: Elite cues and polarization in EU referendums",
+      "url": "https://doi.org/10.1177/00323217261503763"
+    },
+    {
+      "abstract": "This article examines the factors influencing state-level adoption of LGBTQ (lesbian, gay, bisexual, transgender, and queer) policies in the United States over the past three decades, focusing on both expansive and restrictive policies. Public opinion and policy on LGBTQ rights have shifted dramatically, with many changes occurring at the state level. Using a unique dataset of nearly 800 policy adoptions, I apply pooled event history analysis models to assess the role of policy diffusion, party control, and the initiative process. The results show that states are more likely to adopt LGBTQ policies when co-partisan states have done so, but this effect diminishes over time, indicating policy imitation. In addition, higher initiative usage is associated with increased adoption of expansive policies. These findings suggest that the dramatic increase in policymaking in this area is being driven by a desire for states to symbolically display their values rather than waiting to see the effect of policy adoption and suggest the policy network will remain heavily polarized by party control in the coming years.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1177/00323217261506854"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Scott LaCombe"
+      ],
+      "crossref_online_date": "2026-11-23",
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1177/00323217261506854",
+      "first_seen_jst": "2026-11-24",
+      "journal": "Political Studies",
+      "journal_id": "J032",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1177/00323217261506854"
+      ],
+      "requires_manual_verification": true,
+      "title": "The diffusion of LGBTQ policies in the American states",
+      "url": "https://doi.org/10.1177/00323217261506854"
     }
   ],
   "journal_total": 145,
@@ -459,15 +873,15 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 54,
+  "political_backlog_unverified_count": 52,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 9,
-  "raw_candidate_count": 12,
-  "research_candidate_abstracts_available": 11,
-  "research_candidate_abstracts_missing": 0,
+  "publisher_first_online_in_window_verified_count": 13,
+  "raw_candidate_count": 23,
+  "research_candidate_abstracts_available": 18,
+  "research_candidate_abstracts_missing": 3,
   "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 11,
+  "research_candidate_unverified_count": 21,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-23",
-  "window_start_jst": "2026-11-22"
+  "window_end_jst": "2026-11-24",
+  "window_start_jst": "2026-11-23"
 }

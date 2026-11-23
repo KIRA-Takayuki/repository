@@ -1,40 +1,8 @@
 {
-  "checked_at_utc": "2026-11-22T21:05:48.403435+00:00",
-  "collected_on": "2026-11-23",
-  "count": 54,
+  "checked_at_utc": "2026-11-23T23:02:23.052613+00:00",
+  "collected_on": "2026-11-24",
+  "count": 52,
   "items": [
-    {
-      "crossref_candidate_date": "2026-10-09",
-      "doi": "10.1163/17455243-bja10231",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "The Weight of Reasons: A Framework for Ethics, written by Chris Tucker"
-    },
-    {
-      "crossref_candidate_date": "2026-10-09",
-      "doi": "10.1163/17455243-bja10232",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "What Should Individuals Do About Climate Change? A Debate, written by M. Hourdequin and D.C. Shahar"
-    },
-    {
-      "crossref_candidate_date": "2026-10-09",
-      "doi": "10.1177/00905917261490416",
-      "first_seen_jst": "2026-11-06",
-      "journal_id": "J031",
-      "status": "unverified_not_introduced",
-      "title": "Book Review:\n                    The Invention of Order: On the Coloniality of Space\n                    , by Don Thomas Deere The Invention of Order: On the Coloniality of Space, by DeereDon Thomas, Durham, NC: Duke University Press, 2026, 160 pp."
-    },
-    {
-      "crossref_candidate_date": "2026-10-09",
-      "doi": "10.1177/00905917261490429",
-      "first_seen_jst": "2026-11-06",
-      "journal_id": "J031",
-      "status": "unverified_not_introduced",
-      "title": "Book Review:\n                    Mending the Nation: Reclaiming “We the People” in a Populist Age\n                    , by Michael J. Illuzzi Mending the Nation: Reclaiming “We the People” in a Populist Age, by IlluzziMichael J., Lawrence, KS: University Press of Kansas, 2025, 224 pp."
-    },
     {
       "crossref_candidate_date": "2026-10-10",
       "doi": "10.1017/s0034670526101211",
@@ -418,6 +386,22 @@
       "journal_id": "J038",
       "status": "unverified_not_introduced",
       "title": "Liberal nationalism and the protection of majority cultures"
+    },
+    {
+      "crossref_candidate_date": "2026-11-22",
+      "doi": "10.1111/papa.70035",
+      "first_seen_jst": "2026-11-24",
+      "journal_id": "J026",
+      "status": "unverified_not_introduced",
+      "title": "Freedom and Constraint"
+    },
+    {
+      "crossref_candidate_date": "2026-11-23",
+      "doi": "10.1080/13698230.2026.2763279",
+      "first_seen_jst": "2026-11-24",
+      "journal_id": "J038",
+      "status": "unverified_not_introduced",
+      "title": "The vocabulary of ‘majority language rights’"
     },
     {
       "crossref_candidate_date": "2026-11-23",

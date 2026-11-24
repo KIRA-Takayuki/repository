@@ -1,15 +1,15 @@
 {
   "status": "structurally_valid_not_semantically_verified",
   "checked_on_jst": "2026-11-24",
-  "raw_candidates": 23,
-  "already_introduced": 0,
-  "eligible_candidates": 23,
+  "raw_candidates": 26,
+  "already_introduced": 14,
+  "eligible_candidates": 12,
   "publisher_date_evidence_counts": {
-    "publisher_doi_matched": 13,
-    "crossref_published_online_only": 8,
+    "publisher_doi_matched": 0,
+    "crossref_published_online_only": 10,
     "unconfirmed": 2
   },
-  "manual_review_required_count": 10,
+  "manual_review_required_count": 12,
   "manual_review_required": [
     {
       "doi": "10.1080/13698230.2026.2763279",
@@ -26,16 +26,27 @@
       ]
     },
     {
+      "doi": "10.1093/ajj/auag027",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1093/icon/moag115",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
       "doi": "10.1093/icon/moag116",
       "reasons": [
         "publisher first-online date not independently verified"
       ]
     },
     {
-      "doi": "10.1093/pq/pqag090",
+      "doi": "10.1093/monist/onag032",
       "reasons": [
-        "publisher first-online date not independently verified",
-        "abstract absent or suspect"
+        "publisher first-online date not independently verified"
       ]
     },
     {
@@ -82,7 +93,7 @@
   "errors": [],
   "warnings": [
     "3 research candidates lack abstracts",
-    "10 eligible candidates require manual semantic verification"
+    "12 eligible candidates require manual semantic verification"
   ],
   "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."
 }

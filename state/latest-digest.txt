@@ -1,5 +1,5 @@
 学術誌・論文メタデータ候補｜2026-11-24
-要確認の候補：806本
+要確認の候補：809本
 
 ※翻訳・要約・出版社による初回公開日の照合は、ChatGPT内で別途実施する。
 ※このファイルはメール本文ではなく調査候補一覧である。
@@ -4120,44 +4120,59 @@ Kunadu, C. et al. (2026). Beyond Anticipatory Governance: Defensive Steering for
 https://doi.org/10.1080/15265161.2026.2756651
 Abstract (original): Not available
 
-799. La independencia judicial en el constitucionalismo iliberal. Un análisis a partir del caso de Singapur
+799. Incompleteness in Jurisprudence
+Burbidge, D. (2026). Incompleteness in Jurisprudence. The American Journal of Jurisprudence.
+https://doi.org/10.1093/ajj/auag027
+Abstract (original): Abstract I map core debates in jurisprudence and identify methodological incompatibility between legal positivism and natural law theory in their respective approaches to sourcing law’s authoritativeness. I then offer a test of completeness of these two main approaches by analogous reference to Kurt Gödel’s incompleteness theorems. Legal positivism is found to amount to a tautological assertion of completeness, whereas natural law theory works with admission of incompleteness and is thereby methodologically superior. I then attempt to counter the finding by suggesting that natural law theory purports completeness through reliance on Aristotle’s notion of the self-sufficiency of the polis but find the Aristotelian claim narrow and open to its incompleteness. Legal positivism, on the other hand, fails to admit of incompleteness in describing the basis of legal validity.
+
+800. Constitucionalismo híbrido en México después del populismo: ¿hacia una autocracia paritaria y pluricultural?
+Giménez, F.P. (2026). Constitucionalismo híbrido en México después del populismo: ¿hacia una autocracia paritaria y pluricultural?. International Journal of Constitutional Law (I-CON).
+https://doi.org/10.1093/icon/moag115
+Abstract (original): Abstract The text analyzes political and constitutional developments in Mexico under the Morena administrations (2018–2026) and characterizes them within the spectrum of new forms of global authoritarianism. After documenting the impact of populism in the country, the text argues that the current constitutional framework moves away from constitutional democracy and points toward a hybrid or mixed form of constitutionalism, with an authoritarian and illiberal component that coexists, however, with an agenda promoting gender equality and the rights of indigenous and Afro-Mexican peoples. This distinguishes Mexican developments from the anti-gender constitutionalism and abusive feminism practiced by right-wing leaders, but it does not prevent the ultimate dominance of the authoritarian dimension—since the progressive components mask and block criticism of the authoritarian ones or are directly instrumentalized by them.
+
+801. La independencia judicial en el constitucionalismo iliberal. Un análisis a partir del caso de Singapur
 Simonelli, M.A. (2026). La independencia judicial en el constitucionalismo iliberal. Un análisis a partir del caso de Singapur. International Journal of Constitutional Law (I-CON).
 https://doi.org/10.1093/icon/moag116
 Abstract (original): Abstract This article examines the function and guarantees of judicial independence under illiberal constitutionalism through the case of Singapore. After defining illiberal constitutionalism and its two main variants —communitarian and national-populist— it analyses the constitutional design of the Singaporean judiciary: the appointment system, security of tenure and judicial remuneration. The article argues that Singapore’s legal order grants judges an independence sufficient in degree yet restricted in scope: effectively shielded from direct attacks, judges remain exposed to indirect political conditioning through temporary appointments, discretionary extensions and opaque remuneration components, while the courts’ jurisdiction contracts in politically sensitive matters. The Singaporean case reveals the replicability of these mechanisms and the possibility of a stable articulation of the relationship between courts and political power, different from the liberal-democratic one.
 
-800. From the Best to the Rest: Idealistic Thinking In A Non-Ideal World
+802. Theoretical Progress in Ethics
+Kappel, K. (2026). Theoretical Progress in Ethics. The Monist.
+https://doi.org/10.1093/monist/onag032
+Abstract (original): ABSTRACT The paper sketches an account of progress in ethical theorizing that aims to be consistent with noncognitivism about morality, the evolutionary origin of morality, and reflective equilibrium as a method of theorizing in ethics. Departing from paradigmatic cases of moral progress such as the abolition of slavery, animal liberation, end of sexism and racism, moral progress is defined as appropriate expansions of core moral concerns evolving around flourishing and equality. Theoretical progress—progress in ethical theorizing—is defined as the development of better theories that enables us to make sense of moral progress. The metric of theoretical betterness is provided by the method of reflective equilibrium, in particular by the virtues of systematicity. A nonepistemic metajustification of systematicity is briefly outlined, and the paper finally considers two objections centered around theoretical disagreement and circularity.
+
+803. From the Best to the Rest: Idealistic Thinking In A Non-Ideal World
 Cetty, C. (2026). From the Best to the Rest: Idealistic Thinking In A Non-Ideal World. Philos Q.
 https://doi.org/10.1093/pq/pqag090
 Abstract (original): Not available
 
-801. Curatorial Rulemaking: How Bureaucracies Constitute Emergent Regulatory Fields – Evidence from Mexico
+804. Curatorial Rulemaking: How Bureaucracies Constitute Emergent Regulatory Fields – Evidence from Mexico
 ANSOLABEHERE, K. (2026). Curatorial Rulemaking: How Bureaucracies Constitute Emergent Regulatory Fields – Evidence from Mexico. J Law Soc.
 https://doi.org/10.1111/jols.70093
 Abstract (original): Abstract This article introduces the concept of curatorial rulemaking to analyse a form of bureaucratic action that creates categories, distributes authority and delimits the boundaries of an emergent state field. The concept is developed through an analysis of the making of Mexico's Homologated Protocol for the Search of Disappeared Persons. The bureaucracy in charge of producing this protocol went beyond discretionary interpretation, stakeholder negotiation or the routine use of documents: it produced a new regulatory device in a field traversed by heterogeneous forms of knowledge, intense social demands and legitimacy pressures. The article engages with three bodies of literature – regulatory production, bureaucratic discretion and the documentary materiality of state action – and argues that the perspectives they offer fail to sufficiently foreground the compositional work through which a bureaucracy converts legal mandates, expert inputs and experiential claims into a relatively stable regulatory object.
 
-802. Copyright Reversion: Reclaiming Lost Culture and Getting Creators Paid
+805. Copyright Reversion: Reclaiming Lost Culture and Getting Creators Paid
                     By JoshuaYuvaraj and RebeccaGiblin, Cambridge: Cambridge University Press, 2025, 174 pp., £105.00
 COOPER, E. (2026). Copyright Reversion: Reclaiming Lost Culture and Getting Creators Paid
                     By JoshuaYuvaraj and RebeccaGiblin, Cambridge: Cambridge University Press, 2025, 174 pp., £105.00. J Law Soc.
 https://doi.org/10.1111/jols.70099
 Abstract (original): Not available
 
-803. Contractualism and Two Types of Non-Identity
+806. Contractualism and Two Types of Non-Identity
 Clifton, O. (2026). Contractualism and Two Types of Non-Identity. J Moral Philos.
 https://doi.org/10.1163/17455243-bja10195
 Abstract (original): Abstract Choices that affect how well off future people will be often also affect who they will be. This generates “the Non-Identity Problem”: the problem of explaining why it would be wrong to create someone whose life would be worth living, rather than a numerically non-identical person whose life would be better. A growing number of contractualists say that their theory solves this problem, and to great effect. Contractualism is uniquely positioned to demonstrate that the choice at issue would be wrong because it would wrong someone, and thus to deliver an attractive, non-consequentialist theory of intergenerational ethics. I argue this is a mistake. Contractualism can neither solve the Non-Identity Problem nor deliver the theory of intergenerational ethics promised. This conclusion proves consequential not only for contractualist moral theory, but for intergenerational ethics, generally.
 
-804. One Life to Lead: The Mysteries of Time and the Goods of Attachment, Written by Samuel Scheffler
+807. One Life to Lead: The Mysteries of Time and the Goods of Attachment, Written by Samuel Scheffler
 Wohns, N. (2026). One Life to Lead: The Mysteries of Time and the Goods of Attachment, Written by Samuel Scheffler. J Moral Philos.
 https://doi.org/10.1163/17455243-bja10236
 Abstract (original): Not available
 
-805. Opinion formation through popular votes: Elite cues and polarization in EU referendums
+808. Opinion formation through popular votes: Elite cues and polarization in EU referendums
 Buntfuß, N. et al. (2026). Opinion formation through popular votes: Elite cues and polarization in EU referendums. Political Studies.
 https://doi.org/10.1177/00323217261503763
 Abstract (original): Referendums are often seen as instruments to enhance the legitimacy of political decisions. However, rather than assuming that referendums merely aggregate citizens’ preferences, we conceptualize them as arenas of opinion formation. We examine this dynamic in three studies of national referendums on European integration. First, time-series cross-sectional analyses of Eurobarometer data from 15 countries (1973–2012) show that European Union referendums increase the proportion of citizens who have an opinion on the European Union. Second, analyses of a broader set of referendum outcomes demonstrate that public opinion, revealed through these outcomes, reacts to elite cues. Third, panel surveys from two European Union membership referendums trace opinion formation at the individual level. Together, these findings demonstrate that referendums not only allow citizens to voice their opinions on important issues but also provide a venue for these opinions to develop. Under certain conditions, referendums can also intensify political divisions on these issues.
 
-806. The diffusion of LGBTQ policies in the American states
+809. The diffusion of LGBTQ policies in the American states
 LaCombe, S. (2026). The diffusion of LGBTQ policies in the American states. Political Studies.
 https://doi.org/10.1177/00323217261506854
 Abstract (original): This article examines the factors influencing state-level adoption of LGBTQ (lesbian, gay, bisexual, transgender, and queer) policies in the United States over the past three decades, focusing on both expansive and restrictive policies. Public opinion and policy on LGBTQ rights have shifted dramatically, with many changes occurring at the state level. Using a unique dataset of nearly 800 policy adoptions, I apply pooled event history analysis models to assess the role of policy diffusion, party control, and the initiative process. The results show that states are more likely to adopt LGBTQ policies when co-partisan states have done so, but this effect diminishes over time, indicating policy imitation. In addition, higher initiative usage is associated with increased adoption of expansive policies. These findings suggest that the dramatic increase in policymaking in this area is being driven by a desire for states to symbolically display their values rather than waiting to see the effect of policy adoption and suggest the policy network will remain heavily polarized by party control in the coming years.

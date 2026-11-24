@@ -1,7 +1,7 @@
 {
-  "candidate_count": 832,
+  "candidate_count": 823,
   "candidate_count_scope": "Lookback cache, NOT verified new research papers",
-  "checked_at_utc": "2026-11-24T23:05:09.943005+00:00",
+  "checked_at_utc": "2026-11-24T23:57:55.168391+00:00",
   "counts": {
     "checked": 135,
     "failed": 1,
@@ -9,10 +9,10 @@
     "unresolved": 9
   },
   "daily_abstracts_missing": 8,
-  "daily_candidate_count": 34,
-  "daily_unverified_research_candidate_count": 34,
+  "daily_candidate_count": 35,
+  "daily_unverified_research_candidate_count": 35,
   "dry_run": false,
-  "first_observed_doi_count": 37,
+  "first_observed_doi_count": 1,
   "journal_status": {
     "J001": {
       "candidate_count": 4,
@@ -147,7 +147,7 @@
       "status": "checked"
     },
     "J027": {
-      "candidate_count": 1,
+      "candidate_count": 2,
       "errors": [],
       "status": "checked"
     },
@@ -427,7 +427,7 @@
       "status": "checked"
     },
     "J082": {
-      "candidate_count": 10,
+      "candidate_count": 0,
       "errors": [],
       "status": "checked"
     },
@@ -761,7 +761,7 @@
   },
   "major_unchecked": [],
   "mode": "metadata_only_no_OpenAI_API_no_Gmail",
-  "possible_new_count": 832,
+  "possible_new_count": 823,
   "publisher_pages_verified": false,
   "window_end": "2026-11-25",
   "window_start": "2026-10-11"

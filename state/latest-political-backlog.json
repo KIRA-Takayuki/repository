@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-11-24T23:05:09.943005+00:00",
+  "checked_at_utc": "2026-11-24T23:57:55.168391+00:00",
   "collected_on": "2026-11-25",
-  "count": 49,
+  "count": 50,
   "items": [
     {
       "crossref_candidate_date": "2026-10-12",
@@ -394,6 +394,14 @@
       "journal_id": "J070",
       "status": "unverified_not_introduced",
       "title": "One Life to Lead: The Mysteries of Time and the Goods of Attachment, Written by Samuel Scheffler"
+    },
+    {
+      "crossref_candidate_date": "2026-11-25",
+      "doi": "10.16995/pp.28620",
+      "first_seen_jst": "2026-11-25",
+      "journal_id": "J027",
+      "status": "unverified_not_introduced",
+      "title": "Aesthetically Critiquing Oppression"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

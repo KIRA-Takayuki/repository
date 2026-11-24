@@ -2,7 +2,7 @@
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-24T23:05:09.943005+00:00",
+  "checked_at_utc": "2026-11-24T23:57:55.168391+00:00",
   "collected_on": "2026-11-25",
   "counts": {
     "checked": 135,
@@ -10,7 +10,7 @@
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 34,
+  "eligible_candidate_count": 35,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
@@ -1254,6 +1254,42 @@
       "requires_manual_verification": true,
       "title": "Chronique de droit constitutionnel comparé (juillet 2025 à décembre 2025)",
       "url": "https://doi.org/10.3917/tvii.016.0164"
+    },
+    {
+      "abstract": "This is an accepted article with a DOI pre-assigned that is not yet published.Faced with, say, a racist law or an instance of misogynistic street harassment, we usually expect victims of oppression to offer moral responses. We think they’ll blame, resent, or attempt to punish. Instead, they sometimes offer aesthetic critiques, complaining about the clumsiness, ugliness, or downright boringness of some manifestation of oppression. It is tempting to dismiss these as criticizable failures to offer well-calibrated reactions to injustice. In this paper I offer a redemptive reading of aesthetic critiques. In cases where straightforward moral criticism would lack marks of successful agency (effectiveness and responsiveness), aesthetically critiquing oppression might enable one to perform broadly resistant actions with these features. Moreover, aesthetic critiques can help us appreciate some of what’s bad about oppression. In calling patriarchy boring, aesthetic critics call attention to the ways ideology gives rise to repetitive patterns of injustice, rendering the shape of our collective human history less interesting than it otherwise might be.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.16995/pp.28620"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Anna-Bella Sicilia"
+      ],
+      "crossref_online_date": "2026-11-25",
+      "crossref_subtype": "",
+      "date": "2026-11-25",
+      "doi": "10.16995/pp.28620",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Political Philosophy",
+      "journal_id": "J027",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.16995/pp.28620",
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.16995/pp.28620"
+      ],
+      "requires_manual_verification": true,
+      "title": "Aesthetically Critiquing Oppression",
+      "url": "https://doi.org/10.16995/pp.28620"
     }
   ],
   "journal_total": 145,
@@ -1265,14 +1301,14 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 49,
+  "political_backlog_unverified_count": 50,
   "publisher_first_online_date_conflict_count": 0,
   "publisher_first_online_in_window_verified_count": 15,
-  "raw_candidate_count": 34,
-  "research_candidate_abstracts_available": 26,
+  "raw_candidate_count": 35,
+  "research_candidate_abstracts_available": 27,
   "research_candidate_abstracts_missing": 8,
   "research_candidate_suspect_abstracts": 1,
-  "research_candidate_unverified_count": 34,
+  "research_candidate_unverified_count": 35,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
   "window_end_jst": "2026-11-25",
   "window_start_jst": "2026-11-24"

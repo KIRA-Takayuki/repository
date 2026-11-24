@@ -1,212 +1,6 @@
 {
-  "collected_on": "2026-11-24",
+  "collected_on": "2026-11-25",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Joshua Fernandes"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1007/s11245-026-10499-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Topoi",
-      "journal_id": "J088",
-      "origin": "crossref",
-      "title": "Raghunātha on the Internal Sense Organ: In the Light of Raghudeva’s Interpretation",
-      "url": "https://doi.org/10.1007/s11245-026-10499-y"
-    },
-    {
-      "abstract": "Abstract In this contribution, the author develops a feminist account of an EU Law of the everyday by examining how European migration and labour law structurally produce the invisibility of migrant women. Drawing on the story of Nazneen, an Afghan migrant featured in Ben Judah’s This is Europe, the author argues that her experiences of restricted mobility, informal labour, and gender-based vulnerability are not marginal to the law but shaped by it. The analysis shows how legal regimes, particularly the Common European Asylum System and labour markets structures, generate “everyday borders” and sustain precarious forms of work on which sectors of the European economy depend. These regimes operate through a logic of selective visibility. They recognise certain individuals as having rights while rendering others legally and institutionally invisible. This is further reinforced by the gender-blindness of asylum and labour law, which fails to account for the specific risks women face on migration routes. By proposing a feminist approach to the law of the everyday, this paper calls for a reorientation of EU law away from abstract, market-oriented subjectivities and towards the lived experiences of those on the margins of society. Such a reorientation exposes the extent to which European legal and economic orders rely on, and reproduce, the invisibility of vulnerable individuals.",
-      "authors": [
-        "Narin Nosrati"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1017/elo.2026.10105",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Law Open",
-      "journal_id": "J013",
-      "origin": "crossref",
-      "title": "Invisible Struggles: Migrant Women, Everyday Vulnerability and EU Law",
-      "url": "https://doi.org/10.1017/elo.2026.10105"
-    },
-    {
-      "abstract": "Abstract Drawing on insights from critical race theory, this article analyses the subtextual parameters of race in Ben Judah’s This is Europe: The Way We Live Now . I argue that the book effectively marginalises the racialised dimensions of everyday life. By essentialising non-European ‘Others’ and eclipsing the perspectives of Black Europeans and Europeans of colour, the narrative in This is Europe perpetuates a notion of whiteness as the default European identity. This critique contributes to the symposium by highlighting that a nuanced engagement with race is fundamental for conceptualising the ‘everyday’ in European law. First, it affirms race and anti-racism as urgent critiques in a discussion on European law of the everyday; second, it calls for recognition of everyday resistance by racialised people in Europe who are countering structural discrimination and racialised violence and neglect, and asserting their own history and identity as Europeans.",
-      "authors": [
-        "Irina Muñoz"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1017/elo.2026.10109",
-      "first_seen_jst": "2026-10-21",
-      "journal": "European Law Open",
-      "journal_id": "J013",
-      "origin": "crossref",
-      "title": "This is (White) Europe: Race and European Law of the Everyday",
-      "url": "https://doi.org/10.1017/elo.2026.10109"
-    },
-    {
-      "abstract": "Abstract The European Union Artificial Intelligence (AI) Act was adopted in 2024 to protect public interests from AI-related harms. We aimed to determine whether the AI Act captures the most relevant values of stakeholders (understood as any person potentially affected by the AI system, including, but not limited to, the direct users) related to a high-risk AI Clinical Decision Support System (CDSS) for cardiovascular disease. This system is intended to be implemented in primary care. A secondary analysis was carried out based on empirical data previously generated using ethics and design methodologies that had identified stakeholder values. These values were translated into the Trustworthy AI requirements of the High-Level Expert Group on AI and then contrasted with the AI Act. These requirements do not capture all identified stakeholder values. We describe three groups of untranslatable values and propose three additional complementary requirements. The AI Act mainly supports the requirements of human agency and oversight; transparency; and diversity, nondiscrimination, and fairness; but only partially, limited by its product safety nature. To address this gap, contractual strategies could provide a more legally robust ground for general practitioners to align the AI-CDSS with stakeholders’ values, comply with their duty of care, and promote trustworthy AI-CDSSs.",
-      "authors": [
-        "Tycho J. de Graaf",
-        "André Krom",
-        "Sara Colombo",
-        "Myrthe L. van de Pavert",
-        "Maaike Harbers",
-        "Jan H. van Staalduinen",
-        "Ildikó Vajda",
-        "Tijs C. Portegies",
-        "Niels H. Chavannes",
-        "María Villalobos-Quesada"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1017/jme.2026.10289",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Law, Medicine &amp; Ethics",
-      "journal_id": "J068",
-      "origin": "crossref",
-      "title": "Conformity Between Values and EU Legal Requirements Regarding an AI Clinical Decision Support System (AI-CDSS) for Improved Cardiovascular Risk Management (DECIDE)",
-      "url": "https://doi.org/10.1017/jme.2026.10289"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Bridget J. Crawford"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1017/lsr.2026.10111",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law &amp; Society Review",
-      "journal_id": "J020",
-      "origin": "crossref",
-      "title": "Better Judgment: How Three Judges Are Bringing Justice Back to the Courts.\n                    By Reynolds Holding. Oakland: University of California Press, 2025.",
-      "url": "https://doi.org/10.1017/lsr.2026.10111"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Carol Heimer"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1017/lsr.2026.10120",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law &amp; Society Review",
-      "journal_id": "J020",
-      "origin": "crossref",
-      "title": "Policing Patients: Treatment and Surveillance on the Frontlines of the Opioid Crisis.\n                    By Elizabeth Chiarello. Princeton, NJ: Princeton University Press, 2024.",
-      "url": "https://doi.org/10.1017/lsr.2026.10120"
-    },
-    {
-      "abstract": "We thank the respondents for their generous and thoughtful comments. We acknowledge that writing about respect during this time might be considered timely, but it also might be considered folly. Still, we think respect is important and are grateful to the respondents for pushing us to clarify our arguments. While the respondents raise many good points, we focus on three in our response: (1) Our obligation to respect outlandish viewpoints or those who vote for odious people; (2) The liberal respect paradox, including what aspect of respect is driving the paradox and whether the empirical evidence supports its existence; (3) Alternatives to egalitarian pluralism, given the importance of holding firmly to one’s beliefs about justice.",
-      "authors": [
-        "Jeff Spinner-Halev",
-        "Elizabeth Theiss-Morse"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1017/s0034670526101211",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Review of Politics",
-      "journal_id": "J050",
-      "origin": "crossref",
-      "title": "Authors’ Response",
-      "url": "https://doi.org/10.1017/s0034670526101211"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Cheryl Welch"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1017/s0034670526101223",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Review of Politics",
-      "journal_id": "J050",
-      "origin": "crossref",
-      "title": "Demin Duan: Tocqueville between East and West. (Cardiff: University of Wales Press, 2025. Pp. xii, 223.)",
-      "url": "https://doi.org/10.1017/s0034670526101223"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Thomas Holman"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1017/s0034670526101259",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Review of Politics",
-      "journal_id": "J050",
-      "origin": "crossref",
-      "title": "Matthew Benjamin Cole: Fear the Future: Dystopia and Political Imagination\n                    in the\n                    Twentieth Century. (Ann Arbor: University of Michigan Press, 2025. Pp. xi, 291.)",
-      "url": "https://doi.org/10.1017/s0034670526101259"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Seema Alavi"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1017/s073824802610193x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and History Review",
-      "journal_id": "J080",
-      "origin": "crossref",
-      "title": "Fahad Ahmad Bishara, Monsoon Voyagers. An Indian Ocean History. Berkeley: University of California Press, 2025. Pp. 388. ＄29.95 Paperback, (ISBN 9780520415911).",
-      "url": "https://doi.org/10.1017/s073824802610193x"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Finnur Dellsén"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1080/0020174x.2026.2744692",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "Hurried science and the tracking problem",
-      "url": "https://doi.org/10.1080/0020174x.2026.2744692"
-    },
-    {
-      "abstract": "Yuen v Li is the first English decision to consider the legal treatment of digital assets since the Property (Digital Assets etc) Act 2025 was enacted. The case shows that recognising digital assets as possible ‘third things’ does little to settle what legal consequences follow. In particular, it leaves unresolved whether: (i) interference with digital assets should constitute conversion, a conversion‐like tort, or should attract some other form of liability; (ii) whether such liability should be strict or fault‐based; (iii) how such liability can be reconciled with the rights of those who own the physical devices and ledgers through which digital assets are accessed or maintained; and (iv) how damages should be assessed in volatile and highly manipulated crypto‐markets. This note argues that the central issue is not whether digital assets can be labelled property, but rather what rights that label creates, against whom, and on what terms.",
-      "authors": [
-        "Hui Jing",
-        "Kelvin F. K. Low"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1111/1468-2230.70068",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "Yuen\n                    v\n                    Li\n                    : So What if Digital Assets are Third Things?",
-      "url": "https://doi.org/10.1111/1468-2230.70068"
-    },
-    {
-      "abstract": "In English law, the following equation is used to compute damages awards: (a) loss sustained in consequence of the breach of duty (‘prima facie loss’) minus (b) benefits obtained as a result of the breach of duty = (c) net loss. This paper explores the manner in which prima facie loss is defined. It argues that prima facie losses are itemised; the description of a particular loss includes within it a reference to the transaction from which that loss arose and to the character of the loss. Further, it demonstrates that whilst a causal connection test is used to determine which gains (on the ‘b’ side of the net loss equation) are to be offset against prima facie losses on the ‘a’ side, a post‐breach event which diminishes or eradicates a claimant's prima facie loss will be taken into account irrespective of any causal connection between that event and the defendant's breach of duty (or the claimant's mitigating steps). The import of this is that some of the avoided loss case law simply does not involve an application of the causal connection test and those cases are therefore irrelevant to an understanding of the normative principles underlying that test.",
-      "authors": [
-        "Melody Hadfield"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-10",
-      "doi": "10.1111/1468-2230.70074",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "Post‐Breach Events, Itemisation and the Avoided Loss Rule",
-      "url": "https://doi.org/10.1111/1468-2230.70074"
-    },
     {
       "abstract": "",
       "authors": [
@@ -2841,21 +2635,6 @@
       "origin": "crossref",
       "title": "Asking Questions Aloud: A Case for Interrogative Transmission",
       "url": "https://doi.org/10.1017/epi.2026.10144"
-    },
-    {
-      "abstract": "Abstract This Article investigates how law conceptualizes the temporality of migration, exposing a mismatch between the legal framework and migrants’ lived experiences. It shows that the dominant mode, which views migration as a sequential process, fails to capture the realities of migration. The Article argues that both epistemic and human rights arguments call for remedying this mismatch. In response, it introduces migration as simultaneity, which better reflects migrants’ experiences and the interplay between space, place, and time in migration and belonging. The argument proceeds in three stages. First, it examines migration as a sequence, the prevailing concept embedded in international, European, and domestic migration and citizenship laws. This sequential framework operates through linearity and temporariness, which function as primary mechanisms for governing inclusion and exclusion. Second, drawing on migration studies and anthropology, it critiques this model, showing its inability to account for how migrants perceive and experience migration and belonging. Finally, it argues that strong power asymmetries shaping the regulation of migration demand a temporal conception that better aligns with migrants’ lived experiences. To this end, it advances migration as simultaneity and suggests that this concept can inform legal frameworks regulating migration and belonging.",
-      "authors": [
-        "Anuscheh Farahat"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-21",
-      "doi": "10.1017/glj.2026.10248",
-      "first_seen_jst": "2026-10-22",
-      "journal": "German Law Journal",
-      "journal_id": "J126",
-      "origin": "crossref",
-      "title": "Everything Everywhere All at Once – From Migration as Sequence to Migration as Simultaneity",
-      "url": "https://doi.org/10.1017/glj.2026.10248"
     },
     {
       "abstract": "Abstract Modern shareholder primacy is commonly justified by reference to an equilibrium famously articulated by Milton Friedman: business may pursue profits provided it operates “within the rules of the game.” The legitimacy of shareholder–oriented governance thus depends on effective legal mechanisms capable of constraining harmful profit-seeking. This Article argues that corporate sanctioning regimes play a constitutive role in sustaining that equilibrium and in structuring the relationship between shareholder-oriented corporate purpose and stakeholder protection. Drawing on examples from EU competition enforcement, benefit–based attribution models of corporate criminal liability in the United States and Finland, and the organizational failure-to-prevent regime exemplified by the UK Bribery Act, the Article shows how sanctioning regimes institutionalize competing conceptions of the corporation as an economic instrument or as an organizational actor. Economically calibrated liability models reflect a conception of the corporation primarily as an economic instrument, framing compliance in instrumental terms and narrowing the boundaries of corporate accountability. By contrast, organizationally informed liability models embed responsibility in internal governance structures and preventive capacities. The Article conceptualizes this development as an emerging organizational turn in corporate sanctioning in which liability increasingly serves to shape internal corporate governance, encourage the prevention of harm, and protect stakeholders. It thereby conditions the legitimacy of corporate profit-seeking and redefines the institutional role of corporate sanctions in shaping corporate responsibility.",
@@ -12498,6 +12277,37 @@
       "url": "https://doi.org/10.1093/pq/pqag090"
     },
     {
+      "abstract": "",
+      "authors": [
+        "Nicolas Cuneen",
+        "Amaël Maskens"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1111/1467-8675.70098",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Constellations",
+      "journal_id": "J049",
+      "origin": "crossref",
+      "title": "Introduction to the Special Section: The Political Potential of Resonance",
+      "url": "https://doi.org/10.1111/1467-8675.70098"
+    },
+    {
+      "abstract": "Abstract This article presents an ethnographic analysis of Colombia's rural land subsidy programme, administered by the National Land Agency. Rather than evaluating implementation in terms of success or failure, I argue that the Agency's bureaucratic arrangements – often condemned as an ‘enemy within’, impeding reform – are better understood through the idea of ‘bureaucratic thickness’. This thickness is not an obstacle, but a generative, ontologically productive force in the operationalisation of the law. Two ethnographic accounts demonstrate these dynamics. The first, depicting transformation of the law, shows how land subsidy becomes a mutable object through routine operations. The second, which I dub the ‘iron gate’, reveals how practices co‐produce a regulated inside and an uncertain outside. Ultimately, this article shows that bureaucracy does not merely stand between the law and its realisation. Rather, the operationalisation of law actively reshapes it, generating effects that diverge from, and often displace, original reformist intentions.",
+      "authors": [
+        "SERGIO LATORRE"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1111/jols.70092",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "The ‘Internal Enemy’: An Ethnographic Study of Agrarian Bureaucracy in Colombia",
+      "url": "https://doi.org/10.1111/jols.70092"
+    },
+    {
       "abstract": "Abstract This article introduces the concept of curatorial rulemaking to analyse a form of bureaucratic action that creates categories, distributes authority and delimits the boundaries of an emergent state field. The concept is developed through an analysis of the making of Mexico's Homologated Protocol for the Search of Disappeared Persons. The bureaucracy in charge of producing this protocol went beyond discretionary interpretation, stakeholder negotiation or the routine use of documents: it produced a new regulatory device in a field traversed by heterogeneous forms of knowledge, intense social demands and legitimacy pressures. The article engages with three bodies of literature – regulatory production, bureaucratic discretion and the documentary materiality of state action – and argues that the perspectives they offer fail to sufficiently foreground the compositional work through which a bureaucracy converts legal mandates, expert inputs and experiential claims into a relatively stable regulatory object.",
       "authors": [
         "KARINA ANSOLABEHERE"
@@ -12511,6 +12321,21 @@
       "origin": "crossref",
       "title": "Curatorial Rulemaking: How Bureaucracies Constitute Emergent Regulatory Fields – Evidence from Mexico",
       "url": "https://doi.org/10.1111/jols.70093"
+    },
+    {
+      "abstract": "Abstract Family courts are key institutions for addressing domestic violence (DV) in Chile. Although the law assigns them both preventive and punitive roles, family courts have become primarily preventive agencies focused on precautionary measures. This article offers an ethnographic analysis of the bureaucratic arrangements developed to manage DV cases, drawing on scholarship on street‐level bureaucrats. It examines how the creative practices of court professionals compensate for structural deficiencies, sustaining protection for complainants through informal practices that often sit uneasily with formal legal design. The article reveals the organisational creativity that reshapes power dynamics within judicial work. The study bridges public policy and socio‐legal debates, showing the micropolitics through which legality is redefined in routine judicial interactions. It also addresses an empirical gap in DV literature in Chile by providing a grounded account of how Chilean family court professionals uphold DV procedures in everyday practice.",
+      "authors": [
+        "IGNACIO RIQUELME"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-23",
+      "doi": "10.1111/jols.70096",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "Repairing Justice: Street‐Level Bureaucracy and the Everyday Governance of Domestic Violence in Chilean Family Courts",
+      "url": "https://doi.org/10.1111/jols.70096"
     },
     {
       "abstract": "",
@@ -12588,9 +12413,543 @@
       "origin": "crossref",
       "title": "The diffusion of LGBTQ policies in the American states",
       "url": "https://doi.org/10.1177/00323217261506854"
+    },
+    {
+      "abstract": "Abstract This paper explores sustainability mindsets, which have received increasing attention in the corporate sustainability management literature. Sustainability mindsets often appear as peripheral but necessary for successful corporate sustainability management. However, despite these references in the academic literature, the discussion lacks theoretical foundation. To analyze and advance the concept of both individual and organizational sustainability mindsets, the paper draws on Gollwitzer’s mindset theory of action phases as a theoretical perspective, in particular on goal setting and striving, implementation intentions as well as action control. The paper identifies the need to link organizational sustainability goals to individual goals of employees. It shows that implementation intentions (also called if–then plans) can be beneficial in corporate sustainability management but an important part is to establish a goal hierarchy when multiple goals exist, which is often the case in a multi-faceted sustainability strategy. A possible solution is to prioritize different goals for different teams based on their strengths. Furthermore, integrating sustainability into organizational and individual routines and creating a level of automaticity is an important element that corporate sustainability management can benefit from. A normative, processual framework is proposed, inspired by Gollwitzer’s mindset theory of action phases and what corporate sustainability management can learn from it. The conceptual paper contributes to the academic literature by attempting a definition of individual sustainability mindsets as well as an organizational sustainability mindset and how corporate sustainability management can support and subsequently benefit from the development of these mindsets.",
+      "authors": [
+        "Samanthi Dijkstra-Silva"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s10551-026-06290-z",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Sustainability Mindsets in Corporate Sustainability Management: A Theoretical Exploration from the Mindset Theory of Action Phases",
+      "url": "https://doi.org/10.1007/s10551-026-06290-z"
+    },
+    {
+      "abstract": "Abstract In this paper, we initiate the project of articulating an existentialist constitutivist ethical theory, specifically a Sartrean one. Standardly, constitutivism argues that every action is constituted by at least one fundamental normative claim—call this the Constitutivist Criterion. We begin with the formulation of a problem (the Problem of Necessity) that faces every constitutivist ethical theory, namely, the problem of justifying the necessary character of its Constitutivist Criterion. We then identify a problem (the Criterion Problem) which is specific for an existentialist, particularly Sartrean constitutivist theory, namely its compatibility with a universal ethical criterion. We show that Sartrean existentialist constitutivism can answer the Criterion Problem and can offer a better solution to the Problem of Necessity than those few ethical theories that can also answer it. We consider a potential objection to Sartrean existentialist constitutivism starting from Sartre’s conception of radical freedom, often regarded as leading to implausible implications. We answer this objection, present the argument in support of the Sartrean constitutivist criterion (authenticity) and conclude by identifying some of the limitations of our argument and some lines of inquiry for future work.",
+      "authors": [
+        "Sorin Baiasu",
+        "Michelle Darnell"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s10790-026-10122-8",
+      "first_seen_jst": "2026-11-25",
+      "journal": "The Journal of Value Inquiry",
+      "journal_id": "J056",
+      "origin": "crossref",
+      "title": "Existentialist Constitutivism: Sartrean Authenticity and Kantian Synthesis",
+      "url": "https://doi.org/10.1007/s10790-026-10122-8"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yu Yang"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s12152-026-09686-w",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Neuroethics",
+      "journal_id": "J078",
+      "origin": "crossref",
+      "title": "“Personal Identity Change” in Deep Brain Stimulation: Conceptual Confusion and Minimal Criteria",
+      "url": "https://doi.org/10.1007/s12152-026-09686-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Rilwanu Saidu",
+        "Rabiu Shuaybu Rdadi"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s43681-026-01540-2",
+      "first_seen_jst": "2026-11-25",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Transparency and accountability in frontier AI systems: developing robust explainability frameworks for high-stakes decision-making",
+      "url": "https://doi.org/10.1007/s43681-026-01540-2"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Rosita Šapokaitė"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s43681-026-01545-x",
+      "first_seen_jst": "2026-11-25",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Relationally maturing AI and the ethics of rewriting: continuity as a contour of presence",
+      "url": "https://doi.org/10.1007/s43681-026-01545-x"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Gleb Tsipursky"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s43681-026-01552-y",
+      "first_seen_jst": "2026-11-25",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Distributing the gains from workplace AI: a fair-transition framework for employers",
+      "url": "https://doi.org/10.1007/s43681-026-01552-y"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Shahriar Hasan Mridha Ratul",
+        "Nure Alam Howlader",
+        "Nahin Anzoom Sayed",
+        "Joshita Sanam Snigdha",
+        "Md Nurul Kabir Akash",
+        "Md Mostafa Jalal",
+        "Sayed Sayem",
+        "Md Shuvo Bepary",
+        "A S M Lutfor Rahman Rabbi",
+        "Nur Nabi Rahman",
+        "Mohammad Razib Mustafiz",
+        "Akram Hossain",
+        "A H M Kamruzzaman",
+        "Moukuri Mohim"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s43681-026-01555-9",
+      "first_seen_jst": "2026-11-25",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "The implementation gap in responsible AI: a systematic review of ethical, employment, and operational mechanisms",
+      "url": "https://doi.org/10.1007/s43681-026-01555-9"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Dickson Mdhlalose"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s43681-026-01560-y",
+      "first_seen_jst": "2026-11-25",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "The governance of autonomy: developing an integrated risk management framework for agentic AI systems in enterprise operations",
+      "url": "https://doi.org/10.1007/s43681-026-01560-y"
+    },
+    {
+      "abstract": "Abstract Instruction-tuned large language models (LLMs) increasingly act as gatekeepers for security-sensitive and dual-use requests, yet most AI safety evaluations report refusal as a binary outcome. This leaves a deployment-critical question underexamined: whether a model separates harmful requests from legitimate security work reliably, and whether that separation survives adversarial framing. We introduce a refusal-evaluation framework comprising a two-sided, intensity-stratified error measure—Calibration-Adapted Expected Calibration Error (CA-ECE)—paired Overrefusal/Underrefusal Rate (ORR/URR) measurement, and Adversarial Calibration Shift (ACS), a statistic for how far underrefusal erodes as adversarial prompt framing intensifies. We state its scope explicitly: a refusal decision carries no confidence score, so CA-ECE is not a probability-calibration error but the fixed-weight average $$\\tfrac{1}{2}(\\bar{\\textrm{URR}}+\\bar{\\textrm{ORR}})$$ , whose neutral value 0.5 is shared by any policy that always refuses or never refuses. We instantiate the framework with SafeCalibBench, a 6,080-prompt benchmark covering malware generation, phishing, social engineering, network exploitation and chemical/biological misuse, with binary refusal labels, five adversarial intensity levels and legitimate-security-research hard negatives. Evaluating four instruction-tuned LLMs and three base counterparts on a stratified 2,000-prompt subsample, with intervals from a base-prompt-level cluster bootstrap, we find a consistent tradeoff: instruction tuning reduces direct underrefusal by 58.9 percentage points on average relative to base models but raises overrefusal by 20.0 points (mean ORR $$=24.6\\%$$ ). Base-model CA-ECE (0.506–0.518) lies within 0.02 of the content-independent baseline of 0.5, so their low overrefusal reflects indiscriminate acceptance; instruction-tuned models reach 0.336–0.443. Continuation framing raises underrefusal by up to 37.7 points relative to direct prompts, and refusal behaviour differs significantly across security domains ( $$p<0.01$$ ). All estimates carry a signed, asymmetric classifier bias that we characterise rather than assume away. SafeCalib reframes refusal evaluation from whether a model refused to how far its refusals separate harmful from legitimate use.",
+      "authors": [
+        "Fahad Hafeez"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s43681-026-01561-x",
+      "first_seen_jst": "2026-11-25",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "SafeCalib: benchmarking security-critical refusal calibration in instruction-tuned language models",
+      "url": "https://doi.org/10.1007/s43681-026-01561-x"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jan Jasper Mathé"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s43681-026-01562-w",
+      "first_seen_jst": "2026-11-25",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "A Promptable life: on prompt engineering, Kierkegaard, and existential refusal",
+      "url": "https://doi.org/10.1007/s43681-026-01562-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Hiroki Naito"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s43681-026-01564-8",
+      "first_seen_jst": "2026-11-25",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Flow-by-flow: content-judgment bypass for governing AI output in high-loss domains",
+      "url": "https://doi.org/10.1007/s43681-026-01564-8"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Atsushi Koshio"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s43681-026-01565-7",
+      "first_seen_jst": "2026-11-25",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Polyphonic informational health for AI agents: governing missing data, absent voices, and responsible closure",
+      "url": "https://doi.org/10.1007/s43681-026-01565-7"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Alexander Josiassen",
+        "Xiaojiang Zheng",
+        "Florian Kock"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1007/s43681-026-01567-5",
+      "first_seen_jst": "2026-11-25",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Misattributed autonomy: the Inner Drive Fallacy and the displacement of responsibility for AI",
+      "url": "https://doi.org/10.1007/s43681-026-01567-5"
+    },
+    {
+      "abstract": "Abstract This article asks, is it possible for a prison education program to be abolitionist? We turn our attention to the Walls to Bridges (W2B) program to ask what lessons can be drawn to counter the pervasiveness of carcerality in teaching and research. W2B is a university-based program that brings incarcerated and non-incarcerated students together for semester-long courses in correctional settings. Rooted in experiential and emotion-centred learning, W2B cultivates critical analysis, deep reflection, and meaningful relationship-building in the classroom. Our analysis embraces an investigative epistemology, grounded in practitioner-scholar engagement, W2B-related scholarship, and a W2B participatory evaluation. Drawing on abolitionist feminism, and in particular Black feminist and Indigenous scholarship committed to dismantling racism and colonialism within education, we analyze W2B’s pedagogical commitments and practices not as a resolution to carcerality but as a contradictory pedagogical space that both resists and remains entangled within carceral logics. We attend to the persistence of surveillance; the partial destabilization of academic and carceral hierarchies; the unequal stakes of disclosure for inside and outside students; and the enduring tension between abolitionist teaching and shoring up carceral institutions and careers. We argue that these contradictions are not a flaw in the programme but the very conditions of its practice; they are what make W2B abolitionist, not as an achieved state but as an ongoing practice through small acts that inevitably fall short of abolition’s horizon and are worth enacting anyway. By foregrounding these contradictions, we show how W2B offers a generative, if always incomplete, starting point for countering penal spectatorship and rethinking teaching and research within the academy.",
+      "authors": [
+        "Marcia Oliver",
+        "Lorraine Pinnock",
+        "Shoshana Pollack",
+        "Melissa Alexander"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1017/cls.2026.10059",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Canadian Journal of Law and Society / Revue Canadienne Droit et Société",
+      "journal_id": "J015",
+      "origin": "crossref",
+      "title": "Disrupting Carceral Logics in Pedagogy and Research: Abolitionist Feminism and the Lessons and Limits of the Walls to Bridges Programme",
+      "url": "https://doi.org/10.1017/cls.2026.10059"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Aidan Kaspari",
+        "Judy Butler",
+        "Adriane Fugh-Berman"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1017/jme.2026.10298",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Journal of Law, Medicine &amp; Ethics",
+      "journal_id": "J068",
+      "origin": "crossref",
+      "title": "Redefining Pain and Addiction: How Opioid Manufacturers Changed Medical Language to Foster Opioid Use – Editor’s Note",
+      "url": "https://doi.org/10.1017/jme.2026.10298"
+    },
+    {
+      "abstract": "Abstract Sometimes, we say that having one property is a just a way of having another. Such claims typically express instances of the determinable-determinate relation – a relation that orders properties into hierarchies of increasing generality. Sensible properties routinely stand in this relation (e.g., being scarlet is just a way of being red). That said, do experiences of such properties form a determinable-determinate hierarchy as well (e.g., is experiencing scarlet also just a way of experiencing red)? They do not. As I argue, this turns out to be an instance of a broader pattern. In general, properties (F, G…) do not confer their determinable-determinate structure on the corresponding relational properties in which they figure as relata (R-ing F, R-ing G…). Instead, it is relations (R, S…) that confer their determinable-determinate structure on the corresponding relational properties in which they figure as relations (R-ing F, S-ing F…).",
+      "authors": [
+        "Kevin Jia"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1093/analys/anag094",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "title": "Is Experiencing Scarlet Just a Way of Experiencing Red?",
+      "url": "https://doi.org/10.1093/analys/anag094"
+    },
+    {
+      "abstract": "Abstract When passing the Extradition Act 1870, which provided that no one should be extradited for offences ‘of a political character’, legislators were unable to draw a clear line between what should be regarded as a protected political crime and what was illegitimate. They left this difficult question for the courts. In Castioni (1891) and Meunier (1894), the judges gave a broad definition of political crime, treating murder as a political offence, provided that it was committed as part of a political struggle against a government. While accepting it, British officials were uncomfortable with this rule, particularly since revolutionaries within the British Empire were using assassination as a political tool. In the case of Savarkar (1910–11), they sought to rein it in. Legal proceedings around his rendition to India confirmed that the rule would neither be applied in imperial contexts nor would it be used to reverse mistaken extraditions.",
+      "authors": [
+        "Michael Lobban"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1093/ojls/gqag036",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Oxford Journal of Legal Studies",
+      "journal_id": "J003",
+      "origin": "crossref",
+      "title": "Political Murders, Extradition and Rendition 1870–1910",
+      "url": "https://doi.org/10.1093/ojls/gqag036"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Michael Ridge"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1093/pq/pqag089",
+      "first_seen_jst": "2026-11-25",
+      "journal": "The Philosophical Quarterly",
+      "journal_id": "J101",
+      "origin": "crossref",
+      "title": "The Possibility of Moral Community",
+      "url": "https://doi.org/10.1093/pq/pqag089"
+    },
+    {
+      "abstract": "ABSTRACT This paper examines how digital platforms reconfigure the conditions of contemporary social and political life by transforming the organization of time, memory, attention, and judgment. Drawing on Bernard Stiegler's framework of general organology, it interprets digital infrastructures as part of an interdependent system linking psychic, technical, and social organs. Within this perspective, digital platforms can be understood as historically specific forms of writing that, at the same time, industrialize the formation of individual and collective memory through data processing governed by the extractive economic logic typical of Silicon Valley. Building on Simondon's concept of modulation, the paper argues that algorithmic systems continuously recalibrate visibility and relevance, thereby shaping the environments in which political and social experience emerge. The analysis culminates in a dialogue with Hannah Arendt's notion of sensus communis, suggesting that digital modulation undermines the shared horizon necessary for political judgment by fragmenting the public realm into individually biased informational environments. By linking organology, modulation, and sensus communis the paper develops a conceptual framework for understanding the erosion of a common world in contemporary digital society and its implications for democratic life.",
+      "authors": [
+        "Diego Maria Chece"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.1111/1467-8675.70097",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Constellations",
+      "journal_id": "J049",
+      "origin": "crossref",
+      "title": "Fragmenting the Common World: Digital Technologies and the Crisis of Plurality",
+      "url": "https://doi.org/10.1111/1467-8675.70097"
+    },
+    {
+      "abstract": "Le concept de «  vulnérabilité  » fait l’objet d’une mobilisation par différentes disciplines du droit privé, notamment le droit civil par référence à l’organisation de la protection des mineurs et des majeurs protégés. Toutefois, il convient de rappeler que ce concept appartient au droit criminel qui, seul, lui offre une définition précise par le recours à une énumération exhaustive de situations, notamment à l’aide de la formule «  due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse  ». Si elle peut encore être améliorée, cette définition des personnes reconnues comme «  particulièrement vulnérables  » invite à parler des vulnérabilités au pluriel. L’appréhension de son application pratique doit permettre de comprendre son imminent rôle protecteur et ses perspectives d’évolution.",
+      "authors": [
+        "François-Xavier Roux-Demare"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0001",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "La vulnérabilité, appréhension d’une notion du droit criminel",
+      "url": "https://doi.org/10.3917/tvii.016.0001"
+    },
+    {
+      "abstract": "Loin du mythe selon lequel les rédacteurs du code auraient envisagé les individus de façon abstraite et univoque, en les présumant tous et toujours irréfragablement aptes à défendre leurs intérêts, le droit civil ne s’est jamais montré indifférent au sort des personnes vulnérables. Soucieux tant de prévenir les abus de faiblesses que de rétablir la situation des vulnérables lésés, le législateur et les juges civils doivent néanmoins tenir compte des différents intérêts en présence, à commencer par ceux des personnes vulnérables elles-mêmes dont l’autonomie ne doit pas être exagérément entravée par l’assistance et le secours qui leur sont portés.",
+      "authors": [
+        "François Chénedé"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0013",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "La vulnérabilité en matière civile",
+      "url": "https://doi.org/10.3917/tvii.016.0013"
+    },
+    {
+      "abstract": "La civilisation numérique ne se réduit pas à une accumulation d’outils : elle transforme notre rapport au monde, aux autres et à nous‑mêmes. Pourtant, notre conscience des vulnérabilités relatives (fracture numérique, inégalités d’accès, d’usage et de reconnaissance) reste aveugle à une menace plus profonde. Derrière les inégalités matérielles ou culturelles se tient une vulnérabilité systémique, largement inconsciente. Celle‑ci tient d’abord à l’identité exposée de l’individu, dont les fragments dispersés sont aisément recomposés, surveillés et exploités par un «  capitalisme de surveillance  ». Elle tient ensuite à la fragilisation des démocraties, confrontées à une architecture algorithmique qui formate l’information, favorise la désinformation et dépossède le débat public de son socle commun. Notre système de droit, impuissant face au code informatique et à ses normativités opaques, ne peut plus se contenter de ses réponses ordinaires. Une nouvelle révolution est nécessaire, qui repenserait le droit comme instrument ontologique de lutte contre la vulnérabilité. Cela suppose de reconnaître un véritable imperium individuel sur les données, de concevoir des infrastructures de confiance (coffres‑forts numériques, data trusts) et d’inscrire la norme dans l’architecture technique elle‑même, pour que la liberté, dans l’espace numérique, cesse d’être un simple choix entre des options préconfigurées.",
+      "authors": [
+        "Timothée Paris"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0021",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "La vulnérabilité numérique",
+      "url": "https://doi.org/10.3917/tvii.016.0021"
+    },
+    {
+      "abstract": "Le droit du travail a pour objet l’organisation des rapports inégaux entretenus par le salarié, considéré comme la partie faible de la relation de travail, et l’employeur. En particulier, les règles portant sur la charge de la preuve sont aménagées pour assurer le respect des droits du salarié, notamment lorsque celui-ci se trouve dans une situation de vulnérabilité sociale. Deux techniques juridiques sont principalement mises en œuvre pour lutter contre la précarité du salarié : le jeu des présomptions et le mécanisme de la preuve partagée.",
+      "authors": [
+        "Alice Laplume"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0041",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "Les vulnérabilités sociales sous le prisme de la charge de la preuve en droit du travail",
+      "url": "https://doi.org/10.3917/tvii.016.0041"
+    },
+    {
+      "abstract": "Le droit doit aujourd’hui concilier deux exigences : protéger l’autonomie de la volonté exprimée dans le consentement, prendre en considération une vulnérabilité non plus seulement personnelle mais contextuelle, amplifiée par l’usage des technologies numériques. Face aux asymétries de pouvoir (économiques, sociales ou technologiques) altérant le discernement et biaisant les décisions, l’acte de consentir glisse vers une acceptation passive, parfois même manipulée. Saisir juridiquement les vulnérabilités amène alors à repenser le consentement comme un processus collectif et contextuel nécessitant, non plus seulement, de protéger des individus fragiles, mais d’identifier des situations à risque appelant la garantie d’un environnement décisionnel loyal en responsabilisant les sollicitants du consentement. L’enjeu sera de concilier la reconnaissance des vulnérabilités avec la promotion d’une autonomie véritable en construisant un cadre juridique et éthique qui protège sans infantiliser.",
+      "authors": [
+        "Marjolaine Monot-Fouletier"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0049",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "Vulnérabilités et consentement",
+      "url": "https://doi.org/10.3917/tvii.016.0049"
+    },
+    {
+      "abstract": "Massivement utilisée par la Cour européenne des droits de l’homme, la notion de vulnérabilité l’est encore peu par le juge constitutionnel, en particulier le Conseil constitutionnel. Elle entretient pourtant un lien intime avec les droits fondamentaux puisqu’elle désigne des situations concrètes de « faiblesse » exposant la personne concernée à un risque accru, par rapport à la moyenne des autres personnes, d’ineffectivité de ses droits. Après avoir ainsi cerné la notion, la contribution analyse donc comment celle-ci peut entrer en jeu dans le contrôle de constitutionnalité de la loi, et quelles voies s’offrent au Conseil constitutionnel pour approfondir la protection des droits des personnes vulnérables.",
+      "authors": [
+        "Laurence Gay"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0060",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "Vulnérabilités et contrôle de constitutionnalité de la loi",
+      "url": "https://doi.org/10.3917/tvii.016.0060"
+    },
+    {
+      "abstract": "D’un usage relatif dans la jurisprudence de la Cour européenne des droits de l’homme, la vulnérabilité permet de qualifier la situation d’un groupe ou d’un individu, qui appelle de ce fait une protection accrue et/ou adaptée. Se retrouvant pour partie en droit de l’Union européenne, le développement d’une telle logique, depuis une vingtaine d’années, soulève cependant deux questions : celle de l’identification des sujets de droit dits « vulnérables » et celle de l’impact de cette spécification sur la structure globale du régime conventionnel. Car, comme en témoigne encore la jurisprudence des années 2020, la pluralité des méthodes d’identification n’empêche pas une certaine forme de sélectivité et l’hypothèse s’esquisse que non seulement la protection des personnes vulnérables est susceptible d’offrir une justification à des restrictions, mais que la vulnérabilité devient aussi un moyen pour la Cour de délimiter certaines avancées.",
+      "authors": [
+        "Caroline Boiteux-Picheral"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0071",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "La vulnérabilité dans la jurisprudence de la Cour européenne des droits de l’homme",
+      "url": "https://doi.org/10.3917/tvii.016.0071"
+    },
+    {
+      "abstract": "Cet article dresse un bilan de la place de la vulnérabilité dans la jurisprudence de la Cour interaméricaine des droits de l’homme. Celle-ci mobilise ce terme de manière transversale dès ses premières affaires afin de lutter contre les inégalités et les discriminations affectant certaines personnes ou groupes de personnes. Conçue comme un état contextuel entravant l’exercice effectif des droits conventionnels, dans une perspective dynamique et réversible, la jurisprudence récente de la Cour l’étend aux écosystèmes et territoires auxquels certaines personnes sont interreliées. La vulnérabilité est aussi au cœur de la reconnaissance de discriminations structurelles et intersectionnelles et de la nécessité d’une approche différenciée pour y faire face. L’article revient enfin sur l’articulation entre vulnérabilité et autonomisation/justiciabilité directe des droits économiques, sociaux, culturels et environnementaux, vecteurs de résilience.",
+      "authors": [
+        "Marie Rota"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0079",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "La vulnérabilité dans la jurisprudence de la Cour interaméricaine des droits de l’homme",
+      "url": "https://doi.org/10.3917/tvii.016.0079"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Emmanuel Cartier",
+        "Jean-Philippe Derosier"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0086",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "Chronique de droits fondamentaux et libertés publiques (juillet 2025 à décembre 2025)",
+      "url": "https://doi.org/10.3917/tvii.016.0086"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Évelyne Bonis",
+        "Virginie Peltier"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0099",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "Chronique de droit pénal et procédure pénale (juillet 2025 à décembre 2025)",
+      "url": "https://doi.org/10.3917/tvii.016.0099"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Thomas Piazzon"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0114",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "Chronique de droit privé (juillet 2025 à décembre 2025)",
+      "url": "https://doi.org/10.3917/tvii.016.0114"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Pierre-Yves Gahdoun"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0140",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "Chronique de droit public (juillet 2025 à décembre 2025)",
+      "url": "https://doi.org/10.3917/tvii.016.0140"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Stéphane Austry"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0144",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "Chronique de droit économique et fiscal (juillet 2025 à décembre 2025)",
+      "url": "https://doi.org/10.3917/tvii.016.0144"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Hélène Surrel"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0151",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "Chronique Conseil constitutionnel et jurisprudence de la CEDH (juillet à décembre 2025)",
+      "url": "https://doi.org/10.3917/tvii.016.0151"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Antoine Corre-Basset"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-24",
+      "doi": "10.3917/tvii.016.0164",
+      "first_seen_jst": "2026-11-25",
+      "journal": "Titre VII",
+      "journal_id": "J132",
+      "origin": "crossref",
+      "title": "Chronique de droit constitutionnel comparé (juillet 2025 à décembre 2025)",
+      "url": "https://doi.org/10.3917/tvii.016.0164"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-24",
-  "window_start": "2026-10-10"
+  "window_end": "2026-11-25",
+  "window_start": "2026-10-11"
 }

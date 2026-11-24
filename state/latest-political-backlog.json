@@ -1,32 +1,8 @@
 {
-  "checked_at_utc": "2026-11-24T02:15:05.493084+00:00",
-  "collected_on": "2026-11-24",
-  "count": 52,
+  "checked_at_utc": "2026-11-24T23:05:09.943005+00:00",
+  "collected_on": "2026-11-25",
+  "count": 49,
   "items": [
-    {
-      "crossref_candidate_date": "2026-10-10",
-      "doi": "10.1017/s0034670526101211",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "Authors’ Response"
-    },
-    {
-      "crossref_candidate_date": "2026-10-10",
-      "doi": "10.1017/s0034670526101223",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "Demin Duan: Tocqueville between East and West. (Cardiff: University of Wales Press, 2025. Pp. xii, 223.)"
-    },
-    {
-      "crossref_candidate_date": "2026-10-10",
-      "doi": "10.1017/s0034670526101259",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "Matthew Benjamin Cole: Fear the Future: Dystopia and Political Imagination\n                    in the\n                    Twentieth Century. (Ann Arbor: University of Michigan Press, 2025. Pp. xi, 291.)"
-    },
     {
       "crossref_candidate_date": "2026-10-12",
       "doi": "10.1057/s41296-026-00855-3",

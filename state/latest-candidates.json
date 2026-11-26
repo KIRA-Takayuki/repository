@@ -1,562 +1,6 @@
 {
-  "collected_on": "2026-11-26",
+  "collected_on": "2026-11-27",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Yunhan Li",
-        "Mingjie Xie",
-        "Gaoli Kang",
-        "Zihan Gong",
-        "Gengshen Wu",
-        "Min Yang"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s10506-026-09541-6",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Artificial Intelligence and Law",
-      "journal_id": "J022",
-      "origin": "crossref",
-      "title": "LegalMALR: multi-agent query understanding and LLM-based reranking for Chinese statute retrieval",
-      "url": "https://doi.org/10.1007/s10506-026-09541-6"
-    },
-    {
-      "abstract": "Abstract This essay is about a variety of action errors I call “Mistaken Actions” and a puzzle they pose for Causal Theories of Action. I begin with Davidson’s version of the Causal Theory and pose the puzzle as a dilemma: if his theory explains what makes a mistaken action mistaken, then it can’t explain what makes it intentional; and if his theory explains what makes a mistaken action intentional, then it can’t explain what makes it mistaken. I then propose three ways in which more recent Causal Guidance Theories may be able to resolve the dilemma but argue that none yield a definitive solution.",
-      "authors": [
-        "Alison A. Springle"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s11098-026-02609-8",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophical Studies",
-      "journal_id": "J100",
-      "origin": "crossref",
-      "title": "Mistaken actions: Davidson’s enduring dilemma",
-      "url": "https://doi.org/10.1007/s11098-026-02609-8"
-    },
-    {
-      "abstract": "Abstract In this paper, I argue that we have epistemic obligations towards the doxastic attitudes of others. My point of departure will be an underappreciated response by Matthew Chrisman (2008, 2020) to the voluntarism puzzle about epistemic deontology. He argues that there are true epistemic oughts concerning our doxastic attitudes that don’t require voluntary control, namely evaluative epistemic oughts. However, Chrisman also points out that evaluative oughts can imply prescriptive obligations. Which ones? My unorthodox claim will be that a central candidate for such implied epistemic obligations concerns how third parties ought to interact with the beliefs of individual believers. I will then motivate and give an account of these interpersonal obligations by taking inspiration from legal theory, where structurally analogous obligations are well studied and have been systematically codified.",
-      "authors": [
-        "Roman Heil"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s11229-026-05830-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Interpersonal doxastic obligations",
-      "url": "https://doi.org/10.1007/s11229-026-05830-4"
-    },
-    {
-      "abstract": "Abstract The hypothesis of extended cognition has reshaped our understanding of human mind as fluid and without fixed boundaries: certain suitably integrated technologies can become proper parts of the cognitive machinery that realises our thinking, memory, and problem-solving abilities. This paper zooms in on how the extension relation changes, when instead of a passive tool like a notebook the extension is actualised with AI technology. “AI-extenders” learn from each user’s habits and needs, and they adapt their responses over time. This process allows AI-extenders to integrate directly into daily thinking routines. Besides everyday use, they can be used for therapeutic purposes, such as for people suffering from Alzheimer’s. At the same time, they may undermine our mental autonomy through subtle manipulation. Even if AI-extenders meet the criteria for genuine cognitive extension, this ontological claim doesn’t settle the normative question of what we ought to do about it. The ethical risks they pose may give us reason to take practical measures to decouple the extended system.",
-      "authors": [
-        "Pii Telakivi"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s11229-026-05831-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Living with AI-extenders: ethical challenges to mental autonomy",
-      "url": "https://doi.org/10.1007/s11229-026-05831-3"
-    },
-    {
-      "abstract": "Abstract Our sensory environments are attentionally landscaped: they have been changed in order to affect our patterns of attention. This paper analyzes attentional landscaping as a form of cognitive scaffolding and argues for its significance. While not uniquely human, attentional landscaping is a pervasive aspect of our social life. It is significant in at least three respects. First, it is important for understanding attention and agency. Attentional landscaping can yield a dramatic expansion of agency by collectivizing mechanisms of attention guidance and turning them into a partly communal project. Second, attentional landscaping illuminates mindshaping and cognitive scaffolding more generally: since attention is both central and relatively easy to shape, attentional landscaping is a key ingredient in many forms of social interaction. Third, our discussion sheds light on communication. Much ostensive communication can be understood as a specific form of attentional landscaping, and ostensive practices together with the social norms that structure them can function as safety devices that help reap the advantages of friendly and pro-social landscaping while constraining hostile forms of attentional manipulation.",
-      "authors": [
-        "Sebastian Watzl"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s11229-026-05836-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Attentional landscaping",
-      "url": "https://doi.org/10.1007/s11229-026-05836-y"
-    },
-    {
-      "abstract": "Abstract A prominent strand in contemporary debates on free will and moral responsibility bases these concepts on the idea that decisions and actions can be guided not only by causes, but also by reasons. Such a view needs to clarify the precise ontological standing of reasons, and particularly their suggested difference from causes, in order to demonstrate how exactly they are meant to solve the metaphysical problem of human freedom, against the background of a causal world. In the following, I argue for a Platonist understanding of reasons, identifying them with rational inferences from given facts, rather than with the facts themselves, and exemplify this conception for various fields of rationality, including ethics, mathematics, prudence and logic. This approach promises to give a more distinct account of the role of reasons in human decisions and actions, and to highlight their significance for formulating a robust compatibilist notion of freedom and responsibility under conditions of gapless causation.",
-      "authors": [
-        "Dietmar Hübner"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s11229-026-05840-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Freedom of the will and Platonism of reasons: Defending a noncausal account of rational structures",
-      "url": "https://doi.org/10.1007/s11229-026-05840-2"
-    },
-    {
-      "abstract": "Abstract Niels Bohr is standardly read as an instrumentalist or a cautious anti-realist. By way of a rational reconstruction, I argue that his philosophy of experiment advances a transcendental account of the conditions under which physical properties can count as objective at all. On this view, complementarity constrains the forms of description through which physical properties become determinate and communicable. Existing transcendental readings stop at this point; I argue that his philosophy of experiment contains the resources to go further. Objectivity is not merely constituted by such conditions but physically enacted through the observer’s choice of experimental context. This means moving beyond representational and observer-independent forms of realism and adopting a participatory realism in which objectivity is reconceived as the intersubjective stability across observers who experiment (and thus experience) within a shared mode of possible experience. The slogan ‘to be is to measure’ is not defended as an ontological thesis but as shorthand for the claim that physical properties become determinate only within experimental contexts that embodied observers of a particular class enact and share.",
-      "authors": [
-        "James Vafiadis"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s11229-026-05844-y",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "To be is to measure: Bohr and the participatory conditions of objectivity",
-      "url": "https://doi.org/10.1007/s11229-026-05844-y"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Joel Walmsley"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s11229-026-05845-x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "C.D. Broad on emergence and machresis",
-      "url": "https://doi.org/10.1007/s11229-026-05845-x"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Stella Fillmore-Patrick"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s11229-026-05846-w",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "title": "Language dependence and objectivity in inductive logic",
-      "url": "https://doi.org/10.1007/s11229-026-05846-w"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Guangyao Zhang",
-        "Lili Wang",
-        "Yu Geng",
-        "Xianwen Wang"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s11948-026-00633-9",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science and Engineering Ethics",
-      "journal_id": "J072",
-      "origin": "crossref",
-      "title": "Digitalisation, Use of Scientific Publications, and Research Output: Cross-Country Evidence",
-      "url": "https://doi.org/10.1007/s11948-026-00633-9"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sam Clarke"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s43681-026-01419-2",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "The model of ethical AI in preparation for teaching (MPET): a practical guide for ethical AI adoption",
-      "url": "https://doi.org/10.1007/s43681-026-01419-2"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Navin Kumar"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s43681-026-01444-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Governing artificial intelligence in criminal justice systems: ethical, legal, and policy challenges",
-      "url": "https://doi.org/10.1007/s43681-026-01444-1"
-    },
-    {
-      "abstract": "Abstract Academic scholarship and community activism initiatives are beginning to challenge and resist the incursion of commercial generative AI applications into everyday life and alleviate their impacts on people and the planet. This essay discusses using collage as a critical research practice to visualise the language of generative AI and to challenge the generic automated images produced by AI models. With these collages, I am attempting to provoke thought about how linguistic and visual rhetorical devices are used to describe generative AI. By pairing images with words in the collages, I am aiming to surface these meanings and feelings and examine what they reveal about the current moment in which a huge amount of hype but also critical responses to generative AI are circulating in popular culture and social and philosophical inquiry. My intention is not to provide a more ‘realistic’ visual portrayal of generative AI. Rather, it is to use a different, surprising, sometimes mordant or absurd, and more compelling visual language to trouble assumptions, disrupt the reductive stock imagery on which industry and popular culture rely and bring to visual life the rhetoric used in critical analyses of AI.",
-      "authors": [
-        "Deborah Lupton"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s43681-026-01446-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Critical collaging as an AI resistance strategy",
-      "url": "https://doi.org/10.1007/s43681-026-01446-z"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Han-Jung Kuo"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1007/s43681-026-01452-1",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "A light framework for AI ethics",
-      "url": "https://doi.org/10.1007/s43681-026-01452-1"
-    },
-    {
-      "abstract": "Abstract Nicolas Cornell’s Wrongs and Rights Come Apart argues that accountability practices are rooted in wrongs, that obligations are rooted in rights, and that these are two distinct relations. Cornell’s argument convincingly pushes back against a widely held family of views in moral and legal philosophy according to which there is a necessary conceptual relation between, on the one hand, rights and obligations, and, on the other, wrongs and accountability practices. This is the Obligation-Accountability Nexus (OAN). But Cornell frames his arguments against the OAN as arguments against all ‘rights-based’ or ‘juridical’ views. This Critical Notice argues that this is a mistake. There is a coherent rights-based view that rejects the OAN but nevertheless posits a restricted juridical domain in which rights and wrongs are contingently correlated. This overlooked juridical view gives an independently attractive argument against the OAN and yields more compelling accounts of moral deliberation and moral community.",
-      "authors": [
-        "Colin Bradley"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1017/cjlj.2026.10074",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Canadian Journal of Law &amp; Jurisprudence",
-      "journal_id": "J004",
-      "origin": "crossref",
-      "title": "Accountability and Obligations Come Apart",
-      "url": "https://doi.org/10.1017/cjlj.2026.10074"
-    },
-    {
-      "abstract": "Abstract According to mathematical realism, mathematics is the study of a necessary and unchanging reality that exists independently of human activities, beliefs, and capacities. It seems to follow that gaining mathematical knowledge consists merely in acquiring knowledge that accurately describes this mind-independent mathematical reality. Against this, I will argue that, even if there is a mind-independent mathematical reality, gaining mathematical knowledge requires more than merely acquiring knowledge that accurately describes it: it requires knowledge that employs specifically mathematical ways of thinking about mathematical entities – so-called modes of presentation . Hence, even if mathematical realism is true, a full understanding of the nature of mathematics calls for an understanding not only of the ontological status of mathematical objects – as has been the realists’ focus of research so far – but also of the specifically mathematical ways of thinking about these objects. We will see that, for realists, providing such an understanding is by no means trivial.",
-      "authors": [
-        "Stefan Rinner"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1017/epi.2026.10148",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "The Aboutness Problem for Mathematical Realism",
-      "url": "https://doi.org/10.1017/epi.2026.10148"
-    },
-    {
-      "abstract": "Abstract For years, in response to demand from the field, Centers for Disease Control and Prevention’s Office of Public Health Law Services (OPHLS) has partnered with outside organizations, including Temple University’s Center for Public Health Law Research and ChangeLab Solutions, to operate the Legal Epidemiology Learning Cohort (Learning Cohort). This year-long opportunity offers training and mentorship to health department practitioners and others from public health-adjacent settings on the practical steps of legal epidemiology, which includes collecting, mapping, and evaluating legal texts. Participants work in transdisciplinary teams to design and carry out the foundational work for completing projects on research questions relevant to local public health challenges. Throughout 2023, ChangeLab Solutions and OPHLS coordinated training sessions and provided technical assistance to seven Learning Cohort teams across the country. This paper provides an overview of the Learning Cohort’s background, approach, and lessons learned. It also spotlights three recent Learning Cohort teams who describe the projects they completed and the benefits and challenges they found in learning foundational legal epidemiology methods for their public health work. Featured projects demonstrate how legal epidemiology can be used to examine topics like water safety, Tribal access to public health data, and the intersection of state and local law.",
-      "authors": [
-        "Katie Hannon Michel",
-        "Samantha Bent Weber",
-        "Jami Crespo",
-        "Madeline Kim",
-        "Lauren Tonti",
-        "Vicki Collie-Akers",
-        "Colin Gerber",
-        "Sunbal Virk",
-        "Taylor Pinsent",
-        "Lyndsey Blair",
-        "Diana Leathers",
-        "Elizabeth Tennison",
-        "Matthew Penn"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1017/jme.2026.10286",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Law, Medicine &amp; Ethics",
-      "journal_id": "J068",
-      "origin": "crossref",
-      "title": "The Legal Epidemiology Learning Cohort: Reflections and Spotlights After a Decade of Practice-Based Legal Epidemiology Training",
-      "url": "https://doi.org/10.1017/jme.2026.10286"
-    },
-    {
-      "abstract": "Abstract Adam Smith worries that the commercial life is self-defeating: a treadmill of nonbeneficial ambition and consumption where actors systematically misidentify their own good. Numerous scholars – including Hanley, Hill, Rasmussen, Fleischacker and Sagar – have recently attempted to vindicate commercial society against Smith’s powerful objection. The current article clarifies this objection and refutes these attempts to overcome it. The article diagnoses a deeper illiberalism in these efforts – some moralistic, others consequentialist – to vindicate commercial society, and concludes by showing that consequentialist vindications mistake prudential judgements for moral ones. The discussion has implications for Smith scholarship and contemporary efforts to morally assess capitalism.",
-      "authors": [
-        "Avery Kolers"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1017/s0266267126100856",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Economics and Philosophy",
-      "journal_id": "J029",
-      "origin": "crossref",
-      "title": "Revindicating Adam Smith’s critique of ambition and consumption",
-      "url": "https://doi.org/10.1017/s0266267126100856"
-    },
-    {
-      "abstract": "Abstract This paper reconstructs Adam Smith’s theory of human behavior à la rational choice theory. The reconstruction shows how the emotions and morality are different phases of rationality. The reconstruction is based on two sets of distinctions. The first distinguishes between two moments of rationality : (i) the rationality of making the best decisions; and (ii) the rationality of commanding those decisions. The second set includes four genera of satisfaction : (1) substantive satisfaction arises upon consuming pecuniary goods, e.g., food and clothes; (2) transcendent satisfaction takes place when the decision maker bonds with loved ones and aspires great goals; (3) self-possession satisfaction is the “warm glow” that emerges as a by-product of keeping promises, which occasions integrity, and avoiding excessive bonding and attachments, which occasion dignity; and (4) worthiness satisfaction emerges as a by-product of choosing worthy acts, i.e., acts free of toxic preferences (self-aggrandizement and malevolence).",
-      "authors": [
-        "Elias L. Khalil"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1017/s0953820826100454",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Utilitas",
-      "journal_id": "J052",
-      "origin": "crossref",
-      "title": "Two Moments of Impartial Spectators, Four Genera of Satisfactions: Making Sense of\n                    The Theory of Moral Sentiments",
-      "url": "https://doi.org/10.1017/s0953820826100454"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Cristobal Bellolio"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1057/s41296-026-00855-3",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Contemporary Political Theory",
-      "journal_id": "J048",
-      "origin": "crossref",
-      "title": "Controversial to whom? A defense of the intra-scientific consensus view",
-      "url": "https://doi.org/10.1057/s41296-026-00855-3"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Joshua Hatherley",
-        "Anders Søgaard",
-        "Angela Ballantyne",
-        "Ruben Pauwels"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1080/15265161.2026.2741283",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Federation Opacity Makes Medical Machine Learning’s Failures Harder to Detect and Correct",
-      "url": "https://doi.org/10.1080/15265161.2026.2741283"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Joshua Jonghyeon Park",
-        "Ashley Serin Park"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1080/15265161.2026.2741285",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Ambient Digital Scribes as Educational Mirrors: Closing the Feedback Gap in Physician Communication",
-      "url": "https://doi.org/10.1080/15265161.2026.2741285"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Anessa M. Foxwell",
-        "Christine Grady",
-        "Connie M. Ulrich",
-        "David Wendler"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1080/15265161.2026.2741294",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Provision of Appropriate Care as a Source of Clinician Distress",
-      "url": "https://doi.org/10.1080/15265161.2026.2741294"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Laura Specker Sullivan",
-        "Ava Randel",
-        "Hannah Scotch",
-        "Lauren Taylor"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1080/15265161.2026.2741310",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Organizational Trustworthiness: A Commitment Account",
-      "url": "https://doi.org/10.1080/15265161.2026.2741310"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Sabine Salloch"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1080/15265161.2026.2741314",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The American Journal of Bioethics",
-      "journal_id": "J062",
-      "origin": "crossref",
-      "title": "Non-Anthropocentric Research Ethics? A Reply to the Commentaries",
-      "url": "https://doi.org/10.1080/15265161.2026.2741314"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Aejaz Ahmad Wani",
-        "Nowreen Maqbool Mir"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1080/17449626.2026.2739217",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Global Ethics",
-      "journal_id": "J066",
-      "origin": "crossref",
-      "title": "Reading the Global Justice Report 2026: radical roadmap for global progress in the twenty-first century?",
-      "url": "https://doi.org/10.1080/17449626.2026.2739217"
-    },
-    {
-      "abstract": "Abstract Objective ‘reasonableness’ tests are a common element of both offences and defences in criminal law. When applying these tests to defendants with mental disorders, however, courts and commentators encounter a conceptual block; since the ‘reasonable person’ is not (for example) delusional, depressed or hypervigilant, any defendant who is becomes unreasonable by definition. The consequence of this is that defendants with mental disorder may find themselves excluded from the application of objective culpability tests, forcing them instead to rely on the limited protection offered by special mental condition defences such as insanity. In this article, I therefore propose a guiding heuristic for the reformulation of objective tests in terms of ‘reasonable expectations’, through which objective standards can be made sensitive to the relevance of a defendant’s mental condition to their culpability. This would significantly expand the options available to us in assessing the culpability of defendants with mental disorder.",
-      "authors": [
-        "Claire Hogg"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1093/ojls/gqag030",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Oxford Journal of Legal Studies",
-      "journal_id": "J003",
-      "origin": "crossref",
-      "title": "Reasonable Expectations for ‘Unreasonable’ People: Reframing Objective Standards in Criminal Law",
-      "url": "https://doi.org/10.1093/ojls/gqag030"
-    },
-    {
-      "abstract": "Abstract Democracy is invoked so frequently in UK law, there is a risk that it has no legal meaning. Responding to this risk, this article has three aims. The first is to descriptively establish some of the legal content of democracy in the UK. The second is to argue that the legal content of democracy amounts to a constitutional principle. This means that democracy shapes the scope of the legal powers of the executive, courts and even Parliament. The third, normative part of the article argues that there is a tension in the construction of the UK’s constitutional principle of democracy. Currently, courts have been clear that the right to vote is a product of statute rather than common law principle. This approach to voting, this article argues, cannot be reconciled with the rest of the UK’s constitutional principle of democracy.",
-      "authors": [
-        "Leah Trueblood"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1093/ojls/gqag031",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Oxford Journal of Legal Studies",
-      "journal_id": "J003",
-      "origin": "crossref",
-      "title": "The Constitutional Principle of Democracy in the United Kingdom",
-      "url": "https://doi.org/10.1093/ojls/gqag031"
-    },
-    {
-      "abstract": "Abstract Precedent played an important role in theoretically one-off equitable interventions becoming regular, and equity becoming more law-like. However, the available sources limit our ability to understand the role of precedent in the Chancery in the key formative decades around 1600. This article uses the court of Star Chamber as a proxy for the other equity courts. It shows a much more significant use of precedent than has previously been understood, and that the practice of precedent in the court was similar to that in the common law courts. Equity was becoming more like the common law in the early-17th century.",
-      "authors": [
-        "Ian Williams"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1093/ojls/gqag033",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Oxford Journal of Legal Studies",
-      "journal_id": "J003",
-      "origin": "crossref",
-      "title": "Precedent in Early-Modern Equity: The View from the Star Chamber",
-      "url": "https://doi.org/10.1093/ojls/gqag033"
-    },
-    {
-      "abstract": "Abstract Can a computer programme like ChatGPT perform speech acts such as making a promise, offering a guarantee, or firing an employee? This is an increasingly pressing question as AI technologies supplement or replace human communication, especially in the workplace. Philosophers typically maintain that artificial speakers at best perform ‘proto’ or ‘quasi’ speech acts. In contrast, I argue that in some contexts artificial speakers can perform speech acts in precisely the same way as humans. This is because the rules and norms governing speech act performance (for AI and for us) are more context-variable than it is usually thought. This is most clear in highly regulated contexts, where speech act norms are often determined by legislation or policy, but is also a feature of ordinary communication. The question then becomes not simply whether artificial speakers can perform speech acts, but whether we should allow them to.",
-      "authors": [
-        "Chris Cousens"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1093/pq/pqag076",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Philosophical Quarterly",
-      "journal_id": "J101",
-      "origin": "crossref",
-      "title": "Artificial speakers, artificial speech acts?",
-      "url": "https://doi.org/10.1093/pq/pqag076"
-    },
-    {
-      "abstract": "ABSTRACT According to three plausible assumptions about well‐being, a person's welfare depends on (i) the valence of her experiences, (ii) the degree to which her life resonates with her, and (iii) the extent to which she fulfills her potential. Theories of well‐being have struggled to accommodate all three in a determinate manner. The difficulty can be framed as a dilemma: either jettison considered convictions, or sacrifice the clarity required for measurement and practical guidance. The aim of this article is to show that the three most influential theories are impaled by one of the horns in the dilemma, and diagnose the source of the problem. In doing so, I draw attention to an under‐theorized form of explanation that integrates phenomenological, conative and functional elements in a unified account that might overcome it.",
-      "authors": [
-        "Paal Fredrik S. Kvarberg"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1111/papa.70033",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Philosophy &amp; Public Affairs",
-      "journal_id": "J026",
-      "origin": "crossref",
-      "title": "Integrated Explanations of Well‐Being",
-      "url": "https://doi.org/10.1111/papa.70033"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "David Kaplan"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1111/theo.70046",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Theoria",
-      "journal_id": "J094",
-      "origin": "crossref",
-      "title": "The Meaning of Ouch and Oops",
-      "url": "https://doi.org/10.1111/theo.70046"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Joshua Parker"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1136/jme-2026-112675",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Medical Ethics",
-      "journal_id": "J067",
-      "origin": "crossref",
-      "title": "Reflections on AI use declarations in JME manuscripts",
-      "url": "https://doi.org/10.1136/jme-2026-112675"
-    },
-    {
-      "abstract": "Summary This article analyzes judicial practice in rape cases in socialist Czechoslovakia from a gender perspective. Based on case analysis and legal-historical research, it identifies key asymmetries in the interpretation and application of the rape offence, particularly in marital and group contexts. The study shows how courts often reclassified acts to lesser offences, thereby weakening protection of women’s sexual autonomy. It reveals how gendered stereotypes and traditional norms influenced evidentiary standards, sentencing, and perceptions of victim credibility. The findings highlight the gap between the formal legal framework and its real-world implementation.",
-      "authors": [
-        "Milan Dobeš"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1163/15718190-20260115",
-      "first_seen_jst": "2026-10-23",
-      "journal": "Tijdschrift voor Rechtsgeschiedenis / Revue d'histoire du droit / The Legal History Review",
-      "journal_id": "J083",
-      "origin": "crossref",
-      "title": "Sexual offenses and gender differences in Socialist Czechoslovakia with an emphasis on the crime of rape",
-      "url": "https://doi.org/10.1163/15718190-20260115"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Brian Hillman"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-12",
-      "doi": "10.1163/17455243-bja10225",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Jewish Ethics: The Basics, written by Geoffrey D. Claussen",
-      "url": "https://doi.org/10.1163/17455243-bja10225"
-    },
     {
       "abstract": "",
       "authors": [
@@ -13221,6 +12665,51 @@
     {
       "abstract": "",
       "authors": [
+        "Avigail Eisenberg"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-25",
+      "doi": "10.1080/13698230.2026.2763273",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "journal_id": "J038",
+      "origin": "crossref",
+      "title": "Integration as shared social power",
+      "url": "https://doi.org/10.1080/13698230.2026.2763273"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Varun Uberoi"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-25",
+      "doi": "10.1080/13698230.2026.2763275",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "journal_id": "J038",
+      "origin": "crossref",
+      "title": "Majority Concerns About Declining Dominance: understandable yet dangerous",
+      "url": "https://doi.org/10.1080/13698230.2026.2763275"
+    },
+    {
+      "abstract": "Administrative policies are widely used in governance to guide decision‐making. But they are not always clear on their face and have to be interpreted. The English courts have claimed the authority to interpret policies on a correctness standard. This raises two important questions. First, what is a correct policy interpretation? Second, should courts review policy interpretations for correctness? This paper will aim to answer these questions. I will first argue that if courts were to review policy interpretations for correctness, a purposive approach should be adopted to determine whether a policy interpretation is correct, with adjustments to adapt the approach to the context of policies. However, I will then argue that policy interpretations should be reviewed for reasonableness and not correctness. Three reasons weigh in favour of reasonableness review: expertise, the nature of policy interpretation, and variability. I will then respond to four arguments that can be raised in support of correctness review: consistency, a concern about vague policies, the scope of power of public bodies, and doctrinal coherence.",
+      "authors": [
+        "Kenny Chng"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-25",
+      "doi": "10.1111/1468-2230.70084",
+      "first_seen_jst": "2026-11-27",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "Against Correctness Review of Policy Interpretation",
+      "url": "https://doi.org/10.1111/1468-2230.70084"
+    },
+    {
+      "abstract": "",
+      "authors": [
         "Francesco Testini"
       ],
       "crossref_subtype": "",
@@ -13247,9 +12736,288 @@
       "origin": "crossref",
       "title": "Aesthetically Critiquing Oppression",
       "url": "https://doi.org/10.16995/pp.28620"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Chanissara Viboonlarp",
+        "Chainarong Amornbunchornvej"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1007/s10670-026-01182-0",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Deep Disagreement and the Impossibility of Quiet Legitimacy",
+      "url": "https://doi.org/10.1007/s10670-026-01182-0"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Felipe De Brigard"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1007/s10670-026-01194-w",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "title": "Characterizing Dynamic Cognitive Systems",
+      "url": "https://doi.org/10.1007/s10670-026-01194-w"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Odia Kane",
+        "Kadija Ferryman",
+        "Nancy Kass"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1007/s43681-026-01491-8",
+      "first_seen_jst": "2026-11-27",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Embedding justice in the regulation of AI-enabled medical devices: a task for the FDA",
+      "url": "https://doi.org/10.1007/s43681-026-01491-8"
+    },
+    {
+      "abstract": "Abstract Artificial intelligence is advancing rapidly in K–12 education, outpacing existing academic policies and prompting states to issue new guidance. Across these documents, “ethics” is invoked frequently, yet its meaning in the context of AI and its translation into practice remains unsettled. This study analyzes current U.S. state-level AI policies and guidance for K–12 to identify dominant ethical frames and to assess how stated commitments are operationalized into actionable expectations for schools, educators, and vendors. By capturing early, system-level responses to generative AI, the study establishes a baseline for ethics in the AI era. To complement this largely top-down approach, which often extends pre-AI ethics lenses, the study proposes an “ethics-in-use” approach—a bottom-up strategy that employs concrete artifacts, such as policies, checklists, assignment-level AI statements, and vendor-vetting notes, that can be implemented, tested, and iteratively improved at district and classroom levels. Bridging these approaches can support a comprehensive, practical framework for conceiving and enacting ethics in K–12 AI adoption.",
+      "authors": [
+        "Yufeng Qian"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1007/s43681-026-01510-8",
+      "first_seen_jst": "2026-11-27",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Ethics in the AI age: a study of state-level K–12 artificial intelligence policy frameworks in the United States",
+      "url": "https://doi.org/10.1007/s43681-026-01510-8"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Marc Steen",
+        "Marlon Kruizinga",
+        "Nanou Van Iersel",
+        "Majsa Storbeck",
+        "Michael Grauwde"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1007/s43681-026-01535-z",
+      "first_seen_jst": "2026-11-27",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "ELSA in the field: studying ethical, legal, societal, and technological aspects of artificial intelligence in practice",
+      "url": "https://doi.org/10.1007/s43681-026-01535-z"
+    },
+    {
+      "abstract": "Abstract Large language model-based agents are increasingly being integrated into core battlefield functions, including intelligence analysis, data fusion, and battlefield management. This paper argues that the very features that make such agents operationally attractive, namely their capacity for initiative, interpretation, their goal-directedness, and dynamic memory, are the same features that render context-appropriate human judgment and control substantively ineffectual in those parts of the kill chain where agents operate. Drawing on specific use cases, the paper argues that by relocating initiative and interpretation, LLM-based agents displace human decision-making in ways that makes their use incompatible with the requirement of human judgment and control which is central to existing governance frameworks, like those proposed by the Group of Governmental Experts of the Convention on Certain Conventional Weapons (GGE-CCW) and the Responsible AI in the Military Domain Summit (REAIM). The paper concludes that a subset of agentic AI applications, particularly those deployed for data fusion and battlefield management in lethal contexts, cannot be used justifiably on the battlefield under current and foreseeable conditions, and proposes two ways for the international governance community to respond to this challenge.",
+      "authors": [
+        "Jovana Davidovic"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1007/s43681-026-01554-w",
+      "first_seen_jst": "2026-11-27",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "The end of human judgment in the kill chain? Relocating initiative and interpretation with agentic AI",
+      "url": "https://doi.org/10.1007/s43681-026-01554-w"
+    },
+    {
+      "abstract": "In October 2025, the UK Competition Appeal Tribunal (CAT) handed down its landmark decision on Kent v Apple . 1 The Tribunal ruled that Apple had abused its dominant position through both exclusionary practices and charging excessive prices. Specifically, the Tribunal found that Apple’s 30 per cent commission charged to app developers went beyond mere overcharging, operating as an unlawful form of economic exploitation. 2 Consequently, Apple was ordered to pay approximately £1.5 billion in damages to UK customers. In contrast to prior investigations conducted by the European Commission and US Courts, which were narrowly focused on Apple’s anti-steering policies, the Tribunal grabbed the bull by the horns and directly addressed whether Apple’s commission rate was excessive and unfair. As such, Kent marks a major analytical milestone in how competition law operationalises the concept of ‘fair profits’.",
+      "authors": [
+        "Stavros Makris"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1017/elo.2026.10093",
+      "first_seen_jst": "2026-11-27",
+      "journal": "European Law Open",
+      "journal_id": "J013",
+      "origin": "crossref",
+      "title": "Reassessing competition law’s fair profit doctrine in the era of Big Tech: Towards an integrated profitability framework",
+      "url": "https://doi.org/10.1017/elo.2026.10093"
+    },
+    {
+      "abstract": "Abstract This article critically engages with Ben Judah’s Briançon chapter to interrogate the normalisation of violence within EU migration governance. Using the journey of Brico and his family as an analytical lens, it demonstrates how EU externalisation policies extend far beyond territorial borders, shaping migratory trajectories through legal, political, and economic interventions in third countries such as Niger and Libya. The first part situates Brico’s experiences within the broader framework of EU cooperation agreements, anti-smuggling laws, and maritime interception practices, highlighting their material consequences, including increased precarity, exploitation, and exposure to systemic human rights violations. The second part examines how such violence becomes normalised within European legal and political consciousness. It argues that this normalisation is sustained through processes of dehumanisation, the construction of hierarchies of deservingness, and the diffusion of responsibility. Drawing on jurisprudence from European courts, the article exposes persistent gaps in accountability, particularly in the context of extraterritorialised border control. It further reflects on the ethical tensions inherent in narrating migrant suffering, questioning whether such representations challenge or inadvertently reproduce the very structures they seek to critique. Ultimately, the article contends that EU migration governance produces a form of “everyday dystopia” in which systemic violence is both obscured and rendered routine. By foregrounding the lived realities behind legal frameworks, it calls for a re-examination of the relationship between sovereignty, accountability, and human rights in contemporary migration law.",
+      "authors": [
+        "Karla Žeravčić"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1017/elo.2026.10111",
+      "first_seen_jst": "2026-11-27",
+      "journal": "European Law Open",
+      "journal_id": "J013",
+      "origin": "crossref",
+      "title": "Everyday dystopia: EU migration governance and its normalisation – reading ‘Briançon’",
+      "url": "https://doi.org/10.1017/elo.2026.10111"
+    },
+    {
+      "abstract": "Abstract The literature on epistemic violence and its remedies has seen significant growth in recent decades. Meanwhile, within the epistemological literature, a smaller but growing number of proposals come from the intersection between epistemology and care ethics. This paper aims to bring these two bodies of literature into conversation by identifying a specific type of epistemic care that I call “resistant epistemic care” (REC). After analyzing some existing proposals for “epistemic care” in the first section, I set out my own account of REC as an especially resistant and creative capacity to restore the epistemic agency and contributions of victims of epistemic violence even in the face of conditions of severe epistemic obscurity. Next I argue that REC can fruitfully provide a framework to confront epistemic violence, and offer the Spanish “La Manada” (the “Wolf-Pack”) and its feminist response in the “#YoTeCreo” (“#IBelieveYou”) movement as a case study to demonstrate how REC helps overcome the epistemic violence suffered by victims of sexual assault by generating hermeneutical change at the collective level.",
+      "authors": [
+        "Alicia García-Álvarez"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1017/hyp.2026.10114",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Hypatia",
+      "journal_id": "J075",
+      "origin": "crossref",
+      "title": "“I Believe You, Sister”: Epistemic Violence, Epistemic Care, and the “Wolf-Pack”",
+      "url": "https://doi.org/10.1017/hyp.2026.10114"
+    },
+    {
+      "abstract": "Abstract Investment returns are a key determinant of long-run inequality. Financial markets tend to reward investors who bear more risk with higher expected returns. We argue, on Dworkinian luck egalitarian grounds, that the resulting inequality is unjust: risk appetites are largely a matter of brute luck, yet in societies with financial markets the capacity to bear risk is a personal resource. Risk aversion is not an ‘expensive taste’, and nothing turns on the rationality of risk appetites. The state has moral reasons to function as the egalitarian risk-taker of last resort.",
+      "authors": [
+        "Kangyu Wang",
+        "Paul Forrester"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1017/s0266267126100923",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Economics and Philosophy",
+      "journal_id": "J029",
+      "origin": "crossref",
+      "title": "Risk appetites, investment returns, and distributive justice",
+      "url": "https://doi.org/10.1017/s0266267126100923"
+    },
+    {
+      "abstract": "Abstract This article examines Congress’s continuing role in implementing Title VII of the Civil Rights Act of 1964. Although scholarship has emphasized the importance of judicial interpretation, administrative development, and private litigation in transforming Title VII into one of the most consequential components of the modern civil-rights state, Congress remained deeply engaged in determining how the statute would be enforced. Between 1965 and 1972, lawmakers repeatedly debated proposals to strengthen the Equal Employment Opportunity Commission (EEOC), ultimately constructing an enforcement regime centered on federal litigation rather than administrative cease-and-desist authority. The article then traces Congress’s response to the Supreme Court’s 1988 and 1989 Title VII decisions, showing that the Civil Rights Acts of 1990 and 1991 were principally efforts to restore the enforcement framework that lawmakers believed the Court had unsettled. Taken together, these episodes demonstrate that implementation was not a discrete stage following enactment, but an ongoing process of institutional negotiation among Congress, the presidency, the courts, and the administrative state. Recovering Congress’s role in these post-enactment struggles broadens our understanding of Title VII’s development and illuminates the changing politics of civil-rights enforcement after 1964.",
+      "authors": [
+        "Jeffery A. Jenkins",
+        "Justin Peck"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1017/s0738248026102089",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Law and History Review",
+      "journal_id": "J080",
+      "origin": "crossref",
+      "title": "Congress and the Making of the Title VII Enforcement Regime, 1965–1991",
+      "url": "https://doi.org/10.1017/s0738248026102089"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Patti Tamara Lenard"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1080/13698230.2026.2763274",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "journal_id": "J038",
+      "origin": "crossref",
+      "title": "Political integration and the majority",
+      "url": "https://doi.org/10.1080/13698230.2026.2763274"
+    },
+    {
+      "abstract": "Abstract This paper introduces and offers a solution to an under-explored problem for Rawls’s account of intergenerational justice; specifically, for the just savings principle. This principle requires each generation to save at a net-positive rate until society has sufficient material resources to establish just institutions, after which it permits a net-zero rate resulting in economic stationarity. This involves a sharp drop in the savings rate from the last pre-transition generation to the first post-transition generation, and is thus unacceptable to the parties in the original position. Why? Rawls insists any savings principle must seem fair to both sides of each pair of adjacent generations, but the sharp drop would not seem fair to the last pre-transition generation. My solution tapers the savings rate down to net-zero once just institutions are established. This principle is both acceptable to the parties and allows Rawls to maintain the compatibility of justice with economic stationarity.",
+      "authors": [
+        "Matthew Wiseman"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1093/analys/anag093",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Analysis",
+      "journal_id": "J097",
+      "origin": "crossref",
+      "title": "The Transition to Justice: A New Problem for the Just Savings Principle",
+      "url": "https://doi.org/10.1093/analys/anag093"
+    },
+    {
+      "abstract": "Abstract Climate change contributes to democratic upheaval, and the slow and unpredictable passage of the democratic process can appear ill-suited to the urgent demands of the climate crisis. In consequence, climate-conscious NGOs and environmental defenders are increasingly turning away from traditional liberal democratic processes, instead mobilising litigation and civil disobedience to effect legal change. However, these phenomena can be seen as democratically troubling, contributing to legal disruption. The UNECE Aarhus Convention—a hybrid environmental human rights instrument—is a rich repository of legal rights and democratic ambition that can help its parties to navigate the democratic and legal challenges of the climate crisis. Using the examples of climate litigation and civil disobedience, I show that the Convention is a dynamic and responsive legal instrument that speaks to the troubles posed by climate disruption, promoting an expansive understanding of democratic engagement and providing its parties with a blueprint to navigate these phenomena well.",
+      "authors": [
+        "Emily Barritt"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1093/ojls/gqag037",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Oxford Journal of Legal Studies",
+      "journal_id": "J003",
+      "origin": "crossref",
+      "title": "The Democratic Troubles of the Climate Crisis and the Aarhus Convention",
+      "url": "https://doi.org/10.1093/ojls/gqag037"
+    },
+    {
+      "abstract": "ABSTRACT We are seeing increasing work in bioethics to defend and define an ethical duty to minimise healthcare's environmental impacts. So far, the duty is often defined in terms of reducing healthcare's greenhouse gas emissions and two positions have emerged on whether and what limits to the duty apply: soft exceptionalism and non‐exceptionalism. Yet, the philosophical grounds for the duty to minimise healthcare's environmental impacts are often not well explained or clearly articulated. That matters because, as this paper argues, different philosophical grounds generate different understandings of the duty's content and limits. In particular, this paper focuses on the implications of using different justice ‐based grounds for the duty. Section I first establishes that different axes of justice—social, environmental, ecological—can each be used to ground a general duty to minimise healthcare's environmental impacts. Section II shows that a range of ontologies underlie the conceptions of justice encompassed within those axes. Section III then demonstrates that the selected axis of justice and underlying ontology affects the nature—limits and content—of the resultant duty to minimise healthcare's environmental impacts. Ultimately, numerous different ways to understand the duty's limits and content are shown to exist. Many of those understandings require more than reducing healthcare's greenhouse gas emissions, and not all are consistent with soft exceptionalism or non‐exceptionalism. To conclude, the paper considers whether reasons exist for favouring certain interpretations of the duty over others.",
+      "authors": [
+        "Bridget Pratt"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/bioe.70214",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "Towards Clarifying the Duty to Minimise Healthcare's Environmental Impacts",
+      "url": "https://doi.org/10.1111/bioe.70214"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Ruth Chadwick"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/bioe.70219",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "Food and Personalized Medicine",
+      "url": "https://doi.org/10.1111/bioe.70219"
+    },
+    {
+      "abstract": "ABSTRACT It has recently been proposed that fine‐tuned large‐language models (LLMs) could more accurately predict the preferences of incapacitated patients than surrogates. This hypothetical technology has been named the personalised patient preference predictor (P4). Advocates of the P4 claim that the P4 will not only more accurately predict patient preferences, but will better respect patient autonomy, facilitate the composition of advance directives, and reduce the emotional burden of surrogate decision‐making. I challenge these purported benefits by arguing that the P4 would pose a substantive risk to our ability to meaningfully grapple with death. Drawing on the philosophies of Søren Kierkegaard and Martin Heidegger, I argue that adopting an existential attitude towards death is central to the pursuit of an ethical life. Implementation of the P4 risks inhibiting both patients and surrogates from adopting an existential attitude towards death, with deleterious consequences.",
+      "authors": [
+        "Zachary Daus"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/bioe.70220",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "Death, Existentialism, and the Personalised Patient Preference Predictor",
+      "url": "https://doi.org/10.1111/bioe.70220"
+    },
+    {
+      "abstract": "ABSTRACT In this paper, I use some important insights from the literature on the conflict of rights to reconsider the conflict of rights in some unwanted pregnancies. Specifically, I reconsider antiabortion arguments that rely on the premise that the fetus's right to life is more stringent than, and so overrides, the pregnant person's right to their body. I argue that, if this is so (and I do not believe it is), then the pregnant person's right to their body is infringed (not violated). This mere infringement, however, generates a duty on the part of the fetus to compensate the pregnant person for the unwanted use of their body. I argue that neither Catholic nor philosophical views on filial duties provide an adequate solution to the question of compensation.",
+      "authors": [
+        "Kristen Hine"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/bioe.70221",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "title": "Compensation and Unwanted Pregnancy",
+      "url": "https://doi.org/10.1111/bioe.70221"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-26",
-  "window_start": "2026-10-12"
+  "window_end": "2026-11-27",
+  "window_start": "2026-10-13"
 }

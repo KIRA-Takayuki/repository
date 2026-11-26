@@ -1,24 +1,8 @@
 {
-  "checked_at_utc": "2026-11-25T23:39:18.118009+00:00",
-  "collected_on": "2026-11-26",
-  "count": 52,
+  "checked_at_utc": "2026-11-26T22:59:32.142051+00:00",
+  "collected_on": "2026-11-27",
+  "count": 53,
   "items": [
-    {
-      "crossref_candidate_date": "2026-10-12",
-      "doi": "10.1057/s41296-026-00855-3",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J048",
-      "status": "unverified_not_introduced",
-      "title": "Controversial to whom? A defense of the intra-scientific consensus view"
-    },
-    {
-      "crossref_candidate_date": "2026-10-12",
-      "doi": "10.1163/17455243-bja10225",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "Jewish Ethics: The Basics, written by Geoffrey D. Claussen"
-    },
     {
       "crossref_candidate_date": "2026-10-13",
       "doi": "10.1017/s0034670526101314",
@@ -405,6 +389,22 @@
     },
     {
       "crossref_candidate_date": "2026-11-25",
+      "doi": "10.1080/13698230.2026.2763273",
+      "first_seen_jst": "2026-11-27",
+      "journal_id": "J038",
+      "status": "unverified_not_introduced",
+      "title": "Integration as shared social power"
+    },
+    {
+      "crossref_candidate_date": "2026-11-25",
+      "doi": "10.1080/13698230.2026.2763275",
+      "first_seen_jst": "2026-11-27",
+      "journal_id": "J038",
+      "status": "unverified_not_introduced",
+      "title": "Majority Concerns About Declining Dominance: understandable yet dangerous"
+    },
+    {
+      "crossref_candidate_date": "2026-11-25",
       "doi": "10.1163/17455243-bja10213",
       "first_seen_jst": "2026-11-26",
       "journal_id": "J070",
@@ -418,6 +418,14 @@
       "journal_id": "J027",
       "status": "unverified_not_introduced",
       "title": "Aesthetically Critiquing Oppression"
+    },
+    {
+      "crossref_candidate_date": "2026-11-26",
+      "doi": "10.1080/13698230.2026.2763274",
+      "first_seen_jst": "2026-11-27",
+      "journal_id": "J038",
+      "status": "unverified_not_introduced",
+      "title": "Political integration and the majority"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."

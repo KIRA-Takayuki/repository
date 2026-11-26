@@ -1,40 +1,149 @@
 {
   "already_introduced_count": 0,
-  "book_review_abstracts_missing": 1,
-  "book_review_candidate_count": 1,
-  "checked_at_utc": "2026-11-25T23:39:18.118009+00:00",
-  "collected_on": "2026-11-26",
+  "book_review_abstracts_missing": 0,
+  "book_review_candidate_count": 0,
+  "checked_at_utc": "2026-11-26T22:59:32.142051+00:00",
+  "collected_on": "2026-11-27",
   "counts": {
     "checked": 135,
     "failed": 1,
     "truncated": 0,
     "unresolved": 9
   },
-  "eligible_candidate_count": 33,
+  "eligible_candidate_count": 18,
   "excluded_older_publications_count": 0,
   "fresh_today_jst": true,
   "items": [
     {
-      "abstract": "Abstract Political crises often lead to sharp increases in energy prices and, consequently, in the profits of oil and gas companies. However, exceptionally high profits may be perceived as unethical, creating reputational and legitimacy concerns that can influence firms’ financial reporting behavior. Yet, there is no evidence whether European oil & gas firms manage earnings after sudden political crises, and whether their responses differ across countries. Using a difference-in-differences design, this study documents that European oil & gas firms engaged in significant income-decreasing earnings management—through both accrual-based and real activities—following the Russian invasion of Ukraine. This effect is particularly pronounced in the third quarter of 2022 and the first quarter of 2023. We further find that (real) earnings management by oil & gas firms is more pronounced in countries that implemented windfall profit taxes and in institutional environments characterized by stronger democratic governance. At the firm level, the effect is concentrated among oil & gas firms with relatively low sustainability scores, which exhibit significantly greater income-decreasing earnings management than control firms. These findings suggest that earnings management decisions were driven not only by tax considerations but also by legitimacy and reputational concerns. This study contributes to the literature by providing cross-country evidence that exploits variation in taxation regimes and institutional settings, and by explicitly examining the role of legitimacy and reputational concerns in shaping corporate reporting behavior.",
+      "abstract": "Contemporary social epistemology struggles to explain cases of deep disagreement that persist despite evidence-sharing and rational deliberation. Existing approaches, including hinge epistemology and social-ontological accounts, illuminate the role of fundamental commitments but do not fully explain why certain disagreements generate structural instability rather than stable pluralism. We develop a structural account of legitimacy boundaries grounded in the functional role of non-negotiable normative commitments, using a framework that distinguishes three axes: negotiability, target scope, and actionability. Our central result, the Legitimacy Trilemma, is a structural limit: once a violation of a universal, non-negotiable legitimacy norm is publicly acknowledged within a community, the community cannot simultaneously maintain universal standards, insider inclusion, and the absence of acknowledged internal contradiction. It must instead make a repair move —excluding the violator, enforcing compliance, revising the norm, or blocking acknowledgment of the breach. This constraint is independent of the merits: it holds whether the norm is just or unjust and whether the challenge is warranted or baseless, identifying a structural form without delivering a normative verdict. The instability of deep disagreement therefore arises not primarily from irrationality or bias, but from this constraint on admissibility within shared epistemic spaces. We further argue that a specific subclass of phenomena commonly described as epistemic injustice can be modeled as such reactive boundary defense—complementary to, not a replacement for, accounts of oppression as a constitutive feature of social structures. Where deep disagreement appears intractable, the difficulty is typically not that no resolution exists but that every resolution exacts a cost—to identity, inclusion, or coherence—even among competent, good-faith agents.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s10551-026-06490-7"
+        "publisher:https://doi.org/10.1007/s10670-026-01182-0"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Chanissara Viboonlarp",
+        "Chainarong Amornbunchornvej"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1007/s10670-026-01182-0",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10670-026-01182-0",
+      "publisher_online_date": "2026-11-26",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10670-026-01182-0"
+      ],
+      "requires_manual_verification": false,
+      "title": "Deep Disagreement and the Impossibility of Quiet Legitimacy",
+      "url": "https://doi.org/10.1007/s10670-026-01182-0"
+    },
+    {
+      "abstract": "In a recent paper, De Brigard ( 2017 , Philosophical Explorations ) argues that a successful neuroscientific account of “cognitive system” needs to capture the fact that brains change over time (i.e., exhibit diachronic dynamicity ) even when these changes do not affect their functional profile (i.e., exhibit functional stability ). Unfortunately, in that paper, he fails to offer a satisfactory account that can capture both features. To fill that gap, the current paper offers a graph-theoretic strategy to characterize cognitive systems in a way that captures both diachronic dynamicity and functional stability. Specifically, it is suggested that cognitive systems can be characterized by way of employing a multi-scale modular approach in which time is parametrized.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s10670-026-01194-w"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Felipe De Brigard"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1007/s10670-026-01194-w",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Erkenntnis",
+      "journal_id": "J092",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s10670-026-01194-w",
+      "publisher_online_date": "2026-11-26",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s10670-026-01194-w"
+      ],
+      "requires_manual_verification": false,
+      "title": "Characterizing Dynamic Cognitive Systems",
+      "url": "https://doi.org/10.1007/s10670-026-01194-w"
+    },
+    {
+      "abstract": "As a regulatory agency of the United States government, the Food and Drug Administration (FDA) is entrusted with the mission of preserving public health through ensuring the safety, effectiveness, and security of drugs, biologic products, and medical devices. Over the past decade, the healthcare sector turned increasingly to the growing sector of technological strategies for providing services. In addition, increasingly using telemedicine to facilitate care, there was an embrace of artificial intelligence (AI) enabled devices to support access and clinical decision making. These technologies have several social and physical health benefits for patients, especially those for whom access to healthcare facilities may be particularly challenging. Yet despite these benefits, there are also concerns about the safety and effectiveness of these tools, both generally, and for patients who are underrepresented in clinical research, concerns that must be addressed through regulation. This paper focuses on the FDA’s oversight of the development and regulation of AI-enabled medical devices. We argue the FDA should incorporate justice-relevant considerations of inclusion, transparency, and epistemic justice into its safety and effectiveness evaluations of AI-enabled medical devices. These considerations address concerns of inequity in AI development, ensure adequate information is relayed to the public for safe use, and promote the treatment of patients as credible sources of their own personal health to ensure that AI-enabled medical devices are safe and effective tools for patients and providers.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01491-8"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "publisher_doi_matched_page",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Odia Kane",
+        "Kadija Ferryman",
+        "Nancy Kass"
+      ],
+      "crossref_online_date": null,
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1007/s43681-026-01491-8",
+      "first_seen_jst": "2026-11-27",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "publisher_doi_matched",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "doi_matched",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": true,
+      "publisher_doi_matched": true,
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01491-8",
+      "publisher_online_date": "2026-11-26",
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1007/s43681-026-01491-8"
+      ],
+      "requires_manual_verification": false,
+      "title": "Embedding justice in the regulation of AI-enabled medical devices: a task for the FDA",
+      "url": "https://doi.org/10.1007/s43681-026-01491-8"
+    },
+    {
+      "abstract": "Abstract Artificial intelligence is advancing rapidly in K–12 education, outpacing existing academic policies and prompting states to issue new guidance. Across these documents, “ethics” is invoked frequently, yet its meaning in the context of AI and its translation into practice remains unsettled. This study analyzes current U.S. state-level AI policies and guidance for K–12 to identify dominant ethical frames and to assess how stated commitments are operationalized into actionable expectations for schools, educators, and vendors. By capturing early, system-level responses to generative AI, the study establishes a baseline for ethics in the AI era. To complement this largely top-down approach, which often extends pre-AI ethics lenses, the study proposes an “ethics-in-use” approach—a bottom-up strategy that employs concrete artifacts, such as policies, checklists, assignment-level AI statements, and vendor-vetting notes, that can be implemented, tested, and iteratively improved at district and classroom levels. Bridging these approaches can support a comprehensive, practical framework for conceiving and enacting ethics in K–12 AI adoption.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1007/s43681-026-01510-8"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Jochen Bigus",
-        "Nadine Georgiou",
-        "Nils Hain"
+        "Yufeng Qian"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s10551-026-06490-7",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
+      "date": "2026-11-26",
+      "doi": "10.1007/s43681-026-01510-8",
+      "first_seen_jst": "2026-11-27",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -43,34 +152,38 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s10551-026-06490-7",
-      "publisher_online_date": "2026-11-25",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01510-8",
+      "publisher_online_date": "2026-11-26",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s10551-026-06490-7"
+        "https://doi.org/10.1007/s43681-026-01510-8"
       ],
       "requires_manual_verification": false,
-      "title": "Earnings Management of Oil & Gas Firms After the Russian Invasion of Ukraine",
-      "url": "https://doi.org/10.1007/s10551-026-06490-7"
+      "title": "Ethics in the AI age: a study of state-level K–12 artificial intelligence policy frameworks in the United States",
+      "url": "https://doi.org/10.1007/s43681-026-01510-8"
     },
     {
-      "abstract": "Works of art and technical artifacts are purposeful products of intentional human activity, yet their metaphysics have largely developed independently. This topical collection fills this gap by bringing these two traditions into dialogue, asking in particular whether works of art and technical artifacts can be subsumed within a unified theoretical framework. Rather than offering a straightforward answer about whether artworks should be understood as technical artifacts, the collection shows that their comparison strains the conceptual resources through which these objects are generally understood. Through the contributions to this topical collection, the present introduction traces this trajectory by identifying several interconnected challenges concerning artifacthood, function, classification, essentialism, creativity, normativity, and malfunction, before considering how hybrid cases and emerging digital technologies further complicate the distinction between the two domains. It thereby suggests that the relation between the two domains should be approached not simply as a problem of classification, but as an opportunity for reciprocal revision of their respective metaphysical frameworks.",
+      "abstract": "In this article, we discuss ‘ELSA in the Field’, building on ELSA, i.e. taking into account various Ethical, Legal, and Societal Aspects of AI systems during development and deployment, and on Responsible Innovation (RI), i.e. a framework for addressing ethical and social concerns, through anticipation, reflexivity, inclusion, and responsiveness. The ‘ELSA in the Field’ approach involves a combination of desk research and field research, and aims to facilitate collaboration between ELSA/RI experts and relevant stakeholders to learn from their expertise, understand their contexts and practices, and identify their concerns, ambitions and questions. Critically, the fieldwork is focused on specific practices , involving the deployment of diverse technologies, e.g., of AI systems. The ethical, legal, societal, and technological aspects related to these specific practices are studied, so that technological aspects are on equal footing with ethical, legal, and societal aspects. This facilitates collaboration between ELSA/RI experts and technology-oriented people. The ‘ELSA in the Field’ is introduced and positioned relative to ELSA and RI. It is then described in practical terms and with examples from a research and innovation project in which the authors collaborate. The article closes with a discussion of participation, iteration, reflexivity, and boundary objects.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05850-0"
+        "publisher:https://doi.org/10.1007/s43681-026-01535-z"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "publisher_doi_matched_page",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Irene Olivero"
+        "Marc Steen",
+        "Marlon Kruizinga",
+        "Nanou Van Iersel",
+        "Majsa Storbeck",
+        "Michael Grauwde"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05850-0",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
+      "date": "2026-11-26",
+      "doi": "10.1007/s43681-026-01535-z",
+      "first_seen_jst": "2026-11-27",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -79,35 +192,34 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05850-0",
-      "publisher_online_date": "2026-11-25",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01535-z",
+      "publisher_online_date": "2026-11-26",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05850-0"
+        "https://doi.org/10.1007/s43681-026-01535-z"
       ],
       "requires_manual_verification": false,
-      "title": "Works of art and technical artifacts: towards a unified account?",
-      "url": "https://doi.org/10.1007/s11229-026-05850-0"
+      "title": "ELSA in the field: studying ethical, legal, societal, and technological aspects of artificial intelligence in practice",
+      "url": "https://doi.org/10.1007/s43681-026-01535-z"
     },
     {
-      "abstract": "Abstract Formal epistemology traditionally studies logical systems with rigid designators whose meanings do not change from one possible world to another. At the same time, non-rigid designators have been investigated in the philosophy of language. This article puts forward a formal semantics and a sound and complete axiomatisation of a logical system that contains a distributed knowledge modality and a revelation modality. The latter modality models public announcements of the meaning of some designators in the current world.",
+      "abstract": "Abstract Large language model-based agents are increasingly being integrated into core battlefield functions, including intelligence analysis, data fusion, and battlefield management. This paper argues that the very features that make such agents operationally attractive, namely their capacity for initiative, interpretation, their goal-directedness, and dynamic memory, are the same features that render context-appropriate human judgment and control substantively ineffectual in those parts of the kill chain where agents operate. Drawing on specific use cases, the paper argues that by relocating initiative and interpretation, LLM-based agents displace human decision-making in ways that makes their use incompatible with the requirement of human judgment and control which is central to existing governance frameworks, like those proposed by the Group of Governmental Experts of the Convention on Certain Conventional Weapons (GGE-CCW) and the Responsible AI in the Military Domain Summit (REAIM). The paper concludes that a subset of agentic AI applications, particularly those deployed for data fusion and battlefield management in lethal contexts, cannot be used justifiably on the battlefield under current and foreseeable conditions, and proposes two ways for the international governance community to respond to this challenge.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05859-5"
+        "publisher:https://doi.org/10.1007/s43681-026-01554-w"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Junli Jiang",
-        "Pavel Naumov"
+        "Jovana Davidovic"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05859-5",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
+      "date": "2026-11-26",
+      "doi": "10.1007/s43681-026-01554-w",
+      "first_seen_jst": "2026-11-27",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -116,832 +228,32 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05859-5",
-      "publisher_online_date": "2026-11-25",
+      "publisher_evidence_url": "https://doi.org/10.1007/s43681-026-01554-w",
+      "publisher_online_date": "2026-11-26",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05859-5"
+        "https://doi.org/10.1007/s43681-026-01554-w"
       ],
       "requires_manual_verification": false,
-      "title": "Dynamic epistemic logic with non-rigid designators",
-      "url": "https://doi.org/10.1007/s11229-026-05859-5"
+      "title": "The end of human judgment in the kill chain? Relocating initiative and interpretation with agentic AI",
+      "url": "https://doi.org/10.1007/s43681-026-01554-w"
     },
     {
-      "abstract": "De minimis risks are future events with low probability but potentially high disutility that are commonly ignored in decision-making and, according to some, legitimately so. The traditional probabilistic account struggles to model these risks for several reasons, mainly due to the additive character that the notion of risk inherits from probability, on which it is based. This paper proposes an alternative explanatory framework for de minimis risks grounded in normic branching-time semantics with a doxastic-epistemic component. By partitioning future histories into normal and abnormal ones on the basis of an agent’s simplified belief set invoked in risk assessment, we argue that de minimis risks are dismissed because they are classified as abnormal. Moreover, we show how the context-dependence of normality enables the framework to resolve the problem of temporally extended de minimis risks, which is just one manifestation of the more general disjunction problem.",
+      "abstract": "In October 2025, the UK Competition Appeal Tribunal (CAT) handed down its landmark decision on Kent v Apple . 1 The Tribunal ruled that Apple had abused its dominant position through both exclusionary practices and charging excessive prices. Specifically, the Tribunal found that Apple’s 30 per cent commission charged to app developers went beyond mere overcharging, operating as an unlawful form of economic exploitation. 2 Consequently, Apple was ordered to pay approximately £1.5 billion in damages to UK customers. In contrast to prior investigations conducted by the European Commission and US Courts, which were narrowly focused on Apple’s anti-steering policies, the Tribunal grabbed the bull by the horns and directly addressed whether Apple’s commission rate was excessive and unfair. As such, Kent marks a major analytical milestone in how competition law operationalises the concept of ‘fair profits’.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05860-y"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Ciro De Florio",
-        "Aldo Frigerio",
-        "Filippo Mancini"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05860-y",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05860-y",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05860-y"
-      ],
-      "requires_manual_verification": false,
-      "title": "A branching-time framework for modelling de minimis risks",
-      "url": "https://doi.org/10.1007/s11229-026-05860-y"
-    },
-    {
-      "abstract": "We argue that multi-criteria decision analysis is a promising option for selecting the best explanation. The reason is that multi-criteria methods are designed to choose the best alternative from a given set of alternatives by evaluating them against possibly incompatible, hard-to-compare, and hard-to-measure criteria, such as explanatory virtues. We further argue that the multi-criteria approach called ELECTRE 1S is a suitable method for selecting the best explanation, as it possesses the desirable properties required for such a rule.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05865-7"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Pavel Janda",
-        "Daniele Chiffi"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05865-7",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05865-7",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05865-7"
-      ],
-      "requires_manual_verification": false,
-      "title": "Multi-criteria inference to the best explanation",
-      "url": "https://doi.org/10.1007/s11229-026-05865-7"
-    },
-    {
-      "abstract": "Abstract Monism about material coincidence is the thesis that objects like statues are identical to co-located pieces of matter. Phasalist versions of monism claim that terms like ‘statue’ and ‘mere piece’ are phase sortals, applying to a given individual for a (usually proper) sub-phase of its existence. I begin (Sect. 1) by arguing that we should accept a phasalist version of monism about certain objects that I call found artifacts (e.g., a table that is just a block of stone that was found in the forest), and that, given this result, we should accept this view more generally if we can rebut the objections to it. I then rebut three important objections to the view. First (Sects. 2–3), I consider an objection about hollow statues and argue that it is best met by adopting a non-standard version of monism. I then (Sects. 4–5) rebut the “Leibniz’s Law” objections most famously advanced by Kit Fine (2003) and the “body-minus” objection pressed, for example, by Bryan Frances (2006). Together with the argument from Sect. 1, answering these objections makes significant progress toward motivating monism generally.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05871-9"
+        "publisher:https://doi.org/10.1017/elo.2026.10093"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Chad Carmichael"
+        "Stavros Makris"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05871-9",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05871-9",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05871-9"
-      ],
-      "requires_manual_verification": false,
-      "title": "A case for monism about material coincidence",
-      "url": "https://doi.org/10.1007/s11229-026-05871-9"
-    },
-    {
-      "abstract": "We consider the problem of identifying a ‘special’ individual or object within a population, where the characteristic of interest (e.g., a DNA profile) arises from a separate distribution, which differs from the one for all other individuals. Upon observing some characteristics in the population, we ask how much information these observations provide about the special individual. Classical probability requires prior assumptions to answer this question, but in many situations such priors are unavailable or unjustified. We therefore adopt the framework of belief functions, which allows for reasoning without imposing additional prior assumptions. We illustrate our approach through variants of the classical island problems from forensic science, showing how different types and amounts of information lead to different conclusions. Our results highlight the importance of transparent and explicit modeling when reasoning under uncertainty, and show that the interplay between mathematics and epistemology is subtle.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05874-6"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Aafko Boonstra",
-        "Ronald Meester"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05874-6",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05874-6",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05874-6"
-      ],
-      "requires_manual_verification": false,
-      "title": "An epistemology for identification with belief functions",
-      "url": "https://doi.org/10.1007/s11229-026-05874-6"
-    },
-    {
-      "abstract": "Abstract A speaker often uses a word to communicate what linguists call an “ad hoc concept” that is different from the word’s lexically encoded concept, and the hearer can usually construct the intended ad hoc concept through pragmatic inference. Ad hoc concepts are often thought to give rise to polysemy, i.e. words with multiple but distinct senses. In this paper, I explore how the notion of ad hoc concepts, together with the related notion of polysemy, can provide the starting point for theorising the linguistic and cognitive mechanisms underpinning characteristic instances of verbal disputes. Crucially, I distinguish between two kinds of communicative failures that frequently occur in verbal disputes – “failures to recognise” and “failures to adopt”. I will analyse the linguistic and cognitive mechanisms driving these failures and draw implications with respect to verbal disputes in public discourse. As an example, I will focus on verbal disputes about racism, drawing on recent work on the semantics of “racist”.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05875-5"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Michelle Liu"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05875-5",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05875-5",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05875-5"
-      ],
-      "requires_manual_verification": false,
-      "title": "Ad hoc concepts, polysemy and mechanisms of verbal disputes",
-      "url": "https://doi.org/10.1007/s11229-026-05875-5"
-    },
-    {
-      "abstract": "Legal rationalism is the thesis that law necessarily gives reasons for action. Despite an impressive intellectual pedigree and prominent proponents in the recent literature, David Enoch presents influential arguments against the thesis and claims that the thesis is “clearly” false. In this article, we argue that Enoch’s arguments fail. We address Enoch’s objections because we take them to be the strongest articulation of longstanding and widespread qualms about legal rationalism that many share. We do not, however, argue that legal rationalism is true. Rather, we only claim that even if legal rationalism is false, it is not false for the stated reasons. In this way, we vindicate legal rationalism.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05876-4"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Amin Ebrahimi Afrouzi",
-        "Andy Yu"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05876-4",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05876-4",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05876-4"
-      ],
-      "requires_manual_verification": false,
-      "title": "Vindicating legal rationalism",
-      "url": "https://doi.org/10.1007/s11229-026-05876-4"
-    },
-    {
-      "abstract": "Special-science explanations often concern distributions rather than individual outcomes. Since higher-level states depend on lower-level processes, what would make a higher-level explanation redundant? I argue that redundancy requires replacement without loss, not merely a reconstruction of individual outcomes. Distributional counterfactual dependence (DCD) identifies how changes in higher-level conditions alter an outcome distribution or a relevant feature of it. Against the background of stochastic supervenience, I distinguish this explanatory role from the dependence of higher-level states on lower-level bases. A replacement must be specified independently of the distribution to be explained and preserve the same counterfactual pattern at the grain and across the conditions relevant to the question. Applications to wage distributions, cognitive load, and selection clarify this requirement. A hypothetical comparison shows how a lower-level model can preserve the explanation and why matching selected outcome statistics may not suffice. DCD thus describes one form of non-reductive explanation that depends on counterfactual organization rather than additional higher-level productive powers.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05877-3"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Youheng Zhang"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05877-3",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05877-3",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05877-3"
-      ],
-      "requires_manual_verification": false,
-      "title": "Distributional counterfactual dependence in the special sciences",
-      "url": "https://doi.org/10.1007/s11229-026-05877-3"
-    },
-    {
-      "abstract": "Psychotherapy chatbots powered by large language models (LLMs) are increasingly praised for generating responses that users perceive as empathetic, fuelling optimism that LLMs could serve as therapists in the absence of adequate mental health services. In this paper we argue that this optimism is misguided because it misconstrues the mechanism of therapeutic effectiveness by overemphasizing the importance of empathy and underappreciating the importance of co-constructed self-narration by the individual and the therapist. The therapist — through embodiment, dialogue, interpretation, and challenge — helps patients revise and stabilize their stories and thereby helps them develop resourceful responses to mental distress, all of which contribute to individuals’ flourishing. We argue that LLMs are structurally limited in this capacity for two reasons. First, LLM “therapy” exhibits a self-awareness assumption — that is, an assumption that users can reliably access and report their psychological states — contrary to evidence from both cognitive sciences and psychiatry. Second, being trained on large bodies of text and user preferences, LLM responses are built on a logic of predictive conformity. Thus, LLMs carry the risk of shaping patients’ narratives in a way that fits the most predictable cultural narratives on which they have been programmed. This might lead to a homogeneity of self-narratives and could limit patients’ insight into their specific experiences and needs. We conclude by arguing that these problems are challenging to address even with improved guardrails and bias mitigation in training data.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05878-2"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Şerife Tekin",
-        "Liz Bowen"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05878-2",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05878-2",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05878-2"
-      ],
-      "requires_manual_verification": false,
-      "title": "Beyond empathy: the narrative limitations of LLM therapy",
-      "url": "https://doi.org/10.1007/s11229-026-05878-2"
-    },
-    {
-      "abstract": "Abstract Proof is the paradigmatic form of justification in mathematics and, as such, central to its epistemology. While some have attempted to capture its essence by devising formal systems, it has become increasingly clear over the past few decades that the relationship between formal proofs and ordinary mathematical proofs is a difficult one. Scholars in the philosophy of mathematical practice, in particular, have emphasized the importance of the contexts in which ordinary mathematical proofs are developed, presented, and assessed. The main aim of this paper is to build on this observation by developing a systematic contextualist account of proof judgments, defend it against potential objections, and indicate strategies for providing further support for it. In doing so, I will apply ideas from general epistemology and exploit ongoing debates about epistemic contextualism.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05879-1"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Günther Eder"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05879-1",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05879-1",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05879-1"
-      ],
-      "requires_manual_verification": false,
-      "title": "Mathematical proof in context",
-      "url": "https://doi.org/10.1007/s11229-026-05879-1"
-    },
-    {
-      "abstract": "The apparent power of attention – the ability to direct and control one’s own mind – is observable through introspection as well as through the careful study of behavior. It is also the lynchpin of a free will, or the supposed capacity to shape one’s own future and be the source of one’s behavior. Some have nonetheless argued that this apparent power is an illusion, that we have no such control, or that such control is inconsistent with science (Wegner, 2017 ). In this paper I provide a schematic account of the power of attention, showing that it is consistent with contemporary scientific evidence. The account differs from other theories of attention and free will by basing its metaphysics on “contextual emergence,” rather than weak emergence, strong emergence, or supervenience. Specifically, I argue that the power of attention allows contextually emergent, self-organized macro phenomena to constrain their micro components. Its power is visible in the phase-amplitude coupling observed in neural activity, which constrains smaller, faster neural fluctuations (“micro” phenomena) through the dynamics of larger, slower neural fluctuations (“macro” phenomena). As I will argue, this power enables the emergence of a self and its agency – a free will.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05880-8"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Carolyn Dicey Jennings"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05880-8",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05880-8",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05880-8"
-      ],
-      "requires_manual_verification": false,
-      "title": "Attention as the source of a free will",
-      "url": "https://doi.org/10.1007/s11229-026-05880-8"
-    },
-    {
-      "abstract": "Some responsibility practices concern a dimension of personal selfhood that is neither exhausted by minimal first-personal ownership nor identical with narrative self-interpretation. I examine one contribution to personal self-individuation: how an already minimally individuated subject develops a more determinate evaluative orientation through relatively enduring cares, commitments, habits, expectations, and value-convictions. This paper argues that recent work on the ethics of attention brings this diachronic dimension into contact with responsibility, since patterns of noticing and neglect can be expressive of the person even when they are not deliberately selected. Starting from Archer’s account of evaluative control, I distinguish her constitutive claim about responsibility-relevant salience from the genetic question of how a standing evaluative worldview comes to have the shape it does and becomes operative again in concrete situations. Turning to Husserl’s phenomenology, I argue that patterns of noticing and neglect cannot be explained solely by the intensity of attentional pull. His analyses of affection, habituality, and evaluative experience show how prior affective and evaluative responses can leave enduring acquisitions that shape how later situations are experienced as significant and become operative through a situation-specific value-horizon. A pattern of salience can express something of the person’s evaluative standpoint by revealing what carried significance for her in the situation. Answerability arises when the considerations shaping the episode also counted for her as reasons she can be asked to justify.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05881-7"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Alessandro Guardascione"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05881-7",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05881-7",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05881-7"
-      ],
-      "requires_manual_verification": false,
-      "title": "Self-individuation and the ethics of attention: the role of evaluative orientation in responsibility for salience",
-      "url": "https://doi.org/10.1007/s11229-026-05881-7"
-    },
-    {
-      "abstract": "While emergentism enjoys some good fortune in contemporary philosophy, attempts at elucidating the history of this view are rare. Among such attempts, by far the most influential certainly is McLaughlin’s landmark paper “The Rise and Fall of British Emergentism” ( 1992 ). While McLaughlin’s analysis of the recent history of emergentism is insightful and instructive in its own ways, in the present paper we offer reasons to be suspicious of some of its central claims. In particular, we advance evidence that rebuts McLaughlin’s contention that British Emergentism did not fall in the 1920–1930s because of philosophical criticism but rather because of an alleged empirical inconsistency with fledgling quantum mechanics.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05884-4"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Maxime Hilbert",
-        "Olivier Sartenaer"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05884-4",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05884-4",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05884-4"
-      ],
-      "requires_manual_verification": false,
-      "title": "The rise and fall of a myth about British Emergentism",
-      "url": "https://doi.org/10.1007/s11229-026-05884-4"
-    },
-    {
-      "abstract": "Problems with alienated and ignorant participants have put pressure on the widespread idea that agents must share an intention to act together. Where the bulk of the minimalist literature explores weaker understandings of the attitudes participants hold toward a collective goal or plan, I propose to switch our attention to the nature of the plan that coordinates their contributions and their relation to it. We should replace criteria for the integration of individual contributions in terms of shared goals with a criterion of coordination of intentions into a single plan, and we should replace acting on shared mental states with a weaker notion of guidance that allows agents to act on a plan they do not share. To this end, I defend the idea that a set of agents act together if they all act on a single coordinated plan that prescribes coordinated actions for each of them. After a critical section that delineates the borders and uses of a useful concept of collective action, the paper articulates the two main building blocks of the view, coordinated plans and how to act on them, and discusses differences with other recent work and the merits of this approach.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05891-5"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Philippe A. Lusson"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05891-5",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05891-5",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05891-5"
-      ],
-      "requires_manual_verification": false,
-      "title": "Acting together as acting on a coordinated plan",
-      "url": "https://doi.org/10.1007/s11229-026-05891-5"
-    },
-    {
-      "abstract": "Abstract This article examines whether non-semantic, mechanistic accounts of computation can be reconciled with enactivism, particularly of the autopoietic variety. A number of scholars have proposed syncretic approaches that borrow simultaneously from both frameworks, arguing that a mechanistic account of this kind—such as Gualtiero Piccinini’s—avoids the representationalist commitments that enactivists typically reject. Drawing on Piccinini’s mechanistic account and Joe Dewhurst’s perspectival extension of it, I argue that no form of mechanistic computation, whether objectivist or perspectival, is coherent from within autopoietic enactivism. The objectivist version fails because proper functions introduce ineliminable circularity while the individuation of computing mechanisms presupposes observer-relative constitutive acts that the objectivist framework cannot accommodate. The perspectival version initially appears more promising, since it replaces objective teleology with observer-relative functional attribution. However, I show that it still presupposes a merely thin observer—a neutral epistemic subject who individuates mechanisms and discretizes signals prior to any interpretive act—whereas autopoietic enactivism requires a thick observer whose observational and theoretical acts are constitutively shaped by their own operational closure and structural coupling. I conclude that computational descriptions of cognition are best understood as modeling tools that can contribute to genuine explanation without literally characterizing what cognition is.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05892-4"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Henrique Mendes"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05892-4",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05892-4",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05892-4"
-      ],
-      "requires_manual_verification": false,
-      "title": "Observer relativity and the incompatibility between enactivism and computationalism",
-      "url": "https://doi.org/10.1007/s11229-026-05892-4"
-    },
-    {
-      "abstract": "Abstract This paper proposes a novel framework for epistemic decolonisation. The framework turns on so-called salience structures—the idea, recently introduced by Jessie Munton and taken up by several authors—that the way information is made accessible to us shapes the moral and epistemic dimensions of our environment. I argue here that thinking of the oppressive effects of colonial salience structures gives us a novel, unified way of decolonising. It does so, moreover while having two important theoretical virtues: it centres the agency of the colonised (an essential desideratum for decolonial theories), and it contributes to the growing social epistemology literature on how we should fight epistemic oppression more generally.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05893-3"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Veli Mitova"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05893-3",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05893-3",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05893-3"
-      ],
-      "requires_manual_verification": false,
-      "title": "A salience framework for epistemic decolonisation",
-      "url": "https://doi.org/10.1007/s11229-026-05893-3"
-    },
-    {
-      "abstract": "Contemporary organizations increasingly integrate artificial systems into the processes through which collective intentions are formed, coordinated, and enacted. Existing theories of collective agency typically frame participation through a distinction between external instruments and constituent members. This paper develops the concept of quasi constituency to identify artificial systems that are institutionally integrated into collective agency while occupying a status distinct from both external instruments and full constituents. Quasi constituents lack independent agency, yet they are constitutively integrated into the organizational structures through which collective agents deliberate, decide, and act. I develop a cluster framework for artificial membership based on constitutive dependence, human-backed entrustment, functional integration, and governance. The framework defines quasi constituency through constitutive institutional integration. It shows how artificial systems can occupy constitutive roles in collective agency while remaining distinct from full members. Recognizing quasi constituency has important implications for responsibility attribution, accountability practices, and institutional design. The paper thus develops a framework for understanding artificial participation in collective agency across the continuum from instrumentality to full constituency.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11229-026-05895-1"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Jingduo Hu"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11229-026-05895-1",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Synthese",
-      "journal_id": "J087",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11229-026-05895-1",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11229-026-05895-1"
-      ],
-      "requires_manual_verification": false,
-      "title": "Quasi constituency and collective agency: a framework for artificial membership in collective agents",
-      "url": "https://doi.org/10.1007/s11229-026-05895-1"
-    },
-    {
-      "abstract": "Abstract Despite the widely acknowledged importance of decisions whether to prosecute, criminal law theorists have rarely discussed how these decisions should be made. This article aims to provide a framework for such discussion by offering an account of the normative principles that bear on prosecution decisions. The first part considers the constraints on prosecution imposed by the fact that it involves accusation. Prosecution, it is argued, is permissible only if the prosecutor is justified in believing the defendant to be guilty of the offence(s) with which they are charged. The second part considers the justifiability of prosecution in cases in which this condition is satisfied. Even when a defendant is permissibly accused, prosecution has additional costs and causes additional harms that require justification. Such justification might consist in both positive reasons to prosecute the guilty and grounds for excluding these costs and harms from prosecutors’ consideration. The article concludes tentatively, however, that these justifications do not always render it permissible to prosecute those whom prosecutors justifiably believe to be guilty.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s11572-026-09819-5"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Andrew Cornford"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s11572-026-09819-5",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Criminal Law and Philosophy",
-      "journal_id": "J008",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s11572-026-09819-5",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s11572-026-09819-5"
-      ],
-      "requires_manual_verification": false,
-      "title": "Prosecution Decisions: A Normative Framework",
-      "url": "https://doi.org/10.1007/s11572-026-09819-5"
-    },
-    {
-      "abstract": "This article treats the debate over defining populism as a case study in the analysis of political concepts. Contemporary scholarship variously treats populism as an ideology, a discursive logic, a political style, a strategy, or a form of representation. Although these approaches identify different cores, they generally assume that the concept can be stabilised through defining features. Drawing on the later philosophy of Ludwig Wittgenstein, the article distinguishes two levels: populism as a scholarly classificatory concept and populist discourse as a political language game. At the first level, populism is reconstructed as a family-resemblance concept connected by overlapping criteria; at the second, the article identifies the grammar through which ‘the people’, ‘elites’, ‘crisis’, and ‘representation’ acquire political roles. The aim is not to render the concept arbitrary, but to show why analytical rigour need not depend on identifying a single essence.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s12136-026-00710-5"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Petr Bláha"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s12136-026-00710-5",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Acta Analytica",
-      "journal_id": "J099",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s12136-026-00710-5",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s12136-026-00710-5"
-      ],
-      "requires_manual_verification": false,
-      "title": "Political Concepts Without Essences? Populism, Family Resemblance, and the Limits of Definition",
-      "url": "https://doi.org/10.1007/s12136-026-00710-5"
-    },
-    {
-      "abstract": "Those wanting an account of properties which is sparse, naturalistic, and permits only instantiated properties have long had two views to choose between: multi-located properties (universals) and partly located particulars (sets of perfectly resembling tropes). So bifurcating the choice leaves out an important position: partly located universals. The theory of partly located universals I’ll defend shares some features with (multi-located) universals and some features with (sets of perfectly resembling) tropes. Hence, I’ll call partly located universals “traversals”: tro- from “trope” and -versals from “universals.” My aim in this paper is (i) to show what troversals are, (ii) to show that they can do the same property work done by (multi-located) universals and by (sets of perfectly resembling) tropes, (iii) to show the advantages of endorsing troversals, and (iv) to show that there is no objection to troversals so glaring that troversals deserve to be booted from the property options table.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s12136-026-00711-4"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Dana Goswick"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s12136-026-00711-4",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Acta Analytica",
-      "journal_id": "J099",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s12136-026-00711-4",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s12136-026-00711-4"
-      ],
-      "requires_manual_verification": false,
-      "title": "Sparse Properties as Troversals (vs. Universals and Tropes)",
-      "url": "https://doi.org/10.1007/s12136-026-00711-4"
-    },
-    {
-      "abstract": "Abstract Jonathan Lowe, Peter Simons, and John Heil have, over the past decades, argued that relations do not exist. Their central claim is that genuinely relational predications have only non-relational entities as truthmakers. On this view, so-called internal relations are reducible to the relata themselves. A familiar difficulty for this position concerns spatial and temporal relations, which are typically understood as external relations. Lowe, Simons, and Heil respond by arguing that spatiotemporal relations can be treated analogously to internal relations and thus reduced to the relata of the supposed relations. This paper challenges that position. I examine several strategies for providing non-relational truthmakers for spatial distances and conclude that none of them succeeds. I argue that the crucial distinction is not between internal and external relations, but between grounded and nongrounded relations. In particular, none of them has an effective argument against the notion that spatial distances may be internal in the sense that they hold by necessity while nevertheless being ungrounded and therefore not reducible to any more supposedly fundamental entities such as their relata.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s12136-026-00713-2"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Jan Almäng"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s12136-026-00713-2",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Acta Analytica",
-      "journal_id": "J099",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s12136-026-00713-2",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s12136-026-00713-2"
-      ],
-      "requires_manual_verification": false,
-      "title": "Can Spatial Relations Be Dispensed With?",
-      "url": "https://doi.org/10.1007/s12136-026-00713-2"
-    },
-    {
-      "abstract": "Emotion is commonly understood to involve both cognitive and phenomenal aspects. Whether cognition makes a distinctive contribution to phenomenal character, however, remains a central question in the debate over cognitive phenomenology. This paper examines cognitive restructuring in cognitive behavioral therapy and rational emotive behavior therapy as an overlooked source of evidence. I introduce the Somatic Specifiability Test, which asks whether the phenomenal character of an evaluative emotion can be fully specified in purely somatic terms. Clinical exchanges suggest that such specification is incomplete, while leaving open non-conceptual explanations. I defend constitutive cognitivism, a weak account on which conceptual evaluative content partly constitutes what some evaluative emotions are like for the subject. Recalcitrant emotions, which persist despite revised judgement, need not undermine this account, provided that experienced evaluation is distinguished from endorsed judgement. While not decisive for cognitive phenomenology, cognitive restructuring helps specify what accounts denying it should explain.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1007/s12136-026-00715-0"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Jingze Li"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1007/s12136-026-00715-0",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Acta Analytica",
-      "journal_id": "J099",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1007/s12136-026-00715-0",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1007/s12136-026-00715-0"
-      ],
-      "requires_manual_verification": false,
-      "title": "What Does Cognitive Restructuring Reveal About Cognitive Phenomenology?",
-      "url": "https://doi.org/10.1007/s12136-026-00715-0"
-    },
-    {
-      "abstract": "Abstract This paper lays out a principle, Consistency , and shows how it justifies lenient sentences for juvenile offenders. The principle holds that, if the state disadvantages someone by applying the rationale of a legal rule, it has a reason of fairness to act on that same rationale when doing so would advantage them. As applied to juvenile leniency, the law systematically assumes that juveniles are diminished in their normative capacities. These rules, putting the penal context to one side, operate to disadvantage those juveniles for whom the assumption is false. This places the state under a duty, owed to these juveniles as a matter of fairness, to act on the same assumption when it would work to their advantage. Such juveniles are therefore owed lenient sentences.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/cjlj.2026.10075"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Angelo Ryu",
-        "Trenton Sewell"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1017/cjlj.2026.10075",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Canadian Journal of Law &amp; Jurisprudence",
-      "journal_id": "J004",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/cjlj.2026.10075",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1017/cjlj.2026.10075"
-      ],
-      "requires_manual_verification": false,
-      "title": "Punishing Youth Fairly",
-      "url": "https://doi.org/10.1017/cjlj.2026.10075"
-    },
-    {
-      "abstract": "Abstract This article explores what the everyday reveals about the regulation of global supply chains by EU law. Taking the story of a dockworker in the Port of Rotterdam as its point of departure, it examines the legal and compliance mechanisms through which the European Union increasingly seeks to govern transnational supply chains, from subcontracting arrangements and environmental regulation to corporate human rights commitments, all encompassed in emerging mandatory due diligence frameworks in EU law and some Member States. Rotterdam’s story is approached as a diagnostic site of infrastructural Europe, where the promises of European legality encounter the material infrastructures through which goods, labour, resources and legal responsibility circulate across and beyond Europe. Read from this standpoint, the EU law for global supply chains appears to be only partially attuned to the distributed and relational forms of harm it seeks to govern. This article argues that it not only reflects failure of implementation, but a deeper crisis of attunement, whereby contemporary due diligence mechanisms struggle to perceive the socio-material conditions through which harm is produced and dispersed. It concludes by proposing the everyday as an epistemic standpoint for EU law, examining in concrete cases how, in the port of Rotterdam, trade unions, NGOs and affected communities seek to reconfigure responsibility from below and, in doing so, push EU law beyond procedural abstraction towards a more structural engagement with the realities of global supply chains.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/elo.2026.10103"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Luca Tenreira"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1017/elo.2026.10103",
-      "first_seen_jst": "2026-11-26",
+      "date": "2026-11-26",
+      "doi": "10.1017/elo.2026.10093",
+      "first_seen_jst": "2026-11-27",
       "journal": "European Law Open",
       "journal_id": "J013",
       "origin": "crossref",
@@ -952,35 +264,34 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/elo.2026.10103",
-      "publisher_online_date": "2026-11-25",
+      "publisher_evidence_url": "https://doi.org/10.1017/elo.2026.10093",
+      "publisher_online_date": "2026-11-26",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/elo.2026.10103"
+        "https://doi.org/10.1017/elo.2026.10093"
       ],
       "requires_manual_verification": false,
-      "title": "Thinking the pathologies of infrastructural Europe through Rotterdam",
-      "url": "https://doi.org/10.1017/elo.2026.10103"
+      "title": "Reassessing competition law’s fair profit doctrine in the era of Big Tech: Towards an integrated profitability framework",
+      "url": "https://doi.org/10.1017/elo.2026.10093"
     },
     {
-      "abstract": "Abstract The increasing use of AI-based decision support systems in public administration makes it timely to ask whether human caseworkers have distinct functions in decision-making and reason-giving of individual cases. Drawing on a relational rule-of-law framework, the Article makes explicit a premise long implicit in administrative law: that decision-making and reason–giving are fundamentally human practices grounded in reciprocity, dignity, and respect for individuals as reasoning agents. Using the Norwegian welfare scheme for care benefits for a sick child as an illustrative case, the Article highlights how discretionary legal criteria create spaces in which temporal functions of decision-making by a human caseworker—together with human capacities for role reversibility and reason responsiveness—are indispensable for meeting rule-of-law expectations. Against this backdrop, the authors argue that context-sensitivity—understood as an attunement to the contextual features of an individual case—can be differentiated into “interpretive sensitivity” and “situational sensitivity.” Even though AI tools may strengthen certain aspects of context-sensitivity, human involvement in decision-making and reason–giving still encompasses distinct rule–of–law functions that contribute significantly to this differentiated form of context–sensitivity.",
+      "abstract": "Abstract This article critically engages with Ben Judah’s Briançon chapter to interrogate the normalisation of violence within EU migration governance. Using the journey of Brico and his family as an analytical lens, it demonstrates how EU externalisation policies extend far beyond territorial borders, shaping migratory trajectories through legal, political, and economic interventions in third countries such as Niger and Libya. The first part situates Brico’s experiences within the broader framework of EU cooperation agreements, anti-smuggling laws, and maritime interception practices, highlighting their material consequences, including increased precarity, exploitation, and exposure to systemic human rights violations. The second part examines how such violence becomes normalised within European legal and political consciousness. It argues that this normalisation is sustained through processes of dehumanisation, the construction of hierarchies of deservingness, and the diffusion of responsibility. Drawing on jurisprudence from European courts, the article exposes persistent gaps in accountability, particularly in the context of extraterritorialised border control. It further reflects on the ethical tensions inherent in narrating migrant suffering, questioning whether such representations challenge or inadvertently reproduce the very structures they seek to critique. Ultimately, the article contends that EU migration governance produces a form of “everyday dystopia” in which systemic violence is both obscured and rendered routine. By foregrounding the lived realities behind legal frameworks, it calls for a re-examination of the relationship between sovereignty, accountability, and human rights in contemporary migration law.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/glj.2026.10258"
+        "publisher:https://doi.org/10.1017/elo.2026.10111"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Ragna Aarli",
-        "Synne Sæther Mæhle"
+        "Karla Žeravčić"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1017/glj.2026.10258",
-      "first_seen_jst": "2026-11-26",
-      "journal": "German Law Journal",
-      "journal_id": "J126",
+      "date": "2026-11-26",
+      "doi": "10.1017/elo.2026.10111",
+      "first_seen_jst": "2026-11-27",
+      "journal": "European Law Open",
+      "journal_id": "J013",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -989,34 +300,34 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/glj.2026.10258",
-      "publisher_online_date": "2026-11-25",
+      "publisher_evidence_url": "https://doi.org/10.1017/elo.2026.10111",
+      "publisher_online_date": "2026-11-26",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/glj.2026.10258"
+        "https://doi.org/10.1017/elo.2026.10111"
       ],
       "requires_manual_verification": false,
-      "title": "Why Human Caseworkers Matter: Decision-Making and Reason-Giving in Administrative Law",
-      "url": "https://doi.org/10.1017/glj.2026.10258"
+      "title": "Everyday dystopia: EU migration governance and its normalisation – reading ‘Briançon’",
+      "url": "https://doi.org/10.1017/elo.2026.10111"
     },
     {
-      "abstract": "Abstract Digital sovereignty has become the loadstar of EU industrial policies. But it does not have a widely agreed meaning. This Article explores this apparent paradox with regard to the twin transition in the energy sector. The main argument is that the multiple meanings of digital sovereignty allow the EU and the Member States to implement regulatory measures that shape their industrial policies. A distinction between the collective and the individual dimension of digital sovereignty is proposed to analyze the contents of such regulatory choices in two domains: cybersecurity and data protection. Reference is made to both EU horizontal legislation and to legislation in the energy sector. The Article advances four recommendations, related to the joint assessment of the collective and individual dimensions, the geopolitical relevance of sustainability standards, the mechanisms to control supply chains, and the conflicting sovereignty claims in the energy sector. The Article also contributes to the wider debate about the regulation of digital technologies.",
+      "abstract": "Abstract The literature on epistemic violence and its remedies has seen significant growth in recent decades. Meanwhile, within the epistemological literature, a smaller but growing number of proposals come from the intersection between epistemology and care ethics. This paper aims to bring these two bodies of literature into conversation by identifying a specific type of epistemic care that I call “resistant epistemic care” (REC). After analyzing some existing proposals for “epistemic care” in the first section, I set out my own account of REC as an especially resistant and creative capacity to restore the epistemic agency and contributions of victims of epistemic violence even in the face of conditions of severe epistemic obscurity. Next I argue that REC can fruitfully provide a framework to confront epistemic violence, and offer the Spanish “La Manada” (the “Wolf-Pack”) and its feminist response in the “#YoTeCreo” (“#IBelieveYou”) movement as a case study to demonstrate how REC helps overcome the epistemic violence suffered by victims of sexual assault by generating hermeneutical change at the collective level.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/glj.2026.10260"
+        "publisher:https://doi.org/10.1017/hyp.2026.10114"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Giuseppe Bellantuono"
+        "Alicia García-Álvarez"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1017/glj.2026.10260",
-      "first_seen_jst": "2026-11-26",
-      "journal": "German Law Journal",
-      "journal_id": "J126",
+      "date": "2026-11-26",
+      "doi": "10.1017/hyp.2026.10114",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Hypatia",
+      "journal_id": "J075",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -1025,34 +336,35 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/glj.2026.10260",
-      "publisher_online_date": "2026-11-25",
+      "publisher_evidence_url": "https://doi.org/10.1017/hyp.2026.10114",
+      "publisher_online_date": "2026-11-26",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/glj.2026.10260"
+        "https://doi.org/10.1017/hyp.2026.10114"
       ],
       "requires_manual_verification": false,
-      "title": "Regulatory Dimensions of Digital Sovereignty in the Energy Sector",
-      "url": "https://doi.org/10.1017/glj.2026.10260"
+      "title": "“I Believe You, Sister”: Epistemic Violence, Epistemic Care, and the “Wolf-Pack”",
+      "url": "https://doi.org/10.1017/hyp.2026.10114"
     },
     {
-      "abstract": "This admirable work aims to shed light, normatively and empirically, on the role of respect in mass public opinion and democratic politics. The concept of respect is thoughtful, nuanced, and meaningful. It is mobilized to tell a story unlike any of the other myriad attempts political scientists have made to understand the ills of American democracy. It differs in theoretical emphasis in that it encompasses both sides of the political spectrum, with emphasis on tension and nuance on the liberal side. Where it is different conceptually is that it examines the subject through an explicitly ideological lens. Unlike most of what’s out there, which boil the story down to either ethno-racial identity politics or negative partisanship, the authors here are deeply attuned to the values Americans profess to hold, and how these values both shape and are in tension with assessments of the legitimacy—framed here in terms of “respect”—of those on either side of the aisle. The argument stands out because it considers not only who Americans are, but what they think and how this helps them evaluate their political opponents. Finally, it differs in evidence from existing work by deftly employing both large-n quantitative evidence (surveys) and focus groups that represent a more qualitative touch.",
+      "abstract": "Abstract Investment returns are a key determinant of long-run inequality. Financial markets tend to reward investors who bear more risk with higher expected returns. We argue, on Dworkinian luck egalitarian grounds, that the resulting inequality is unjust: risk appetites are largely a matter of brute luck, yet in societies with financial markets the capacity to bear risk is a personal resource. Risk aversion is not an ‘expensive taste’, and nothing turns on the rationality of risk appetites. The state has moral reasons to function as the egalitarian risk-taker of last resort.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/s0034670526101181"
+        "publisher:https://doi.org/10.1017/s0266267126100923"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Matthew Wright"
+        "Kangyu Wang",
+        "Paul Forrester"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1017/s0034670526101181",
-      "first_seen_jst": "2026-11-26",
-      "journal": "The Review of Politics",
-      "journal_id": "J050",
+      "date": "2026-11-26",
+      "doi": "10.1017/s0266267126100923",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Economics and Philosophy",
+      "journal_id": "J029",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "publisher_doi_matched",
@@ -1061,32 +373,33 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/s0034670526101181",
-      "publisher_online_date": "2026-11-25",
+      "publisher_evidence_url": "https://doi.org/10.1017/s0266267126100923",
+      "publisher_online_date": "2026-11-26",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/s0034670526101181"
+        "https://doi.org/10.1017/s0266267126100923"
       ],
       "requires_manual_verification": false,
-      "title": "What is a 'Worldview', Anyway?",
-      "url": "https://doi.org/10.1017/s0034670526101181"
+      "title": "Risk appetites, investment returns, and distributive justice",
+      "url": "https://doi.org/10.1017/s0266267126100923"
     },
     {
-      "abstract": "Abstract The Eichmann trial, one of the twentieth century’s most consequential war crimes trials, began with an extraterritorial abduction that raised concerns about Israel’s commitment to international law and norms. This article argues that, against this backdrop, the retention of West German lawyer Robert Servatius—Eichmann’s choice of counsel—became central to Israel’s construction of legal legitimacy. Drawing on archival sources, including cabinet meetings, intelligence reports, diplomatic correspondence, and contemporary press coverage, it reconstructs a largely hidden debate among Israeli officials over how to navigate the political, legal, and diplomatic risks associated with Servatius’ retention, especially in light of his documented contacts with former Nazis and Nazi sympathizers. Servatius thus functioned as a crucial instrument through which Israeli authorities managed competing demands for political narrative, due process, and international credibility. By foregrounding the Israeli side of the story, this article demonstrates that legal legitimacy in high-profile trials is not simply secured through strict adherence to procedural due process but is actively constructed through strategic decisions about who is permitted to participate in the courtroom.",
+      "abstract": "Abstract This article examines Congress’s continuing role in implementing Title VII of the Civil Rights Act of 1964. Although scholarship has emphasized the importance of judicial interpretation, administrative development, and private litigation in transforming Title VII into one of the most consequential components of the modern civil-rights state, Congress remained deeply engaged in determining how the statute would be enforced. Between 1965 and 1972, lawmakers repeatedly debated proposals to strengthen the Equal Employment Opportunity Commission (EEOC), ultimately constructing an enforcement regime centered on federal litigation rather than administrative cease-and-desist authority. The article then traces Congress’s response to the Supreme Court’s 1988 and 1989 Title VII decisions, showing that the Civil Rights Acts of 1990 and 1991 were principally efforts to restore the enforcement framework that lawmakers believed the Court had unsettled. Taken together, these episodes demonstrate that implementation was not a discrete stage following enactment, but an ongoing process of institutional negotiation among Congress, the presidency, the courts, and the administrative state. Recovering Congress’s role in these post-enactment struggles broadens our understanding of Title VII’s development and illuminates the changing politics of civil-rights enforcement after 1964.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/s0738248026102065"
+        "publisher:https://doi.org/10.1017/s0738248026102089"
       ],
       "abstract_review_status": "present_needs_content_review",
       "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Shachar Gannot"
+        "Jeffery A. Jenkins",
+        "Justin Peck"
       ],
       "crossref_online_date": null,
       "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1017/s0738248026102065",
-      "first_seen_jst": "2026-11-26",
+      "date": "2026-11-26",
+      "doi": "10.1017/s0738248026102089",
+      "first_seen_jst": "2026-11-27",
       "journal": "Law and History Review",
       "journal_id": "J080",
       "origin": "crossref",
@@ -1097,74 +410,38 @@
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": true,
       "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/s0738248026102065",
-      "publisher_online_date": "2026-11-25",
+      "publisher_evidence_url": "https://doi.org/10.1017/s0738248026102089",
+      "publisher_online_date": "2026-11-26",
       "publisher_pages_attempted": [
-        "https://doi.org/10.1017/s0738248026102065"
+        "https://doi.org/10.1017/s0738248026102089"
       ],
       "requires_manual_verification": false,
-      "title": "Choosing the Defense: Robert Servatius, the State of Israel, and the Politics of Legitimacy in the Eichmann Trial",
-      "url": "https://doi.org/10.1017/s0738248026102065"
-    },
-    {
-      "abstract": "Abstract This paper examines and compares the role played by the theory of evolution in Sidgwick’s and Spencer’s versions of indirect utilitarianism. Although both share the thesis that evolution has operated in such a way that common-sense morality is unconsciously and imperfectly utilitarian and have a similar conception of the conditional authority of common-sense morality, I shall claim that the evolutionary doctrine plays a different dialectical role and has a different philosophical weight in their arguments. Spencer frequently relies on the theory of evolution to reconcile opposing philosophical views across various philosophical domains, and the evolutionary explanation of the utilitarian origin of moral sentiments ultimately serves to justify his indirect utilitarianism. In contrast, evolution serves only a limited and purely explanatory role in Sidgwick’s account of the unconscious utilitarianism of common-sense morality and has no justificatory function with respect to his utilitarian method.",
-      "abstract_attempts": [
-        "publisher:https://doi.org/10.1017/s0953820826100569"
-      ],
-      "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "crossref_or_openalex_metadata",
-      "already_introduced": false,
-      "article_type_guess": "research_candidate_unverified",
-      "authors": [
-        "Giulia Cantamessi"
-      ],
-      "crossref_online_date": null,
-      "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1017/s0953820826100569",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Utilitas",
-      "journal_id": "J052",
-      "origin": "crossref",
-      "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "publisher_doi_matched",
-      "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
-      "publisher_date_conflict": false,
-      "publisher_date_verified_in_window": true,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.1017/s0953820826100569",
-      "publisher_online_date": "2026-11-25",
-      "publisher_pages_attempted": [
-        "https://doi.org/10.1017/s0953820826100569"
-      ],
-      "requires_manual_verification": false,
-      "title": "Sidgwick and Spencer on Evolution and Indirect Utilitarianism",
-      "url": "https://doi.org/10.1017/s0953820826100569"
+      "title": "Congress and the Making of the Title VII Enforcement Regime, 1965–1991",
+      "url": "https://doi.org/10.1017/s0738248026102089"
     },
     {
       "abstract": "",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.1163/17455243-bja10213",
+        "publisher:https://doi.org/10.1080/13698230.2026.2763274",
         "openalex_doi"
       ],
       "abstract_review_status": "missing",
       "abstract_source": "missing",
       "already_introduced": false,
-      "article_type_guess": "book_review_candidate",
+      "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Francesco Testini"
+        "Patti Tamara Lenard"
       ],
-      "crossref_online_date": null,
+      "crossref_online_date": "2026-11-26",
       "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.1163/17455243-bja10213",
-      "first_seen_jst": "2026-11-26",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
+      "date": "2026-11-26",
+      "doi": "10.1080/13698230.2026.2763274",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Critical Review of International Social and Political Philosophy",
+      "journal_id": "J038",
       "origin": "crossref",
       "previously_published_by_publisher": false,
-      "publication_date_evidence_level": "unconfirmed",
+      "publication_date_evidence_level": "crossref_published_online_only",
       "publication_date_is_api_candidate": true,
       "publisher_check_status": "publisher_request_failed_HTTPError",
       "publisher_date_conflict": false,
@@ -1172,47 +449,238 @@
       "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.1163/17455243-bja10213"
+        "https://doi.org/10.1080/13698230.2026.2763274"
       ],
       "requires_manual_verification": true,
-      "title": "Basic Equality, written by P. Sagar",
-      "url": "https://doi.org/10.1163/17455243-bja10213"
+      "title": "Political integration and the majority",
+      "url": "https://doi.org/10.1080/13698230.2026.2763274"
     },
     {
-      "abstract": "Faced with, say, a racist law or an instance of misogynistic street harassment, we usually expect victims of oppression to offer moral responses. We think they’ll blame, resent, or attempt to punish. Instead, they sometimes offer aesthetic critiques, complaining about the clumsiness, ugliness, or downright boringness of some manifestation of oppression. It is tempting to dismiss these as criticizable failures to offer well-calibrated reactions to injustice. In this paper I offer a redemptive reading of aesthetic critiques. In cases where straightforward moral criticism would lack marks of successful agency (effectiveness and responsiveness), aesthetically critiquing oppression might enable one to perform broadly resistant actions with these features. Moreover, aesthetic critiques can help us appreciate some of what’s bad about oppression. In calling patriarchy boring, aesthetic critics call attention to the ways ideology gives rise to repetitive patterns of injustice, rendering the shape of our collective human history less interesting than it otherwise might be.",
+      "abstract": "Abstract This paper introduces and offers a solution to an under-explored problem for Rawls’s account of intergenerational justice; specifically, for the just savings principle. This principle requires each generation to save at a net-positive rate until society has sufficient material resources to establish just institutions, after which it permits a net-zero rate resulting in economic stationarity. This involves a sharp drop in the savings rate from the last pre-transition generation to the first post-transition generation, and is thus unacceptable to the parties in the original position. Why? Rawls insists any savings principle must seem fair to both sides of each pair of adjacent generations, but the sharp drop would not seem fair to the last pre-transition generation. My solution tapers the savings rate down to net-zero once just institutions are established. This principle is both acceptable to the parties and allows Rawls to maintain the compatibility of justice with economic stationarity.",
       "abstract_attempts": [
-        "publisher:https://doi.org/10.16995/pp.28620"
+        "publisher:https://doi.org/10.1093/analys/anag093"
       ],
       "abstract_review_status": "present_needs_content_review",
-      "abstract_source": "publisher_doi_matched_page",
+      "abstract_source": "crossref_or_openalex_metadata",
       "already_introduced": false,
       "article_type_guess": "research_candidate_unverified",
       "authors": [
-        "Anna-Bella Sicilia"
+        "Matthew Wiseman"
       ],
-      "crossref_online_date": "2026-11-25",
+      "crossref_online_date": "2026-11-26",
       "crossref_subtype": "",
-      "date": "2026-11-25",
-      "doi": "10.16995/pp.28620",
-      "first_seen_jst": "2026-11-25",
-      "journal": "Political Philosophy",
-      "journal_id": "J027",
+      "date": "2026-11-26",
+      "doi": "10.1093/analys/anag093",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Analysis",
+      "journal_id": "J097",
       "origin": "crossref",
       "previously_published_by_publisher": false,
       "publication_date_evidence_level": "crossref_published_online_only",
       "publication_date_is_api_candidate": true,
-      "publisher_check_status": "doi_matched",
+      "publisher_check_status": "publisher_request_failed_HTTPError",
       "publisher_date_conflict": false,
       "publisher_date_verified_in_window": false,
-      "publisher_doi_matched": true,
-      "publisher_evidence_url": "https://doi.org/10.16995/pp.28620",
+      "publisher_doi_matched": false,
       "publisher_online_date": null,
       "publisher_pages_attempted": [
-        "https://doi.org/10.16995/pp.28620"
+        "https://doi.org/10.1093/analys/anag093"
       ],
       "requires_manual_verification": true,
-      "title": "Aesthetically Critiquing Oppression",
-      "url": "https://doi.org/10.16995/pp.28620"
+      "title": "The Transition to Justice: A New Problem for the Just Savings Principle",
+      "url": "https://doi.org/10.1093/analys/anag093"
+    },
+    {
+      "abstract": "Abstract Climate change contributes to democratic upheaval, and the slow and unpredictable passage of the democratic process can appear ill-suited to the urgent demands of the climate crisis. In consequence, climate-conscious NGOs and environmental defenders are increasingly turning away from traditional liberal democratic processes, instead mobilising litigation and civil disobedience to effect legal change. However, these phenomena can be seen as democratically troubling, contributing to legal disruption. The UNECE Aarhus Convention—a hybrid environmental human rights instrument—is a rich repository of legal rights and democratic ambition that can help its parties to navigate the democratic and legal challenges of the climate crisis. Using the examples of climate litigation and civil disobedience, I show that the Convention is a dynamic and responsive legal instrument that speaks to the troubles posed by climate disruption, promoting an expansive understanding of democratic engagement and providing its parties with a blueprint to navigate these phenomena well.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1093/ojls/gqag037"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Emily Barritt"
+      ],
+      "crossref_online_date": "2026-11-26",
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1093/ojls/gqag037",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Oxford Journal of Legal Studies",
+      "journal_id": "J003",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1093/ojls/gqag037"
+      ],
+      "requires_manual_verification": true,
+      "title": "The Democratic Troubles of the Climate Crisis and the Aarhus Convention",
+      "url": "https://doi.org/10.1093/ojls/gqag037"
+    },
+    {
+      "abstract": "ABSTRACT We are seeing increasing work in bioethics to defend and define an ethical duty to minimise healthcare's environmental impacts. So far, the duty is often defined in terms of reducing healthcare's greenhouse gas emissions and two positions have emerged on whether and what limits to the duty apply: soft exceptionalism and non‐exceptionalism. Yet, the philosophical grounds for the duty to minimise healthcare's environmental impacts are often not well explained or clearly articulated. That matters because, as this paper argues, different philosophical grounds generate different understandings of the duty's content and limits. In particular, this paper focuses on the implications of using different justice ‐based grounds for the duty. Section I first establishes that different axes of justice—social, environmental, ecological—can each be used to ground a general duty to minimise healthcare's environmental impacts. Section II shows that a range of ontologies underlie the conceptions of justice encompassed within those axes. Section III then demonstrates that the selected axis of justice and underlying ontology affects the nature—limits and content—of the resultant duty to minimise healthcare's environmental impacts. Ultimately, numerous different ways to understand the duty's limits and content are shown to exist. Many of those understandings require more than reducing healthcare's greenhouse gas emissions, and not all are consistent with soft exceptionalism or non‐exceptionalism. To conclude, the paper considers whether reasons exist for favouring certain interpretations of the duty over others.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/bioe.70214",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70214",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70214"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Bridget Pratt"
+      ],
+      "crossref_online_date": "2026-11-26",
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/bioe.70214",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/bioe.70214",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70214",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70214"
+      ],
+      "requires_manual_verification": true,
+      "title": "Towards Clarifying the Duty to Minimise Healthcare's Environmental Impacts",
+      "url": "https://doi.org/10.1111/bioe.70214"
+    },
+    {
+      "abstract": "",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/bioe.70219",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70219",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70219",
+        "openalex_doi"
+      ],
+      "abstract_review_status": "missing",
+      "abstract_source": "missing",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Ruth Chadwick"
+      ],
+      "crossref_online_date": "2026-11-26",
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/bioe.70219",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/bioe.70219",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70219",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70219"
+      ],
+      "requires_manual_verification": true,
+      "title": "Food and Personalized Medicine",
+      "url": "https://doi.org/10.1111/bioe.70219"
+    },
+    {
+      "abstract": "ABSTRACT It has recently been proposed that fine‐tuned large‐language models (LLMs) could more accurately predict the preferences of incapacitated patients than surrogates. This hypothetical technology has been named the personalised patient preference predictor (P4). Advocates of the P4 claim that the P4 will not only more accurately predict patient preferences, but will better respect patient autonomy, facilitate the composition of advance directives, and reduce the emotional burden of surrogate decision‐making. I challenge these purported benefits by arguing that the P4 would pose a substantive risk to our ability to meaningfully grapple with death. Drawing on the philosophies of Søren Kierkegaard and Martin Heidegger, I argue that adopting an existential attitude towards death is central to the pursuit of an ethical life. Implementation of the P4 risks inhibiting both patients and surrogates from adopting an existential attitude towards death, with deleterious consequences.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/bioe.70220",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70220",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70220"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Zachary Daus"
+      ],
+      "crossref_online_date": "2026-11-26",
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/bioe.70220",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/bioe.70220",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70220",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70220"
+      ],
+      "requires_manual_verification": true,
+      "title": "Death, Existentialism, and the Personalised Patient Preference Predictor",
+      "url": "https://doi.org/10.1111/bioe.70220"
+    },
+    {
+      "abstract": "ABSTRACT In this paper, I use some important insights from the literature on the conflict of rights to reconsider the conflict of rights in some unwanted pregnancies. Specifically, I reconsider antiabortion arguments that rely on the premise that the fetus's right to life is more stringent than, and so overrides, the pregnant person's right to their body. I argue that, if this is so (and I do not believe it is), then the pregnant person's right to their body is infringed (not violated). This mere infringement, however, generates a duty on the part of the fetus to compensate the pregnant person for the unwanted use of their body. I argue that neither Catholic nor philosophical views on filial duties provide an adequate solution to the question of compensation.",
+      "abstract_attempts": [
+        "publisher:https://doi.org/10.1111/bioe.70221",
+        "publisher:https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70221",
+        "publisher:https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70221"
+      ],
+      "abstract_review_status": "present_needs_content_review",
+      "abstract_source": "crossref_or_openalex_metadata",
+      "already_introduced": false,
+      "article_type_guess": "research_candidate_unverified",
+      "authors": [
+        "Kristen Hine"
+      ],
+      "crossref_online_date": "2026-11-26",
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/bioe.70221",
+      "first_seen_jst": "2026-11-27",
+      "journal": "Bioethics",
+      "journal_id": "J063",
+      "origin": "crossref",
+      "previously_published_by_publisher": false,
+      "publication_date_evidence_level": "crossref_published_online_only",
+      "publication_date_is_api_candidate": true,
+      "publisher_check_status": "publisher_request_failed_HTTPError",
+      "publisher_date_conflict": false,
+      "publisher_date_verified_in_window": false,
+      "publisher_doi_matched": false,
+      "publisher_online_date": null,
+      "publisher_pages_attempted": [
+        "https://doi.org/10.1111/bioe.70221",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.70221",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/bioe.70221"
+      ],
+      "requires_manual_verification": true,
+      "title": "Compensation and Unwanted Pregnancy",
+      "url": "https://doi.org/10.1111/bioe.70221"
     }
   ],
   "journal_total": 145,
@@ -1224,15 +692,15 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 52,
+  "political_backlog_unverified_count": 53,
   "publisher_first_online_date_conflict_count": 0,
-  "publisher_first_online_in_window_verified_count": 31,
-  "raw_candidate_count": 33,
-  "research_candidate_abstracts_available": 32,
-  "research_candidate_abstracts_missing": 0,
+  "publisher_first_online_in_window_verified_count": 11,
+  "raw_candidate_count": 18,
+  "research_candidate_abstracts_available": 16,
+  "research_candidate_abstracts_missing": 2,
   "research_candidate_suspect_abstracts": 0,
-  "research_candidate_unverified_count": 32,
+  "research_candidate_unverified_count": 18,
   "warning": "Machine-discovered candidates, NOT verified First View research papers. Only explicit publisher online-date metadata tied to matching DOI counts as date verification.",
-  "window_end_jst": "2026-11-26",
-  "window_start_jst": "2026-11-25"
+  "window_end_jst": "2026-11-27",
+  "window_start_jst": "2026-11-26"
 }

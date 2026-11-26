@@ -2,7 +2,7 @@
   "already_introduced_count": 0,
   "book_review_abstracts_missing": 0,
   "book_review_candidate_count": 0,
-  "checked_at_utc": "2026-11-26T22:59:32.142051+00:00",
+  "checked_at_utc": "2026-11-26T23:53:27.435791+00:00",
   "collected_on": "2026-11-27",
   "counts": {
     "checked": 135,
@@ -692,7 +692,7 @@
     "truncated": 0,
     "unresolved": 0
   },
-  "political_backlog_unverified_count": 53,
+  "political_backlog_unverified_count": 52,
   "publisher_first_online_date_conflict_count": 0,
   "publisher_first_online_in_window_verified_count": 11,
   "raw_candidate_count": 18,

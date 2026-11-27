@@ -1,360 +1,6 @@
 {
-  "collected_on": "2026-11-27",
+  "collected_on": "2026-11-28",
   "items": [
-    {
-      "abstract": "",
-      "authors": [
-        "Jeeyoon Jeong",
-        "Jae Uk Chun",
-        "Ji Hoon Lee"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1007/s10551-026-06493-4",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Business Ethics",
-      "journal_id": "J057",
-      "origin": "crossref",
-      "title": "The Two Faces of Janus: Dual-Path Moderated Mediation of Observer Responses to Abusive Supervision",
-      "url": "https://doi.org/10.1007/s10551-026-06493-4"
-    },
-    {
-      "abstract": "Abstract Pfeffer, Krügel, and Uhl (2025) report that OpenAI’s reasoning model o1-mini produces more utilitarian responses to the trolley problem and footbridge dilemma than the non-reasoning model GPT-4o, and they raise the question whether growing reasoning capabilities bring about a “utilitarian turn” in LLMs. I extend their exploratory study in a direction they call for: with four current OpenAI models and systematic prompt variation. On the trolley dilemma, the hypothesized utilitarian turn is not confirmed. GPT-4o’s low utilitarian rate reflects safety refusals triggered by the prompt’s advisory framing rather than a deontological commitment; on reformulated prompt variants—for instance, agent-neutral “Is it morally permissible…?” instead of advisory “Should I…?”—all four models, reasoning or not, converge on utilitarian answers. The footbridge finding is partially confirmed: reasoning models tend to give more utilitarian responses than non-reasoning models across prompt variations, but they often refuse to answer or answer non-utilitarian. These results demonstrate that single-prompt evaluations of LLM moral responses are unreliable: multi-prompt robustness testing should be standard practice for any empirical claims about LLM behavior.",
-      "authors": [
-        "Johannes Himmelreich"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1007/s11948-026-00613-z",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Science and Engineering Ethics",
-      "journal_id": "J072",
-      "origin": "crossref",
-      "title": "How Utilitarian are OpenAI’s Models Really? Replicating and Reinterpreting Pfeffer, Krügel, and Uhl (2025)",
-      "url": "https://doi.org/10.1007/s11948-026-00613-z"
-    },
-    {
-      "abstract": "Abstract The rising accessibility of large image datasets and pre-trained models allowed a rapid expansion of computer vision (CV) methods in social science research. While this methodological development opens new potential applications, this combination also raises a new set of ethical concerns that neither computer vision nor social science ethical studies fully cover. This paper provides an analysis of the ethics of CV methods in social science, articulated around two stages of a research project: The first part explores methodological concerns, starting with data collection, data and modeling bias, and data storage afterwards, with special attention to issues of consent and explainability. The second part investigates the following project stage of result dissemination, through publication strategies, reproducibility, and finally public engagement. Building on this analysis, we propose an actionable checklist of ten ethical recommendations for future CV projects in the social sciences. This contribution fills the gap at the crossroads between AI ethics and applied social science, bringing concrete guidance for future research in the interdisciplinary, ethically complex field.",
-      "authors": [
-        "Thomas Schincariol",
-        "Alejandro Aísa",
-        "Belén González",
-        "Christian von Soest",
-        "Nils B. Weidmann"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1007/s43681-026-01422-7",
-      "first_seen_jst": "2026-10-21",
-      "journal": "AI and Ethics",
-      "journal_id": "J023",
-      "origin": "crossref",
-      "title": "Ethical challenges for computer vision in the social sciences",
-      "url": "https://doi.org/10.1007/s43681-026-01422-7"
-    },
-    {
-      "abstract": "Abstract This article argues that taking Article 2 values seriously as a cornerstone of EU constitutional law requires analysing domains beyond the rule of law and judicial independence. It investigates the role of values in migration management by taking the EU–Turkey Statement and temporary reintroduction of border checks within Schengen as examples through which to tease out how values interact with non-values-based priorities, the indeterminacy of divergent interpretations of values, and the value of freedom. The upshot is scepticism of the existing project of value constitutionalism and an invitation to rethink Article 2 values in the complex register of migration.",
-      "authors": [
-        "Aristel Skrbic"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1017/cel.2026.10041",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Cambridge Yearbook of European Legal Studies",
-      "journal_id": "J014",
-      "origin": "crossref",
-      "title": "Taking Value Constitutionalism Seriously: Migration and Values in EU Law and European Society",
-      "url": "https://doi.org/10.1017/cel.2026.10041"
-    },
-    {
-      "abstract": "Abstract Miranda Fricker articulates the notion of incidental hermeneutical injustice (HI) and invokes the case of Joe Rose from the novel Enduring Love to illustrate it. Critics have objected that incidental hermeneutical injustice as described by Fricker sits uneasily with her choice of Joe Rose as its central illustration. We claim that this reveals a key problem at the heart of any attempt to make sense of incidental HI: it seems difficult to reconcile the point that a victim of incidental HI is hermeneutically marginalised , as required by Fricker’s definition of HI, with their privileged social standing, which is implied by the incidental nature of the HI to which they allegedly fall victim. We call this the problem of incidental marginalisation . Clanchy circumvents this problem by significantly revising Fricker’s original account, but, we argue, at the expense of the plausible idea that HI is an injustice . We explain how supplementing Fricker’s original account with overlooked resources which Fricker herself provides can resolve the problem of incidental marginalisation, yielding a coherent, useful and defensible notion of incidental hermeneutical injustice that preserves the key ideas of Fricker’s original definition.",
-      "authors": [
-        "Federico Luzzi",
-        "Aidan McGlynn"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1017/epi.2026.10136",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "Making Sense of Incidental Hermeneutical Injustice: The Problem of Incidental Marginalisation",
-      "url": "https://doi.org/10.1017/epi.2026.10136"
-    },
-    {
-      "abstract": "Abstract The phrase ‘do your own research,’ popular among fringe theorists, has been criticized for encouraging audiences not to defer to the experts. However, it also encourages the listener not to defer to the speaker either. Why do fringe theorists make confident assertions and then tell their audience not to take their word for it? I argue that telling your audience to do their own research can serve several functions for speakers with low credibility. First, it can function as an epistemic virtue signal, raising the speaker’s credibility with the audience. Second, if the fringe theorist can direct their audience’s research so they appear to independently find evidence that confirms the fringe view, that evidence will have greater probative force than it would if the fringe theorist provided it directly. Fringe theorists may tell their audience to do their own research to foster the illusion of independence while, in fact, the fringe theorist has intentionally or unintentionally directed the audience’s inquiry to confirm the fringe view.",
-      "authors": [
-        "Ava Geenen"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1017/epi.2026.10145",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "Doing Your Own Research and the Illusion of Independence",
-      "url": "https://doi.org/10.1017/epi.2026.10145"
-    },
-    {
-      "abstract": "Abstract Quassim Cassam’s obstructivism characterises epistemic vice as any blameworthy or otherwise reprehensible character trait, attitude, or way of thinking that systematically obstructs the acquisition, retention, or dissemination of knowledge. I argue, contra a defensible common-sense reading of obstructivism, that the view, as stated, is committed to treating all systematic knowledge-obstructions as vice-relevant regardless of the value of the knowledge obstructed, a commitment which yields clear counterexamples. The paper does not attribute this commitment to Cassam as his fully settled position. Rather, I take his official definition at face value and show that it is in tension with several scattered passages in which he himself, without theorising it, relies on an unanalysed value-tiering of knowledge. I propose two friendly amendments. First, I distinguish weighty from insignificant knowledge along Pritchard’s lines, grounding the distinction in the criterion of substantive cognitive contact with reality. Second, I refine the systematicity condition. A trait systematically obstructs knowledge only if it reliably does so across the normal range of epistemic environments at the level of the trait rather than at the level of outcomes in pathological conditions. With these two refinements in place, dispositions towards motivated ignorance, properly characterised as stable traits or attitudes rather than isolated choices, can be epistemically neutral or beneficial when they obstruct only insignificant knowledge while preserving the agent’s capacity for weighty knowledge. The second refinement is underpinned by a teleological-functional criterion of environmental normality, anchored in Sosa’s competence-as-disposition framing. I conclude by offering a refined statement of obstructivism that accommodates these distinctions while preserving Cassam’s core insight.",
-      "authors": [
-        "Gerry Dunne"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1017/epi.2026.10149",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Episteme",
-      "journal_id": "J095",
-      "origin": "crossref",
-      "title": "Ameliorating Obstructivism: Low-Grade Knowledge and Motivated Ignorance",
-      "url": "https://doi.org/10.1017/epi.2026.10149"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Philip Yaure"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1017/s0034670526101314",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Review of Politics",
-      "journal_id": "J050",
-      "origin": "crossref",
-      "title": "John Christman: Reconceiving Freedom from the Shadows of Slavery: Liberty in a Nonideal World. (Cambridge: Cambridge University Press, 2025. Pp. ix + 255.)",
-      "url": "https://doi.org/10.1017/s0034670526101314"
-    },
-    {
-      "abstract": "Abstract When is a price just? This paper develops a new theory of justice in pricing, grounded in the Austrian market process tradition. Prices, I argue, are not merely outcomes to be evaluated against an external standard of fairness. They are instruments through which the competitive process performs morally significant functions: communicating information, generating incentives and coordinating the plans of millions under pervasive ignorance. When this process is operating, the prices it produces carry a genuine presumption of justice. I establish this claim through two complementary arguments and demonstrate its power across cases from price gouging to wages to monopoly.",
-      "authors": [
-        "Matt Zwolinski"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1017/s0266267126100844",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Economics and Philosophy",
-      "journal_id": "J029",
-      "origin": "crossref",
-      "title": "The just price: a market-process account",
-      "url": "https://doi.org/10.1017/s0266267126100844"
-    },
-    {
-      "abstract": "Abstract This article contributes both methodologically and substantially to the debates on uses of justice in early modern Europe and, more specifically, about how and to what extent women asserted their rights in the courtroom. The approach is quantitative, with an analysis involving three courts in the duchies of Brabant and Limburg during the seventeenth and early eighteenth centuries: the princely Council of Brabant as well as the local aldermen’s benches of the towns of Vilvoorde and Tienen. Systematically determining the proportion of women at the beginning of court cases (through the court rolls and distribution books) and comparing it to the proportion at the end of the proceedings (through the judgment books) reveals remarkable gender patterns: When women decided to go to court, they were more likely than men to litigate until a final judgment was rendered. Moreover, they sued on a narrower range of issues than men, with a preponderance of cases on inheritance, annuities, and debts. The explanation for this perseverance in court may be that women were less able to use informal forums for conflict resolution, or—more likely based on the sources that form the basis of this contribution—that they experienced a greater need to prove their rights than men.",
-      "authors": [
-        "Klaas Van Gelder"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1017/s0738248026101862",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Law and History Review",
-      "journal_id": "J080",
-      "origin": "crossref",
-      "title": "Female Perseverance in the Courtroom: Gendered Litigation Patterns in Early Modern Brabant and Limburg",
-      "url": "https://doi.org/10.1017/s0738248026101862"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Matteo Nicolini"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1017/s174455232610069x",
-      "first_seen_jst": "2026-10-21",
-      "journal": "International Journal of Law in Context",
-      "journal_id": "J125",
-      "origin": "crossref",
-      "title": "Atlantic Circulations. Literature, Reception and Imperial Identities, 1650–1750 By Edward Holberton, Abingdon and New York: Routledge, 2025. 260 pp. ISBN 9781032704647 €49.99 (paperback), 9781032704203 €210.00 (hardback), 9781032704661 €49.29 (eBook)",
-      "url": "https://doi.org/10.1017/s174455232610069x"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Herman Cappelen",
-        "John Hawthorne"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1080/0020174x.2026.2723988",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Inquiry",
-      "journal_id": "J089",
-      "origin": "crossref",
-      "title": "The room of amnesiacs: AI individuation and reference",
-      "url": "https://doi.org/10.1080/0020174x.2026.2723988"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Peter O’Loughlin"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1080/20403313.2026.2736359",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Jurisprudence",
-      "journal_id": "J006",
-      "origin": "crossref",
-      "title": "Economic analysis\n                    within\n                    law",
-      "url": "https://doi.org/10.1080/20403313.2026.2736359"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Arletta Gorecka"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1111/1468-2230.70071",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "European Commission Legal Service\n                    , Exploring the New Frontiers of EU Law, Luxembourg: Publications Office of the European Union, 2026, 472 pp.",
-      "url": "https://doi.org/10.1111/1468-2230.70071"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Stephen Bogle"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1111/1468-2230.70073",
-      "first_seen_jst": "2026-10-21",
-      "journal": "The Modern Law Review",
-      "journal_id": "J120",
-      "origin": "crossref",
-      "title": "TomKohavi, Constitutional Rights in Private Law, Oxford: Bloomsbury, 2025, 224 pp, hb, £90.00",
-      "url": "https://doi.org/10.1111/1468-2230.70073"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Arshak Balayan"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1163/17455243-20263065",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "What We Owe To Future People: A Contractualist Account of Intergenerational Ethics, written by Elizabeth Finneron-Burns",
-      "url": "https://doi.org/10.1163/17455243-20263065"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Eze Paez"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1163/17455243-20263066",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "Wilderness, Morality, and Value, Written by Joshua S. Duclos",
-      "url": "https://doi.org/10.1163/17455243-20263066"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "Josep Gasol"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1163/17455243-bja10204",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "The Good it Promises, The Harm it Does: Critical Essays on Effective Altruism, edited by Carol J. Adams, Alice Crary, and Lori Gruen",
-      "url": "https://doi.org/10.1163/17455243-bja10204"
-    },
-    {
-      "abstract": "",
-      "authors": [
-        "C.J. Leak"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1163/17455243-bja10209",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Journal of Moral Philosophy",
-      "journal_id": "J070",
-      "origin": "crossref",
-      "title": "The Moral Circle, written by Jeff Sebo",
-      "url": "https://doi.org/10.1163/17455243-bja10209"
-    },
-    {
-      "abstract": "Critics of ideal theory contend that ideal theory cannot guide present political action: from a practical point of view, they claim, social ideals are redundant at best and a positive hindrance at worst. Often the defenders of ideal theory concede these points but go on to respond that ideal theory need not be practical to have value. Both sides, however, assume that to have practical value, social ideals must be able to guide political action by serving as long-range goals or targets. I argue that this assumption is false. The point of ideal theory is not to provide guidance but rather to overcome in an ethically responsible manner the practical doubt that arises in a context of reasonable pluralism.",
-      "authors": [
-        "Frank Lovett"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1177/00323217261493280",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Political Studies",
-      "journal_id": "J032",
-      "origin": "crossref",
-      "title": "What’s the point of ideal theory?",
-      "url": "https://doi.org/10.1177/00323217261493280"
-    },
-    {
-      "abstract": "This article provides a novel analysis of drivers of the heterogeneity in positions of European far-right parties on Russia. Concentrating on roll-call votes in the European Parliament, we theorize that due to pragmatic constraints, far-right members of European Parliament from larger domestic parties and those in government will be less likely to explicitly support Russia, expectations that are largely supported by our results. Furthermore, given that our data range from a year before the reinvasion of Ukraine in 2022 to more than 2 years after, we chart and test changes in voting over time for far-right members of European Parliament. Our theorizing and results demonstrate how electoral viability and strategic calculations constrain far-right manoeuvrers and position-taking in much the same manner as other types of political parties, therefore adding to our knowledge of far-right behaviour not simply concerning Russia but in other policy areas as well.",
-      "authors": [
-        "Jakub Wondreys",
-        "Neil S. Williams"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1177/00323217261493284",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Political Studies",
-      "journal_id": "J032",
-      "origin": "crossref",
-      "title": "From reinvasion shock to realignment? How context and pragmatism shape far-right voting on Russia",
-      "url": "https://doi.org/10.1177/00323217261493284"
-    },
-    {
-      "abstract": "In this article, I argue that white parents have an obligation to have early conversations with their children about racial injustice. First, I appeal to combined considerations of fairness and solidarity. It is unfair that racial injustice exists, that Black parents cannot shield their children from knowledge of that injustice, and that acquiring that knowledge is more painful for Black children. This gives white parents solidarity-based reasons to have early injustice conversations, as a way of engaging in fate sharing with Black parents and of developing their own commitments to racial justice. Second, I argue that early conversations are required to allow white children to fulfill short-term duties to avoid causing unjust harm, avoid risking unjust harm, and stand up against injustice. Finally, I argue that beginning with conversations about justice and saving conversations about injustice for later makes it harder for children to fulfill long-term duties of justice.",
-      "authors": [
-        "Rosa Terlazzo"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1177/00323217261495290",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Political Studies",
-      "journal_id": "J032",
-      "origin": "crossref",
-      "title": "The time is now: Why talking to our children about injustice cannot wait",
-      "url": "https://doi.org/10.1177/00323217261495290"
-    },
-    {
-      "abstract": "At a simulation-based training centre in Lyon where the unemployed engage in practice work, four women of Arab and African origin living on benefits refused to participate in the game of workplace rehearsal. Challenging utopian visions of ‘practice makes perfect’, the women refused calls for mastery. They questioned its so-called egalitarian premises and pointed to historical accounts of injustice that prevented them from striving towards fantasies of self-improvement. Experiencing recurrent dismissal by their colleagues and trainers at the centre, the women responded by doing the bare minimum. This article investigates what it might look like to study bitterness ethnographically, by paying attention to its relational formation. I move away from attempts to understand bitterness as attribution and as grounds for a passive subjectivity to examine instead its collaborative nature and how it crops up as a practice that can gesture towards an otherwise. Drawing on feminist and queer theoretical debates on refusal, ugly feelings and failure, I suggest that bitterness is best understood as an ‘affective refusal’ that is contingent on historical formations of racial and gendered injustice and relational encounters of dismissal.",
-      "authors": [
-        "Eman Shehata"
-      ],
-      "crossref_subtype": "",
-      "date": "2026-10-13",
-      "doi": "10.1177/14647001261490023",
-      "first_seen_jst": "2026-10-21",
-      "journal": "Feminist Theory",
-      "journal_id": "J074",
-      "origin": "crossref",
-      "title": "Affective refusals: Bitterness, failure and disengagement in a French workplace simulation",
-      "url": "https://doi.org/10.1177/14647001261490023"
-    },
     {
       "abstract": "Abstract This article presents two interconnected arguments. First, a method other than the doctrinal method is needed to study EU constitutional law. Using the ruling in Commission v Hungary as the central example, the article demonstrates that EU constitutional law is not just legal but also political in nature. Following Martin Loughlin, the article therefore argues that the method of EU constitutional law is ‘the method of prudence’. Second, adopting this perspective shows that the academic and judicial discourse concerning Article 2 TEU has been off the mark. CJEU case law, in particular, is characterised by a demise of constitutional prudence.",
       "authors": [
@@ -6791,7 +6437,7 @@
       "url": "https://doi.org/10.1093/icon/moag108"
     },
     {
-      "abstract": "ABSTRACT In this article I ask whether the main traditions of Western political thought, republicanism, conservatism, liberalism, and socialism, can supply an account of human flourishing capable of sustaining a broad antifascist movement. Each tradition defines full humanity as an achievement reserved for the mature adult and treats the child as a being in preparation, excluded from the sites of genuine political agency and human actualization. I refer to this shared framework as the metaphysics of maturity. The argument links the emergence of this metaphysics to a political economy in which the coerced labor of children generated the first surpluses, financed the enslavement of outsiders, justified the subjection of women, and furnished the material foundation for the philosophical ideals of virtue, piety, reason, and recognition. Each tradition thereby carries forward a structure of subordination that fascism shares and extends to whole populations, declaring races, classes, and nations permanently immature and therefore naturally governed and disciplined. Existing scholarship on fascism has identified its patriarchal core yet rarely goes deeper that then racialized and gendered forms of patriarchal rule. I conclude by pointing toward anarchist traditions that come closest to refusing the metaphysics of maturity, often by invoking Indigenous and other non western forms of political thought.",
+      "abstract": "ABSTRACT In this article I ask whether the main traditions of Western political thought, (republicanism, conservatism, liberalism, and socialism), can supply an account of human flourishing capable of sustaining a broad antifascist movement. Each tradition defines full humanity as an achievement reserved for the mature adult and treats the child as a being in preparation, excluded from the sites of genuine political agency and human actualization. I refer to this shared framework as the metaphysics of maturity. The argument links the emergence of this metaphysics to a political economy in which the coerced labor of children generated the first surpluses, financed the enslavement of outsiders, justified the subjection of women, and furnished the material foundation for the philosophical ideals of virtue, piety, reason, and recognition. Each tradition thereby carries forward a structure of subordination that fascism shares and extends to whole populations, declaring races, classes, and nations permanently immature and therefore naturally governed and disciplined. Existing scholarship on fascism has identified its patriarchal core yet rarely goes deeper racialized and gendered forms of patriarchal rule. I conclude by pointing toward anarchist traditions that come closest to refusing the metaphysics of maturity, often by invoking Indigenous and other non‐Western forms of political thought.",
       "authors": [
         "Toby Rollo"
       ],
@@ -12957,6 +12603,36 @@
       "url": "https://doi.org/10.1093/ojls/gqag037"
     },
     {
+      "abstract": "",
+      "authors": [
+        "Chris Barton"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/1468-2230.70085",
+      "first_seen_jst": "2026-11-28",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "CarrieMenkel‐Meadow, Advanced Introduction to Alternative Dispute Resolution, Cheltenham, Edward Elgar Publishing, 2026, 246 pp, pb, £23.95",
+      "url": "https://doi.org/10.1111/1468-2230.70085"
+    },
+    {
+      "abstract": "UK constitutional law rests on a tacit and largely unexamined assumption: that legal obligations, rights, and constitutional principles operate between contemporaneous parties. This article calls this the contemporaneity assumption and argues that it is the root cause of a systematic failure to protect future generations from present constitutional excess. The argument proceeds in three stages. First, it shows that the assumption is not entailed by any constitutional principle – not by parliamentary sovereignty, the rule of law, or democratic accountability – but is instead an inherited default of legal reasoning never subjected to principled scrutiny. Second, it demonstrates that UK law already contains the conceptual resources to displace the assumption: the unwritten constitutional principles doctrine, the fiduciary theory of public office, and an emerging line of climate jurisprudence, including Verein KlimaSeniorinnen Schweiz and Others v Switzerland and R (Finch) v Surrey County Council , are implicitly organised around temporal accountability. Third, it proposes fiduciary constitutionalism as the organising framework connecting these elements. Recognised as an unwritten constitutional principle addressed primarily to parliament and the executive, intergenerational equity would in its ordinary judicial operation require no new task of courts – it would name what they are already doing and extend its logic to cases it has not yet reached.",
+      "authors": [
+        "Ben Chester Cheong"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/1468-2230.70089",
+      "first_seen_jst": "2026-11-28",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "The Contemporaneity Assumption: Intergenerational Equity as an Unwritten Principle of UK Constitutional Law",
+      "url": "https://doi.org/10.1111/1468-2230.70089"
+    },
+    {
       "abstract": "ABSTRACT We are seeing increasing work in bioethics to defend and define an ethical duty to minimise healthcare's environmental impacts. So far, the duty is often defined in terms of reducing healthcare's greenhouse gas emissions and two positions have emerged on whether and what limits to the duty apply: soft exceptionalism and non‐exceptionalism. Yet, the philosophical grounds for the duty to minimise healthcare's environmental impacts are often not well explained or clearly articulated. That matters because, as this paper argues, different philosophical grounds generate different understandings of the duty's content and limits. In particular, this paper focuses on the implications of using different justice ‐based grounds for the duty. Section I first establishes that different axes of justice—social, environmental, ecological—can each be used to ground a general duty to minimise healthcare's environmental impacts. Section II shows that a range of ontologies underlie the conceptions of justice encompassed within those axes. Section III then demonstrates that the selected axis of justice and underlying ontology affects the nature—limits and content—of the resultant duty to minimise healthcare's environmental impacts. Ultimately, numerous different ways to understand the duty's limits and content are shown to exist. Many of those understandings require more than reducing healthcare's greenhouse gas emissions, and not all are consistent with soft exceptionalism or non‐exceptionalism. To conclude, the paper considers whether reasons exist for favouring certain interpretations of the duty over others.",
       "authors": [
         "Bridget Pratt"
@@ -13015,9 +12691,423 @@
       "origin": "crossref",
       "title": "Compensation and Unwanted Pregnancy",
       "url": "https://doi.org/10.1111/bioe.70221"
+    },
+    {
+      "abstract": "Abstract What does a relational approach to policing render visible about the structural conditions that shape police agencies, and the influence of such agencies beyond their boundaries? Building on scholarship that draws on Pierre Bourdieu's concept of ‘field’, this article presents police agencies as porous organisations shaped by, and shaping, various types of relationships. It identifies three scales of relationality: (1) between police forces, other organisations and their environments; (2) between police forces and their members and (3) between police officers and their relatives. It draws on a relational ethnography conducted in two Mexican police departments and combines four research methods: participant observation, in‐depth interviews, historical and legal reviews, and artistic workshops with children of police officers. By examining these contextually contingent configurations in a Latin American setting, the article geographically expands long‐standing discussions in Anglophone police studies, while demonstrating the analytical potential of considering labour relations when exploring these configurations.",
+      "authors": [
+        "ADINA RADOSH SVERDLIN"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/jols.70097",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "Towards a Relational Approach to Policing",
+      "url": "https://doi.org/10.1111/jols.70097"
+    },
+    {
+      "abstract": "Abstract Drawing on fieldwork conducted in public prosecution offices in Santiago, Chile, this article reflects on criminal justice bureaucracies as objects of ethnographic enquiry. Starting with a question about the risks associated with public ethnography, it examines scenes from the author's fieldwork and identifies two characteristics that make bureaucracies resistant to public ethnography. These are: one, that bureaucracies do not have secrets but rules; and two, that a very specific type of effectiveness is at stake in bureaucracies, one that is tautological. The article shows how the state's simultaneous elusiveness and omnipresence present specific challenges for ethnographers. Just like bureaucrats themselves, and citizens who have to deal with these bureaucracies, the ethnographer struggles to fully grasp the state and its characteristics.",
+      "authors": [
+        "JAVIERA ARAYA‐MORENO"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-26",
+      "doi": "10.1111/jols.70098",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Journal of Law and Society",
+      "journal_id": "J018",
+      "origin": "crossref",
+      "title": "Public ethnography of criminal justice bureaucracies: Thoughts from fieldwork in Santiago, Chile",
+      "url": "https://doi.org/10.1111/jols.70098"
+    },
+    {
+      "abstract": "Abstract Mindfulness has become increasingly embedded in organizational and professional settings, where it is often promoted as a way to enhance well-being and productivity. Drawing on Critical Race Theory, this study interrogates this claim by examining how diversity, equity, and inclusion are experienced within mindfulness communities of practice. Based on 31 in-depth interviews with mindfulness practitioners, instructors, and organizational leaders, we show that racialized individuals actively negotiate safety and belonging when engaging with mindfulness communities. Our findings reveal that safety and belonging are undermined by two process mechanisms: universalism , which frames mindfulness as a practice that benefits all humanity, obscuring the systemic inequities that shape its impact; and commodification , in which the commercialization of mindfulness leads to differential access to resources and pressure to conform to norms that disproportionately affect practitioners of color. Across individual, group, leader, and societal levels, these dynamics determine who can participate safely and belong fully, suggesting that it is not solely the mindfulness container that drives these experiences as outcomes but also the surrounding reified power structures. This research contributes to business ethics scholarship by highlighting how well-intentioned organizational practices can reproduce inequality and exclusion when broader social structures and power relations remain unaddressed, placing the burden onto individual practitioners.",
+      "authors": [
+        "Ellen Choi",
+        "Darby Roland",
+        "Rupa Banerjee"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1007/s10551-026-06514-2",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "The Consequences of Universalism and Commodification in Contemporary Mindfulness Communities: A Critical Race Theory Perspective",
+      "url": "https://doi.org/10.1007/s10551-026-06514-2"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Saheli Nath"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1007/s10551-026-06526-y",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Between Scarcity and Virtue: How Collective Memory Shapes Organizational Capacity for Sufficiency Ethics",
+      "url": "https://doi.org/10.1007/s10551-026-06526-y"
+    },
+    {
+      "abstract": "Abstract Recent social enterprise research has shifted attention from formal mission towards how ethics are enacted in everyday organisational practices, yet how institutional pressures reshape these practices at the frontline remains underexplored. Drawing on ethnographic research of a UK social enterprise operating under conditions of austerity and marketisation, this research explores how institutional pressures prompt organisational restructuring that gradually reshapes everyday caring practices leading to practice drift whilst the articulated social mission remains unchanged. Conceptualising social enterprise as a process of caring, we examine these changes across Tronto’s four phases of care. We identify frontline worker availability as a key foundation of relational care, showing how its locational, temporal and emotional dimensions can become decoupled, undermining the enactment of social mission. We also show how frontline workers’ moral distress in response to changing caring practices can provide an early indication of practice drift. This highlights the challenges that neoliberal institutional environments pose to social enterprises, and their ethical responsibility to sustain organisational policies and practices that enable frontline workers to enact the social mission.",
+      "authors": [
+        "Paola Raffaelli",
+        "Vicky Nowak"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1007/s10551-026-06528-w",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Journal of Business Ethics",
+      "journal_id": "J057",
+      "origin": "crossref",
+      "title": "Under Pressure: Frontline Worker Availability, Moral Distress and Practice Drift in Social Enterprise Through an Ethics of Care Perspective",
+      "url": "https://doi.org/10.1007/s10551-026-06528-w"
+    },
+    {
+      "abstract": "Abstract In this work, I develop a novel mereotopology: a logic of the connection between objects or regions structured by mereological relations. The mereotopology here developed is explicitly guided by Descartes’ unique theories of surfaces. As I argue, Descartes’ philosophy has the requisite richness and depth to motivate a rigorous topological extension of mereology: an extension which rivals popular extant mereotopologies. The distinctive aspect of Descartes’ theory is that he takes boundaries to be modes of objects (or regions), rather than parts. To do justice to this key Cartesian choice-point, I cast the developed mereotopology in a higher-order logic. The axiomatization for this higher-order mereotopology is initially inspired by Descartes’ arguments, and several definitions and theorems are given based on this axiomatization. I conclude by discussing the philosophical merits of a Cartesian mereotopology. An appendix proves the consistency of this mereotopology, relative to ZF.",
+      "authors": [
+        "James Marks"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1007/s11098-026-02647-2",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Cartesian mereotopology",
+      "url": "https://doi.org/10.1007/s11098-026-02647-2"
+    },
+    {
+      "abstract": "Abstract A representation is considered accurate when its content matches the relevant elements of its object above a certain threshold. Philosophical views of accuracy conditions must therefore account for what determines the relevant elements, the threshold, and the object of a representation. These three features are crucial for theorizing about accuracy conditions of any representation, including memory representations. Recent literature on memory both in philosophy and psychology has typically addressed the determination of these features within a functional approach, assuming that they are determined by the functions of memory. This paper focuses on autobiographical memory, constituted of personal memories rich in phenomenological features, and examines how the functional approach accounts for its accuracy conditions. It begins by introducing autobiographical memory and the functional approach. It then discusses two families of functional hypotheses and their shortcomings before advancing a skeptical argument against the functional approach. Finally, it suggests that these features should instead be determined by pragmatic factors.",
+      "authors": [
+        "José Carlos Camillo"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1007/s11098-026-02679-8",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Against the functional approach to the accuracy conditions of autobiographical memories",
+      "url": "https://doi.org/10.1007/s11098-026-02679-8"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Dan C. Shahar"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1007/s11098-026-02680-1",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Philosophical Studies",
+      "journal_id": "J100",
+      "origin": "crossref",
+      "title": "Altruistic specialization and division of labor",
+      "url": "https://doi.org/10.1007/s11098-026-02680-1"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Fengxiang Cheng",
+        "Wei Wang"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1007/s11245-026-10431-4",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Topoi",
+      "journal_id": "J088",
+      "origin": "crossref",
+      "title": "Task-Matched Logic Solvers for LLMs: Toward Explainable AI",
+      "url": "https://doi.org/10.1007/s11245-026-10431-4"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Gordon Amidu"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1007/s43681-026-01547-9",
+      "first_seen_jst": "2026-11-28",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "The role of AI chatbots in facilitating online harm: a systematic review",
+      "url": "https://doi.org/10.1007/s43681-026-01547-9"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yao Zhao"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1007/s43681-026-01558-6",
+      "first_seen_jst": "2026-11-28",
+      "journal": "AI and Ethics",
+      "journal_id": "J023",
+      "origin": "crossref",
+      "title": "Visceral refusal: everyday resistance to generative AI in China",
+      "url": "https://doi.org/10.1007/s43681-026-01558-6"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Chad Patrick Osorio"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/cls.2026.10070",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Canadian Journal of Law and Society / Revue Canadienne Droit et Société",
+      "journal_id": "J015",
+      "origin": "crossref",
+      "title": "Lynda Collins, How to Succeed (and Stay Human) in Law School: Pathways to Happiness and High Performance in the Study and Practice of Law. Toronto: Emond, 2025, 160 pp.",
+      "url": "https://doi.org/10.1017/cls.2026.10070"
+    },
+    {
+      "abstract": "Abstract This is the introduction to the symposium ‘Fair profits and the law’, which starts from two main driving assumptions. The first is that there is structural shift in the current political economies that renders profit-making and fair profits again central categories and concerns – as they have been at various points in the history of capitalism. The second is that law and legal analysis can help make sense of this increasingly central phenomenon. But how exactly can they do that? The symposium is made up of ten papers drawn from a broad range of legal areas, and has three main goals in that respect. The first is to corroborate the emergence and consolidation of a right to profits and the specific form that such a right may take, on the one hand, and the countervailing efforts and techniques to limit or moderate claims to profits or to ensure their appropriate distribution, on the other hand. The second is to locate and legally contextualise the turn to profit-making, as discussions central to particular fields of law become discussions about guaranteeing profits or ensuring their fairness. The third is to explore whether, and the extent to which, the representation of profits and claims over them are organised through legal expertise, vis-à-vis the role of other competing logics and forms of expert knowledge.",
+      "authors": [
+        "Toni Marzal"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/elo.2026.10104",
+      "first_seen_jst": "2026-11-28",
+      "journal": "European Law Open",
+      "journal_id": "J013",
+      "origin": "crossref",
+      "title": "Profit-making and fair profits: towards a new agenda for legal research",
+      "url": "https://doi.org/10.1017/elo.2026.10104"
+    },
+    {
+      "abstract": "Abstract The transfer pricing regimes that apply to international corporate groups are meant to allocate corporate profits to the jurisdictions where the underlying value-creation takes place. But, owing to their market power, such groups can extract value created elsewhere in the global production network – hence the phenomenon of ‘residual’ profit not accounted for by arm’s length pricing of the group’s operations as between group members. The boundary of the corporate group therefore seemingly constitutes an obstacle to fair allocation of profits for global tax purposes, particularly where the source of that additional profit is independently owned low-wage production nodes in low-income countries whose margins are suppressed by the market power of lead firms. But relaxing that boundary does not tend to greater economic justice for the Global South/economic periphery because, on closer analysis, the obstacle is a deeper structural one: the fact that capital constituted into legal persons is enabled to cross borders into the Global South/economic periphery in order to exploit it commercially, but the polity among which that exploitation has taken place is not able to reach back across in the opposite direction to tax the proceeds of that exploitation.",
+      "authors": [
+        "Clair Quentin"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/elo.2026.10117",
+      "first_seen_jst": "2026-11-28",
+      "journal": "European Law Open",
+      "journal_id": "J013",
+      "origin": "crossref",
+      "title": "The fair allocation of profits between jurisdictions for tax purposes in a\n                    monde compartimenté",
+      "url": "https://doi.org/10.1017/elo.2026.10117"
+    },
+    {
+      "abstract": "Abstract Borderline Personality Disorder has been subject to important debate within feminism. It has been argued (Shaw and Proctor 2005) that BPD pathologizes women’s non-conforming behavior as a modern form of hysteria, serving misogynistic norms rather than alleviating psychological distress. Feminist critics have proposed different ways of addressing the problem: removing the diagnosis (Shaw and Proctor 2005), maintaining it but changing its meaning (Lester 2013), renaming it as c-PTSD (Herman 1992; Nicki 2016; Dorfman and Reynolds 2023) or recognizing some BPD features as traits of neurodivergence (Johnson 2021; Welch 2023). In this paper, we argue that the apparent conflict among feminist approaches stems from reified conception of mental disorder assumed in the discussions of BPD. In this sense, we argue that a constructivist non-reified view of mental disorder addresses the central claim of the different feminist proposals without their pitfalls. We present our constructivist view, expressivism , which lets us incorporate key feminist insights on BPD and supports a more nuanced view of the condition, focusing on identity and disability in mental suffering and pathology.",
+      "authors": [
+        "Laura Delgado-Verges",
+        "Víctor Fernández Castro"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/hyp.2026.10118",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Hypatia",
+      "journal_id": "J075",
+      "origin": "crossref",
+      "title": "Borderline Personality Disorder and the Reification Problem",
+      "url": "https://doi.org/10.1017/hyp.2026.10118"
+    },
+    {
+      "abstract": "Abstract Since 1977, the World Health Organization (WHO) Model Lists of Essential Medicines (EML) have guided countries in selecting medicines that address priority health needs. This study explores how global and national stakeholders interpret the role of the WHO EML and why its impact on access varies across therapeutic areas. Semi-structured interviews were conducted with 52 participants across 17 countries. Data were analyzed thematically and mapped onto a two-axis framework reflecting trust in EML as a selection reference and control over access policies. Findings reveal that the influence of the EML was greatest where inclusion aligned with financing and procurement mechanisms, as seen in HIV and hepatitis C, where pooled procurement and voluntary licensing (and compulsory licensing as in the case of hepatitis C medicines) translated listing into tangible access gains. In contrast, in high-priced therapeutic areas, EML inclusion was often described as aspirational, reflecting clinical priority without resolving affordability or implementation barriers. In many national settings, the EML substitutes for formal health technology assessment but remains weakly connected to reimbursement and procurement decisions. Overall, the study indicates that the influence of the WHO EML depends on whether its normative authority is linked to concrete mechanisms that enable affordability and access.",
+      "authors": [
+        "Kristina Jenei",
+        "Arianna Schouten",
+        "Navindra Persaud",
+        "Lorenzo Moja"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/jme.2026.10318",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Journal of Law, Medicine &amp; Ethics",
+      "journal_id": "J068",
+      "origin": "crossref",
+      "title": "Global and National Perspectives on the Role of the WHO Model Lists of Essential Medicines",
+      "url": "https://doi.org/10.1017/jme.2026.10318"
+    },
+    {
+      "abstract": "Abstract Drawing on the Confucian philosopher Mencius’s work, I develop a Mencian account of justice grounded in the virtue of yi (righteousness). Mencian justice grows out of xiuwu , a sense of shame and disdain for doing despicable things. The Mencian perspective posits that everyone possesses the innate capacity for a sense of shame, and the potential to expand one’s ethical selfhood in light of public standards of right. Yi enables citizens to firmly uphold what is right, refrain from doing what is unjust, and fight injustice. This novel account of Mencian justice rooted in the virtue of yi moves beyond existing Confucian accounts of distributive justice and ren (benevolence) based Mencian theories of moral cultivation. I show that this Mencian account is not merely of historical interest but also has contemporary relevance by exploring how yi might empower democratic citizens to confront environmental injustice.",
+      "authors": [
+        "Wenyang Gao"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/s0034670526101338",
+      "first_seen_jst": "2026-11-28",
+      "journal": "The Review of Politics",
+      "journal_id": "J050",
+      "origin": "crossref",
+      "title": "Mencian Justice and Ecological Citizenship",
+      "url": "https://doi.org/10.1017/s0034670526101338"
+    },
+    {
+      "abstract": "Abstract Scholars have long recognized a gap in Aristotle’s Politics : he suggests leisure contributes to prudence, but he never explains what leisure contributes or how it does so. We argue that Churchill’s Painting as a Pastime helps fill this gap. To our knowledge, we are the first to situate Churchill’s understanding of leisure within the larger context of political philosophy. Churchill focuses on leisure’s ability to cultivate a “single unity of conception,” which trains the statesman to perceive and act upon the universal in the particular. Art educates prudence. By showing how leisure can nurture this ability, Churchill completes something omitted in Aristotle. Likewise, Churchill’s more Aristotelian approach shows why previous authors, such as Clausewitz, failed to connect this “unity of conception” to leisure. Leisure is essential to statesmanship, not just because it enriches life or consoles the politician, but because leisure alone trains the comprehensive vision necessary to political excellence.",
+      "authors": [
+        "Sebastian Graham",
+        "Richard Jordan"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/s003467052610134x",
+      "first_seen_jst": "2026-11-28",
+      "journal": "The Review of Politics",
+      "journal_id": "J050",
+      "origin": "crossref",
+      "title": "Churchill’s Theory of Leisure, Prudence, and Aristotle’s\n                    Politics",
+      "url": "https://doi.org/10.1017/s003467052610134x"
+    },
+    {
+      "abstract": "In Lane’s thought-provoking book, painstaking attention to the different yet “interlocking” notions of rule and office—fused in the single word archē and its various forms in ancient Greek—foregrounds accountability as a primary problem for collective life. Lane’s rich readings of the Statesman, Republic , and Laws find his writing creatively tracking the question of how to keep rulers focused on “the good of the ruled” (19, 41). To clear the way for this line of inquiry, Lane must unsettle the common assumption that archē connotes exclusively a practice of absolute rule in Plato’s works. She persuasively does this by showing the reader how archē also connotes an additional sort, a subcategory, of ruling akin to officeholding. Over 11 chapters, Of Office and Rule makes clear that ignorance of or indifference to the polysemy of archē , at least in the officeholding sense, has made it difficult to enlist Plato’s thought as fully as we might want in thinking critically about the corruption afflicting any constitutional project.",
+      "authors": [
+        "Demetra Kasimis"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/s0034670526101405",
+      "first_seen_jst": "2026-11-28",
+      "journal": "The Review of Politics",
+      "journal_id": "J050",
+      "origin": "crossref",
+      "title": "Wages Not for Housework",
+      "url": "https://doi.org/10.1017/s0034670526101405"
+    },
+    {
+      "abstract": "In his magisterial study On Politics , Alan Ryan asserts that “Plato’s political thought is anti political.” 1 A related (if weaker) distinction has been championed by thinkers ranging from Du Bois to Arendt to Rancière to Wolin, opposing two kinds of politics: roughly, politics as hierarchical rule, versus politics as popular participation, struggle, and action. Before and in The Souls of Black Folk , for example, Du Bois adhered to what Robert Gooding-Williams calls “a Platonist picture of the rule of the thinking, knowledgeable few … over the benighted, ignorant many, who can socially integrate their lives by obeying the directives of their betters.” 2 Readers may therefore wonder what is new or distinctive in Of Rule and Office: Plato’s Ideas of the Political. 3 Does this work not simply reiterate the view of Plato as progenitor of hierarchical “rule,” as against a more participatory vision of politics?",
+      "authors": [
+        "Melissa Lane"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/s0034670526101429",
+      "first_seen_jst": "2026-11-28",
+      "journal": "The Review of Politics",
+      "journal_id": "J050",
+      "origin": "crossref",
+      "title": "Author’s Response: Rule and its Wages",
+      "url": "https://doi.org/10.1017/s0034670526101429"
+    },
+    {
+      "abstract": "Abstract Between 2000 and 2020, the International Committee of the Red Cross (ICRC) grew considerably, with operating expenditure more than doubling and the number of staff worldwide increasing from just over 10,000 to nearly 20,000. Concurrently, the institutional mandate of the ICRC expanded into new issue-areas. Examining three areas of ICRC mandate expansion—linked to protracted conflicts, other situations of violence beyond armed conflict, and responding to migration—this article asks how the modus operandi of the ICRC changed, and what this implies for its commitment to principled humanitarian action. It argues that, in each of these three issue-areas, working at the margins of international humanitarian law (IHL) has led the ICRC to undertake activities that are not compatible with its institutional commitment to neutrality. In making these arguments, the article contributes to our understanding of the work of the ICRC in the twenty-first century and sheds light on the important but usually obscured relationship between IHL and ICRC neutrality.",
+      "authors": [
+        "Miriam Bradley"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/s0892679426100537",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Ethics &amp; International Affairs",
+      "journal_id": "J065",
+      "origin": "crossref",
+      "title": "The ICRC and the Principle of Neutrality at the Margins of IHL",
+      "url": "https://doi.org/10.1017/s0892679426100537"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Humeira Iqtidar"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/s0892679426100550",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Ethics &amp; International Affairs",
+      "journal_id": "J065",
+      "origin": "crossref",
+      "title": "Postcolonial Global Justice, by Shuk Ying Chan (Princeton, NJ: Princeton University Press, 2025), 264 pp., cloth $39.95, eBook $39.95.",
+      "url": "https://doi.org/10.1017/s0892679426100550"
+    },
+    {
+      "abstract": "Abstract I argue that Sidgwick’s views on central ethical questions – the dualism of practical reason, the foundation of common sense morality – when combined with his epistemology, force him to ethical nihilism. Yet it would not have been difficult for him to avoid this conclusion by dropping one of his epistemological principles. Making this move on his behalf brings into focus not the alleged dualism of practical reason, but the more fundamental idea of three methods . The idea that ethics flows from three distinct intuitive sources, often in tension but never in contradiction, all of them valid, emerges as the great insight of the Methods of Ethics . So understood, Sidgwick offers a comprehensive approach to ethics and practical reason that is never over-simple or one-sided.",
+      "authors": [
+        "John Skorupski"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1017/s0953820826100521",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Utilitas",
+      "journal_id": "J052",
+      "origin": "crossref",
+      "title": "Sidgwick’s Nihilism",
+      "url": "https://doi.org/10.1017/s0953820826100521"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mary Caputi"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1057/s41296-026-00862-4",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Contemporary Political Theory",
+      "journal_id": "J048",
+      "origin": "crossref",
+      "title": "Melanie Klein",
+      "url": "https://doi.org/10.1057/s41296-026-00862-4"
+    },
+    {
+      "abstract": "We often speak of exercising our rights. This article interrogates what is meant by this and considers implications for rights about the exercise of rights. It argues that what is meant by the exercise of a right differs according to whether we are speaking of a Hohfeldian claim‐right, liberty, power or immunity. Clarifying the exercisability (or not) of the different right relations is shown to have implications for our understanding of ‘equitable property’ rights on the important rights about rights model. When what is meant by the exercise of the different rights is borne in mind, it emerges that only the power can be held subject to a duty not to exercise it and that a duty not to exercise a liberty is a paradox. From this insight, it is argued that at least one ‘equitable property’ right – the restrictive covenant – is not a right about a right. It is suggested that this helps to account for its different third‐party effect.",
+      "authors": [
+        "Eleanor Eldridge"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1111/1468-2230.70091",
+      "first_seen_jst": "2026-11-28",
+      "journal": "The Modern Law Review",
+      "journal_id": "J120",
+      "origin": "crossref",
+      "title": "Rights About the Exercise of Rights",
+      "url": "https://doi.org/10.1111/1468-2230.70091"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Abeezar I Sarela"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1136/jme-2026-112668",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Journal of Medical Ethics",
+      "journal_id": "J067",
+      "origin": "crossref",
+      "title": "Health economic considerations are essential in justifying public interest in sport-related harm",
+      "url": "https://doi.org/10.1136/jme-2026-112668"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Corinne Nelson"
+      ],
+      "crossref_subtype": "",
+      "date": "2026-11-27",
+      "doi": "10.1163/17455243-bja10235",
+      "first_seen_jst": "2026-11-28",
+      "journal": "Journal of Moral Philosophy",
+      "journal_id": "J070",
+      "origin": "crossref",
+      "title": "Human Nature, Human Goods: A Theory of Natural Perfectionism, written by Tom Angier",
+      "url": "https://doi.org/10.1163/17455243-bja10235"
     }
   ],
   "needs_publisher_verification": true,
-  "window_end": "2026-11-27",
-  "window_start": "2026-10-13"
+  "window_end": "2026-11-28",
+  "window_start": "2026-10-14"
 }

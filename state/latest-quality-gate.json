@@ -1,66 +1,62 @@
 {
   "status": "structurally_valid_not_semantically_verified",
-  "checked_on_jst": "2026-11-27",
-  "raw_candidates": 18,
+  "checked_on_jst": "2026-11-28",
+  "raw_candidates": 25,
   "already_introduced": 0,
-  "eligible_candidates": 18,
+  "eligible_candidates": 25,
   "publisher_date_evidence_counts": {
-    "publisher_doi_matched": 11,
-    "crossref_published_online_only": 7,
-    "unconfirmed": 0
+    "publisher_doi_matched": 21,
+    "crossref_published_online_only": 3,
+    "unconfirmed": 1
   },
-  "manual_review_required_count": 7,
+  "manual_review_required_count": 6,
   "manual_review_required": [
     {
-      "doi": "10.1080/13698230.2026.2763274",
+      "doi": "10.1017/cls.2026.10070",
+      "reasons": [
+        "abstract absent or suspect",
+        "book review requires bibliographic and content verification"
+      ]
+    },
+    {
+      "doi": "10.1017/s003467052610134x",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1017/s0892679426100550",
+      "reasons": [
+        "abstract absent or suspect"
+      ]
+    },
+    {
+      "doi": "10.1111/1468-2230.70091",
+      "reasons": [
+        "publisher first-online date not independently verified"
+      ]
+    },
+    {
+      "doi": "10.1136/jme-2026-112668",
       "reasons": [
         "publisher first-online date not independently verified",
         "abstract absent or suspect"
       ]
     },
     {
-      "doi": "10.1093/analys/anag093",
-      "reasons": [
-        "publisher first-online date not independently verified"
-      ]
-    },
-    {
-      "doi": "10.1093/ojls/gqag037",
-      "reasons": [
-        "publisher first-online date not independently verified"
-      ]
-    },
-    {
-      "doi": "10.1111/bioe.70214",
-      "reasons": [
-        "publisher first-online date not independently verified"
-      ]
-    },
-    {
-      "doi": "10.1111/bioe.70219",
+      "doi": "10.1163/17455243-bja10235",
       "reasons": [
         "publisher first-online date not independently verified",
-        "abstract absent or suspect"
-      ]
-    },
-    {
-      "doi": "10.1111/bioe.70220",
-      "reasons": [
-        "publisher first-online date not independently verified"
-      ]
-    },
-    {
-      "doi": "10.1111/bioe.70221",
-      "reasons": [
-        "publisher first-online date not independently verified"
+        "abstract absent or suspect",
+        "book review requires bibliographic and content verification"
       ]
     }
   ],
   "ready_for_automatic_formal_introduction": false,
   "errors": [],
   "warnings": [
-    "2 research candidates lack abstracts",
-    "7 eligible candidates require manual semantic verification"
+    "1 research candidates lack abstracts",
+    "6 eligible candidates require manual semantic verification"
   ],
   "meaning": "Structural gate only. No automatic confirmation of first publication, substantive abstract accuracy, article type or delivery."
 }

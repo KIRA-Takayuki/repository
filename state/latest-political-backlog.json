@@ -1,48 +1,8 @@
 {
-  "checked_at_utc": "2026-11-26T23:53:27.435791+00:00",
-  "collected_on": "2026-11-27",
-  "count": 52,
+  "checked_at_utc": "2026-11-27T23:07:38.056358+00:00",
+  "collected_on": "2026-11-28",
+  "count": 53,
   "items": [
-    {
-      "crossref_candidate_date": "2026-10-13",
-      "doi": "10.1017/s0034670526101314",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J050",
-      "status": "unverified_not_introduced",
-      "title": "John Christman: Reconceiving Freedom from the Shadows of Slavery: Liberty in a Nonideal World. (Cambridge: Cambridge University Press, 2025. Pp. ix + 255.)"
-    },
-    {
-      "crossref_candidate_date": "2026-10-13",
-      "doi": "10.1163/17455243-20263065",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "What We Owe To Future People: A Contractualist Account of Intergenerational Ethics, written by Elizabeth Finneron-Burns"
-    },
-    {
-      "crossref_candidate_date": "2026-10-13",
-      "doi": "10.1163/17455243-20263066",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "Wilderness, Morality, and Value, Written by Joshua S. Duclos"
-    },
-    {
-      "crossref_candidate_date": "2026-10-13",
-      "doi": "10.1163/17455243-bja10204",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "The Good it Promises, The Harm it Does: Critical Essays on Effective Altruism, edited by Carol J. Adams, Alice Crary, and Lori Gruen"
-    },
-    {
-      "crossref_candidate_date": "2026-10-13",
-      "doi": "10.1163/17455243-bja10209",
-      "first_seen_jst": "2026-10-21",
-      "journal_id": "J070",
-      "status": "unverified_not_introduced",
-      "title": "The Moral Circle, written by Jeff Sebo"
-    },
     {
       "crossref_candidate_date": "2026-10-16",
       "doi": "10.1163/17455243-20263059",
@@ -418,6 +378,54 @@
       "journal_id": "J038",
       "status": "unverified_not_introduced",
       "title": "Political integration and the majority"
+    },
+    {
+      "crossref_candidate_date": "2026-11-27",
+      "doi": "10.1017/s0034670526101338",
+      "first_seen_jst": "2026-11-28",
+      "journal_id": "J050",
+      "status": "unverified_not_introduced",
+      "title": "Mencian Justice and Ecological Citizenship"
+    },
+    {
+      "crossref_candidate_date": "2026-11-27",
+      "doi": "10.1017/s003467052610134x",
+      "first_seen_jst": "2026-11-28",
+      "journal_id": "J050",
+      "status": "unverified_not_introduced",
+      "title": "Churchill’s Theory of Leisure, Prudence, and Aristotle’s\n                    Politics"
+    },
+    {
+      "crossref_candidate_date": "2026-11-27",
+      "doi": "10.1017/s0034670526101405",
+      "first_seen_jst": "2026-11-28",
+      "journal_id": "J050",
+      "status": "unverified_not_introduced",
+      "title": "Wages Not for Housework"
+    },
+    {
+      "crossref_candidate_date": "2026-11-27",
+      "doi": "10.1017/s0034670526101429",
+      "first_seen_jst": "2026-11-28",
+      "journal_id": "J050",
+      "status": "unverified_not_introduced",
+      "title": "Author’s Response: Rule and its Wages"
+    },
+    {
+      "crossref_candidate_date": "2026-11-27",
+      "doi": "10.1057/s41296-026-00862-4",
+      "first_seen_jst": "2026-11-28",
+      "journal_id": "J048",
+      "status": "unverified_not_introduced",
+      "title": "Melanie Klein"
+    },
+    {
+      "crossref_candidate_date": "2026-11-27",
+      "doi": "10.1163/17455243-bja10235",
+      "first_seen_jst": "2026-11-28",
+      "journal_id": "J070",
+      "status": "unverified_not_introduced",
+      "title": "Human Nature, Human Goods: A Theory of Natural Perfectionism, written by Tom Angier"
     }
   ],
   "meaning": "45-day metadata candidates, not confirmed First View; verify before introduction."
